@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Azarketi",
+			"name": "Näkki",
 			"source": "AAWS",
 			"page": 2,
 			"otherSources": {
@@ -36,7 +36,7 @@
 			],
 			"traits": [
 				"amphibious",
-				"azarketi",
+				"Näkki",
 				"humanoid"
 			],
 			"features": [
@@ -60,13 +60,13 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 2,
-					"name": "Azarketi Adventurers",
+					"name": "Näkki Adventurers",
 					"entries": [
 						"With their affinity to water, nautical navigation skills, and athletic capabilities, azarketis make ideal {@class ranger||rangers}. Azarketis' versatility both on land and in water make them particularly formidable {@class fighter||fighters}, while their direct connection to the sea leads many others to become {@class druid||druids}. As many azarketis have a connection to alghollthus' occult magic, it's not uncommon for azarketis to be {@class sorcerer||sorcerers}, though studious individuals sometimes become {@class bard||bards} or {@class wizard||wizards} instead."
 					]
 				},
 				"Azarketis, inheritors of a shattered empire's legacy, hold their proud traditions close but still surface to interact with the rest of the world.",
-				"The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as azarketi, an Azlanti word that translates roughly to \"people of the seas.\" After Earthfall, these proud humans were mutated into aquatic servants by their alghollthu foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.",
+				"The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as Näkki, an Azlanti word that translates roughly to \"people of the seas.\" After Earthfall, these proud humans were mutated into aquatic servants by their alghollthu foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.",
 				{
 					"type": "entriesOtherSource",
 					"page": 12,
@@ -138,13 +138,13 @@
 					"page": 3,
 					"name": "Names",
 					"entries": [
-						"Azarketis often take the names of nautical, weather, or geographical features important to the azarketi's family. Other azarketi groups will choose human names in order to encourage conformity with surface cultures. Some azarketi names have been passed down through so many generations that they still use ancient Azlanti roots or refer to bodies of water that no longer exist."
+						"Azarketis often take the names of nautical, weather, or geographical features important to the Näkki's family. Other Näkki groups will choose human names in order to encourage conformity with surface cultures. Some Näkki names have been passed down through so many generations that they still use ancient Azlanti roots or refer to bodies of water that no longer exist."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 4,
-					"name": "Azarketi Enclaves",
+					"name": "Näkki Enclaves",
 					"reference": {
 						"auto": true
 					},
@@ -164,14 +164,14 @@
 					"source": "LOAG",
 					"name": "Azarketis of the Inner Sea",
 					"entries": [
-						"Azarketi territory spreads across the globe, but most live in the Arcadian Ocean, Inner Sea, and the ruins of Azlant. These ambitious survivors refuse to embrace complacency and tend toward logic and adaptability. Wary of being enslaved or manipulated by their neighbors, they value freedom and privacy.",
+						"Näkki territory spreads across the globe, but most live in the Arcadian Ocean, Inner Sea, and the ruins of Azlant. These ambitious survivors refuse to embrace complacency and tend toward logic and adaptability. Wary of being enslaved or manipulated by their neighbors, they value freedom and privacy.",
 						{
 							"type": "pf2-sidebar",
 							"page": 13,
 							"source": "LOAG",
 							"name": "Legacy of Azlant",
 							"entries": [
-								"Directly descended from the people of Azlant, azarketis have preserved their ancestors' culture through art, oral traditions, songs, and stories. Azarketi scholars study the history of Azlant and Earthfall, elders recite tales of Azlanti legends, and musicians sing songs to long-lost gods. Most azarketis know the location of the nearest Azlanti ruin, and many possess a piece of Azlanti jewelry."
+								"Directly descended from the people of Azlant, azarketis have preserved their ancestors' culture through art, oral traditions, songs, and stories. Näkki scholars study the history of Azlant and Earthfall, elders recite tales of Azlanti legends, and musicians sing songs to long-lost gods. Most azarketis know the location of the nearest Azlanti ruin, and many possess a piece of Azlanti jewelry."
 							]
 						},
 						{
@@ -189,7 +189,7 @@
 							"source": "LOAG",
 							"name": "Alghollthus",
 							"entries": [
-								"Azarketis have a complex relationship with alghollthus, who saved but then enslaved their people. Alvadnas have the greatest chance of meeting an alghollthu face to face. Azarketi sentiments toward these creatures vary: some fight fiercely against their ancient enemies; others bargain for power or safety, or even serve through compulsion."
+								"Azarketis have a complex relationship with alghollthus, who saved but then enslaved their people. Alvadnas have the greatest chance of meeting an alghollthu face to face. Näkki sentiments toward these creatures vary: some fight fiercely against their ancient enemies; others bargain for power or safety, or even serve through compulsion."
 							]
 						},
 						{
@@ -199,7 +199,7 @@
 							"name": "Alvadna",
 							"entries": [
 								"Adapted to survive in the dark, crushing ocean depths, Alvadna azarketis live in deep sea trenches, where their large, sedentary communities protect them and enable their reclusive tendencies. They subsist primarily on gelatinous lifeforms, such as sea cucumbers, jellyfish, and xenophyophores but also consume eels, fish, and starfish. As they adapted to their home depths, Alvadnas developed semi-translucent skin and overly large eyes. They bind marine snow into thin sheets to craft spartan clothes and fishing nets, which they illuminate with bioluminescent bulbs. These azarketis also frequent underwater volcanoes, using their control over water to shape molten lava into tools and weapons.",
-								"Alvadnas typically have the {@ancestry azarketi|AAWS|ancient scale|ancient scale}, {@ancestry azarketi|AAWS|benthic|benthic}, or {@ancestry azarketi|AAWS|murkeyed|murkeyed|LOAG} azarketi heritage."
+								"Alvadnas typically have the {@ancestry Näkki|AAWS|ancient scale|ancient scale}, {@ancestry Näkki|AAWS|benthic|benthic}, or {@ancestry Näkki|AAWS|murkeyed|murkeyed|LOAG} Näkki heritage."
 							]
 						},
 						{
@@ -209,7 +209,7 @@
 							"name": "Eravar",
 							"entries": [
 								"Confined to much smaller waterways than other azarketis, Eravars live in rivers, swamps, lakes, and other inland bodies of water. Brown-skinned and sedentary, Eravars build their homes at the bases of waterfalls or in caverns behind them, along the banks of fertile riverbeds or half-submerged in warm marshes and swamps. They grow crops and rear livestock for food. Eravar azarketis have a fondness for pets, raising birds, fish, and aquatic mammals along with other domesticated animals. Social and gregarious, Eravars happily trade tales and goods with outsiders.",
-								"Eravars most often have the {@ancestry azarketi|AAWS|river|river}, {@ancestry azarketi|AAWS|inured|inured|LOAG}, or {@ancestry azarketi|AAWS|mistbreath|mistbreath} azarketi heritage."
+								"Eravars most often have the {@ancestry Näkki|AAWS|river|river}, {@ancestry Näkki|AAWS|inured|inured|LOAG}, or {@ancestry Näkki|AAWS|mistbreath|mistbreath} Näkki heritage."
 							]
 						},
 						{
@@ -219,7 +219,7 @@
 							"name": "Inzenti",
 							"entries": [
 								"The most commonly found azarketis, Inzentis live in temperate waters throughout the Arcadian Ocean and Inner Sea. Inzentis' skin tones range from human hues to shades of pearlescent white, blue, green, pink, or yellow. They have expressive brow ridges and vibrant purple eyes, and they favor elaborate circlets, anklets, and wristbands crafted from gold, coral, and pearl. Their cities of coral and seaweed sprawl across the ocean floor, surrounded by farms of crustaceans, fish, and oysters. Inzentis hold great reverence for their Azlanti origins and avidly study their ancestors' culture and history, making regular pilgrimages to Azlanti ruins, sunken shipwrecks, and coastal museums and universities.",
-								"Inzentis most often have the {@ancestry azarketi|AAWS|benthic|benthic}, {@ancestry azarketi|AAWS|spined|spined|LOAG}, or {@ancestry azarketi|AAWS|thalassic|thalassic} azarketi heritage."
+								"Inzentis most often have the {@ancestry Näkki|AAWS|benthic|benthic}, {@ancestry Näkki|AAWS|spined|spined|LOAG}, or {@ancestry Näkki|AAWS|thalassic|thalassic} Näkki heritage."
 							]
 						},
 						{
@@ -229,7 +229,7 @@
 							"name": "Ozalon",
 							"entries": [
 								"Large decorative fins crest the heads of Ozalon azarketis, who appear as bold and beautiful as coral. They inhabit the warm waters of the Fever Sea and southern Arcadian Ocean. Ozalons live in reefs and seaweed forests but regularly stroll onto sandy beaches to sunbathe and supplement their seafood diet with tropical fruits. They typically wear little beyond simple skirts of seaweed and have a preference for bracelets made of coral and shells. Ozalon azarketis possess extensive knowledge of the toxins harvestable from sea creatures; many can also read the weather and use this aptitude to avoid or prepare for hurricanes and ocean storms.",
-								"Ozalons often have the {@ancestry azarketi|AAWS|spined|spined|LOAG}, {@ancestry azarketi|AAWS|tactile|tactile|LOAG}, or {@ancestry azarketi|AAWS|thalassic|thalassic} azarketi heritage."
+								"Ozalons often have the {@ancestry Näkki|AAWS|spined|spined|LOAG}, {@ancestry Näkki|AAWS|tactile|tactile|LOAG}, or {@ancestry Näkki|AAWS|thalassic|thalassic} Näkki heritage."
 							]
 						},
 						{
@@ -239,19 +239,19 @@
 							"name": "Usena",
 							"entries": [
 								"Short and broad with mottled blue, brown, or gray skin, Usena azarketis live in the frigid waters of the Steaming Sea. A thin layer of blubber lays beneath their tough, rubbery flesh, and a dense crop of short hair grows atop their heads in place of fins. Usenas wear waterproof, formfitting suits crafted from seal pelts or sharkskin and typically live in small, submerged homes carved from ice. During winter, they reside under the sea ice and hunt bears, fish, seals, sea birds, and walruses. In spring, they work with other families to hunt schools of fish, sharks, and whales at sea. Each night, Usenas surface to stargaze while sharing stories and songs. They often worship {@deity Desna} or the empyreal lords Pulura and the Black Butterfly.",
-								"Usenas typically have the {@ancestry azarketi|AAWS|benthic|benthic}, {@ancestry azarketi|AAWS|murkeyed|murkeyed|LOAG}, or {@ancestry azarketi|AAWS|tactile|tactile|LOAG} azarketi heritage."
+								"Usenas typically have the {@ancestry Näkki|AAWS|benthic|benthic}, {@ancestry Näkki|AAWS|murkeyed|murkeyed|LOAG}, or {@ancestry Näkki|AAWS|tactile|tactile|LOAG} Näkki heritage."
 							]
 						}
 					]
 				}
 			],
 			"heritageInfo": [
-				"An azarketi's heritage represents the waters they call home, and how the individual combines their human and aquatic origins. Choose one of the following azarketi heritages at 1st level."
+				"An Näkki's heritage represents the waters they call home, and how the individual combines their human and aquatic origins. Choose one of the following Näkki heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Ancient Scale Azarketi",
-					"shortName": "Ancient Scale",
+					"name": "Muinainen Suomu Näkki",
+					"shortName": "Muinainen Suomu",
 					"source": "AAWS",
 					"page": 3,
 					"entries": [
@@ -259,7 +259,7 @@
 					]
 				},
 				{
-					"name": "Benthic Azarketi",
+					"name": "Benthic Näkki",
 					"shortName": "Benthic",
 					"source": "AAWS",
 					"page": 3,
@@ -268,8 +268,8 @@
 					]
 				},
 				{
-					"name": "Mistbreath Azarketi",
-					"shortName": "Mistbreath",
+					"name": "Sumuhenkäys Näkki",
+					"shortName": "Sumuhenkäys",
 					"source": "AAWS",
 					"page": 3,
 					"entries": [
@@ -277,7 +277,7 @@
 					]
 				},
 				{
-					"name": "River Azarketi",
+					"name": "River Näkki",
 					"shortName": "River",
 					"source": "AAWS",
 					"page": 3,
@@ -286,7 +286,7 @@
 					]
 				},
 				{
-					"name": "Thalassic Azarketi",
+					"name": "Thalassic Näkki",
 					"shortName": "Thalassic",
 					"source": "AAWS",
 					"page": 4,
@@ -295,7 +295,7 @@
 					]
 				},
 				{
-					"name": "Inured Azarketi",
+					"name": "Inured Näkki",
 					"shortName": "Inured",
 					"source": "LOAG",
 					"page": 13,
@@ -304,7 +304,7 @@
 					]
 				},
 				{
-					"name": "Murkeyed Azarketi",
+					"name": "Murkeyed Näkki",
 					"shortName": "Murkeyed",
 					"source": "LOAG",
 					"page": 13,
@@ -313,7 +313,7 @@
 					]
 				},
 				{
-					"name": "Spined Azarketi",
+					"name": "Spined Näkki",
 					"shortName": "Spined",
 					"source": "LOAG",
 					"page": 13,
@@ -322,7 +322,7 @@
 					]
 				},
 				{
-					"name": "Tactile Azarketi",
+					"name": "Tactile Näkki",
 					"shortName": "Tactile",
 					"source": "LOAG",
 					"page": 13,
