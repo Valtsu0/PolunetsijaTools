@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Dwarf",
+			"name": "Kääpiö",
 			"source": "CRB",
 			"page": 34,
 			"otherSources": {
@@ -30,7 +30,7 @@
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Gnomish}, {@language Goblin}, {@language Jotun}, {@language Orcish}, {@language Terran}, {@language Undercommon}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"dwarf",
+				"Kääpiö",
 				"humanoid"
 			],
 			"features": [
@@ -51,8 +51,8 @@
 				"Dwarves have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils."
 			],
 			"info": [
-				"Dwarves are slow to trust those outside their kin, but this wariness is not without reason. Dwarves have a long history of forced exile from ancestral holds and struggles against the depredations of savage foes, especially giants, goblinoids, orcs, and the horrors that dwell deep below the surface. While trust from a dwarf is hard-won, once gained it is as strong as iron.",
-				"If you want to play a character who is as hard as nails, a stubborn and unrelenting adventurer, with a mix of rugged toughness and deep wisdom\u2014or at least dogged conviction\u2014you should play a dwarf.",
+				"Dwarves are slow to trust those outside their kin, but this wariness is not without reason. Dwarves have a long history of forced exile from ancestral holds and struggles against the depredations of savage foes, especially giants, goblinoids, orcs, and the horrors that dwell deep below the surface. While trust from a Kääpiö is hard-won, once gained it is as strong as iron.",
+				"If you want to play a character who is as hard as nails, a stubborn and unrelenting adventurer, with a mix of rugged toughness and deep wisdom\u2014or at least dogged conviction\u2014you should play a Kääpiö.",
 				{
 					"type": "pf2-h3",
 					"page": 34,
@@ -88,8 +88,8 @@
 					"page": 34,
 					"name": "Physical Description",
 					"entries": [
-						"Dwarves are short and stocky, standing about a foot shorter than most humans. They have wide, compact bodies and burly frames. Dwarves of all genders pride themselves on the length of their hair, which they often braid into intricate patterns, some of which represent specific clans. A long beard is a sign of masculinity and honor among the dwarves, and thus a clean-shaven male dwarf is considered weak, untrustworthy, or worse.",
-						"Dwarves typically reach physical adulthood around the age of 25, though their traditionalist culture places more value on completing coming of age ceremonies unique to each clan than reaching a certain age. A typical dwarf can live to around 350 years old."
+						"Dwarves are short and stocky, standing about a foot shorter than most humans. They have wide, compact bodies and burly frames. Dwarves of all genders pride themselves on the length of their hair, which they often braid into intricate patterns, some of which represent specific clans. A long beard is a sign of masculinity and honor among the dwarves, and thus a clean-shaven male Kääpiö is considered weak, untrustworthy, or worse.",
+						"Dwarves typically reach physical adulthood around the age of 25, though their traditionalist culture places more value on completing coming of age ceremonies unique to each clan than reaching a certain age. A typical Kääpiö can live to around 350 years old."
 					]
 				},
 				{
@@ -98,8 +98,8 @@
 					"name": "Society",
 					"entries": [
 						"The ancient surface empire the dwarves once ruled fell long ago, overwhelmed by orc and goblinoid enemies. Today's dwarves today retain many of the qualities that propelled their people to greatness in ancient times: fierceness, gumption, and stubbornness in endeavors ranging from battle and craftsmanship to forging ties with family and friends.",
-						"While the distance between their mountain Sky Citadels can create vast cultural divides between various dwarf clans, most dwarven societies share a number of similarities. Nearly all dwarven peoples share a passion for stonework, metalwork, and gem-cutting. Most are highly skilled at architecture and mining, and many share a hatred of giants, orcs, and goblinoids.",
-						"Few dwarves are seen without their clan dagger strapped to their belt. This dagger is forged just before a dwarf's birth and bears the gemstone of their clan. A parent uses this dagger to cut the infant's umbilical cord, making it the first weapon to taste their blood."
+						"While the distance between their mountain Sky Citadels can create vast cultural divides between various Kääpiö clans, most dwarven societies share a number of similarities. Nearly all dwarven peoples share a passion for stonework, metalwork, and gem-cutting. Most are highly skilled at architecture and mining, and many share a hatred of giants, orcs, and goblinoids.",
+						"Few dwarves are seen without their clan dagger strapped to their belt. This dagger is forged just before a Kääpiö's birth and bears the gemstone of their clan. A parent uses this dagger to cut the infant's umbilical cord, making it the first weapon to taste their blood."
 					]
 				},
 				{
@@ -108,7 +108,7 @@
 					"name": "Alignment and Religion",
 					"entries": [
 						"Dwarves tend to value honor and closely follow the traditions of their clans and kingdoms. They have a strong sense of friendship and justice, though they are often very particular about who they consider a friend. They work hard and play harder\u2014especially when strong ale is involved.",
-						"The typical dwarf is lawful good or lawful neutral and prefers to worship deities of those alignments. {@deity Torag}, god of dwarvenkind, is the dwarves' primary deity, though worship of Torag's family members is also common."
+						"The typical Kääpiö is lawful good or lawful neutral and prefers to worship deities of those alignments. {@deity Torag}, god of dwarvenkind, is the dwarves' primary deity, though worship of Torag's family members is also common."
 					]
 				},
 				{
@@ -172,7 +172,7 @@
 							"name": "Dwarves of the Inner Sea",
 							"source": "LOCG",
 							"entries": [
-								"While there are countless dwarven ethnicities throughout the Inner Sea region, most can be found on the surface. Many dwarves, however, see dwarvenkind as split into three main ethnic groups\u2014Grondaksen, who live underground and are known for their traditionalist preservation of history; Ergaksen, spread across the surface and known for their adaptability and diverse cultures; and Holtaksen, who live atop mountains and are known for their warrior culture and desire for glory. While underground dwarves and mountain dwarves see all dwarves on the surface as belonging to a single group, surface dwarves themselves do not, almost never using the term \"surface dwarf\" except when communicating with their underground or mountain brethren.",
+								"While there are countless dwarven ethnicities throughout the Inner Sea region, most can be found on the surface. Many dwarves, however, see dwarvenkind as split into three main ethnic groups\u2014Grondaksen, who live underground and are known for their traditionalist preservation of history; Ergaksen, spread across the surface and known for their adaptability and diverse cultures; and Holtaksen, who live atop mountains and are known for their warrior culture and desire for glory. While underground dwarves and mountain dwarves see all dwarves on the surface as belonging to a single group, surface dwarves themselves do not, almost never using the term \"surface Kääpiö\" except when communicating with their underground or mountain brethren.",
 								{
 									"type": "pf2-h3",
 									"page": 17,
@@ -300,8 +300,8 @@
 										"auto": true
 									},
 									"entries": [
-										"Holtaksen tend to be a few inches taller than other dwarves. Their hair grows quickly and is commonly worn braided, and their eyes have larger-thannormal pupils. Their traditional clothing is mostly made up of dark and muted colors, but almost every outfit bears a single small garment in a bright color, matching the color of their clan gem. This garment, typically a scarf or bandanna, is known as a glory ribbon and serves as a badge of honor and token of remembrance. When a mountain dwarf dies in battle, their comrades take the glory ribbon of the fallen, tear it up, and weave a bit of it into their own outfits. Some older mountain dwarves bear countless battle scars and have dozens of colorful scraps reminding them why they fight.",
-										"While underground dwarves rarely adventure and surface dwarves adventure out of necessity, mountain dwarves embrace the prospect of traveling and questing. As they search for glory and thrive on battle, it is almost unheard of to meet a mountain dwarf who has never gone on an adventure."
+										"Holtaksen tend to be a few inches taller than other dwarves. Their hair grows quickly and is commonly worn braided, and their eyes have larger-thannormal pupils. Their traditional clothing is mostly made up of dark and muted colors, but almost every outfit bears a single small garment in a bright color, matching the color of their clan gem. This garment, typically a scarf or bandanna, is known as a glory ribbon and serves as a badge of honor and token of remembrance. When a mountain Kääpiö dies in battle, their comrades take the glory ribbon of the fallen, tear it up, and weave a bit of it into their own outfits. Some older mountain dwarves bear countless battle scars and have dozens of colorful scraps reminding them why they fight.",
+										"While underground dwarves rarely adventure and surface dwarves adventure out of necessity, mountain dwarves embrace the prospect of traveling and questing. As they search for glory and thrive on battle, it is almost unheard of to meet a mountain Kääpiö who has never gone on an adventure."
 									]
 								}
 							]
@@ -314,8 +314,8 @@
 			],
 			"heritage": [
 				{
-					"name": "Ancient-Blooded Dwarf",
-					"shortName": "Ancient-Blooded",
+					"name": "Muinaisverinen Kääpiö",
+					"shortName": "Muinaisverinen",
 					"source": "CRB",
 					"page": 35,
 					"entries": [
@@ -336,8 +336,8 @@
 					]
 				},
 				{
-					"name": "Death Warden Dwarf",
-					"shortName": "Death Warden",
+					"name": "Kuoleman kaarti Kääpiö",
+					"shortName": "Kuoleman kaarti",
 					"source": "CRB",
 					"page": 35,
 					"entries": [
@@ -345,8 +345,8 @@
 					]
 				},
 				{
-					"name": "Forge Dwarf",
-					"shortName": "Forge",
+					"name": "Ahjo Kääpiö",
+					"shortName": "Ahjo",
 					"source": "CRB",
 					"page": 35,
 					"entries": [
@@ -354,8 +354,8 @@
 					]
 				},
 				{
-					"name": "Rock Dwarf",
-					"shortName": "Rock",
+					"name": "Kallio Kääpiö",
+					"shortName": "Kallio",
 					"source": "CRB",
 					"page": 36,
 					"entries": [
@@ -364,8 +364,8 @@
 					]
 				},
 				{
-					"name": "Strong-Blooded Dwarf",
-					"shortName": "Strong-Blooded",
+					"name": "Vahvaverinen Kääpiö",
+					"shortName": "Vahvaverinen",
 					"source": "CRB",
 					"page": 36,
 					"entries": [
@@ -373,8 +373,8 @@
 					]
 				},
 				{
-					"name": "Anvil Dwarf",
-					"shortName": "Anvil",
+					"name": "Alasin Kääpiö",
+					"shortName": "Alasin",
 					"source": "LOCG",
 					"page": 19,
 					"entries": [
@@ -382,8 +382,8 @@
 					]
 				},
 				{
-					"name": "Elemental Heart Dwarf",
-					"shortName": "Elemental Heart",
+					"name": "Voimasydän Kääpiö",
+					"shortName": "Voimasydän",
 					"source": "LOCG",
 					"page": 19,
 					"entries": [
@@ -411,8 +411,8 @@
 					]
 				},
 				{
-					"name": "Oathkeeper Dwarf",
-					"shortName": "Oathkeeper",
+					"name": "Lupauksenpitäjä Kääpiö",
+					"shortName": "Lupauksenpitäjä",
 					"source": "LOCG",
 					"page": 19,
 					"entries": [

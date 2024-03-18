@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Fetchling",
+			"name": "Kummajainen",
 			"source": "LOAG",
 			"page": 82,
 			"rarity": "uncommon",
@@ -22,7 +22,7 @@
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Aklo}, {@language Draconic}, {@language D'ziriak|b2}, {@language Necril}, {@language Undercommon}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"fetchling",
+				"Kummajainen",
 				"humanoid"
 			],
 			"features": [
@@ -39,7 +39,7 @@
 			"info": [
 				"Fetchlings are a striking people whose skin appears entirely drained of color. These lithe and shadowy beings seem to sink and vanish into the gloom. They see in darkness, exercise control over shadows, and have strange occult powers. Some fetchlings develop their powers enough to pass between the Shadow and Material Planes, leaving other ancestries to whisper about figures that emerge from shaded corners and then vanish without a trace. Through magic and other means, they've spread across Golarion and the planes beyond, as adaptable as the humans they once were.",
 				"The first fetchlings were refugees. Ages ago, when Earthfall destroyed ancient Azlant and cast the world into darkness, one small group of Azlanti pleaded for rescue. A mysterious hooded figure known as the Widow answered their call, slicing open a passage into the Shadow Plane. The Azlanti stepped through, trading the darkness of Earthfall for a deep shadow. As they navigated the plane's strange environs and dangerous inhabitants, its nature slowly worked monumental changes on the survivors.",
-				"If you want a character more at home in a mirror world of shadow, infused with umbral gloom, and who embodies the dualities of light and darkness, you should play a fetchling.",
+				"If you want a character more at home in a mirror world of shadow, infused with umbral gloom, and who embodies the dualities of light and darkness, you should play a Kummajainen.",
 				{
 					"type": "pf2-h3",
 					"page": 82,
@@ -75,7 +75,7 @@
 					"page": 82,
 					"name": "Physical Description",
 					"entries": [
-						"Most of the Shadow Plane appears as an altered version of the Material Plane but leeched of color. These same forces in the Shadow Plane have touched fetchlings, whose skin tones fall on a monochromatic scale from stark white to deep black, and all the shades of gray between. Their bodies are just as diverse in shape and size as humans, though most display a certain fluidity of motion reminiscent of shifting shadows. Fetchlings' reflective, pupilless eyes can pierce darkness. A fetchling's most notable feature is their shadow, which almost never faithfully reflects their body. Instead, fetchling shadows might have incongruous shapes or sizes, while others flicker, move of their own accord, or imitate the shadow of another nearby creature."
+						"Most of the Shadow Plane appears as an altered version of the Material Plane but leeched of color. These same forces in the Shadow Plane have touched fetchlings, whose skin tones fall on a monochromatic scale from stark white to deep black, and all the shades of gray between. Their bodies are just as diverse in shape and size as humans, though most display a certain fluidity of motion reminiscent of shifting shadows. Fetchlings' reflective, pupilless eyes can pierce darkness. A Kummajainen's most notable feature is their shadow, which almost never faithfully reflects their body. Instead, Kummajainen shadows might have incongruous shapes or sizes, while others flicker, move of their own accord, or imitate the shadow of another nearby creature."
 					]
 				},
 				{
@@ -83,7 +83,7 @@
 					"page": 82,
 					"name": "Society",
 					"entries": [
-						"Most fetchlings remain close to Golarion on either the Material or Shadow Planes, either forming majority-fetchling communities or forging solitary paths. Both planar groups tend to be insular; many fetchling cultures preserve memories of their early, perilous days confronting the Shadow Plane's hostile or beguiling denizens. Their predilection for forming tight communal bonds and adapting to local customs has spread to become part of broader fetchling culture, reinforced by two major fetchling groups\u2014the Estlaris and Sharedars\u2014who live in the shadow of more powerful entities."
+						"Most fetchlings remain close to Golarion on either the Material or Shadow Planes, either forming majority-Kummajainen communities or forging solitary paths. Both planar groups tend to be insular; many Kummajainen cultures preserve memories of their early, perilous days confronting the Shadow Plane's hostile or beguiling denizens. Their predilection for forming tight communal bonds and adapting to local customs has spread to become part of broader Kummajainen culture, reinforced by two major Kummajainen groups\u2014the Estlaris and Sharedars\u2014who live in the shadow of more powerful entities."
 					]
 				},
 				{
@@ -98,9 +98,9 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 84,
-					"name": "Fetchling Adventurers",
+					"name": "Kummajainen Adventurers",
 					"entries": [
-						"Fetchlings have a well-earned reputation as travelers. Their {@background merchant||merchants} and {@background emissary||emissaries} ply many roads, while {@background nomad||nomads} and {@background sailor||sailors} seek what lies over the next horizon. {@background Charlatan||Charlatans}, {@background criminal||criminals}, and {@background street urchin||street urchins} carve livelihoods from inhospitable environs. Many fetchlings leverage their natural litheness as {@class swashbuckler|APG|swashbucklers} or {@class rogue||rogues}. The Shadow Plane's caress awakens hidden power in many fetchling {@class bard||bards} or {@class sorcerer||sorcerers} (especially those of the {@class sorcerer||shadow bloodline|Shadow|APG}) or drives them to study deeper mysteries as {@class witch||witches} or {@class wizard||wizards}."
+						"Fetchlings have a well-earned reputation as travelers. Their {@background merchant||merchants} and {@background emissary||emissaries} ply many roads, while {@background nomad||nomads} and {@background sailor||sailors} seek what lies over the next horizon. {@background Charlatan||Charlatans}, {@background criminal||criminals}, and {@background street urchin||street urchins} carve livelihoods from inhospitable environs. Many fetchlings leverage their natural litheness as {@class swashbuckler|APG|swashbucklers} or {@class rogue||rogues}. The Shadow Plane's caress awakens hidden power in many Kummajainen {@class bard||bards} or {@class sorcerer||sorcerers} (especially those of the {@class sorcerer||shadow bloodline|Shadow|APG}) or drives them to study deeper mysteries as {@class witch||witches} or {@class wizard||wizards}."
 					]
 				},
 				{
@@ -108,7 +108,7 @@
 					"page": 83,
 					"name": "Names",
 					"entries": [
-						"Fetchlings adapted to a new world, and their names do the same. These names commonly include phonetic qualities from multiple languages or are simply local cultural names that fetchling families find compelling. Other dominant naming conventions include flowing sounds, harsh or hissing consonants, and surnames that refer to important relatives or community traits."
+						"Fetchlings adapted to a new world, and their names do the same. These names commonly include phonetic qualities from multiple languages or are simply local cultural names that Kummajainen families find compelling. Other dominant naming conventions include flowing sounds, harsh or hissing consonants, and surnames that refer to important relatives or community traits."
 					]
 				},
 				{
@@ -128,12 +128,12 @@
 					},
 					"name": "Fetchlings of the Inner Sea",
 					"entries": [
-						"Fetchlings are an uncommon sight in the Inner Sea region, as the majority reside in the Shadow Plane. A large portion of the region's fetchling diaspora arrives from Shadow Absalom\u2014which they call Beacon\u2014before using Absalom's ports to reach greater Golarion. Some formerly Nidalese fetchlings escape the predations of the Umbral Court and lead freer lives. Other fetchlings hail from remote enclaves on the Material Plane or arrive via supernatural phenomena that thin the barriers between the Material and Shadow Planes.",
+						"Fetchlings are an uncommon sight in the Inner Sea region, as the majority reside in the Shadow Plane. A large portion of the region's Kummajainen diaspora arrives from Shadow Absalom\u2014which they call Beacon\u2014before using Absalom's ports to reach greater Golarion. Some formerly Nidalese fetchlings escape the predations of the Umbral Court and lead freer lives. Other fetchlings hail from remote enclaves on the Material Plane or arrive via supernatural phenomena that thin the barriers between the Material and Shadow Planes.",
 						{
 							"type": "pf2-sidebar",
 							"page": 85,
 							"source": "LOAG",
-							"name": "Fetchling Settlements",
+							"name": "Kummajainen Settlements",
 							"reference": {
 								"auto": true
 							}
@@ -143,7 +143,7 @@
 							"page": 86,
 							"name": "Kayal",
 							"entries": [
-								"Many fetchlings refer to themselves as kayals, an Aklo-derived word with a meaning akin to \"shadow people.\" Most kayals reject the term fetchling, which they see as imposed on them by individuals bound too closely to the Material Plane. The word has uncertain origins, but its use is widespread in Nidal. To kayals in Nidal, their name grounds and uplifts them as a worthy people forging their own paths, not as servitors of darkness. Skeptics consider kayal to be a superficial affectation."
+								"Many fetchlings refer to themselves as kayals, an Aklo-derived word with a meaning akin to \"shadow people.\" Most kayals reject the term Kummajainen, which they see as imposed on them by individuals bound too closely to the Material Plane. The word has uncertain origins, but its use is widespread in Nidal. To kayals in Nidal, their name grounds and uplifts them as a worthy people forging their own paths, not as servitors of darkness. Skeptics consider kayal to be a superficial affectation."
 							]
 						},
 						{
@@ -173,7 +173,7 @@
 							"name": "Estlari",
 							"page": 84,
 							"entries": [
-								"Most of the fetchlings who live in Beacon\u2014better known to those on Golarion as Shadow Absalom\u2014are Estlaris, a fetchling sect that traces their origins to the city's founding days. Centered on the light of the Glare, a stable interplanar portal inside a mysterious stonework cathedral, those first fetchlings built the city alongside the insectile d'ziriak. Despite historically unstable alliances, the two groups have made Beacon an interplanar metropolis\u2014if a somber and dangerous one. The masked umbral dragon Argrinyxia rules with a tight grip, though she loosens it enough to encourage the flow of goods and peoples from across the multiverse. Many Estlaris work as merchants and negotiators as a result.",
+								"Most of the fetchlings who live in Beacon\u2014better known to those on Golarion as Shadow Absalom\u2014are Estlaris, a Kummajainen sect that traces their origins to the city's founding days. Centered on the light of the Glare, a stable interplanar portal inside a mysterious stonework cathedral, those first fetchlings built the city alongside the insectile d'ziriak. Despite historically unstable alliances, the two groups have made Beacon an interplanar metropolis\u2014if a somber and dangerous one. The masked umbral dragon Argrinyxia rules with a tight grip, though she loosens it enough to encourage the flow of goods and peoples from across the multiverse. Many Estlaris work as merchants and negotiators as a result.",
 								"Color and light are hallmarks of Estlari culture, the former influenced by the d'ziriak practice called light weaving. Magical lights or ornate candles mark important occasions. Estlaris also see personal fashion as an important means of expression. Popular trends include: angular, d'ziriak-inspired designs; vibrantly dyed hair; and muted outfits that incorporate a single, colorful accessory. Estlari skin tones tend toward lighter shades like alabaster and ash, and their eyes are usually shades of yellow. Their hair is predominantly straight, fine, and pale. Many are slender and long-limbed, appearing almost stretched. Estlaris' crisp-edged shadows often look darker than would be expected for prevailing light conditions."
 							]
 						},
@@ -206,12 +206,12 @@
 				}
 			],
 			"heritageInfo": [
-				"Fetchlings' extraplanar past shaped them in many ways. Choose one of the following fetchling heritages at 1st level."
+				"Fetchlings' extraplanar past shaped them in many ways. Choose one of the following Kummajainen heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Bright Fetchling",
-					"shortName": "Bright",
+					"name": "Kirkas Kummajainen",
+					"shortName": "Kirkas",
 					"source": "LOAG",
 					"page": 85,
 					"entries": [
@@ -219,8 +219,8 @@
 					]
 				},
 				{
-					"name": "Deep Fetchling",
-					"shortName": "Deep",
+					"name": "Syvä Kummajainen",
+					"shortName": "Syvä",
 					"source": "LOAG",
 					"page": 85,
 					"entries": [
@@ -228,8 +228,8 @@
 					]
 				},
 				{
-					"name": "Liminal Fetchling",
-					"shortName": "Liminal",
+					"name": "Maailmojen välinen Kummajainen",
+					"shortName": "Maailmojen välinen",
 					"source": "LOAG",
 					"page": 85,
 					"entries": [
@@ -237,8 +237,8 @@
 					]
 				},
 				{
-					"name": "Resolute Fetchling",
-					"shortName": "Resolute",
+					"name": "Määrätietoinen Kummajainen",
+					"shortName": "Määrätietoinen",
 					"source": "LOAG",
 					"page": 85,
 					"entries": [
@@ -246,8 +246,8 @@
 					]
 				},
 				{
-					"name": "Wisp Fetchling",
-					"shortName": "Wisp",
+					"name": "Virvatuli Kummajainen",
+					"shortName": "Virvatuli",
 					"source": "LOAG",
 					"page": 85,
 					"entries": [
