@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Leshy",
+			"name": "Lehdokas",
 			"source": "LOCG",
 			"page": 52,
 			"otherSources": {
@@ -31,7 +31,7 @@
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Draconic}, {@language Elven}, {@language Gnomish}, {@language Goblin}, {@language Halfling}, {@language Undercommon}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"leshy",
+				"Lehdokas",
 				"plant"
 			],
 			"features": [
@@ -53,13 +53,13 @@
 			],
 			"info": [
 				"Leshies are \"born\" when a skilled druid or other master of primal magic conducts a ritual to create a suitable vessel, and then a spirit chooses that vessel to be their temporary home. Leshies are self-sufficient from the moment the ritual ends, and so they do not depend upon these druids for care, though it is not uncommon for leshies to maintain lifelong bonds with their creators.",
-				"Not all leshies have a strong enough spirit to strike off completely on their own, however. Weaker nature spirits can form only tenuous bonds that are just strong enough to animate Tiny bodies. These spirits become leshy familiars, acting as companions to their druid creators. Independent leshies are often protective of such leshy familiars, advocating for them to be treated with dignity and respect.",
+				"Not all leshies have a strong enough spirit to strike off completely on their own, however. Weaker nature spirits can form only tenuous bonds that are just strong enough to animate Tiny bodies. These spirits become Lehdokas familiars, acting as companions to their druid creators. Independent leshies are often protective of such Lehdokas familiars, advocating for them to be treated with dignity and respect.",
 				{
 					"type": "pf2-sidebar",
 					"page": 52,
-					"name": "Leshy Adventurers",
+					"name": "Lehdokas Adventurers",
 					"entries": [
-						"Some backgrounds are particularly suitable for adventuring leshies, especially those backgrounds with a tie to the natural world, such as {@background hunter}, {@background nomad}, or {@background scout}. Nature-themed classes such as {@class druid} and {@class ranger} are popular choices for leshies. As {@class druid||druids}, leshies gravitate toward the {@class druid|crb|leaf order|leaf|crb}. {@class Bard} is also a good fit for leshies with a love of storytelling; such leshies often inhabit vine leshy bodies."
+						"Some backgrounds are particularly suitable for adventuring leshies, especially those backgrounds with a tie to the natural world, such as {@background hunter}, {@background nomad}, or {@background scout}. Nature-themed classes such as {@class druid} and {@class ranger} are popular choices for leshies. As {@class druid||druids}, leshies gravitate toward the {@class druid|crb|Pullokurpitsa order|Pullokurpitsa|crb}. {@class Bard} is also a good fit for leshies with a love of storytelling; such leshies often inhabit Köynnös Lehdokas bodies."
 					]
 				},
 				{
@@ -97,7 +97,7 @@
 					"page": 52,
 					"name": "Physical Description",
 					"entries": [
-						"Leshies are as varied as the material used to create their vessels, usually appearing as a bizarre mishmash of various plants or fungi. Their bodies are vaguely humanoid in shape, with numerous characteristics of the plant or fungus from which they were made. A typical leshy is about 3 feet tall. Due to the nature of the ritual used to create a leshy, leshies begin their lives as adults. As spirits, they do not age, and a leshy could potentially remain in the same vessel forever\u2014though leshies rarely consider this outcome to be desirable."
+						"Leshies are as varied as the material used to create their vessels, usually appearing as a bizarre mishmash of various plants or fungi. Their bodies are vaguely humanoid in shape, with numerous characteristics of the plant or Sieni from which they were made. A typical Lehdokas is about 3 feet tall. Due to the nature of the ritual used to create a Lehdokas, leshies begin their lives as adults. As spirits, they do not age, and a Lehdokas could potentially remain in the same vessel forever\u2014though leshies rarely consider this outcome to be desirable."
 					]
 				},
 				{
@@ -105,8 +105,8 @@
 					"page": 52,
 					"name": "Society",
 					"entries": [
-						"Though guardian leshies often congregate, traveling leshies are not naturally drawn to others of their own kind. To most leshies, the concept of family is not a matter of birth, but rather determined by bonds of loyalty and friendship. Leshies are dedicated allies, but they have little tolerance for those who would despoil nature. As much as they are happy to accept someone who earns their trust into their family, they expect family members to look out for them and their natural wards in return. A betrayed leshy might not directly attack those who slight them, but they might withdraw support at a critical moment or leave their betrayers to get lost in the wilderness.",
-						"Leshies are grouped into categories akin to ethnicities, but these are not connected to physical features; rather, they represent broad categories of characteristics of their spirits. Certain spirits are more likely to gravitate toward particular physical bodies, though those familiar with leshies know that this predisposition is far from absolute. Leshies often take pride in their own appearances and appreciate beauty of all kinds in others, but they rarely form judgments based on physical appearance. Leshies' genders are determined by the spirits that inhabit their bodies. Leshies tend to gravitate toward plant bodies that match their genders. Some leshies are exclusively male or female, while many consider themselves both. Others, particularly fungus leshies, tend toward far more complex expressions of gender, or eschew the concept entirely."
+						"Though guardian leshies often congregate, traveling leshies are not naturally drawn to others of their own kind. To most leshies, the concept of family is not a matter of birth, but rather determined by bonds of loyalty and friendship. Leshies are dedicated allies, but they have little tolerance for those who would despoil nature. As much as they are happy to accept someone who earns their trust into their family, they expect family members to look out for them and their natural wards in return. A betrayed Lehdokas might not directly attack those who slight them, but they might withdraw support at a critical moment or leave their betrayers to get lost in the wilderness.",
+						"Leshies are grouped into categories akin to ethnicities, but these are not connected to physical features; rather, they represent broad categories of characteristics of their spirits. Certain spirits are more likely to gravitate toward particular physical bodies, though those familiar with leshies know that this predisposition is far from absolute. Leshies often take pride in their own appearances and appreciate beauty of all kinds in others, but they rarely form judgments based on physical appearance. Leshies' genders are determined by the spirits that inhabit their bodies. Leshies tend to gravitate toward plant bodies that match their genders. Some leshies are exclusively male or female, while many consider themselves both. Others, particularly Sieni leshies, tend toward far more complex expressions of gender, or eschew the concept entirely."
 					]
 				},
 				{
@@ -114,7 +114,7 @@
 					"page": 53,
 					"name": "Alignment and Religion",
 					"entries": [
-						"A leshy can be of any alignment, depending on what spirit inhabits their body, but their outlook often includes a neutral element. Religion is not particularly significant to most leshies. Those with a philosophical bent lean toward the Green Faith, and Gozreh is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature that act as regional guardians."
+						"A Lehdokas can be of any alignment, depending on what spirit inhabits their body, but their outlook often includes a neutral element. Religion is not particularly significant to most leshies. Those with a philosophical bent lean toward the Green Faith, and Gozreh is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature that act as regional guardians."
 					]
 				},
 				{
@@ -136,15 +136,15 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 54,
-					"name": "Leshy Subtypes",
+					"name": "Lehdokas Subtypes",
 					"entries": [
-						"Leshy spirits can inhabit a variety of bodies: leaf, fungus, and gourd leshies are the most common. Leaf leshies tend to be brave, while fungus leshies are often gruff but open-minded, and gourd leshies are often superstitious. Vine leshies are relatively rare, but as the spirits drawn to vine leshy bodies tend to be storytellers, they are well represented among adventuring leshies. Other leshy varieties include cactus, flytrap, fruit, lichen, lotus, root, seaweed, seed, snapdragon, and sunflower leshies."
+						"Lehdokas spirits can inhabit a variety of bodies: Pullokurpitsa, Sieni, and gourd leshies are the most common. Pullokurpitsa leshies tend to be brave, while Sieni leshies are often gruff but open-minded, and gourd leshies are often superstitious. Köynnös leshies are relatively rare, but as the spirits drawn to Köynnös Lehdokas bodies tend to be storytellers, they are well represented among adventuring leshies. Other Lehdokas varieties include Kaktus, flytrap, Hedelmä, lichen, lotus, Juuri, Merihasis, seed, snapdragon, and sunflower leshies."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 55,
-					"name": "Leshy Enclaves",
+					"name": "Lehdokas Enclaves",
 					"source": "LOCG",
 					"reference": {
 						"auto": true
@@ -156,7 +156,7 @@
 					"source": "LOAG",
 					"name": "Green Men",
 					"entries": [
-						"The first beings to create leshys were green men, sometimes referred to as leshy kings. These legendary guardians emerge when countless spirits of nature merge and rise to divinity. Many green men discovered how to draw upon the connection they held with other spirits of nature, coaxing them into physical forms. These early leshys worked alongside green men to defend their verdant homes. Though modern leshys have far more varied motivations, many still respect and revere the gods that first gave them a chance at mortal life.",
+						"The first beings to create leshys were green men, sometimes referred to as Lehdokas kings. These legendary guardians emerge when countless spirits of nature merge and rise to divinity. Many green men discovered how to draw upon the connection they held with other spirits of nature, coaxing them into physical forms. These early leshys worked alongside green men to defend their verdant homes. Though modern leshys have far more varied motivations, many still respect and revere the gods that first gave them a chance at mortal life.",
 						"{@indentFirst While green men were indifferent to most non-plant creatures, they didn't scorn the assistance of druids. In time, some green men taught trusted allies a version of the ritual to create leshys.}"
 					]
 				},
@@ -164,9 +164,9 @@
 					"type": "pf2-sidebar",
 					"page": 42,
 					"source": "LOAG",
-					"name": "Leshy Resurrection",
+					"name": "Lehdokas Resurrection",
 					"entries": [
-						"Leshys who lose their physical form incorporate the changes they experienced in life into their spirit. Even though a leshy's spirit isn't the same as the soul of many ancestries, resurrection magic can still restore it to their most recent body. Should the ritual fail, it's usually because a leshy has shed too many of their memories and attachments, rather than due to Pharasma's judgment."
+						"Leshys who lose their physical form incorporate the changes they experienced in life into their spirit. Even though a Lehdokas's spirit isn't the same as the soul of many ancestries, resurrection magic can still restore it to their most recent body. Should the ritual fail, it's usually because a Lehdokas has shed too many of their memories and attachments, rather than due to Pharasma's judgment."
 					]
 				},
 				{
@@ -175,7 +175,7 @@
 					"source": "LOAG",
 					"name": "Life without Form",
 					"entries": [
-						"Leshy spirits are beings of pure vital essence without any of the otherworldly quintessence known as spiritual essence. Existing without physical form allows them closer contact with memories from their distant past, but this broader perspective gradually erodes memories of their experiences in their most recent body."
+						"Lehdokas spirits are beings of pure vital essence without any of the otherworldly quintessence known as spiritual essence. Existing without physical form allows them closer contact with memories from their distant past, but this broader perspective gradually erodes memories of their experiences in their most recent body."
 					]
 				},
 				{
@@ -199,7 +199,7 @@
 						{
 							"type": "pf2-h3",
 							"page": 128,
-							"name": "Leshy",
+							"name": "Lehdokas",
 							"reference": {
 								"auto": true
 							},
@@ -210,12 +210,12 @@
 				}
 			],
 			"heritageInfo": [
-				"A leshy's heritage represents the benefits they gain from their body. Choose one of the following leshy heritages at 1st level."
+				"A Lehdokas's heritage represents the benefits they gain from their body. Choose one of the following Lehdokas heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Cactus Leshy",
-					"shortName": "Cactus",
+					"name": "Kaktus Lehdokas",
+					"shortName": "Kaktus",
 					"source": "LOAG",
 					"page": 41,
 					"entries": [
@@ -223,16 +223,16 @@
 					]
 				},
 				{
-					"name": "Fruit Leshy",
-					"shortName": "Fruit",
+					"name": "Hedelmä Lehdokas",
+					"shortName": "Hedelmä",
 					"source": "LOAG",
 					"page": 42,
 					"entries": [
-						"Your body continually produces small fruits imbued with primal magic. At dawn each day, a new fruit ripens. You or an ally can remove this fruit as an {@action Interact} action. If a living creature that can derive sustenance from fruit consumes it as an {@action Interact} action within the next hour, they regain {@dice 1d8} Hit Points, plus an additional {@dice 1d8} Hit Points for every 2 of your levels beyond 1st. This effect has the {@trait healing}, {@trait necromancy}, {@trait positive} and {@trait primal} traits."
+						"Your body continually produces small fruits imbued with primal magic. At dawn each day, a new Hedelmä ripens. You or an ally can remove this Hedelmä as an {@action Interact} action. If a living creature that can derive sustenance from Hedelmä consumes it as an {@action Interact} action within the next hour, they regain {@dice 1d8} Hit Points, plus an additional {@dice 1d8} Hit Points for every 2 of your levels beyond 1st. This effect has the {@trait healing}, {@trait necromancy}, {@trait positive} and {@trait primal} traits."
 					]
 				},
 				{
-					"name": "Lotus Leshy",
+					"name": "Lotus Lehdokas",
 					"shortName": "Lotus",
 					"source": "LOAG",
 					"page": 42,
@@ -241,8 +241,8 @@
 					]
 				},
 				{
-					"name": "Root Leshy",
-					"shortName": "Root",
+					"name": "Juuri Lehdokas",
+					"shortName": "Juuri",
 					"source": "LOAG",
 					"page": 42,
 					"entries": [
@@ -250,25 +250,25 @@
 					]
 				},
 				{
-					"name": "Seaweed Leshy",
-					"shortName": "Seaweed",
+					"name": "Merihasis Lehdokas",
+					"shortName": "Merihasis",
 					"source": "LOAG",
 					"page": 42,
 					"entries": [
-						"Your body is made from woven seaweed, and you're just as comfortable underwater as on land. You gain a swim Speed of 20 feet, and you can always breathe underwater. However, your land Speed is reduced by 5 feet (to 20 feet for most seaweed leshys)."
+						"Your body is made from woven Merihasis, and you're just as comfortable underwater as on land. You gain a swim Speed of 20 feet, and you can always breathe underwater. However, your land Speed is reduced by 5 feet (to 20 feet for most Merihasis leshys)."
 					]
 				},
 				{
-					"name": "Fungus Leshy",
-					"shortName": "Fungus",
+					"name": "Sieni Lehdokas",
+					"shortName": "Sieni",
 					"source": "LOCG",
 					"page": 53,
 					"entries": [
-						"Your body was made from fungi that grows in the shade of caves and trees, and you are at home in dark caverns and warrens. You gain {@ability darkvision}. You lose the {@trait plant} trait and gain the {@trait fungus} trait."
+						"Your body was made from fungi that grows in the shade of caves and trees, and you are at home in dark caverns and warrens. You gain {@ability darkvision}. You lose the {@trait plant} trait and gain the {@trait Sieni} trait."
 					]
 				},
 				{
-					"name": "Gourd Leshy",
+					"name": "Gourd Lehdokas",
 					"shortName": "Gourd",
 					"source": "LOCG",
 					"page": 53,
@@ -277,17 +277,17 @@
 					]
 				},
 				{
-					"name": "Leaf Leshy",
-					"shortName": "Leaf",
+					"name": "Pullokurpitsa Lehdokas",
+					"shortName": "Pullokurpitsa",
 					"source": "LOCG",
 					"page": 53,
 					"entries": [
-						"Your body is made mostly from natural foliage, and like a leaf tumbling from a tree, you land from falls with particular grace. You take no damage from falling, regardless of the distance you fall."
+						"Your body is made mostly from natural foliage, and like a Pullokurpitsa tumbling from a tree, you land from falls with particular grace. You take no damage from falling, regardless of the distance you fall."
 					]
 				},
 				{
-					"name": "Vine Leshy",
-					"shortName": "Vine",
+					"name": "Köynnös Lehdokas",
+					"shortName": "Köynnös",
 					"source": "LOCG",
 					"page": 53,
 					"entries": [

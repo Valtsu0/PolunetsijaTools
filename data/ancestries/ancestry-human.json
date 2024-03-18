@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Human",
+			"name": "Ihminen",
 			"source": "CRB",
 			"page": 54,
 			"otherSources": {
@@ -24,7 +24,7 @@
 				"Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from the list of {@filter common languages|languages||Type=Common} and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"human",
+				"Ihminen",
 				"humanoid"
 			],
 			"flavor": [
@@ -32,7 +32,7 @@
 			],
 			"info": [
 				"Humans' ambition, versatility, and exceptional potential have led to their status as the world's predominant ancestry. Their empires and nations are vast, sprawling things, and their citizens carve names for themselves with the strength of their sword arms and the power of their spells. Humanity is diverse and tumultuous, running the gamut from nomadic to imperial, sinister to saintly. Many of them venture forth to explore, to map the expanse of the multiverse, to search for long-lost treasure, or to lead mighty armies to conquer their neighbors\u2014for no better reason than because they can.",
-				"If you want a character who can be just about anything, you should play a human.",
+				"If you want a character who can be just about anything, you should play a Ihminen.",
 				{
 					"type": "pf2-h3",
 					"page": 54,
@@ -69,7 +69,7 @@
 					"name": "Physical Description",
 					"entries": [
 						"Humans' physical characteristics are as varied as the world's climes. Humans have a wide variety of skin and hair colors, body types, and facial features. Generally speaking, their skin has a darker hue the closer to the equator they or their ancestors lived.",
-						"Humans reach physical adulthood around the age of 15, though mental maturity occurs a few years later. A typical human can live to be around 90 years old. Humans often intermarry with people of other ancestries, giving rise to children who bear the traits of both parents. The most notable half-humans are half-elves and half-orcs."
+						"Humans reach physical adulthood around the age of 15, though mental maturity occurs a few years later. A typical Ihminen can live to be around 90 years old. Humans often intermarry with people of other ancestries, giving rise to children who bear the traits of both parents. The most notable half-humans are half-elves and half-orcs."
 					]
 				},
 				{
@@ -77,7 +77,7 @@
 					"page": 54,
 					"name": "Society",
 					"entries": [
-						"Human variety also manifests in terms of their governments, attitudes, and social norms. Though the oldest of human cultures can trace their shared histories thousands of years into the past, when compared to the societies of the elves or dwarves, human civilizations seem in a state of constant flux as empires fragment and new kingdoms subsume the old."
+						"Ihminen variety also manifests in terms of their governments, attitudes, and social norms. Though the oldest of Ihminen cultures can trace their shared histories thousands of years into the past, when compared to the societies of the elves or dwarves, Ihminen civilizations seem in a state of constant flux as empires fragment and new kingdoms subsume the old."
 					]
 				},
 				{
@@ -101,19 +101,19 @@
 					"page": 55,
 					"name": "Ethnicities",
 					"entries": [
-						"A variety of human ethnic groups\u2014many of which have origins on distant lands\u2014populates the continents bordering Golarion's Inner Sea. Human characters can be any of these ethnicities, regardless of what lands they call home. Information about Golarion's human ethnicities appear below.",
-						"Characters of human ethnicities in the Inner Sea region speak {@language Common} (also known as {@language Taldane}), and some ethnicities grant access to an uncommon language."
+						"A variety of Ihminen ethnic groups\u2014many of which have origins on distant lands\u2014populates the continents bordering Golarion's Inner Sea. Ihminen characters can be any of these ethnicities, regardless of what lands they call home. Information about Golarion's Ihminen ethnicities appear below.",
+						"Characters of Ihminen ethnicities in the Inner Sea region speak {@language Common} (also known as {@language Taldane}), and some ethnicities grant access to an uncommon language."
 					]
 				},
 				{
 					"type": "pf2-h3",
 					"page": 430,
 					"source": "CRB",
-					"name": "Human Ethnicities",
+					"name": "Ihminen Ethnicities",
 					"collapsible": true,
 					"entries": [
-						"A variety of ethnic groups make up the human populace of the continents bordering Golarion's Inner Sea. Many of these groups have origins on distant lands, but the Inner Sea region has a diverse population drawn from across the globe. Human characters can be from any of these ethnicities, regardless of what land they call home.",
-						"Characters from these ethnicities speak Common if they come from the Inner Sea region, and some ethnicities give access to a regional language or another uncommon language. Half-elves and half-orcs arise across all human ethnicities and bear the features of both those ethnicities and their non-human parents.",
+						"A variety of ethnic groups make up the Ihminen populace of the continents bordering Golarion's Inner Sea. Many of these groups have origins on distant lands, but the Inner Sea region has a diverse population drawn from across the globe. Ihminen characters can be from any of these ethnicities, regardless of what land they call home.",
+						"Characters from these ethnicities speak Common if they come from the Inner Sea region, and some ethnicities give access to a regional language or another uncommon language. Half-elves and half-orcs arise across all Ihminen ethnicities and bear the features of both those ethnicities and their non-Ihminen parents.",
 						{
 							"type": "pf2-h3",
 							"page": 430,
@@ -183,7 +183,7 @@
 							"page": 431,
 							"name": "Ulfen",
 							"entries": [
-								"The coastal raiders of the Ulfen clans are skilled sailors and bodyguards. They're often tall, with pale to ruddy skin and blond, light-brown, or red hair. They typically show pride in their appearances by adorning themselves with furs, horn, and ivory. Ulfen have access to the {@language Skald} language."
+								"The coastal raiders of the Ulfen clans are Taitava sailors and bodyguards. They're often tall, with pale to ruddy skin and blond, light-brown, or red hair. They typically show pride in their appearances by adorning themselves with furs, horn, and ivory. Ulfen have access to the {@language Skald} language."
 							]
 						},
 						{
@@ -221,11 +221,11 @@
 							]
 						},
 						"Humanity has been the dominant force on the planet for over 10,000 years, spreading to every corner of the globe\u2014from the highest mountain to the deepest vault of the Darklands, from the frozen Crown of the World to the jungles of southeastern Casmaron\u2014to found a vast assortment of kingdoms, cities, confederations, states, clans, and empires.",
-						"One of the first great human civilizations was proud Azlant, born on a now-destroyed continent in the middle of the Arcadian Ocean. Earthfall obliterated Azlant and its colonies, but new societies arose from the ruins. The Jistka Imperium, masters of golemancy and genie-binding; the Shory and their flying cities; Osirion in all of its pharaonic splendor\u2014these names have come down through history as bywords for greatness, power, and knowledge. This was the era when Old-Mage Jatembe and his Ten Magic Warriors brought magic back to humanity and established the center of learning at Magaambya, when Prince Taldaris of Oppara unified the city-states of Taldor into a fledgling empire, when the tarrasque toppled the ziggurats of Ninshabur. This was the age that ended with the ascendance of Aroden, the Last Azlanti, God of Humanity.",
+						"One of the first great Ihminen civilizations was proud Azlant, born on a now-destroyed continent in the middle of the Arcadian Ocean. Earthfall obliterated Azlant and its colonies, but new societies arose from the ruins. The Jistka Imperium, masters of golemancy and genie-binding; the Shory and their flying cities; Osirion in all of its pharaonic splendor\u2014these names have come down through history as bywords for greatness, power, and knowledge. This was the era when Old-Mage Jatembe and his Ten Magic Warriors brought magic back to humanity and established the center of learning at Magaambya, when Prince Taldaris of Oppara unified the city-states of Taldor into a fledgling empire, when the tarrasque toppled the ziggurats of Ninshabur. This was the age that ended with the ascendance of Aroden, the Last Azlanti, God of Humanity.",
 						"The centuries that followed saw the gradual formation of the modern Inner Sea region. The Witch-Queen Baba Yaga founded Irrisen and set a succession of daughters on its throne. Taldor entered a slow decline, losing territory to the Padishah Empire of Kelesh and to internal rebellions that culminated in the founding of Cheliax. Choral the Conqueror forged the lands of Brevoy. Diadian Ruel founded the Hellknights and the Varisian hero Suididia Ustav established Ustalav. Humanity made its mark on history. Then a century ago, Aroden died.",
 						"Thus began the present era, the Age of Lost Omens.",
 						"Aroden's death caused destruction across all of Golarion. In the north, a portal to the Abyss consumed the nation of Sarkoris as legions of the damned poured from the resulting Worldwound. In the south, an unceasing hurricane called the Eye of Abendego drowned the homeland of the Lirgeni and the Yamasans. Prophecies around the world failed, and humanity found itself without a patron god\u2014but humans persisted, as they always do. To this day, they remain widespread and ambitious as they continue to leave their mark on Golarion.",
-						"Humans offer players a number of advantages as characters. They're familiar; humans on Golarion are little different from humans on Earth. They live, love, hope, fear, curse, pray, and die in much the same way. They're ubiquitous. Humans are by far the most widespread sapient species on Golarion\u2014no matter where someone might look, there are likely humans nearby. Finally, they're diverse. A human can be anything and do anything, as their talents are infinitely adaptable to any task. No matter what idea a player has, somewhere there are humans who can fit that concept.",
+						"Humans offer players a number of advantages as characters. They're familiar; humans on Golarion are little different from humans on Earth. They live, love, hope, fear, curse, pray, and die in much the same way. They're ubiquitous. Humans are by far the most widespread sapient species on Golarion\u2014no matter where someone might look, there are likely humans nearby. Finally, they're diverse. A Ihminen can be anything and do anything, as their talents are infinitely adaptable to any task. No matter what idea a player has, somewhere there are humans who can fit that concept.",
 						{
 							"type": "pf2-h2",
 							"page": 6,
@@ -269,7 +269,7 @@
 										"The common stereotype of half-orcs in Avistan is that of savagery, but this view can vary wildly by culture. Mountaindwelling Cragkin are respected for their boldness. Jungle Rainkin are the golden children of their clans, saddled with high expectations. Desert Sandkin are associated with Sarenrae, and many call themselves the chosen of the goddess. Arctic Frostkin and Darklands Gloomkin are usually looked down upon by their respective orc cultures, seen as mere caretakers or scholars."
 									]
 								},
-								"When discussing human ethnicities on Golarion, it is important to note that what is called an ethnic group is to some extent an arbitrary label\u2014a person may call themself Lyrune-Quah, Shoanti, Varisian, or Avistani, all with equal truth. As in the real world, humanity on Golarion is a broad continuum of life, not a collection of neatly organized groups.",
+								"When discussing Ihminen ethnicities on Golarion, it is important to note that what is called an ethnic group is to some extent an arbitrary label\u2014a person may call themself Lyrune-Quah, Shoanti, Varisian, or Avistani, all with equal truth. As in the real world, humanity on Golarion is a broad continuum of life, not a collection of neatly organized groups.",
 								{
 									"type": "pf2-h3",
 									"name": "Erutaki",
@@ -396,7 +396,7 @@
 									"source": "LOCG",
 									"page": 9,
 									"entries": [
-										"The human ethnicities presented in this section are only a sampling of the breadth of human variety in Golarion\u2014a sampling that represents the larger part of the humans one might meet in the Inner Sea region, but it is in no way exhaustive. Iobarians are a diverse people found east of Brevoy, likely related to Ulfen, Kellids, and Taldans. They have long lived in small clans in the wilderness, raiding one another for cattle. Travelers in Irrisen may meet Jadwiga, who once ruled that land. All Jadwiga trace their ancestry to one of the witch -queens of Irrisen, and to their common mother, the ancient witch Baba Yaga. Jadwiga have an affinity for ice magic; they are pale and whitehaired, and frequently have blue or sea-green eyes. Varki are relatives of the Erutaki, originating in the mountains of northern Avistan where most make a living as hunters and herders. Further abroad, the continents of Casmaron and Arcadia are home to many more ethnicities, but these Casmar and Arcadian folk venture only rarely to the Inner Sea region."
+										"The Ihminen ethnicities presented in this section are only a sampling of the breadth of Ihminen variety in Golarion\u2014a sampling that represents the larger part of the humans one might meet in the Inner Sea region, but it is in no way exhaustive. Iobarians are a diverse people found east of Brevoy, likely related to Ulfen, Kellids, and Taldans. They have long lived in small clans in the wilderness, raiding one another for cattle. Travelers in Irrisen may meet Jadwiga, who once ruled that land. All Jadwiga trace their ancestry to one of the witch -queens of Irrisen, and to their common mother, the ancient witch Baba Yaga. Jadwiga have an affinity for ice magic; they are pale and whitehaired, and frequently have blue or sea-green eyes. Varki are relatives of the Erutaki, originating in the mountains of northern Avistan where most make a living as hunters and herders. Further abroad, the continents of Casmaron and Arcadia are home to many more ethnicities, but these Casmar and Arcadian folk venture only rarely to the Inner Sea region."
 									]
 								},
 								{
@@ -405,7 +405,7 @@
 									"source": "LOCG",
 									"page": 10,
 									"entries": [
-										"The ancient Azlanti were tall and athletic people, with expressive eyebrows and a tendency toward widow's peaks. Skin color ran the gamut from midnight black to snow pale. Dark indigo and violet eyes were common among those with Azlanti heritage. Azlanti humans were thought lost, as after Earthfall, the scattered survivors merged with the Varisian peoples. But recently, a temporal paradox of unimaginable power pulled a small population of Azlanti humans 10,000 years forward into the present day, where they are swiftly adapting to their new situation."
+										"The ancient Azlanti were tall and athletic people, with expressive eyebrows and a tendency toward widow's peaks. Skin color ran the gamut from midnight black to snow pale. Dark indigo and violet eyes were common among those with Azlanti Sukujuuri. Azlanti humans were thought lost, as after Earthfall, the scattered survivors merged with the Varisian peoples. But recently, a temporal paradox of unimaginable power pulled a small population of Azlanti humans 10,000 years forward into the present day, where they are swiftly adapting to their new situation."
 									]
 								},
 								{
@@ -414,9 +414,9 @@
 									"page": 10,
 									"source": "LOCG",
 									"entries": [
-										"Half-elves have been part of society for as long as humans and elves have lived alongside one another. The inevitable offspring of close association, half-elves are a people caught betwixt and between, with elven agelessness and skill on one side, and human energy and passion on the other. Physically, half-elves resemble humans with pointed ears, thin features, and a tall and slender build, though some reflect one or the other part of their heritage more strongly. Half-elves pass on both ancestries to their children; many half-elves are the children of other half-elves.",
-										"Half-elves have no single home or origin. As a result, what half-elven cultures exist typically emphasize fitting in, adapting, and making do\u2014finding a home somewhere and somehow. Many half-elves become intermediaries between different people, their unique upbringing helping them see all facets of a relationship. In more recent years, some half-elven philosophers and artists have pushed the idea of the Soul's Homeland\u2014that half-elves are not simply half human and half elven, but something wholly unique, adaptable yet understanding, which will one day blossom into its own society and nation.",
-										"Half-elf identities are complicated, as they encompass both their human and elven nationality and heritage. Half-elf ethnicities include the Gateborn, descended from Aiudeen elves; Snowborn, descended from Ilverani; Mistborn, descended from Mualijae; Spireborn, descended from Spiresworn; Hollowborn, descended from drow; and Shoreborn, descended from aquatic elves. How half-elves relate to the elven side of their ancestry frequently depends on their elven heritage. Hollowborn are widely scorned and often must claw for every advantage to survive. Meanwhile, Mistborn and Spireborn hold valued roles as interpreters and lorekeepers among the Ekujae and as ambassadors and spies for the Spiresworn, respectively."
+										"Half-elves have been part of society for as long as humans and elves have lived alongside one another. The inevitable offspring of close association, half-elves are a people caught betwixt and between, with elven agelessness and skill on one side, and Ihminen energy and passion on the other. Physically, half-elves resemble humans with pointed ears, thin features, and a tall and slender build, though some reflect one or the other part of their Sukujuuri more strongly. Half-elves pass on both ancestries to their children; many half-elves are the children of other half-elves.",
+										"Half-elves have no single home or origin. As a result, what half-elven cultures exist typically emphasize fitting in, adapting, and making do\u2014finding a home somewhere and somehow. Many half-elves become intermediaries between different people, their unique upbringing helping them see all facets of a relationship. In more recent years, some half-elven philosophers and artists have pushed the idea of the Soul's Homeland\u2014that half-elves are not simply half Ihminen and half elven, but something wholly unique, adaptable yet understanding, which will one day blossom into its own society and nation.",
+										"Half-elf identities are complicated, as they encompass both their Ihminen and elven nationality and Sukujuuri. Half-elf ethnicities include the Gateborn, descended from Aiudeen elves; Snowborn, descended from Ilverani; Mistborn, descended from Mualijae; Spireborn, descended from Spiresworn; Hollowborn, descended from drow; and Shoreborn, descended from aquatic elves. How half-elves relate to the elven side of their ancestry frequently depends on their elven Sukujuuri. Hollowborn are widely scorned and often must claw for every advantage to survive. Meanwhile, Mistborn and Spireborn hold valued roles as interpreters and lorekeepers among the Ekujae and as ambassadors and spies for the Spiresworn, respectively."
 									]
 								},
 								{
@@ -425,8 +425,8 @@
 									"source": "LOCG",
 									"page": 10,
 									"entries": [
-										"In northern Avistan, half-orcs tell the story of how the goddess {@deity Pharasma}, exasperated by all the souls that came to her from every clash of orc and human, directed that a portion be returned as the children of the two species, to spare her the trouble of sorting them. Farther south, half-orcs claim that the Lord of Iron, Gorum, was a half-orc, and allowed humans and orcs to mix so that he could be born. Regardless, half-orcs are born from humans, orcs, and half-orcs, with many half-orcs the children of two half-orc parents. They stand 6 or 7 feet tall, broad-shouldered and heavily muscled, with greenish -gray skin, dark hair, and tusk-like canine teeth.",
-										"Half-orcs often find commonality in their shared struggles. Humans and orcs have rarely gotten along, and so most half-orcs endure prejudice, racism, and sometimes outright slavery among human societies\u2014though after the orcs of Belkzen rose up against the recently revived Whispering Tyrant, this conflict has somewhat lessened. This prejudice has resulted in a growing culture that prizes self-sufficiency and competition, as well as argument and debate\u2014after all, words are one of the hardest things to take away. Some half-orcs are fortunate enough to live in societies that prize them; in the martial Shoanti and Ulfen cultures, for example, skin color is less important than the ability to heft an axe."
+										"In northern Avistan, half-orcs tell the story of how the goddess {@deity Pharasma}, exasperated by all the souls that came to her from every clash of orc and Ihminen, directed that a portion be returned as the children of the two species, to spare her the trouble of sorting them. Farther south, half-orcs claim that the Lord of Iron, Gorum, was a half-orc, and allowed humans and orcs to mix so that he could be born. Regardless, half-orcs are born from humans, orcs, and half-orcs, with many half-orcs the children of two half-orc parents. They stand 6 or 7 feet tall, broad-shouldered and heavily muscled, with greenish -gray skin, dark hair, and tusk-like canine teeth.",
+										"Half-orcs often find commonality in their shared struggles. Humans and orcs have rarely gotten along, and so most half-orcs endure prejudice, racism, and sometimes outright slavery among Ihminen societies\u2014though after the orcs of Belkzen rose up against the recently revived Whispering Tyrant, this conflict has somewhat lessened. This prejudice has resulted in a growing culture that prizes self-sufficiency and competition, as well as argument and debate\u2014after all, words are one of the hardest things to take away. Some half-orcs are fortunate enough to live in societies that prize them; in the martial Shoanti and Ulfen cultures, for example, skin color is less important than the ability to heft an axe."
 									]
 								}
 							]
@@ -435,12 +435,12 @@
 				}
 			],
 			"heritageInfo": [
-				"Unlike other ancestries, humans don't have significant physiological differences defined by their lineage. Instead, their heritages either reveal their potential as a people or reflect lineages from multiple ancestries. Choose one of the following human heritages at 1st level."
+				"Unlike other ancestries, humans don't have significant physiological differences defined by their lineage. Instead, their heritages either reveal their potential as a people or reflect lineages from multiple ancestries. Choose one of the following Ihminen heritages at 1st level."
 			],
-			"heritage": [
+			"Sukujuuri": [
 				{
-					"name": "Half-Elf",
-					"shortName": "Half-Elf",
+					"name": "Homo-Aijuvaris",
+					"shortName": "Homo-Aijuvaris",
 					"source": "CRB",
 					"page": 56,
 					"traits": [
@@ -448,7 +448,7 @@
 						"half-elf"
 					],
 					"entries": [
-						"Either one of your parents was an elf, or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the {@trait elf} trait and {@ability low-light vision}. In addition, you can select elf, half-elf, and human feats whenever you gain an {@filter ancestry feat|feats||type=ancestry|ancestry & heritage=elf;half-elf;human}."
+						"Either one of your parents was an elf, or one or both were half-elves. You have pointed ears and other telltale signs of elf Sukujuuri. You gain the {@trait elf} trait and {@ability low-light vision}. In addition, you can select elf, half-elf, and Ihminen feats whenever you gain an {@filter ancestry feat|feats||type=ancestry|ancestry & Sukujuuri=elf;half-elf;Ihminen}."
 					],
 					"info": [
 						{
@@ -461,18 +461,18 @@
 									"page": 55,
 									"name": "OTHER HALVES",
 									"entries": [
-										"By default, half-elves and half-orcs descend from humans, but your GM might allow you to be the offspring of an elf, orc, or different ancestry. In these cases, the GM will let you select the half-elf or half-orc heritage as the heritage for this other ancestry. The most likely other parent of a half-elf are gnomes and halflings, and the most likely parents of a half-orc are goblins, halflings, and dwarves."
+										"By default, half-elves and half-orcs descend from humans, but your GM might allow you to be the offspring of an elf, orc, or different ancestry. In these cases, the GM will let you select the half-elf or half-orc Sukujuuri as the Sukujuuri for this other ancestry. The most likely other parent of a half-elf are gnomes and halflings, and the most likely parents of a half-orc are goblins, halflings, and dwarves."
 									]
 								},
-								"A half-elf is born to an elf and a human, or to two half-elves. The life of a half-elf can be difficult, often marked by a struggle to fit in. Half-elves don't have their own homeland on Golarion, nor are populations of half-elves particularly tied to one another, since they often have very disparate human and elven traditions. Instead, most half-elves attempt to find acceptance in either human or elven settlements.",
-								"Half-elves often appear primarily human, with subtly pointed ears and a taller stature than most full-blooded humans. Half-elves lack the almost alien eyes of their elf parents, though they do have a natural presence\u2014and often a striking beauty\u2014that leads many to become artists or entertainers. Despite this innate appeal, many half.elves have difficulty forming lasting bonds with either humans or elves due to the distance they feel from both peoples as a whole.",
+								"A half-elf is born to an elf and a Ihminen, or to two half-elves. The life of a half-elf can be difficult, often marked by a struggle to fit in. Half-elves don't have their own homeland on Golarion, nor are populations of half-elves particularly tied to one another, since they often have very disparate Ihminen and elven traditions. Instead, most half-elves attempt to find acceptance in either Ihminen or elven settlements.",
+								"Half-elves often appear primarily Ihminen, with subtly pointed ears and a taller stature than most full-blooded humans. Half-elves lack the almost alien eyes of their elf parents, though they do have a natural presence\u2014and often a striking beauty\u2014that leads many to become artists or entertainers. Despite this innate appeal, many half.elves have difficulty forming lasting bonds with either humans or elves due to the distance they feel from both peoples as a whole.",
 								"Half-elves live longer than other humans, often reaching an age around 150 years. This causes some of them to fear friendship and romance with humans, knowing that they'll likely outlive their companions.",
 								{
 									"type": "pf2-h3",
 									"page": 55,
 									"name": "Playing a Half-Elf",
 									"entries": [
-										"You can create a half-elf character by selecting the half-elf heritage at 1st level. This gives you access to elf and half-elf ancestry feats in addition to human ancestry feats."
+										"You can create a half-elf character by selecting the half-elf Sukujuuri at 1st level. This gives you access to elf and half-elf ancestry feats in addition to Ihminen ancestry feats."
 									]
 								},
 								{
@@ -499,7 +499,7 @@
 											"type": "list",
 											"items": [
 												"Find you more attractive than humans and more approachable than elves.",
-												"Dismiss your human ethnicity and culture in light of your elven heritage.",
+												"Dismiss your Ihminen ethnicity and culture in light of your elven Sukujuuri.",
 												"Downplay the challenges of being caught between two cultures."
 											]
 										}
@@ -510,8 +510,8 @@
 					]
 				},
 				{
-					"name": "Half-Orc",
-					"shortName": "Half-Orc",
+					"name": "Homo-Dromaaris",
+					"shortName": "Homo-Dromaaris",
 					"source": "CRB",
 					"page": 56,
 					"traits": [
@@ -519,7 +519,7 @@
 						"orc"
 					],
 					"entries": [
-						"One of your parents was an orc, or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the {@trait orc} trait and {@ability low-light vision}. In addition, you can select orc, half-orc, and human feats whenever you gain an {@filter ancestry feat|feats||type=ancestry|ancestry & heritage=orc;half-orc;human}."
+						"One of your parents was an orc, or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc Sukujuuri. You gain the {@trait orc} trait and {@ability low-light vision}. In addition, you can select orc, half-orc, and Ihminen feats whenever you gain an {@filter ancestry feat|feats||type=ancestry|ancestry & Sukujuuri=orc;half-orc;Ihminen}."
 					],
 					"info": [
 						{
@@ -527,7 +527,7 @@
 							"page": 55,
 							"name": "Half-Orcs",
 							"entries": [
-								"A half-orc is the offspring of a human and an orc, or of two half-orcs. Because some intolerant people see orcs as more akin to monsters than people, they sometimes hate and fear half-orcs simply due to their lineage. This commonly pushes half-orcs to the margins of society, where some find work in manual labor or as mercenaries, and others fall into crime or cruelty. Many who can't stand the indignities heaped on them in human society find a home among their orc kin or trek into the wilderness to live in peace, apart from society's judgment.",
+								"A half-orc is the offspring of a Ihminen and an orc, or of two half-orcs. Because some intolerant people see orcs as more akin to monsters than people, they sometimes hate and fear half-orcs simply due to their lineage. This commonly pushes half-orcs to the margins of society, where some find work in manual labor or as mercenaries, and others fall into crime or cruelty. Many who can't stand the indignities heaped on them in Ihminen society find a home among their orc kin or trek into the wilderness to live in peace, apart from society's judgment.",
 								"Humans often assume half-orcs are unintelligent or uncivilized, and half-orcs rarely find acceptance among societies with many such folk. To an orc tribe, a half-orc is considered smart enough to make a good war leader but weaker physically than other orcs. Many half-orcs thus end up having low status among orc tribes unless they can prove their strength.",
 								"A half-orc has a shorter lifespan than other humans, living to be roughly 70 years old.",
 								{
@@ -535,7 +535,7 @@
 									"page": 56,
 									"name": "Playing a Half-Orc",
 									"entries": [
-										"You can create a half-orc character by selecting the half-orc heritage at 1st level. This gives you access to orc and half-orc ancestry feats in addition to human ancestry feats."
+										"You can create a half-orc character by selecting the half-orc Sukujuuri at 1st level. This gives you access to orc and half-orc ancestry feats in addition to Ihminen ancestry feats."
 									]
 								},
 								{
@@ -573,8 +573,8 @@
 					]
 				},
 				{
-					"name": "Skilled Heritage",
-					"shortName": "Skilled",
+					"name": "Taitava Sukujuuri",
+					"shortName": "Taitava",
 					"source": "CRB",
 					"page": 56,
 					"entries": [
@@ -582,8 +582,8 @@
 					]
 				},
 				{
-					"name": "Versatile Heritage",
-					"shortName": "Versatile",
+					"name": "Monipuolinen Sukujuuri",
+					"shortName": "Monipuolinen",
 					"source": "CRB",
 					"page": 56,
 					"entries": [
@@ -591,17 +591,17 @@
 					]
 				},
 				{
-					"name": "Wintertouched Heritage",
-					"shortName": "Wintertouched",
+					"name": "Talven koskema Sukujuuri",
+					"shortName": "Talven koskema",
 					"source": "LOCG",
 					"page": 11,
 					"entries": [
-						"The power of winter flows through you. This heritage is most common among the Jadwiga of Irrisen, due to their descent from Baba Yaga, and certain Erutaki touched by the spirits. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on)."
+						"The power of winter flows through you. This Sukujuuri is most common among the Jadwiga of Irrisen, due to their descent from Baba Yaga, and certain Erutaki touched by the spirits. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on)."
 					]
 				}
 			],
 			"summary": {
-				"text": "Humans are incredibly diverse. Some, such as half-elves and half-orcs, even have non-human ancestors.",
+				"text": "Humans are incredibly diverse. Some, such as half-elves and half-orcs, even have non-Ihminen ancestors.",
 				"images": [
 					"https://2e.aonprd.com/Images/Ancestries/Human01.png"
 				]
