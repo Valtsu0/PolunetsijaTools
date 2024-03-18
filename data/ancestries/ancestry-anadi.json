@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Anadi",
+			"name": "Hämähemmo",
 			"source": "LOME",
 			"page": 102,
 			"rarity": "rare",
@@ -163,7 +163,7 @@
 			],
 			"heritage": [
 				{
-					"name": "Adaptive Anadi",
+					"name": "Sopeutuva Hämähemmo",
 					"shortName": "Adaptive",
 					"source": "LOME",
 					"page": 103,
@@ -172,7 +172,7 @@
 					]
 				},
 				{
-					"name": "Polychromatic Anadi",
+					"name": "Värikäs Hämähemmo",
 					"shortName": "Polychromatic",
 					"source": "LOME",
 					"page": 103,
@@ -181,7 +181,7 @@
 					]
 				},
 				{
-					"name": "Snaring Anadi",
+					"name": "Pyydystävä Hämähemmo",
 					"shortName": "Snaring",
 					"source": "LOME",
 					"page": 103,
@@ -190,7 +190,7 @@
 					]
 				},
 				{
-					"name": "Spindly Anadi",
+					"name": "Hintelä Hämähemmo",
 					"shortName": "Spindly",
 					"source": "LOME",
 					"page": 103,
@@ -199,7 +199,7 @@
 					]
 				},
 				{
-					"name": "Venomous Anadi",
+					"name": "Myrkyllinen Hämähemmo",
 					"shortName": "Venomous",
 					"source": "LOME",
 					"page": 103,
