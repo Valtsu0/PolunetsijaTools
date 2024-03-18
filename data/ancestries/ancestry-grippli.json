@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Grippli",
+			"name": "Rupisammakko",
 			"source": "LOME",
 			"page": 118,
 			"rarity": "uncommon",
@@ -22,11 +22,11 @@
 			],
 			"languages": [
 				"{@language Common}",
-				"{@language Grippli|b2}",
+				"{@language Rupisammakko|b2}",
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Abyssal}, {@language Aquan}, {@language Boggard|b1}, {@language Draconic}, {@language Elven}, {@language Iruxi|b1}, {@language Sylvan}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"grippli",
+				"Rupisammakko",
 				"humanoid"
 			],
 			"features": [
@@ -77,7 +77,7 @@
 					"page": 118,
 					"name": "Physical Description",
 					"entries": [
-						"Gripplis resemble humanoid tree frogs, with oversized eyes, wide mouths, and gangly physiques. Their slight frames and large toes afford excellent grip while climbing, while their colorful skin provides reliable camouflage that varies by their home environment\u2014green and brown for jungle-dwelling groups, blue and orange for riparian communities, and many other colors between. A grippli grows quickly, reaching adult size of about 2 feet in height about 3 years after hatching, though they're only considered adults around age 12. Gripplis rarely live beyond 60 years, though exceptional individuals occasionally live as long as a century."
+						"Gripplis resemble humanoid tree frogs, with oversized eyes, wide mouths, and gangly physiques. Their slight frames and large toes afford excellent grip while climbing, while their colorful skin provides reliable camouflage that varies by their home environment\u2014green and brown for jungle-dwelling groups, blue and orange for riparian communities, and many other colors between. A Rupisammakko grows quickly, reaching adult size of about 2 feet in height about 3 years after hatching, though they're only considered adults around age 12. Gripplis rarely live beyond 60 years, though exceptional individuals occasionally live as long as a century."
 					]
 				},
 				{
@@ -85,7 +85,7 @@
 					"page": 118,
 					"name": "Society",
 					"entries": [
-						"Gripplis lead a sophisticated hunter-gatherer lifestyle with which they reshape the landscape to suit their needs: building spillways to trap fish, seeding fruit-bearing trees, sowing cover-granting foliage for future hunts, and more techniques that often escape an agriculturist's eye. These strategies rely on community cooperation as well as dispersed populations, so gripplis commonly live in small villages, each part of a complex web of alliances and relationships. Reclusiveness has preserved grippli lives and lifestyles for millennia, yet they increasingly find themselves threatened by ancient evils and new explorers alike."
+						"Gripplis lead a sophisticated hunter-gatherer lifestyle with which they reshape the landscape to suit their needs: building spillways to trap fish, seeding fruit-bearing trees, sowing cover-granting foliage for future hunts, and more techniques that often escape an agriculturist's eye. These strategies rely on community cooperation as well as dispersed populations, so gripplis commonly live in small villages, each part of a complex web of alliances and relationships. Reclusiveness has preserved Rupisammakko lives and lifestyles for millennia, yet they increasingly find themselves threatened by ancient evils and new explorers alike."
 					]
 				},
 				{
@@ -101,7 +101,7 @@
 					"page": 118,
 					"name": "Names",
 					"entries": [
-						"Grippli names often include resonant vowels and chirped consonants that remain difficult for non-gripplis to vocalize properly. Gripplis that travel widely often adopt one or more names more easily replicated by their associates."
+						"Rupisammakko names often include resonant vowels and chirped consonants that remain difficult for non-gripplis to vocalize properly. Gripplis that travel widely often adopt one or more names more easily replicated by their associates."
 					]
 				},
 				{
@@ -115,7 +115,7 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 120,
-					"name": "Grippli Adventurers",
+					"name": "Rupisammakko Adventurers",
 					"entries": [
 						"For the many gripplis who hail from remote regions, wilderness backgrounds like {@background hunter}, {@background nomad}, or {@background scout} are excellent fits. Those more accustomed to urban areas might be {@background animal whisperer||animal whisperers}, {@background bounty hunter||bounty hunters}, and {@background herbalist||herbalists}. {@background hermit||Hermits} are common, and {@background emissary||emissaries} are critical to maintaining relationships with other peoples. Thanks to their deep cultural connections to nature, gripplis make excellent {@class druid||druids} and {@class ranger||rangers}. Their musical traditions are a great fit for {@class bard||bards}. Gripplis' natural agility and perceptiveness also make them capable {@class cleric||clerics}, {@class monk||monks}, and {@class rogue||rogues}."
 					]
@@ -124,19 +124,19 @@
 					"type": "pf2-sidebar",
 					"page": 121,
 					"source": "LOME",
-					"name": "Grippli Enclaves",
+					"name": "Rupisammakko Enclaves",
 					"reference": {
 						"auto": true
 					}
 				}
 			],
 			"heritageInfo": [
-				"Choose one of the following grippli heritages at 1st level."
+				"Choose one of the following Rupisammakko heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Poisonhide Grippli",
-					"shortName": "Poisonhide",
+					"name": "Myrkkynahka Rupisammakko",
+					"shortName": "Myrkkynahka",
 					"source": "LOME",
 					"page": 119,
 					"entries": [
@@ -152,15 +152,15 @@
 								"unit": "reaction"
 							},
 							"traits": [
-								"grippli",
+								"Rupisammakko",
 								"poison"
 							],
 							"actionType": {
 								"ancestry": [
-									"Grippli|LOME"
+									"Rupisammakko|LOME"
 								],
 								"heritage": [
-									"Poisonhide Grippli|LOME"
+									"Poisonhide Rupisammakko|LOME"
 								]
 							},
 							"frequency": {
@@ -175,8 +175,8 @@
 					]
 				},
 				{
-					"name": "Snaptongue Grippli",
-					"shortName": "Snaptongue",
+					"name": "Vieterikieli Rupisammakko",
+					"shortName": "Vieterikieli",
 					"source": "LOME",
 					"page": 119,
 					"entries": [
@@ -184,8 +184,8 @@
 					]
 				},
 				{
-					"name": "Stickytoe Grippli",
-					"shortName": "Stickytoe",
+					"name": "Tahmavarvas Rupisammakko",
+					"shortName": "Tahmavarvas",
 					"source": "LOME",
 					"page": 119,
 					"entries": [
@@ -193,8 +193,8 @@
 					]
 				},
 				{
-					"name": "Windweb Grippli",
-					"shortName": "Windweb",
+					"name": "Tuuliräpylä Rupisammakko",
+					"shortName": "Tuuliräpylä",
 					"source": "LOME",
 					"page": 119,
 					"entries": [
