@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Catfolk",
+			"name": "Katti",
 			"source": "APG",
 			"page": 8,
 			"otherSources": {
@@ -31,7 +31,7 @@
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Draconic}, {@language Elven}, {@language Gnomish}, {@language Goblin}, {@language Halfling}, {@language Iruxi|b1} (the language of lizardfolk), {@language Jotun}, {@language Sylvan}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"catfolk",
+				"Katti",
 				"humanoid"
 			],
 			"features": [
@@ -49,12 +49,12 @@
 				}
 			],
 			"flavor": [
-				"Curious and gregarious wanderers, catfolk combine features of felines and humanoids in both appearance and temperament. They enjoy learning new things, collecting new tales and trinkets, and ensuring their loved ones are safe and happy. Catfolk view themselves as chosen guardians of natural places in the world and are often recklessly brave, even in the face of overwhelming opposition."
+				"Curious and gregarious wanderers, Katti combine features of felines and humanoids in both appearance and temperament. They enjoy learning new things, collecting new tales and trinkets, and ensuring their loved ones are safe and happy. Katti view themselves as chosen guardians of natural places in the world and are often recklessly brave, even in the face of overwhelming opposition."
 			],
 			"info": [
-				"Catfolk are outgoing, active humanoids who delight in discovery, whether of hidden ruins or a comfortable place to nap. They are exceptionally social, both within their tight-knit communities and with other creatures they meet. Remarkably brave, catfolk see themselves as guardians of the world against forces that would assail it, and they believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight.",
-				"Catfolk have fast reflexes and are even able to twist themselves in the air while falling to land on their feet. As quick as these reflexes are, catfolk have quicker tempers, shifting from effusive glee to aggrieved fury in an instant. Like mundane felines, catfolk involuntarily purr when pleased and growl when surprised or angry.",
-				"If you want a character who is curious, brave, friendly, and nimble in body and mind, you should play a catfolk.",
+				"Katti are outgoing, active humanoids who delight in discovery, whether of hidden ruins or a comfortable place to nap. They are exceptionally social, both within their tight-knit communities and with other creatures they meet. Remarkably brave, Katti see themselves as guardians of the world against forces that would assail it, and they believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight.",
+				"Katti have fast reflexes and are even able to twist themselves in the air while falling to land on their feet. As quick as these reflexes are, Katti have quicker tempers, shifting from effusive glee to aggrieved fury in an instant. Like mundane felines, Katti involuntarily purr when pleased and growl when surprised or angry.",
+				"If you want a character who is curious, brave, friendly, and nimble in body and mind, you should play a Katti.",
 				{
 					"type": "pf2-h3",
 					"page": 8,
@@ -90,8 +90,8 @@
 					"page": 8,
 					"name": "Physical Description",
 					"entries": [
-						"Although all catfolk walk upright and have soft fur, a long tail, large ears, and vertical pupils, they show at least as much variety as ordinary felines. Catfolk have nimble fingers with short claws that are usually retractable. Most catfolk take great pride in maintaining their appearance and rarely suffer the indignity of being wet or dirty if they can avoid it.",
-						"Catfolk mature quickly and are able to walk at only a few months old, but they otherwise start their careers at roughly the same age as humans do and live to be 60 or 70 years of age. Catfolk are rarely taller than the average human and, because of their lean builds, almost never weigh as much as a human of similar height."
+						"Although all Katti walk upright and have soft fur, a long tail, large ears, and vertical pupils, they show at least as much variety as ordinary felines. Katti have nimble fingers with short claws that are usually retractable. Most Katti take great pride in maintaining their appearance and rarely suffer the indignity of being wet or dirty if they can avoid it.",
+						"Katti mature quickly and are able to walk at only a few months old, but they otherwise start their careers at roughly the same age as humans do and live to be 60 or 70 years of age. Katti are rarely taller than the average human and, because of their lean builds, almost never weigh as much as a human of similar height."
 					]
 				},
 				{
@@ -99,8 +99,8 @@
 					"page": 9,
 					"name": "Society",
 					"entries": [
-						"Catfolk call themselves amurruns, although many consider this name to be private. They raise their children in large extended families, where they are given what many other humanoids see as a distressing latitude to explore and get into trouble from a remarkably young age. Catfolk learn a trade in a loose apprenticeship, and the majority learn several trades over their lives.",
-						"Catfolk societies are often led by an appointed leader who speaks on behalf of the community and mediates disputes. A catfolk leader is most often a spellcaster and usually female. Catfolk prefer to deal with grievances by making an elaborate showing of disinterest, or even leaving a community for a time so the problem can die away or work itself out."
+						"Katti call themselves amurruns, although many consider this name to be private. They raise their children in large extended families, where they are given what many other humanoids see as a distressing latitude to explore and get into trouble from a remarkably young age. Katti learn a trade in a loose apprenticeship, and the majority learn several trades over their lives.",
+						"Katti societies are often led by an appointed leader who speaks on behalf of the community and mediates disputes. A Katti leader is most often a spellcaster and usually female. Katti prefer to deal with grievances by making an elaborate showing of disinterest, or even leaving a community for a time so the problem can die away or work itself out."
 					]
 				},
 				{
@@ -108,8 +108,8 @@
 					"page": 9,
 					"name": "Alignment and Religion",
 					"entries": [
-						"Catfolk aren't a particularly religious people, but most do believe they were uplifted from great primeval cats to confront the evil abominations despoiling natural places and laboring to unmake reality. The gods blessed catfolk with language, the use of tools and weapons, and a strong sense of community.",
-						"Most catfolk are good. They enjoy the freedom to travel and like to set their own paths in life, so more catfolk are chaotic than lawful. Religious catfolk most often practice a nebulous form of animism, appeasing the spirits of the land and the creatures they hunt to preserve the natural order."
+						"Katti aren't a particularly religious people, but most do believe they were uplifted from great primeval cats to confront the evil abominations despoiling natural places and laboring to unmake reality. The gods blessed Katti with language, the use of tools and weapons, and a strong sense of community.",
+						"Most Katti are good. They enjoy the freedom to travel and like to set their own paths in life, so more Katti are chaotic than lawful. Religious Katti most often practice a nebulous form of animism, appeasing the spirits of the land and the creatures they hunt to preserve the natural order."
 					]
 				},
 				{
@@ -117,7 +117,7 @@
 					"page": 9,
 					"name": "Names",
 					"entries": [
-						"Catfolk are given short names in their youth. Adolescent catfolk are free to choose a different name when they first leave home, though some simply keep the name they've gotten used to. Catfolk love to add titles and honorifics to their names. Some catfolk use their titles exclusively among non-catfolk, and so become known by epithets like Six Fates, Fiend Killer, or Mistcloak."
+						"Katti are given short names in their youth. Adolescent Katti are free to choose a different name when they first leave home, though some simply keep the name they've gotten used to. Katti love to add titles and honorifics to their names. Some Katti use their titles exclusively among non-Katti, and so become known by epithets like Six Fates, Fiend Killer, or Mistcloak."
 					]
 				},
 				{
@@ -131,10 +131,10 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 9,
-					"name": "Catfolk Adventurers",
+					"name": "Katti Adventurers",
 					"entries": [
-						"Catfolk delight in venturing into unexplored areas, whether untrammeled wildernesses or ancient dungeons. They like finding treasures and baubles, but for most catfolk, the experience of the journey itself is the true reward.",
-						"Typical catfolk backgrounds include {@background acrobat}, {@background artist}, {@background gambler}, {@background hunter}, {@background nomad}, and {@background scout} from the Core Rulebook, plus {@background bandit|APG}, {@background courier|APG}, {@background insurgent|APG}, {@background outrider|APG}, and {@background root worker|APG} from this book. Catfolk's inherent curiosity and agility mean they excel as {@class swashbuckler|APG|swashbucklers}, {@class bard||bards}, {@class fighter||fighters}, and {@class rogue||rogues}. Their love of the natural world and drive to puzzle out secrets of all types leads many to become {@class investigator|APG|investigators}, {@class druid||druids}, or {@class sorcerer||sorcerers}."
+						"Katti delight in venturing into unexplored areas, whether untrammeled wildernesses or ancient dungeons. They like finding treasures and baubles, but for most Katti, the experience of the journey itself is the true reward.",
+						"Typical Katti backgrounds include {@background acrobat}, {@background artist}, {@background gambler}, {@background hunter}, {@background nomad}, and {@background scout} from the Core Rulebook, plus {@background bandit|APG}, {@background courier|APG}, {@background insurgent|APG}, {@background outrider|APG}, and {@background root worker|APG} from this book. Katti's inherent curiosity and agility mean they excel as {@class swashbuckler|APG|swashbucklers}, {@class bard||bards}, {@class fighter||fighters}, and {@class rogue||rogues}. Their love of the natural world and drive to puzzle out secrets of all types leads many to become {@class investigator|APG|investigators}, {@class druid||druids}, or {@class sorcerer||sorcerers}."
 					]
 				},
 				{
@@ -142,33 +142,33 @@
 					"page": 16,
 					"source": "LOAG",
 					"entries": [
-						"Believed to originate somewhere in central or southern Garund, catfolk\u2014known amongst themselves as amurruns\u2014live everywhere around the Inner Sea. Catfolk legends claim that when Golarion was first created, the gods made catfolk to be guardians tasked with hunting threats to the young world. They consider their nation of Murraseth in southern Garund their hereditary home, though the allure of travel appeals to many catfolk. Propelled by their culture of discovery and bursts of restless energy, they've spread across the world since ancient times, pursuing their love of company and their ancient sense of duty."
+						"Believed to originate somewhere in central or southern Garund, Katti\u2014known amongst themselves as amurruns\u2014live everywhere around the Inner Sea. Katti legends claim that when Golarion was first created, the gods made Katti to be guardians tasked with hunting threats to the young world. They consider their nation of Murraseth in southern Garund their hereditary home, though the allure of travel appeals to many Katti. Propelled by their culture of discovery and bursts of restless energy, they've spread across the world since ancient times, pursuing their love of company and their ancient sense of duty."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 17,
 					"source": "LOAG",
-					"name": "Other Catfolk",
+					"name": "Other Katti",
 					"entries": [
-						"Numerous catfolk ethnicities exist beyond the Inner Sea. The black-spotted Guarrxil of southern Arcadia are renowned for their principled mercenary companies and heroic rangers. The mysterious Caimurru of the western Arcadian coast trade more with First World caravans than with other mortals. The Lyashtaki catfolk of the Valashmai Jungle sometimes make treks far from the jungle via coast-hopping boats."
+						"Numerous Katti ethnicities exist beyond the Inner Sea. The black-spotted Guarrxil of southern Arcadia are renowned for their principled mercenary companies and heroic rangers. The mysterious Caimurru of the western Arcadian coast trade more with First World caravans than with other mortals. The Lyashtaki Katti of the Valashmai Jungle sometimes make treks far from the jungle via coast-hopping boats."
 					]
 				},
 				{
 					"type": "pf2-h2",
 					"page": 16,
 					"source": "LOAG",
-					"name": "Catfolk of the Inner Sea",
+					"name": "Katti of the Inner Sea",
 					"entries": [
-						"The ancient catfolk diaspora has established distinct cultures and ethnicities around the world, though many of them live among other humanoids so consistently that they rarely form separate settlements.",
+						"The ancient Katti diaspora has established distinct cultures and ethnicities around the world, though many of them live among other humanoids so consistently that they rarely form separate settlements.",
 						{
 							"type": "pf2-h3",
 							"page": 16,
 							"name": "Askedhaki",
 							"source": "LOAG",
 							"entries": [
-								"Askedhakis are diaspora catfolk commonly found in Vudra, Jalmeray, and Nex. They tend to have striped hair or fur and wear light clothing suitable for travel in oppressive heat and humidity. Most eke out their living as nomadic traders, but their warriors traditionally hunt tigers, rakshasas, and other creatures that prey on humanoids. As a mark of prestige and culture, Askedhakis usually wear the most expensive jewelry they can afford in a variety of styles. They view long fangs as an attractive sign of strength, and their artists and artisans have developed various techniques for enhancing one's fangs with metal.",
-								"Askedhakis typically have the {@ancestry catfolk|apg|clawed|clawed} or {@ancestry catfolk|apg|flexible|flexible} catfolk heritage and often take the {@feat Saber Teeth|LOAG} ancestry feat."
+								"Askedhakis are diaspora Katti commonly found in Vudra, Jalmeray, and Nex. They tend to have striped hair or fur and wear light clothing suitable for travel in oppressive heat and humidity. Most eke out their living as nomadic traders, but their warriors traditionally hunt tigers, rakshasas, and other creatures that prey on humanoids. As a mark of prestige and culture, Askedhakis usually wear the most expensive jewelry they can afford in a variety of styles. They view long fangs as an attractive sign of strength, and their artists and artisans have developed various techniques for enhancing one's fangs with metal.",
+								"Askedhakis typically have the {@ancestry Katti|apg|clawed|clawed} or {@ancestry Katti|apg|flexible|flexible} Katti heritage and often take the {@feat Saber Teeth|LOAG} ancestry feat."
 							]
 						},
 						{
@@ -177,8 +177,8 @@
 							"name": "Mitzenki",
 							"source": "LOAG",
 							"entries": [
-								"Mitzenkis are indigenous to the Crown of the World and nearby arctic regions, such as Iobaria and northern Arcadia. They often appear taller and brawnier than most other catfolk, and they have either striped or spotted fur that ranges from white to lightly colored. Their home conditions mean these catfolk rarely encourage leaving their communities or traveling abroad, so they like to know everything about their community and neighbors. Mitzenki armor, weapons, and clothing traditionally feature leather and prominent bones.",
-								"Mitzenkis overwhelmingly have the {@ancestry catfolk|apg|winter|winter} catfolk heritage."
+								"Mitzenkis are indigenous to the Crown of the World and nearby arctic regions, such as Iobaria and northern Arcadia. They often appear taller and brawnier than most other Katti, and they have either striped or spotted fur that ranges from white to lightly colored. Their home conditions mean these Katti rarely encourage leaving their communities or traveling abroad, so they like to know everything about their community and neighbors. Mitzenki armor, weapons, and clothing traditionally feature leather and prominent bones.",
+								"Mitzenkis overwhelmingly have the {@ancestry Katti|apg|winter|winter} Katti heritage."
 							]
 						},
 						{
@@ -187,8 +187,8 @@
 							"name": "Qittaj",
 							"source": "LOAG",
 							"entries": [
-								"The diasporic Qittaj catfolk are most common in Kelesh, including some parts of eastern Qadira. They tend to have yellow or green eyes and striped bronze or yellow fur. They frequent the busy, sunny marketplaces of Katheer and other major cities as well as journey through major travel hubs and oases across the empire. Qittaj catfolk also use surnames, an unusual practice among their kind, generally taking on an ancestor's title as the clan surname. They're also some of the most religious catfolk, often worshipping {@deity Sarenrae}.",
-								"Qittaj catfolk typically have the {@ancestry catfolk|apg|nine lives|nine lives} or {@ancestry catfolk|apg|sharp-eared|sharp-eared|LOAG} catfolk heritage."
+								"The diasporic Qittaj Katti are most common in Kelesh, including some parts of eastern Qadira. They tend to have yellow or green eyes and striped bronze or yellow fur. They frequent the busy, sunny marketplaces of Katheer and other major cities as well as journey through major travel hubs and oases across the empire. Qittaj Katti also use surnames, an unusual practice among their kind, generally taking on an ancestor's title as the clan surname. They're also some of the most religious Katti, often worshipping {@deity Sarenrae}.",
+								"Qittaj Katti typically have the {@ancestry Katti|apg|nine lives|nine lives} or {@ancestry Katti|apg|sharp-eared|sharp-eared|LOAG} Katti heritage."
 							]
 						},
 						{
@@ -197,8 +197,8 @@
 							"name": "Sethurril",
 							"source": "LOAG",
 							"entries": [
-								"Sethurrils are the most populous catfolk ethnicity in Garund and Avistan. Their ancestral home of Murraseth has stood as a rich and influential cultural touchstone since the Age of Darkness, leading many amurruns to equate catfolk culture with Sethurril culture. Sethurril fashion favors eye-catching, multicolor garments with puffy sleeves or flowing cloaks. They're especially likely to worship {@deity Desna}, whom they depict as a kindred catfolk explorer and hunter of the monsters lurking at the world's edges.",
-								"Sethurrils most often have the {@ancestry catfolk|apg|jungle|jungle} or {@ancestry catfolk|apg|hunting|hunting} catfolk heritage."
+								"Sethurrils are the most populous Katti ethnicity in Garund and Avistan. Their ancestral home of Murraseth has stood as a rich and influential cultural touchstone since the Age of Darkness, leading many amurruns to equate Katti culture with Sethurril culture. Sethurril fashion favors eye-catching, multicolor garments with puffy sleeves or flowing cloaks. They're especially likely to worship {@deity Desna}, whom they depict as a kindred Katti explorer and hunter of the monsters lurking at the world's edges.",
+								"Sethurrils most often have the {@ancestry Katti|apg|jungle|jungle} or {@ancestry Katti|apg|hunting|hunting} Katti heritage."
 							]
 						},
 						{
@@ -207,8 +207,8 @@
 							"name": "Shemtej",
 							"source": "LOAG",
 							"entries": [
-								"Many believe Shemtej catfolk to be the favored children of Bastet and wardens of dangerous spirits bound in the remote deserts of Osirion, Thuvia, and Rahadoum. Male shemtej catfolk are known for growing full, leonine manes. Their culture prioritizes free love, and Shemtejes largely disavow formalized marriage in favor of more fluid relationship structures. Nomadic family groups known as trains constantly change membership. Lovers come and go, children grow up and seek their own paths, and elders leave to pursue their personal goals.",
-								"Shemtejes often have the {@ancestry catfolk|apg|nine lives|nine lives} or {@ancestry catfolk|apg|liminal|liminal|LOAG} catfolk heritage."
+								"Many believe Shemtej Katti to be the favored children of Bastet and wardens of dangerous spirits bound in the remote deserts of Osirion, Thuvia, and Rahadoum. Male shemtej Katti are known for growing full, leonine manes. Their culture prioritizes free love, and Shemtejes largely disavow formalized marriage in favor of more fluid relationship structures. Nomadic family groups known as trains constantly change membership. Lovers come and go, children grow up and seek their own paths, and elders leave to pursue their personal goals.",
+								"Shemtejes often have the {@ancestry Katti|apg|nine lives|nine lives} or {@ancestry Katti|apg|liminal|liminal|LOAG} Katti heritage."
 							]
 						}
 					]
@@ -217,9 +217,9 @@
 					"type": "pf2-sidebar",
 					"page": 18,
 					"source": "LOAG",
-					"name": "Catfolk Luck",
+					"name": "Katti Luck",
 					"entries": [
-						"Catfolk are known for their luck, which they traditionally draw from spirits of creation that they've pleased or emulated. Many catfolk tend to experience this luck as an insistent urge that feels like a warning from a benevolent presence they can't perceive. Others experience it as a reflexive awareness of danger beyond their normal senses. More spiritual catfolk try to tune into the warnings from the spirits of fortune through an art known as serendipity reading."
+						"Katti are known for their luck, which they traditionally draw from spirits of creation that they've pleased or emulated. Many Katti tend to experience this luck as an insistent urge that feels like a warning from a benevolent presence they can't perceive. Others experience it as a reflexive awareness of danger beyond their normal senses. More spiritual Katti try to tune into the warnings from the spirits of fortune through an art known as serendipity reading."
 					]
 				},
 				{
@@ -228,7 +228,7 @@
 					"source": "LOAG",
 					"name": "Murraseth",
 					"entries": [
-						"Murraseth is the largest of several remote catfolk-majority city-states in central Garund. Even distant catfolk take pride in its guilds and its Houses of Names\u2014labyrinthine, live-in galleries for artists and performers who retell catfolk discoveries and tales. Many catfolk consider visiting a House of Names an important life milestone. Guilds dominate Murraseth. Perhaps the most distinctive of these groups is the Circle of Lifeshapers, comprised of polymorph specialists and healers."
+						"Murraseth is the largest of several remote Katti-majority city-states in central Garund. Even distant Katti take pride in its guilds and its Houses of Names\u2014labyrinthine, live-in galleries for artists and performers who retell Katti discoveries and tales. Many Katti consider visiting a House of Names an important life milestone. Guilds dominate Murraseth. Perhaps the most distinctive of these groups is the Circle of Lifeshapers, comprised of polymorph specialists and healers."
 					]
 				},
 				{
@@ -241,25 +241,25 @@
 						{
 							"type": "pf2-h3",
 							"page": 126,
-							"name": "Catfolk",
+							"name": "Katti",
 							"source": "LOME",
 							"reference": {
 								"auto": true
 							},
 							"entries": [
-								"To an outsider, catfolk might look like panthers distorted by some trick of the light. Others tend to conflate them with hermetic jungle druids or werecreatures, isolating themselves far from civilization. To those of the Expanse, the sight of bipedal pantherlike people moving through the thick foliage is one of the gravest omens of death that can be observed..."
+								"To an outsider, Katti might look like panthers distorted by some trick of the light. Others tend to conflate them with hermetic jungle druids or werecreatures, isolating themselves far from civilization. To those of the Expanse, the sight of bipedal pantherlike people moving through the thick foliage is one of the gravest omens of death that can be observed..."
 							]
 						}
 					]
 				}
 			],
 			"heritageInfo": [
-				"Catfolk have ancestors as varied as any felines. Choose one of the following catfolk heritages at 1st level."
+				"Katti have ancestors as varied as any felines. Choose one of the following Katti heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Clawed Catfolk",
-					"shortName": "Clawed",
+					"name": "Kynsikäs Katti",
+					"shortName": "Kynsikäs",
 					"source": "APG",
 					"page": 9,
 					"entries": [
@@ -267,8 +267,8 @@
 					]
 				},
 				{
-					"name": "Hunting Catfolk",
-					"shortName": "Hunting",
+					"name": "Metsästäjä Katti",
+					"shortName": "Metsästäjä",
 					"source": "APG",
 					"page": 9,
 					"entries": [
@@ -277,8 +277,8 @@
 					]
 				},
 				{
-					"name": "Jungle Catfolk",
-					"shortName": "Jungle",
+					"name": "Viidakko Katti",
+					"shortName": "Viidakko",
 					"source": "APG",
 					"page": 10,
 					"entries": [
@@ -286,17 +286,17 @@
 					]
 				},
 				{
-					"name": "Nine Lives Catfolk",
-					"shortName": "Nine Lives",
+					"name": "Yhdeksän elämää Katti",
+					"shortName": "Yhdeksän elämää",
 					"source": "APG",
 					"page": 10,
 					"entries": [
-						"Your family has always seemed to bounce back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives. If you are reduced to 0 Hit Points by a critical hit on an attack roll, you become {@condition dying 1} instead of {@condition dying 2}."
+						"Your family has always seemed to bounce back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other Katti whisper that you have nine lives. If you are reduced to 0 Hit Points by a critical hit on an attack roll, you become {@condition dying 1} instead of {@condition dying 2}."
 					]
 				},
 				{
-					"name": "Winter Catfolk",
-					"shortName": "Winter",
+					"name": "Talvi Katti",
+					"shortName": "Talvi",
 					"source": "APG",
 					"page": 10,
 					"entries": [
@@ -304,8 +304,8 @@
 					]
 				},
 				{
-					"name": "Flexible Catfolk",
-					"shortName": "Flexible",
+					"name": "Venyvä Katti",
+					"shortName": "Venyvä",
 					"source": "LOAG",
 					"page": 17,
 					"entries": [
@@ -313,8 +313,8 @@
 					]
 				},
 				{
-					"name": "Liminal Catfolk",
-					"shortName": "Liminal",
+					"name": "Maailmojen välinen Katti",
+					"shortName": "Maailmojen välinen",
 					"source": "LOAG",
 					"page": 17,
 					"entries": [
@@ -322,8 +322,8 @@
 					]
 				},
 				{
-					"name": "Sharp-Eared Catfolk",
-					"shortName": "Sharp-Eared",
+					"name": "Tarkkakorva Katti",
+					"shortName": "Tarkkakorva",
 					"source": "LOAG",
 					"page": 17,
 					"entries": [
@@ -332,7 +332,7 @@
 				}
 			],
 			"summary": {
-				"text": "Catfolk are highly social, feline humanoids prone to curiosity and wandering.",
+				"text": "Katti are highly social, feline humanoids prone to curiosity and wandering.",
 				"images": [
 					"https://2e.aonprd.com/Images/Ancestries/Catfolk01.png",
 					"https://2e.aonprd.com/Images/Ancestries/Catfolk02.png"

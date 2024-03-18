@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Conrasu",
+			"name": "Muinainen",
 			"source": "LOME",
 			"page": 106,
 			"rarity": "rare",
@@ -27,14 +27,14 @@
 			],
 			"traits": [
 				"aeon",
-				"conrasu",
+				"Muinainen",
 				"plant"
 			],
 			"features": [
 				{
 					"name": "Sunlight Healing",
 					"entries": [
-						"A conrasu can enter a meditative, healing state as a 10-minute activity when exposed to direct sunlight, in which case they recover {@dice 1d8} Hit Points. At 3rd level, and every 2 levels thereafter, this healing increases by {@dice 1d8}. Once a conrasu has recovered Hit Points in this way, they are temporarily immune to further uses of Sunlight Healing for 1 day."
+						"A Muinainen can enter a meditative, healing state as a 10-minute activity when exposed to direct sunlight, in which case they recover {@dice 1d8} Hit Points. At 3rd level, and every 2 levels thereafter, this healing increases by {@dice 1d8}. Once a Muinainen has recovered Hit Points in this way, they are temporarily immune to further uses of Sunlight Healing for 1 day."
 					]
 				}
 			],
@@ -78,9 +78,9 @@
 					"page": 106,
 					"name": "Physical Description",
 					"entries": [
-						"The true form of a conrasu is an abstract chunk of spiritual essence. While their being exists beyond the truth of humanoid senses, to the mortal eye, their body usually resembles a globe of light, darkness, or space. Floating, internal pinpricks of illumination sit inside the ball, slightly obscured as if peeking through a gelatinous substance. These \"cores\" surround themselves with bodies made out of still-living wood, creating the form that most people recognize as a conrasu. Conrasus themselves are called to a path and, once they find it, shape frames to create a suitable form, leading to a wide variety of appearances.",
-						"As a conrasu ages, the supple green wood of their body hardens, causing their limbs to lose mobility. Conrasus must constantly grow new arms and roots for their living exoskeleton, leaving their frozen limbs as immobile effigies along their shell.",
-						"Conrasus can't maintain their integrity without their wooden exoskeletons. A conrasu that loses its exoskeleton dissipates and dies, though they can be returned to life with magic like other beings."
+						"The true form of a Muinainen is an abstract chunk of spiritual essence. While their being exists beyond the truth of humanoid senses, to the mortal eye, their body usually resembles a globe of light, darkness, or space. Floating, internal pinpricks of illumination sit inside the ball, slightly obscured as if peeking through a gelatinous substance. These \"cores\" surround themselves with bodies made out of still-living wood, creating the form that most people recognize as a Muinainen. Conrasus themselves are called to a path and, once they find it, shape frames to create a suitable form, leading to a wide variety of appearances.",
+						"As a Muinainen ages, the supple green wood of their body hardens, causing their limbs to lose mobility. Conrasus must constantly grow new arms and roots for their living exoskeleton, leaving their frozen limbs as immobile effigies along their shell.",
+						"Conrasus can't maintain their integrity without their wooden exoskeletons. A Muinainen that loses its exoskeleton dissipates and dies, though they can be returned to life with magic like other beings."
 					]
 				},
 				{
@@ -89,7 +89,7 @@
 					"name": "Society",
 					"entries": [
 						"There are three distinct types of conrasus. Maintainers tend and care for others, believing they must cultivate a proper balance between various forces. Shapers build and direct those around them, and feel that balance is maintained by those who strive to preserve the world's equilibrium. Lastly, correctors fix problems of all sorts, often acting as stalwart bastions of law who perceive the world in absolutes, with few to no shades of gray. True balance can be achieved only in cases where pressure and force have been applied to make necessary changes.",
-						"On rare occasions, a conrasu may hear and heed the call of another form of extraplanar being. One might serve a psychopomp, another an archon, and yet another might become a witch and adopt an unknown figure as a patron."
+						"On rare occasions, a Muinainen may hear and heed the call of another form of extraplanar being. One might serve a psychopomp, another an archon, and yet another might become a witch and adopt an unknown figure as a patron."
 					]
 				},
 				{
@@ -105,7 +105,7 @@
 					"page": 107,
 					"name": "Names",
 					"entries": [
-						"Conrasus have little in the way of consciousness as others understand it before they self-actualize and leave the nursery-towns where they sprouted. That includes a name, a concept of gender, and even the passage of time beyond their little bubbles\u2014these are picked up in the wider world. As a result, a conrasu might have nearly any appellation."
+						"Conrasus have little in the way of consciousness as others understand it before they self-actualize and leave the nursery-towns where they sprouted. That includes a name, a concept of gender, and even the passage of time beyond their little bubbles\u2014these are picked up in the wider world. As a result, a Muinainen might have nearly any appellation."
 					]
 				},
 				{
@@ -119,15 +119,15 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 108,
-					"name": "Conrasu Adventurers",
+					"name": "Muinainen Adventurers",
 					"entries": [
-						"Maintainers who become adventurers are often {@class wizard||wizards}, {@class bard||bards}, or {@class cleric||clerics} who offer their magic and knowledge to the group and subtly nudge the party as needed. Correctors tend to become {@class champion||champions}, {@class cleric||clerics}, and {@class fighter||fighters}, forming heavy and hard living wood armor around themselves to keep them safe from harm. The rare shaper might travel with a group as a {@class druid} or even a {@class bard}, usually to accomplish a goal they believe lies outside of the enclaves. No matter the path a conrasu finds themselves on, they tend to come from similar backgrounds. {@background Field medic} and {@background herbalist} tend to fit those who find themselves comfortable in their homes and with those of their nursery while conrasus of nomad or emissary backgrounds tend to enjoy roaming from place to place."
+						"Maintainers who become adventurers are often {@class wizard||wizards}, {@class bard||bards}, or {@class cleric||clerics} who offer their magic and knowledge to the group and subtly nudge the party as needed. Correctors tend to become {@class champion||champions}, {@class cleric||clerics}, and {@class fighter||fighters}, forming heavy and hard living wood armor around themselves to keep them safe from harm. The rare shaper might travel with a group as a {@class druid} or even a {@class bard}, usually to accomplish a goal they believe lies outside of the enclaves. No matter the path a Muinainen finds themselves on, they tend to come from similar backgrounds. {@background Field medic} and {@background herbalist} tend to fit those who find themselves comfortable in their homes and with those of their nursery while conrasus of nomad or emissary backgrounds tend to enjoy roaming from place to place."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 109,
-					"name": "Conrasu Enclaves",
+					"name": "Muinainen Enclaves",
 					"reference": {
 						"auto": true
 					},
@@ -135,12 +135,12 @@
 				}
 			],
 			"heritageInfo": [
-				"As a conrasu grows, they take part in a rite that changes and enhances their form. Each rite has different benefits, which manifest as specific heritages. Choose one of the following conrasu heritages at 1st level."
+				"As a Muinainen grows, they take part in a rite that changes and enhances their form. Each rite has different benefits, which manifest as specific heritages. Choose one of the following Muinainen heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Rite of Knowing",
-					"shortName": "Knowing",
+					"name": "Tietämys",
+					"shortName": "Tietämys",
 					"source": "LOME",
 					"page": 107,
 					"entries": [
@@ -160,7 +160,7 @@
 							],
 							"actionType": {
 								"ancestry": [
-									"Conrasu|LOME"
+									"Muinainen|LOME"
 								],
 								"heritage": [
 									"Rite of Knowing|LOME"
@@ -178,8 +178,8 @@
 					]
 				},
 				{
-					"name": "Rite of Light",
-					"shortName": "Light",
+					"name": "Valo",
+					"shortName": "Valo",
 					"source": "LOME",
 					"page": 107,
 					"entries": [
@@ -187,8 +187,8 @@
 					]
 				},
 				{
-					"name": "Rite of Passage",
-					"shortName": "Passage",
+					"name": "Vaellus",
+					"shortName": "Vaellus",
 					"source": "LOME",
 					"page": 107,
 					"entries": [
@@ -196,8 +196,8 @@
 					]
 				},
 				{
-					"name": "Rite of Reinforcement",
-					"shortName": "Reinforcement",
+					"name": "Panssari",
+					"shortName": "Panssari",
 					"source": "LOME",
 					"page": 107,
 					"entries": [
@@ -205,8 +205,8 @@
 					]
 				},
 				{
-					"name": "Rite of Invocation",
-					"shortName": "Invocation",
+					"name": "Taikuri",
+					"shortName": "Taikuri",
 					"source": "LOME",
 					"page": 108,
 					"entries": [
