@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Gnome",
+			"name": "Tonttu",
 			"source": "CRB",
 			"page": 42,
 			"otherSources": {
@@ -31,7 +31,7 @@
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Draconic}, {@language Dwarven}, {@language Elven}, {@language Goblin}, {@language Jotun}, {@language Orcish}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"gnome",
+				"Tonttu",
 				"humanoid"
 			],
 			"features": [
@@ -43,11 +43,11 @@
 				}
 			],
 			"flavor": [
-				"Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it's unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins."
+				"Long ago, early Tonttu ancestors emigrated from the First World, realm of the fey. While it's unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins."
 			],
 			"info": [
 				"Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction\u2014the Bleaching\u2014strikes gnomes who fail to dream, innovate, and take in new experiences, in the gnomes' absence of crucial magical essence from the First World. Gnomes latch onto a source of localized magic where they live, typically primal magic, as befits their fey lineage, but this isn't enough to avoid the Bleaching unless they supplement this magic with new experiences. The Bleaching slowly drains the color\u2014literally\u2014from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives. Very few gnomes survive this scourge, becoming deeply morose and wise survivors known as bleachlings.",
-				"If you want a character with boundless enthusiasm and an alien, fey outlook on morality and life, you should play a gnome.",
+				"If you want a character with boundless enthusiasm and an alien, fey outlook on morality and life, you should play a Tonttu.",
 				{
 					"type": "pf2-h3",
 					"page": 42,
@@ -84,7 +84,7 @@
 					"name": "Physical Description",
 					"entries": [
 						"Most gnomes stand just over 3 feet in height and weigh little more than a human child. They exhibit a wide range of natural skin, hair, and eye colors. For gnomes that haven't begun the Bleaching, nearly any hair and eye color other than white is possible, with vibrant colors most frequent, while skin tones span a slightly narrower spectrum and tend toward earthy tones and pinkish hues, though occasionally green, black, or pale blue. Gnomes' large eyes and dense facial muscles allow them to be particularly expressive in their emotions.",
-						"Gnomes typically reach physical maturity at the age of 18, though many gnomes maintain a childlike curiosity about the world even into adulthood. A gnome can theoretically live to any age if she can stave off the Bleaching indefinitely, but in practice gnomes rarely live longer than around 400 years."
+						"Gnomes typically reach physical maturity at the age of 18, though many gnomes maintain a childlike curiosity about the world even into adulthood. A Tonttu can theoretically live to any age if she can stave off the Bleaching indefinitely, but in practice gnomes rarely live longer than around 400 years."
 					]
 				},
 				{
@@ -92,8 +92,8 @@
 					"page": 42,
 					"name": "Society",
 					"entries": [
-						"While most gnomes adopt some of the cultural practices of the region in which they live, they tend to pick and choose, adjusting their communities to fit their own fey logic. This often leads to majority gnome communities eventually consisting almost entirely of gnomes, as other people, bewildered by gnomish political decisions, choose to move elsewhere. Gnomes have little culture that they would consider entirely their own. No gnome kingdoms or nations exist on the surface of Golarion, and gnomes wouldn't know what to do with such a state if they had one.",
-						"By necessity, few gnomes marry for life, instead allowing relationships to run their course before amicably moving on, the better to stave off the Bleaching with new experiences. Though gnome families tend to be small, many gnome communities raise children communally, with fluid family boundaries. As adults depart the settlement, unrelated adolescents sometimes tag along, creating adopted families to journey together."
+						"While most gnomes adopt some of the cultural practices of the region in which they live, they tend to pick and choose, adjusting their communities to fit their own fey logic. This often leads to majority Tonttu communities eventually consisting almost entirely of gnomes, as other people, bewildered by gnomish political decisions, choose to move elsewhere. Gnomes have little culture that they would consider entirely their own. No Tonttu kingdoms or nations exist on the surface of Golarion, and gnomes wouldn't know what to do with such a state if they had one.",
+						"By necessity, few gnomes marry for life, instead allowing relationships to run their course before amicably moving on, the better to stave off the Bleaching with new experiences. Though Tonttu families tend to be small, many Tonttu communities raise children communally, with fluid family boundaries. As adults depart the settlement, unrelated adolescents sometimes tag along, creating adopted families to journey together."
 					]
 				},
 				{
@@ -109,7 +109,7 @@
 					"page": 43,
 					"name": "Names",
 					"entries": [
-						"Gnome names can get quite complex and polysyllabic. They have little interest in familial names, and most children receive their names purely on a parent's whim. Gnomes rarely concern themselves with how easy their names are to pronounce, and they often go by shorter nicknames. Some even collect and chronicle these nicknames. Among gnomes, the shorter the name, the more feminine it's considered to be."
+						"Tonttu names can get quite complex and polysyllabic. They have little interest in familial names, and most children receive their names purely on a parent's whim. Gnomes rarely concern themselves with how easy their names are to pronounce, and they often go by shorter nicknames. Some even collect and chronicle these nicknames. Among gnomes, the shorter the name, the more feminine it's considered to be."
 					]
 				},
 				{
@@ -123,7 +123,7 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 41,
-					"name": "Gnome Adventurers",
+					"name": "Tonttu Adventurers",
 					"entries": [
 						"Adventure is not so much a choice as a necessity for most gnomes. Adventuring gnomes often claim mementos, allowing them to remember and relive their most exciting stories.",
 						"Gnomes often consider the {@background entertainer}, {@background merchant}, or {@background nomad} backgrounds. In addition, the {@background animal whisperer}, {@background barkeep}, {@background gambler}, and {@background tinker} backgrounds are particularly appropriate.",
@@ -183,7 +183,7 @@
 							"type": "pf2-sidebar",
 							"page": 30,
 							"source": "LOCG",
-							"name": "Gnome Enclaves",
+							"name": "Tonttu Enclaves",
 							"reference": {
 								"auto": true
 							}
@@ -264,7 +264,7 @@
 									"entries": [
 										"While light and laughter suffuse much of the First World, the plane is also home to more sinister fey of blood, spite, and shadows. When gnomes come of age near an area of darker magical forces, their physiology seems to absorb some of these foreboding elements as if activating some recessive genes. Known as fell gnomes, these children boast eerily exaggerated features, such as spindly fingers, too-wide grins, and exaggerated eyes. Fell gnomes also tend to favor dark humor that thoroughly disquiets bystanders, particularly when combined with chilling magic that shatters preconceptions that gnomes are inherently bright creatures.",
 										"Though fell gnomes are not intrinsically cruel or morose, many enjoy leveraging their disquieting characteristics in social settings. To this end, fell gnomes often favor darker colors, asymmetrical clothing, and imposing garments. Fell gnomes often reside near occult nexuses, such as those found in Cheliax, Druma, and Ustalav.",
-										"Fell gnomes often have the {@ancestry gnome||umbral gnome|umbral} or {@ancestry gnome||wellspring gnome (occult)|wellspring} heritage, though the {@ancestry gnome||sensate gnome|sensate} gnome and {@ancestry gnome||chameleon gnome|chameleon} gnome heritages are also common."
+										"Fell gnomes often have the {@ancestry Tonttu||umbral Tonttu|umbral} or {@ancestry Tonttu||wellspring Tonttu (occult)|wellspring} heritage, though the {@ancestry Tonttu||sensate Tonttu|sensate} Tonttu and {@ancestry Tonttu||chameleon Tonttu|chameleon} Tonttu heritages are also common."
 									]
 								},
 								{
@@ -274,9 +274,9 @@
 									"source": "LOCG",
 									"entries": [
 										"Most numerous of the gnomes, Feychild gnomes also have the strongest connection to their ancestral homeland, the First World. Having developed a bond to a mighty natural feature or primal source, these gnomes are the most likely to display naturally bright and fantastic features\u2014including bright hair and eyes that include yellow, green, orange, blue, and pink hues, among others\u2014and tend toward tan, pale, or green skin.",
-										"Despite having the most natural magical foundation, these gnomes' fey connection is considered the least stable and most in need of stimulus. As a result, Feychild gnomes are often capricious and emotive, regularly seeking new experiences, playing pranks, and fueling countless gnome stereotypes. However, their intense First World connection also often grants Feychild gnomes a rapport with animals and plants, ensuring they never want for friends. Elves usually respect these gnomes' fey aspect, albeit often through a somewhat paternalistic lens.",
+										"Despite having the most natural magical foundation, these gnomes' fey connection is considered the least stable and most in need of stimulus. As a result, Feychild gnomes are often capricious and emotive, regularly seeking new experiences, playing pranks, and fueling countless Tonttu stereotypes. However, their intense First World connection also often grants Feychild gnomes a rapport with animals and plants, ensuring they never want for friends. Elves usually respect these gnomes' fey aspect, albeit often through a somewhat paternalistic lens.",
 										"Feychild gnomes are most common in Andoran, the Lands of the Linnorm Kings, the Mwangi Expanse, and the River Kingdoms.",
-										"Feychild gnomes frequently have the {@ancestry gnome||fey-touched gnome|fey-touched} heritage, though some gnomes express their connection to the First World with the {@ancestry gnome||chameleon gnome|chameleon}, {@ancestry gnome||sensate gnome|sensate}, or {@ancestry gnome||vivacious gnome|vivacious|LOCG} heritages."
+										"Feychild gnomes frequently have the {@ancestry Tonttu||fey-touched Tonttu|fey-touched} heritage, though some gnomes express their connection to the First World with the {@ancestry Tonttu||chameleon Tonttu|chameleon}, {@ancestry Tonttu||sensate Tonttu|sensate}, or {@ancestry Tonttu||vivacious Tonttu|vivacious|LOCG} heritages."
 									]
 								},
 								{
@@ -285,9 +285,9 @@
 									"page": 30,
 									"source": "LOCG",
 									"entries": [
-										"Golarion is a tapestry of divine scars where the gods have made their marks through cataclysms and miracles, and these sites retain a magical resonance that shapes nearby gnome populations. This world-shattering power combines with gnomes' ancestral First World origins to grant the gnomes a degree of influence over existence itself. These glimmer gnomes (a corruption of the original name \"glamour gnomes\") possess a natural talent for illusion and reality-warping magic, sometimes causing bystanders to mistake them for godlings\u2014or members of the Eldest\u2014in their own right. It's an easy mistake to make, given these gnomes' slightly translucent hair that seems to glow in the light and the warm, metallic irises of their eyes. Most perturbing of all, though, is a glimmer gnome's penchant for appearing and disappearing unpredictably, like mischievous tricksters who always seem to emerge or vanish at the most advantageous times.",
+										"Golarion is a tapestry of divine scars where the gods have made their marks through cataclysms and miracles, and these sites retain a magical resonance that shapes nearby Tonttu populations. This world-shattering power combines with gnomes' ancestral First World origins to grant the gnomes a degree of influence over existence itself. These glimmer gnomes (a corruption of the original name \"glamour gnomes\") possess a natural talent for illusion and reality-warping magic, sometimes causing bystanders to mistake them for godlings\u2014or members of the Eldest\u2014in their own right. It's an easy mistake to make, given these gnomes' slightly translucent hair that seems to glow in the light and the warm, metallic irises of their eyes. Most perturbing of all, though, is a glimmer Tonttu's penchant for appearing and disappearing unpredictably, like mischievous tricksters who always seem to emerge or vanish at the most advantageous times.",
 										"Glimmer gnomes are most common where there are powerful religious connections. Small groups are associated with Nidal's obedience to {@deity Zon-Kuthon}, Osirion's reverence of {@deity Nethys}, and Casmaron's accursed Pit of Gormuz where {@deity Rovagug} is sealed. A significant population of these gnomes have ties to Absalom's Starstone Cathedral, where their population is evenly split between gnomes who play up their divinely inspired origins through extravagant clothing and those who resent visitors' fawning admiration and dress to avoid undue attention.",
-										"Many glimmer gnomes have the {@ancestry gnome||chameleon gnome|chameleon}, {@ancestry gnome||vivacious gnome|vivacious|LOCG}, or {@ancestry gnome||wellspring gnome (divine)|wellspring} heritage."
+										"Many glimmer gnomes have the {@ancestry Tonttu||chameleon Tonttu|chameleon}, {@ancestry Tonttu||vivacious Tonttu|vivacious|LOCG}, or {@ancestry Tonttu||wellspring Tonttu (divine)|wellspring} heritage."
 									]
 								},
 								{
@@ -296,9 +296,9 @@
 									"page": 31,
 									"source": "LOCG",
 									"entries": [
-										"Some gnomes aren't content to soak in the world's wonders; they possess an especially strong drive to create their own. Dedicated to innovation, Keenspark gnomes regularly prod at the edges of reality and possibility alike, not only inventing strange devices and pioneering new magical theories, but also challenging long-held beliefs and religious assumptions. As a result, these iconoclasts and innovators are the gnomes most likely to come across as perfectionistic, dismissive, controlling, or outright irritating, leading to their gnome kin jokingly referring to them as \"sour gnomes.\" However, their knowledge is a boon in a wide variety of fields, and Keenspark gnomes are among the foremost wizards, engineers, philosophers, and craftspeople.",
-										"Compared to their colorful kin, Keenspark gnomes have comparably drab skin, hair, and eye coloration that closely mirrors common human hues. These gnomes are most common in areas of intense arcane innovation or utter eldritch devastation. As a result, Nex and the Mana Wastes are home to substantial populations of Keenspark gnomes, particularly in Quantium's laboratories. Likewise, Absalom's arcane universities attract and shape a healthy Keenspark population. Perhaps more oddly, Rahadoum's small gnome population is overwhelmingly Keenspark in nature, perhaps due to the country's longstanding rebuke of divine influence.",
-										"Keenspark gnomes usually have the {@ancestry gnome||wellspring gnome (arcane)|wellspring} heritage, though some who work in fields that favor the senses instead have the {@ancestry gnome||sensate gnome|sensate} heritage."
+										"Some gnomes aren't content to soak in the world's wonders; they possess an especially strong drive to create their own. Dedicated to innovation, Keenspark gnomes regularly prod at the edges of reality and possibility alike, not only inventing strange devices and pioneering new magical theories, but also challenging long-held beliefs and religious assumptions. As a result, these iconoclasts and innovators are the gnomes most likely to come across as perfectionistic, dismissive, controlling, or outright irritating, leading to their Tonttu kin jokingly referring to them as \"sour gnomes.\" However, their knowledge is a boon in a wide variety of fields, and Keenspark gnomes are among the foremost wizards, engineers, philosophers, and craftspeople.",
+										"Compared to their colorful kin, Keenspark gnomes have comparably drab skin, hair, and eye coloration that closely mirrors common human hues. These gnomes are most common in areas of intense arcane innovation or utter eldritch devastation. As a result, Nex and the Mana Wastes are home to substantial populations of Keenspark gnomes, particularly in Quantium's laboratories. Likewise, Absalom's arcane universities attract and shape a healthy Keenspark population. Perhaps more oddly, Rahadoum's small Tonttu population is overwhelmingly Keenspark in nature, perhaps due to the country's longstanding rebuke of divine influence.",
+										"Keenspark gnomes usually have the {@ancestry Tonttu||wellspring Tonttu (arcane)|wellspring} heritage, though some who work in fields that favor the senses instead have the {@ancestry Tonttu||sensate Tonttu|sensate} heritage."
 									]
 								}
 							]
@@ -307,12 +307,12 @@
 				}
 			],
 			"heritageInfo": [
-				"A diverse collection of oddballs, gnomes have all sorts of peculiar strains among their bloodlines. Choose one of the following gnome heritages at 1st level."
+				"A diverse collection of oddballs, gnomes have all sorts of peculiar strains among their bloodlines. Choose one of the following Tonttu heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Chameleon Gnome",
-					"shortName": "Chameleon",
+					"name": "Kameleontti Tonttu",
+					"shortName": "Kameleontti",
 					"source": "CRB",
 					"page": 43,
 					"entries": [
@@ -320,17 +320,17 @@
 					]
 				},
 				{
-					"name": "Fey-Touched Gnome",
-					"shortName": "Fey-Touched",
+					"name": "Keijukaisen koskema Tonttu",
+					"shortName": "Keijukaisen koskema",
 					"source": "CRB",
 					"page": 43,
 					"entries": [
-						"The blood of the fey is so strong within you that you're truly one of them. You gain the {@trait fey} trait, in addition to the {@trait gnome} and {@trait humanoid} traits. Choose one cantrip from the {@filter primal spell list|spells||tradition & spell list=primal|level=0}. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You can change this cantrip to a different one from the same list once per day by meditating to realign yourself with the First World; this is a 10-minute activity that has the {@trait concentrate} trait."
+						"The blood of the fey is so strong within you that you're truly one of them. You gain the {@trait fey} trait, in addition to the {@trait Tonttu} and {@trait humanoid} traits. Choose one cantrip from the {@filter primal spell list|spells||tradition & spell list=primal|level=0}. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You can change this cantrip to a different one from the same list once per day by meditating to realign yourself with the First World; this is a 10-minute activity that has the {@trait concentrate} trait."
 					]
 				},
 				{
-					"name": "Sensate Gnome",
-					"shortName": "Sensate",
+					"name": "Aistiva Tonttu",
+					"shortName": "Aistiva",
 					"source": "CRB",
 					"page": 44,
 					"entries": [
@@ -339,8 +339,8 @@
 					]
 				},
 				{
-					"name": "Umbral Gnome",
-					"shortName": "Umbral",
+					"name": "Pimeys Tonttu",
+					"shortName": "Pimeys",
 					"source": "CRB",
 					"page": 44,
 					"entries": [
@@ -348,18 +348,18 @@
 					]
 				},
 				{
-					"name": "Wellspring Gnome",
-					"shortName": "Wellspring",
+					"name": "Lähde Tonttu",
+					"shortName": "Lähde",
 					"source": "CRB",
 					"page": 44,
 					"entries": [
 						"Some other source of magic has a greater hold on you than the primal magic of your fey lineage does. This connection might come from an occult plane or an ancient occult song; a deity, celestial, or fiend; magical effluent left behind by a mage war; or ancient rune magic.",
-						"Choose {@filter arcane|spells||tradition & spell list=arcane|level=0}, {@filter divine|spells||tradition & spell list=divine|level=0}, or {@filter occult|spells||tradition & spell list=occult|level=0}. You gain one cantrip from that magical tradition's spell list. You can cast this spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell level equal to half your level rounded up. Whenever you gain a primal innate spell from a gnome ancestry feat, change its tradition from primal to your chosen tradition."
+						"Choose {@filter arcane|spells||tradition & spell list=arcane|level=0}, {@filter divine|spells||tradition & spell list=divine|level=0}, or {@filter occult|spells||tradition & spell list=occult|level=0}. You gain one cantrip from that magical tradition's spell list. You can cast this spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell level equal to half your level rounded up. Whenever you gain a primal innate spell from a Tonttu ancestry feat, change its tradition from primal to your chosen tradition."
 					]
 				},
 				{
-					"name": "Vivacious Gnome",
-					"shortName": "Vivacious",
+					"name": "Eloisa Tonttu",
+					"shortName": "Eloisa",
 					"source": "LOCG",
 					"page": 31,
 					"entries": [

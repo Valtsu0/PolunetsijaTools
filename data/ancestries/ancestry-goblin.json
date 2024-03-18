@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Goblin",
+			"name": "Hiisi",
 			"source": "CRB",
 			"page": 46,
 			"otherSources": {
@@ -26,11 +26,11 @@
 			],
 			"languages": [
 				"{@language Common}",
-				"{@language Goblin}",
+				"{@language Hiisi}",
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Draconic}, {@language Dwarven}, {@language Gnoll}, {@language Gnomish}, {@language Halfling}, {@language Orcish}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
-				"goblin",
+				"Hiisi",
 				"humanoid"
 			],
 			"features": [
@@ -42,13 +42,13 @@
 				}
 			],
 			"flavor": [
-				"The convoluted histories other people cling to don't interest goblins. These small folk live in the moment, and they prefer tall tales over factual records. The wars of a few decades ago might as well be from the ancient past. Misunderstood by other people, goblins are happy how they are. Goblin virtues are about being present, creative, and honest. They strive to lead fulfilled lives, rather than worrying about how their journeys will end. To tell stories, not nitpick the facts. To be small, but dream big."
+				"The convoluted histories other people cling to don't interest goblins. These small folk live in the moment, and they prefer tall tales over factual records. The wars of a few decades ago might as well be from the ancient past. Misunderstood by other people, goblins are happy how they are. Hiisi virtues are about being present, creative, and honest. They strive to lead fulfilled lives, rather than worrying about how their journeys will end. To tell stories, not nitpick the facts. To be small, but dream big."
 			],
 			"info": [
 				"Goblins have a reputation as simple creatures who love songs, fire, and eating disgusting things and who hate reading, dogs, and horses\u2014and there are a great many for whom this description fits perfectly. However, great changes have come to goblinkind, and more and more goblins resist conformity to these stereotypes. Even among goblins that are more worldly, many still exemplify their old ways in some small manner, just to a more sensible degree. Some goblins remain deeply fascinated with fire or fearlessly devour a meal that might turn others' stomachs.",
 				"Others are endless tinkerers and view their companions' trash as the components of gadgets yet to be made.",
 				"Though goblins' culture has splintered radically, their reputation has changed little. As such, goblins who travel to larger cities are frequently subjected to derision, and many work twice as hard at proving their worth.",
-				"If you want a character who is eccentric, enthusiastic, and fun-loving, you should play a goblin.",
+				"If you want a character who is eccentric, enthusiastic, and fun-loving, you should play a Hiisi.",
 				{
 					"type": "pf2-h3",
 					"page": 46,
@@ -94,7 +94,7 @@
 					"name": "Society",
 					"entries": [
 						"Goblins tend to flock to strong leaders, forming small tribes. These tribes rarely number more than a hundred, though the larger a tribe is, the more diligent the leader must be to keep order\u2014a notoriously difficult task. As new threats rise across the Inner Sea region, many tribal elders have put aside their reckless ways in the hope of forging alliances that offer their people a greater chance at survival. Play and creativity matter more to goblins than productivity or study, and their encampments erupt with songs and laughter.",
-						"Goblins bond closely with their allies, fiercely protecting those companions who have protected them or offered a sympathetic ear. Goblins tend to assume for their own protection that members of taller ancestries, which goblins often refer to colloquially as \"longshanks,\" won't treat them kindly. Learning to trust longshanks is difficult for a goblin, and it's been only in recent years that such a partnership has even been an option. However, their attitude as a people is changing rapidly, and their short lifespans and poor memories help them adapt quickly."
+						"Goblins bond closely with their allies, fiercely protecting those companions who have protected them or offered a sympathetic ear. Goblins tend to assume for their own protection that members of taller ancestries, which goblins often refer to colloquially as \"longshanks,\" won't treat them kindly. Learning to trust longshanks is difficult for a Hiisi, and it's been only in recent years that such a partnership has even been an option. However, their attitude as a people is changing rapidly, and their short lifespans and poor memories help them adapt quickly."
 					]
 				},
 				{
@@ -102,7 +102,7 @@
 					"page": 47,
 					"name": "Alignment and Religion",
 					"entries": [
-						"Even well-intentioned goblins have trouble following the rules, meaning they're rarely lawful. Most goblin adventurers are chaotic neutral or chaotic good. Organized worship confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating. Longshanks might have books upon books about the structures of divinity, but to a goblin, anything can be a god if you want it to. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of {@deity Cayden Cailean}."
+						"Even well-intentioned goblins have trouble following the rules, meaning they're rarely lawful. Most Hiisi adventurers are chaotic neutral or chaotic good. Organized worship confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating. Longshanks might have books upon books about the structures of divinity, but to a Hiisi, anything can be a god if you want it to. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many Hiisi adventurers adopt the worship of {@deity Cayden Cailean}."
 					]
 				},
 				{
@@ -110,7 +110,7 @@
 					"page": 47,
 					"name": "Names",
 					"entries": [
-						"Goblins keep their names simple. A good name should be easy to pronounce, short enough to shout without getting winded, and taste good to say. The namer often picks a word that rhymes with something they like so that writing songs is easier. Since there aren't any real traditions regarding naming in goblin culture, children often name themselves once they're old enough to do something resembling talking."
+						"Goblins keep their names simple. A good name should be easy to pronounce, short enough to shout without getting winded, and taste good to say. The namer often picks a word that rhymes with something they like so that writing songs is easier. Since there aren't any real traditions regarding naming in Hiisi culture, children often name themselves once they're old enough to do something resembling talking."
 					]
 				},
 				{
@@ -124,9 +124,9 @@
 				{
 					"type": "pf2-sidebar",
 					"page": 49,
-					"name": "Goblin Adventurers",
+					"name": "Hiisi Adventurers",
 					"entries": [
-						"To some degree, almost every goblin is an adventurer, surviving life on the edge using skill and wits. Goblins explore and hunt for treasures by nature, though some become true adventurers in their own rights, often after being separated from their group or tribe.",
+						"To some degree, almost every Hiisi is an adventurer, surviving life on the edge using skill and wits. Goblins explore and hunt for treasures by nature, though some become true adventurers in their own rights, often after being separated from their group or tribe.",
 						"Goblins often have the {@background acrobat}, {@background criminal}, {@background entertainer}, {@background gladiator}, {@background hunter}, and {@background street urchin} backgrounds. Consider playing an {@class alchemist}, since many goblins love fire, or a {@class bard}, since many goblins love songs. As scrappy survivors, goblins are often {@class rogue||rogues} who dart about the shadows, though their inherently charismatic nature also draws them to the pursuit of magical classes such as {@class sorcerer}."
 					]
 				},
@@ -136,7 +136,7 @@
 					"source": "CRB",
 					"name": "Goblins",
 					"entries": [
-						"Although many adventurers might assume a goblin is a goblin, these scrappy and creative people are as diverse as any other ancestry. The most widespread are the rasp goblins, so named for the large numbers who have traditionally dwelled along the rugged coastlines of Varisia's west coast, a region known as the Rasp. Forest goblins tend to be smaller than the other ethnicities and are located mostly in central Avistan. Their numbers are only now beginning to recover from the horrors of the Goblinblood Wars. The frost goblins of Irrisen's eternal winter are unusual among their kind for their propensity to grow blue fur on their bodies, while the monkey goblins of Mediogalti Island are known for their prehensile tails and arboreal habitats."
+						"Although many adventurers might assume a Hiisi is a Hiisi, these scrappy and creative people are as diverse as any other ancestry. The most widespread are the rasp goblins, so named for the large numbers who have traditionally dwelled along the rugged coastlines of Varisia's west coast, a region known as the Rasp. Forest goblins tend to be smaller than the other ethnicities and are located mostly in central Avistan. Their numbers are only now beginning to recover from the horrors of the Goblinblood Wars. The frost goblins of Irrisen's eternal winter are unusual among their kind for their propensity to grow blue fur on their bodies, while the monkey goblins of Mediogalti Island are known for their prehensile tails and arboreal habitats."
 					]
 				},
 				{
@@ -195,7 +195,7 @@
 							"source": "LOCG",
 							"name": "Mutant Goblins",
 							"entries": [
-								"Though mutant goblins can arise from any goblin culture that worships the dread Mother of Monsters, {@deity Lamashtu}, they are particularly prevalent amongst the goblins of northern Avistan and monkey goblin settlements. Mutant goblins frequently possess additional limbs, including additional arms and legs, mouths centered in their chests, wings that barely allow flight, and other prominent variations."
+								"Though mutant goblins can arise from any Hiisi culture that worships the dread Mother of Monsters, {@deity Lamashtu}, they are particularly prevalent amongst the goblins of northern Avistan and monkey Hiisi settlements. Mutant goblins frequently possess additional limbs, including additional arms and legs, mouths centered in their chests, wings that barely allow flight, and other prominent variations."
 							]
 						},
 						{
@@ -214,7 +214,7 @@
 							"name": "Goblins of the Inner Sea",
 							"source": "LOCG",
 							"entries": [
-								"To outsiders, it might seem like goblins are all part of a single, monolithic people, but like any other ancestry, goblins have a variety of ethnicities and cultures nearly as diverse as the territories they occupy. Certain aspects of goblin culture, such as a penchant for song, an overzealous appreciation of fire, fear of dogs and horses, and an instinctive distrust of literacy and the written word, are common across all goblin cultures, but these represent only the most superficial elements of goblin life.",
+								"To outsiders, it might seem like goblins are all part of a single, monolithic people, but like any other ancestry, goblins have a variety of ethnicities and cultures nearly as diverse as the territories they occupy. Certain aspects of Hiisi culture, such as a penchant for song, an overzealous appreciation of fire, fear of dogs and horses, and an instinctive distrust of literacy and the written word, are common across all Hiisi cultures, but these represent only the most superficial elements of Hiisi life.",
 								{
 									"type": "pf2-h3",
 									"name": "Forest Goblins",
@@ -224,8 +224,8 @@
 										"auto": true
 									},
 									"entries": [
-										"Hailing from coniferous woodlands, forest goblins tend to be shorter and slimmer than their kin, not quite reaching 3 feet in height and rarely weighing more than 35 pounds. Forest goblins typically have skin ranging in hue from dark green to a sickly green-tinged brown reminiscent of a spoiled avocado. While all goblins have a natural tendency toward pyromania, forest goblins are often far more knowledgeable on the subject than almost any other species. Since forest goblins traditionally produce far fewer primal or divine spellcasters than other goblin ethnicities, they have developed a deep tradition of fire-management practices, taught through song and practical application. There is even evidence to suggest that woodlands inhabited by forest goblins are less prone to disastrous wildfires thanks to the goblins regularly burning away dead wood and dry brush that might otherwise act as fuel for hungry flames.",
-										"Most forest goblins have the {@ancestry goblin|crb|treedweller goblin|treedweller|locg} heritage, though their frequent exposure to flame means some forest goblins favor the charhide goblin heritage. Due to their extensive practice of teaching songs, forest goblins also frequently take the {@feat Goblin Song} ancestry feat."
+										"Hailing from coniferous woodlands, forest goblins tend to be shorter and slimmer than their kin, not quite reaching 3 feet in height and rarely weighing more than 35 pounds. Forest goblins typically have skin ranging in hue from dark green to a sickly green-tinged brown reminiscent of a spoiled avocado. While all goblins have a natural tendency toward pyromania, forest goblins are often far more knowledgeable on the subject than almost any other species. Since forest goblins traditionally produce far fewer primal or divine spellcasters than other Hiisi ethnicities, they have developed a deep tradition of fire-management practices, taught through song and practical application. There is even evidence to suggest that woodlands inhabited by forest goblins are less prone to disastrous wildfires thanks to the goblins regularly burning away dead wood and dry brush that might otherwise act as fuel for hungry flames.",
+										"Most forest goblins have the {@ancestry Hiisi|crb|treedweller Hiisi|treedweller|locg} heritage, though their frequent exposure to flame means some forest goblins favor the charhide Hiisi heritage. Due to their extensive practice of teaching songs, forest goblins also frequently take the {@feat Hiisi Song} ancestry feat."
 									]
 								},
 								{
@@ -238,7 +238,7 @@
 									},
 									"entries": [
 										"Born in Irrisen's eternal winter, frost goblins are well adapted to surviving in frigid environments. Frost goblins' skin is adapted to help them blend in and survive in arctic environments, ranging in color from a light ice-blue to the dark blue-gray of stormy northern oceans. While most goblins are almost universally hairless, frost goblins occasionally sport blue fur similar in texture and density to that of their bugbear cousins.",
-										"Frost goblins almost always have the {@ancestry goblin|crb|snow goblin|snow} heritage, and they frequently take the {@feat Goblin Scuttle} ancestry feat due to their frenzied energy and surprisingly coordinated teamwork."
+										"Frost goblins almost always have the {@ancestry Hiisi|crb|snow Hiisi|snow} heritage, and they frequently take the {@feat Hiisi Scuttle} ancestry feat due to their frenzied energy and surprisingly coordinated teamwork."
 									]
 								},
 								{
@@ -251,7 +251,7 @@
 									},
 									"entries": [
 										"Monkey goblins originated on Mediogalti Island, where their distinctive tails give them a significant advantage in the dense jungles. These goblins are taller and heavier than other goblins, standing a bit over 3-1/2 feet tall and weighing between 50 and 60 pounds. Their skin spans the range from tawny bronze to dark blue, and gold eyes are more common than the red eyes of their kin.",
-										"Monkey goblins almost always have the {@ancestry goblin|crb|tailed goblin|tailed|locg} heritage. Monkey goblins who travel on pirate or merchant ships often take the {@feat Goblin Scuttle} ancestry feat, since they're accustomed to the frantic scrambling of shipboard combat."
+										"Monkey goblins almost always have the {@ancestry Hiisi|crb|tailed Hiisi|tailed|locg} heritage. Monkey goblins who travel on pirate or merchant ships often take the {@feat Hiisi Scuttle} ancestry feat, since they're accustomed to the frantic scrambling of shipboard combat."
 									]
 								},
 								{
@@ -263,8 +263,8 @@
 									"name": "Rasp Goblins",
 									"page": 36,
 									"entries": [
-										"Rasp goblins, or simply \"Rasps,\" named after the section of Varisia's Lost Coast where they tend to live, are some of the most commonly encountered goblins in the Inner Sea region, particularly in Varisia and the neighboring nations. Unlike frost goblins and monkey goblins, who are limited to smaller geographic areas, and forest goblins, who suffered terrible population losses during the Goblinblood Wars, Rasp goblins remain exceptionally populous and can quickly spread to any area that is vaguely capable of sustaining life. Rasp goblins stand just over 3 feet tall and weigh roughly 35 pounds. While many Rasp goblins are some shade of green (typically lighter and sicklier shades than their forest goblin cousins), some Rasp goblins have rarer skin colors, such as gray or purple.",
-										"Rasp goblins can have almost any heritage, though they tend to most commonly exhibit the {@ancestry goblin|crb|charhide goblin|charhide} and {@ancestry goblin|crb|razortooth goblin|razortooth} heritages."
+										"Rasp goblins, or simply \"Rasps,\" named after the section of Varisia's Lost Coast where they tend to live, are some of the most commonly encountered goblins in the Inner Sea region, particularly in Varisia and the neighboring nations. Unlike frost goblins and monkey goblins, who are limited to smaller geographic areas, and forest goblins, who suffered terrible population losses during the Goblinblood Wars, Rasp goblins remain exceptionally populous and can quickly spread to any area that is vaguely capable of sustaining life. Rasp goblins stand just over 3 feet tall and weigh roughly 35 pounds. While many Rasp goblins are some shade of green (typically lighter and sicklier shades than their forest Hiisi cousins), some Rasp goblins have rarer skin colors, such as gray or purple.",
+										"Rasp goblins can have almost any heritage, though they tend to most commonly exhibit the {@ancestry Hiisi|crb|charhide Hiisi|charhide} and {@ancestry Hiisi|crb|razortooth Hiisi|razortooth} heritages."
 									]
 								}
 							]
@@ -273,12 +273,12 @@
 				}
 			],
 			"heritageInfo": [
-				"Goblins, especially those of different tribes, have all sorts of physiological differences, which they often discover only through hazardous \"experiments.\" Choose one of the following goblin heritages at 1st level."
+				"Goblins, especially those of different tribes, have all sorts of physiological differences, which they often discover only through hazardous \"experiments.\" Choose one of the following Hiisi heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Charhide Goblin",
-					"shortName": "Charhide",
+					"name": "Palanut Hiisi",
+					"shortName": "Palanut",
 					"source": "CRB",
 					"page": 47,
 					"entries": [
@@ -286,8 +286,8 @@
 					]
 				},
 				{
-					"name": "Irongut Goblin",
-					"shortName": "Irongut",
+					"name": "Rautasuoli Hiisi",
+					"shortName": "Rautasuoli",
 					"source": "CRB",
 					"page": 47,
 					"entries": [
@@ -296,8 +296,8 @@
 					]
 				},
 				{
-					"name": "Razortooth Goblin",
-					"shortName": "Razortooth",
+					"name": "Terähammas Hiisi",
+					"shortName": "Terähammas",
 					"source": "CRB",
 					"page": 48,
 					"entries": [
@@ -305,8 +305,8 @@
 					]
 				},
 				{
-					"name": "Snow Goblin",
-					"shortName": "Snow",
+					"name": "Lumi Hiisi",
+					"shortName": "Lumi",
 					"source": "CRB",
 					"page": 48,
 					"entries": [
@@ -314,8 +314,8 @@
 					]
 				},
 				{
-					"name": "Unbreakable Goblin",
-					"shortName": "Unbreakable",
+					"name": "Hajoamaton Hiisi",
+					"shortName": "Hajoamaton",
 					"source": "CRB",
 					"page": 48,
 					"entries": [
@@ -323,8 +323,8 @@
 					]
 				},
 				{
-					"name": "Tailed Goblin",
-					"shortName": "Tailed",
+					"name": "Hännällinen Hiisi",
+					"shortName": "Hännällinen",
 					"source": "LOCG",
 					"page": 37,
 					"entries": [
@@ -332,8 +332,8 @@
 					]
 				},
 				{
-					"name": "Treedweller Goblin",
-					"shortName": "Treedweller",
+					"name": "Puumajailija Hiisi",
+					"shortName": "Puumajailija",
 					"source": "LOCG",
 					"page": 37,
 					"entries": [
