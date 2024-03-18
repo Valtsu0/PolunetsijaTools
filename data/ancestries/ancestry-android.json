@@ -204,7 +204,7 @@
 			"heritage": [
 				{
 					"name": "Käsityöläinen Koneihminen",
-					"shortName": "Artisan",
+					"shortName": "Käsityöläinen",
 					"source": "LOAG",
 					"page": 71,
 					"entries": [
@@ -213,7 +213,7 @@
 				},
 				{
 					"name": "Imitaattori Koneihminen",
-					"shortName": "Impersonator",
+					"shortName": "Imitaattori",
 					"source": "LOAG",
 					"page": 71,
 					"entries": [
@@ -222,7 +222,7 @@
 				},
 				{
 					"name": "Työläinen Koneihminen",
-					"shortName": "Laborer",
+					"shortName": "Työläinen",
 					"source": "LOAG",
 					"page": 71,
 					"entries": [
@@ -231,7 +231,7 @@
 				},
 				{
 					"name": "Tulkki Koneihminen",
-					"shortName": "Polyglot",
+					"shortName": "Tulkki",
 					"source": "LOAG",
 					"page": 71,
 					"entries": [
@@ -240,7 +240,7 @@
 				},
 				{
 					"name": "Soturi Koneihminen",
-					"shortName": "Warrior",
+					"shortName": "Soturi",
 					"source": "LOAG",
 					"page": 71,
 					"entries": [

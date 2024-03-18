@@ -164,7 +164,7 @@
 			"heritage": [
 				{
 					"name": "Sopeutuva Hämähemmo",
-					"shortName": "Adaptive",
+					"shortName": "Sopeutuva",
 					"source": "LOME",
 					"page": 103,
 					"entries": [
@@ -173,7 +173,7 @@
 				},
 				{
 					"name": "Värikäs Hämähemmo",
-					"shortName": "Polychromatic",
+					"shortName": "Värikäs",
 					"source": "LOME",
 					"page": 103,
 					"entries": [
@@ -182,7 +182,7 @@
 				},
 				{
 					"name": "Pyydystävä Hämähemmo",
-					"shortName": "Snaring",
+					"shortName": "Pyydystävä",
 					"source": "LOME",
 					"page": 103,
 					"entries": [
@@ -191,7 +191,7 @@
 				},
 				{
 					"name": "Hintelä Hämähemmo",
-					"shortName": "Spindly",
+					"shortName": "Hintelä",
 					"source": "LOME",
 					"page": 103,
 					"entries": [
@@ -200,7 +200,7 @@
 				},
 				{
 					"name": "Myrkyllinen Hämähemmo",
-					"shortName": "Venomous",
+					"shortName": "Myrkyllinen",
 					"source": "LOME",
 					"page": 103,
 					"entries": [
