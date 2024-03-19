@@ -43,7 +43,7 @@ class NavBar {
 		};
 		document.getElementById("navigation").prepend(btnShowHide);
 
-		this._addElement_li(null, "index.html", "Home", {isRoot: true});
+		this._addElement_li(null, "index.html", "Etusivu", {isRoot: true});
 
 		this._addElement_dropdown(null, NavBar._CAT_RULES);
 		this._addElement_li(NavBar._CAT_RULES, "quickreference.html", "Quick Reference");
@@ -55,10 +55,10 @@ class NavBar {
 		// this._addElement_li(NavBar._CAT_BOOKS, "books.html", "View All/Homebrew");
 
 		this._addElement_dropdown(null, NavBar._CAT_PLAYER);
-		this._addElement_li(NavBar._CAT_PLAYER, "ancestries.html", "Ancestries");
-		this._addElement_li(NavBar._CAT_PLAYER, "backgrounds.html", "Backgrounds");
-		this._addElement_li(NavBar._CAT_PLAYER, "classes.html", "Classes");
-		this._addElement_li(NavBar._CAT_PLAYER, "feats.html", "Feats");
+		this._addElement_li(NavBar._CAT_PLAYER, "ancestries.html", "Syntyperät");
+		this._addElement_li(NavBar._CAT_PLAYER, "backgrounds.html", "Taustat");
+		this._addElement_li(NavBar._CAT_PLAYER, "classes.html", "Luokat");
+		this._addElement_li(NavBar._CAT_PLAYER, "feats.html", "Taidot");
 		this._addElement_divider(NavBar._CAT_PLAYER);
 		this._addElement_li(NavBar._CAT_PLAYER, "archetypes.html", "Archetypes");
 		this._addElement_li(NavBar._CAT_PLAYER, "companionsfamiliars.html", "Companions & Familiars");
@@ -74,11 +74,11 @@ class NavBar {
 		this._addElement_li(NavBar._CAT_GAME_MASTER, "relicgifts.html", "Relic Gifts");
 
 		this._addElement_dropdown(null, NavBar._CAT_REFERENCES);
-		this._addElement_li(NavBar._CAT_REFERENCES, "actions.html", "Actions");
-		this._addElement_li(NavBar._CAT_REFERENCES, "bestiary.html", "Bestiary");
-		this._addElement_li(NavBar._CAT_REFERENCES, "conditions.html", "Conditions");
-		this._addElement_li(NavBar._CAT_REFERENCES, "items.html", "Items");
-		this._addElement_li(NavBar._CAT_REFERENCES, "spells.html", "Spells");
+		this._addElement_li(NavBar._CAT_REFERENCES, "actions.html", "Toiminnot");
+		this._addElement_li(NavBar._CAT_REFERENCES, "bestiary.html", "Hirviökirja");
+		this._addElement_li(NavBar._CAT_REFERENCES, "conditions.html", "Tilat");
+		this._addElement_li(NavBar._CAT_REFERENCES, "items.html", "Esineet");
+		this._addElement_li(NavBar._CAT_REFERENCES, "spells.html", "Loitsut");
 		this._addElement_divider(NavBar._CAT_REFERENCES);
 		this._addElement_li(NavBar._CAT_REFERENCES, "afflictions.html", "Afflictions");
 		this._addElement_li(NavBar._CAT_REFERENCES, "rituals.html", "Rituals");
@@ -94,7 +94,7 @@ class NavBar {
 		this._addElement_li(NavBar._CAT_REFERENCES, "traits.html", "Traits");
 
 		this._addElement_dropdown(null, NavBar._CAT_UTILITIES);
-		this._addElement_li(NavBar._CAT_UTILITIES, "search.html", "Search");
+		this._addElement_li(NavBar._CAT_UTILITIES, "search.html", "Hae");
 		this._addElement_divider(NavBar._CAT_UTILITIES);
 		this._addElement_li(NavBar._CAT_UTILITIES, "blacklist.html", "Content Blacklist");
 		this._addElement_li(NavBar._CAT_UTILITIES, "managebrew.html", "Homebrew Manager");
