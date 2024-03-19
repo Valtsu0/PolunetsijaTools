@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Vishkanya",
+			"name": "Ilvekäs",
 			"source": "LOIL",
 			"page": 58,
 			"rarity": "rare",
@@ -18,12 +18,12 @@
 			],
 			"languages": [
 				"{@language Common}",
-				"{@language Vishkanya}",
+				"{@language Ilvekäs}",
 				"Additional languages equal to your Intelligence modifier (if it's positive). Choose from {@language Aklo}, {@language Aquan}, {@language Draconic}, {@language Elven}, {@language Goblin}, {@language Undercommon}, {@language Vanaran}, and any other languages to which you have access (such as the languages prevalent in your region)."
 			],
 			"traits": [
 				"humanoid",
-				"vishkanya"
+				"Ilvekäs"
 			],
 			"features": [
 				{
@@ -80,13 +80,13 @@
 					"name": "Physical Description",
 					"entries": [
 						"Vishkanyas are humanlike in appearance with ophidian features that become clear in close proximity. They are naturally tall and lithe with bright golden eyes, vertical pupils, and a forked tongue. Their small, smooth scales range from earthy tones of browns and greens to bright displays of colored patterns. Hair color is typically of darker shades, though there are occasional instances of brighter colors through parts of the hair. Vishkanyan women are usually taller than the men, though neither ever truly stops growing. As such, vishkanyas can reach heights of 7 feet or taller in old age.",
-						"Mixed vishkanya families aren't unknown. Vishkanya offspring from this background sometimes strongly resemble their non-vishkanya parent, with only a few stray tells, such as sharp canine teeth, to indicate their heritage. Vishkanyas sometimes refer to these children as \"scaleless\" or \"subtle\" but otherwise welcome them as any other among their kin, though sadly their appearance can fuel paranoia among other ancestries toward a people who are already misunderstood."
+						"Mixed Ilvekäs families aren't unknown. Ilvekäs offspring from this background sometimes strongly resemble their non-Ilvekäs parent, with only a few stray tells, such as sharp canine teeth, to indicate their heritage. Vishkanyas sometimes refer to these children as \"scaleless\" or \"subtle\" but otherwise welcome them as any other among their kin, though sadly their appearance can fuel paranoia among other ancestries toward a people who are already misunderstood."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 60,
-					"name": "Vishkanya Backgrounds",
+					"name": "Ilvekäs Backgrounds",
 					"entries": [
 						"Vishkanyan backgrounds commonly reflect the individual's or their family's role in the community, which can include artist, hunter, acolyte, or emissary. Those who leave to explore the world outside might be entertainers, gamblers, or guards. Their natural grace and agility make vishkanyas excellent rogues, monks, or rangers, although bards, swashbucklers, and alchemists are not unusual to see."
 					]
@@ -95,7 +95,7 @@
 					"type": "pf2-sidebar",
 					"page": 61,
 					"source": "LOIL",
-					"name": "Vishkanya Adventurers",
+					"name": "Ilvekäs Adventurers",
 					"entries": [
 						"Vishkanyas may answer the call of adventure for many reasons: providing income for their community, developing self-expression and fulfillment, spreading knowledge and understanding of vishkanyas, accumulating stories of other peoples, or simply experiencing the world outside their family."
 					]
@@ -106,22 +106,22 @@
 					"name": "Society",
 					"entries": [
 						"Vishkanyas live in small, tight-knit communities between 50 and 100 individuals who assimilate discreetly into larger societies, with many such groups scattered within a larger area. At the head of these groups is a selection of women chosen for their wisdom and knowledge. Vishkanyas often have multiple partners, give birth in multiples, and adhere to maternal inheritances. Children are generally free to choose their occupation and the nature of their contribution to the larger community, with many vishkanyas pursuing some sort of craft or art. Some roles are burdened with the responsibility of cultural and historical record-keeping, however, and these important tasks continue across generations. Traditionally, these culturally minded vishkanyas regularly meet in secret congregations for the purpose of sharing stories, information, and resources, providing support for youth and creating advisory bodies to help make large-scale decisions for vishkanyas of a given area. The desire to preserve vishkanyan culture has kept this practice going for centuries, yet recently, some have called for more open interaction with the world in an attempt to proudly share vishkanyan culture.",
-						"Vishkanyas are often mischaracterized as indiscriminately venomous or inherently malicious by other ancestries, which has led to them having very strong concepts of their own ethnicity and their separation from those they consider \"outsiders.\" While most vishkanyas are gracious and hospitable to non-vishkanya visitors, a large stir often arises around the concept of allowing such people into their communities in a more involved capacity. Parents carefully watch any children who seem too attached to non-vishkanya friends, and talk of romance and marriage with another ancestry will inevitably provoke many a long family discussion\u2014though not necessarily hostile ones."
+						"Vishkanyas are often mischaracterized as indiscriminately venomous or inherently malicious by other ancestries, which has led to them having very strong concepts of their own ethnicity and their separation from those they consider \"outsiders.\" While most vishkanyas are gracious and hospitable to non-Ilvekäs visitors, a large stir often arises around the concept of allowing such people into their communities in a more involved capacity. Parents carefully watch any children who seem too attached to non-Ilvekäs friends, and talk of romance and marriage with another ancestry will inevitably provoke many a long family discussion\u2014though not necessarily hostile ones."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 62,
-					"name": "Vishkanya Enclaves",
+					"name": "Ilvekäs Enclaves",
 					"source": "LOIL",
 					"entries": [
-						"Vishkanya homes can be found wherever a community decides to settle, usually in or around other major settlements. Some reclusive groups can be found in the jungles or wetlands of Vudra. Those who traveled to Jalmeray typically make their homes in Niswan, as the Niswan community has slowly become more open. Other vishkanyas decided instead to settle in the forests or coasts of the island to create their own ideal communities."
+						"Ilvekäs homes can be found wherever a community decides to settle, usually in or around other major settlements. Some reclusive groups can be found in the jungles or wetlands of Vudra. Those who traveled to Jalmeray typically make their homes in Niswan, as the Niswan community has slowly become more open. Other vishkanyas decided instead to settle in the forests or coasts of the island to create their own ideal communities."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 63,
-					"name": "Vishkanya Travelers",
+					"name": "Ilvekäs Travelers",
 					"entries": [
 						"Outside Jalmeray, vishkanyas are rare. A small number found their way into the Mwangi Expanse, the Shackles, and even Absalom. Only a handful are known to have gone past that, as intercommunity communication covers only so much. Even so, vishkanyas might find their way anywhere that has need of a skilled blade or a talented artist."
 					]
@@ -152,12 +152,12 @@
 				}
 			],
 			"heritageInfo": [
-				"Choose one of the following vishkanya heritages at 1st level."
+				"Choose one of the following Ilvekäs heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"shortName": "Elusive",
-					"name": "Elusive Vishkanya",
+					"shortName": "Välttelevä",
+					"name": "Välttelevä Ilvekäs",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
@@ -165,8 +165,8 @@
 					]
 				},
 				{
-					"shortName": "Keen-Venom",
-					"name": "Keen-Venom Vishkanya",
+					"shortName": "Myrkyttäjä",
+					"name": "Myrkyttäjä Ilvekäs",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
@@ -180,8 +180,8 @@
 					]
 				},
 				{
-					"shortName": "Old-Blood",
-					"name": "Old-Blood Vishkanya",
+					"shortName": "Muinäisveri",
+					"name": "Muinäisverinen Ilvekäs",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
@@ -189,8 +189,8 @@
 					]
 				},
 				{
-					"shortName": "Prismatic",
-					"name": "Prismatic Vishkanya",
+					"shortName": "Värikäs",
+					"name": "Värikäs Ilvekäs",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
@@ -198,8 +198,8 @@
 					]
 				},
 				{
-					"shortName": "Scalekeeper",
-					"name": "Scalekeeper Vishkanya",
+					"shortName": "Suomutietäjä",
+					"name": "Suomutietäjä Ilvekäs",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
@@ -207,12 +207,12 @@
 					]
 				},
 				{
-					"shortName": "Venom",
-					"name": "Venom-Resistant",
+					"shortName": "Vastamyrkky",
+					"name": "Vastamyrkky",
 					"page": 60,
 					"source": "LOIL",
 					"entries": [
-						"Vishkanya Your body contains not just venom but numerous antivenoms. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison."
+						"Ilvekäs Your body contains not just venom but numerous antivenoms. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison."
 					]
 				}
 			],

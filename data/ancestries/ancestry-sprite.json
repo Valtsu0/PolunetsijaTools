@@ -1,7 +1,7 @@
 {
 	"ancestry": [
 		{
-			"name": "Sprite",
+			"name": "Menninkäinen",
 			"source": "LOAG",
 			"page": 126,
 			"rarity": "rare",
@@ -27,7 +27,7 @@
 			],
 			"traits": [
 				"fey",
-				"sprite"
+				"Menninkäinen"
 			],
 			"features": [
 				{
@@ -47,10 +47,10 @@
 				"Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the First World. They love playing pranks, exploring new things, and embracing everything to do with magic."
 			],
 			"info": [
-				"When most people picture a fey, chances are they're thinking of a sprite. The majority of sprites remain in the First World, where they are essentially immortal, reincarnating to a new form of fey when their life eventually comes to an end. Some even meld together with others to form a more substantial body or split apart into multiple smaller fey. However, sprites are incredibly curious about all forms of magic, leading a significant number to risk the mortal world to explore the new possibilities offered by the unusually static nature of mortal existence. These creatures mix in with other, smaller groups of Material Plane comrades, including exiles from the First World, those whose family swore pacts to mortals, and even contemplative individuals curious to enter the mortal cycle of souls.",
-				"The first generation of Material Plane sprites were content to guard magical locations or objects, learn music, and play pranks on the unsuspecting. Panic struck when children born in the mortal world didn't form wings upon adulthood\u2014some sprites transitioning to the mortal world likewise lost their wings after a time. Believing this to be a sign that the mortal world was too alien for them to live there, many of the initial sprite explorers returned to the safety of the First World.",
-				"However, their wingless children exhibited a potential unmatched by any of their ancestors, as well as a particular magical affinity for the mortal world. They became the mightiest of sprite heroes, but also, on occasion, the most dangerous villains. As they came close to reaching their full strength, many of them did grow their wings at long last: larger, unique, and more vibrant than any from the First World had seen before, a sign of their limitless potential.",
-				"If you want a character who is tiny, mercurial, and curious, you should play a sprite.",
+				"When most people picture a fey, chances are they're thinking of a Menninkäinen. The majority of sprites remain in the First World, where they are essentially immortal, reincarnating to a new form of fey when their life eventually comes to an end. Some even meld together with others to form a more substantial body or split apart into multiple smaller fey. However, sprites are incredibly curious about all forms of magic, leading a significant number to risk the mortal world to explore the new possibilities offered by the unusually static nature of mortal existence. These creatures mix in with other, smaller groups of Material Plane comrades, including exiles from the First World, those whose family swore pacts to mortals, and even contemplative individuals curious to enter the mortal cycle of souls.",
+				"The first generation of Material Plane sprites were content to guard magical locations or objects, learn music, and play pranks on the unsuspecting. Panic struck when children born in the mortal world didn't form wings upon adulthood\u2014some sprites transitioning to the mortal world likewise lost their wings after a time. Believing this to be a sign that the mortal world was too alien for them to live there, many of the initial Menninkäinen explorers returned to the safety of the First World.",
+				"However, their wingless children exhibited a potential unmatched by any of their ancestors, as well as a particular magical affinity for the mortal world. They became the mightiest of Menninkäinen heroes, but also, on occasion, the most dangerous villains. As they came close to reaching their full strength, many of them did grow their wings at long last: larger, unique, and more vibrant than any from the First World had seen before, a sign of their limitless potential.",
+				"If you want a character who is tiny, mercurial, and curious, you should play a Menninkäinen.",
 				{
 					"type": "pf2-h3",
 					"page": 126,
@@ -110,7 +110,7 @@
 					"page": 127,
 					"name": "Names",
 					"entries": [
-						"Sprite names are based entirely on their parents' whimsy. Sprites often adopt additional monikers later in life or change those assigned to them at birth; this is neither frowned upon nor considered abnormal.",
+						"Menninkäinen names are based entirely on their parents' whimsy. Sprites often adopt additional monikers later in life or change those assigned to them at birth; this is neither frowned upon nor considered abnormal.",
 						{
 							"type": "pf2-h4",
 							"page": 127,
@@ -126,7 +126,7 @@
 					"page": 128,
 					"name": "Tiny PCs",
 					"entries": [
-						"PCs are typically Small or Medium size, but most sprite PCs are Tiny instead! Being Tiny comes with its own set of rules about space and reach. Your Tiny sprite can enter another creature's space, which is important because your melee {@action Strike||Strikes} typically have no reach, meaning you must enter their space to attack them. Like other Tiny creatures, you don't automatically receive lesser cover from being in a larger creature's space, but circumstances might allow you to {@action Take Cover}. You can purchase weapons, armor, and other items for your size with the same statistics as normal gear, except that melee weapons have a reach of 0 for you (or a {@trait reach <5 feet>} shorter than normal if they have the reach trait). Remember to adjust the {@table Bulk Conversions||Bulk of items and your Bulk limit for Tiny size}."
+						"PCs are typically Small or Medium size, but most Menninkäinen PCs are Tiny instead! Being Tiny comes with its own set of rules about space and reach. Your Tiny Menninkäinen can enter another creature's space, which is important because your melee {@action Strike||Strikes} typically have no reach, meaning you must enter their space to attack them. Like other Tiny creatures, you don't automatically receive lesser cover from being in a larger creature's space, but circumstances might allow you to {@action Take Cover}. You can purchase weapons, armor, and other items for your size with the same statistics as normal gear, except that melee weapons have a reach of 0 for you (or a {@trait reach <5 feet>} shorter than normal if they have the reach trait). Remember to adjust the {@table Bulk Conversions||Bulk of items and your Bulk limit for Tiny size}."
 					]
 				},
 				{
@@ -134,15 +134,15 @@
 					"page": 129,
 					"name": "Riding PCs",
 					"entries": [
-						"As a Tiny creature, a sprite PC weighs so little and takes up so little Bulk that it doesn't cause issues to hitch a ride in a sack, shoulder, or other position on another PC. However, the amount of coordination required to ensure you don't get in each other's way or jostle each other into losing actions makes this tactic unfavorable for most fellow adventurers during combat. If you're riding along with another PC or similar non-minion intelligent creature, roll both your initiatives and use the lower of the two results. You act in either order on the same initiative count. While traveling in this way, you each gain two actions at the start of your turn, instead of three, since they spend one action keeping you balanced on their back, and you spend one action maintaining your grip."
+						"As a Tiny creature, a Menninkäinen PC weighs so little and takes up so little Bulk that it doesn't cause issues to hitch a ride in a sack, shoulder, or other position on another PC. However, the amount of coordination required to ensure you don't get in each other's way or jostle each other into losing actions makes this tactic unfavorable for most fellow adventurers during combat. If you're riding along with another PC or similar non-minion intelligent creature, roll both your initiatives and use the lower of the two results. You act in either order on the same initiative count. While traveling in this way, you each gain two actions at the start of your turn, instead of three, since they spend one action keeping you balanced on their back, and you spend one action maintaining your grip."
 					]
 				},
 				{
 					"type": "pf2-sidebar",
 					"page": 130,
-					"name": "Sprite Adventurers",
+					"name": "Menninkäinen Adventurers",
 					"entries": [
-						"While PCs sprites are marked from adulthood as destined for great things, their childhoods before that point vary as widely as any other ancestry. That said, the tendency of most sprites to live either apart from civilization or in small villages means they rarely have backgrounds related to cities or large organizations and more likely were {@background acrobat||acrobats}, {@background animal whisperer||animal whisperers}, {@background artist||artists}, {@background entertainer||entertainers}, {@background gambler||gamblers}, {@background herbalist||herbalists}, {@background hermit||hermits}, {@background nomad||nomads}, or {@background scout||scouts}. Sprites are most often {@class bard||bards}, {@class rogue||rogues}, or {@class sorcerer||sorcerers}, though sprite rangers and druids do exist and tap into their love of the natural world. Likewise, sprite {@class witch||witches} and {@class wizard||wizards} are even more enthusiastic about learning the secrets of magic, and sprite {@class oracle|apg|oracles} approach the contradictions of their mystery from the experience of living the contradictions between the fey and mortal worlds."
+						"While PCs sprites are marked from adulthood as destined for great things, their childhoods before that point vary as widely as any other ancestry. That said, the tendency of most sprites to live either apart from civilization or in small villages means they rarely have backgrounds related to cities or large organizations and more likely were {@background acrobat||acrobats}, {@background animal whisperer||animal whisperers}, {@background artist||artists}, {@background entertainer||entertainers}, {@background gambler||gamblers}, {@background herbalist||herbalists}, {@background hermit||hermits}, {@background nomad||nomads}, or {@background scout||scouts}. Sprites are most often {@class bard||bards}, {@class rogue||rogues}, or {@class sorcerer||sorcerers}, though Menninkäinen rangers and druids do exist and tap into their love of the natural world. Likewise, Menninkäinen {@class witch||witches} and {@class wizard||wizards} are even more enthusiastic about learning the secrets of magic, and Menninkäinen {@class oracle|apg|oracles} approach the contradictions of their mystery from the experience of living the contradictions between the fey and mortal worlds."
 					]
 				},
 				{
@@ -162,7 +162,7 @@
 						"index": 1
 					},
 					"entries": [
-						"Unlike almost any other ancestry, sprites have distinctive heritages that almost always correlate to their societies, and they don't have any consistent ethnicities beyond that. This oddity has led many scholars to classify the various heritages of sprites as different creatures altogether, a fact that endlessly amuses the fey, who don't bother correcting such hilarious mistakes. In truth, these fairies are capable of forming families and kin groups across their various heritages, and the fact of reincarnation in the First World means that they don't see ancestry in quite the same way as mortal creatures. A sprite's parent might die and return as a young dryad, and there wouldn't be anything remotely unusual about that. So too do these tiny fey quickly accept people of every sort who make a genuine effort to know them, even those creatures that mortals tend to find dangerous or distasteful.",
+						"Unlike almost any other ancestry, sprites have distinctive heritages that almost always correlate to their societies, and they don't have any consistent ethnicities beyond that. This oddity has led many scholars to classify the various heritages of sprites as different creatures altogether, a fact that endlessly amuses the fey, who don't bother correcting such hilarious mistakes. In truth, these fairies are capable of forming families and kin groups across their various heritages, and the fact of reincarnation in the First World means that they don't see ancestry in quite the same way as mortal creatures. A Menninkäinen's parent might die and return as a young dryad, and there wouldn't be anything remotely unusual about that. So too do these tiny fey quickly accept people of every sort who make a genuine effort to know them, even those creatures that mortals tend to find dangerous or distasteful.",
 						{
 							"type": "pf2-h3",
 							"page": 127,
@@ -227,11 +227,11 @@
 				}
 			],
 			"heritageInfo": [
-				"Sprite heritages have wide variations in appearance and are considered by some mortal scholars to be different \"creatures,\" a taxonomy that sprites find adorably naive. Choose one of the following sprite heritages at 1st level."
+				"Menninkäinen heritages have wide variations in appearance and are considered by some mortal scholars to be different \"creatures,\" a taxonomy that sprites find adorably naive. Choose one of the following Menninkäinen heritages at 1st level."
 			],
 			"heritage": [
 				{
-					"name": "Draxie",
+					"name": "Lisko",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
@@ -239,7 +239,7 @@
 					]
 				},
 				{
-					"name": "Grig",
+					"name": "Sirkka",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
@@ -247,8 +247,8 @@
 					]
 				},
 				{
-					"name": "Luminous Sprite",
-					"shortName": "Luminous",
+					"name": "Valoisa Menninkäinen",
+					"shortName": "Valoisa",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
@@ -256,7 +256,7 @@
 					]
 				},
 				{
-					"name": "Melixie",
+					"name": "Pörriäinen",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
@@ -264,7 +264,7 @@
 					]
 				},
 				{
-					"name": "Nyktera",
+					"name": "Lepakko",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
@@ -272,7 +272,7 @@
 					]
 				},
 				{
-					"name": "Pixie",
+					"name": "Keiju",
 					"source": "LOAG",
 					"page": 129,
 					"entries": [
