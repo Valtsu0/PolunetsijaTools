@@ -186,7 +186,7 @@
 							"entries": [
 								"Living among Golarion's lofty peaks has instilled a reckless bravado in the Örkkis who call them home. Kharmaja Örkkis learn to jump and climb before they can walk. Great honor is thrust upon mountain Örkkis capable of death-defying leaps over deadly chasms\u2014tales of these deeds are sung across Kharmaja holds for generations in their expansive oral tradition. Most Kharmajas live among the Kodar and Mindspin Mountains, though some have expanded as far south as the Menador Mountains.",
 								"Wrangling a drake into servitude is one of the greatest feats of bravery recognized by the mountain holds. Kharmaja children memorize the names of their favorite drake riders and their fearsome mounts.",
-								"Kharmajas usually have the {@ancestry Örkki|apg|Taisteluvalmis|Taisteluvalmis|loag} or {@ancestry Örkki|apg|hold-scarred Örkki|hold-scarred} heritage."
+								"Kharmajas usually have the {@ancestry Örkki|apg|Taisteluvalmis|Taisteluvalmis|loag} or {@ancestry Örkki|apg|Kestävä Örkki|Kestävä} heritage."
 							]
 						},
 						{
@@ -207,7 +207,7 @@
 							"entries": [
 								"The jungle holds no secrets for rain Örkkis. Matanjis defend their territory from the demons of the Mwangi Expanse, their ancestral enemies. They carve protective runes in trees to mark their territories; more extreme holds display macabre trophies from defeated fiends. Other Mwangi residents greatly respect Matanjis for their fiend-hunting prowess, and Mualijae elves often ally with them against fiendish cults and other nefarious fÖrkkies.",
 								"Matanjis often cover their bodies with intricate warding tattoos. They show off their strength in intense martial dances performed by small groups. Completing a dance with passion and precision gains respect for the entire group.",
-								"Matanjis mostly have the {@ancestry Örkki|apg|hold-scarred|hold-scarred} or {@ancestry Örkki|apg|Ryöppy Örkki|Ryöppy} heritage."
+								"Matanjis mostly have the {@ancestry Örkki|apg|Kestävä|Kestävä} or {@ancestry Örkki|apg|Ryöppy Örkki|Ryöppy} heritage."
 							]
 						},
 						{
@@ -218,7 +218,7 @@
 							"entries": [
 								"Solitary Örkkis are highly rare, especially on the plains. Utterly communal, the Namathkar Örkkis of the Hold of Belkzen and the plains beyond are most comfortable when surrounded by those they trust. Their skin tones range from dazzling greens to earthy browns, and they dress in simple clothing that doesn't hinder them in combat, leaving them ready to fight at a moment's notice.",
 								"Namathkars are the most populous Örkki ethnicity in Avistan. As scions of the Örkki armies that clashed most with neighboring nations, they have fraught relationships and reputations. However, they've proven most likely to peaceably interact with other cultures, and the transformation of the Örkki city of Urgir into a trading hub has facilitated this cooperation.",
-								"Namathkars often have the {@ancestry Örkki|apg|badlands|badlands} or {@ancestry Örkki|apg|hold-scarred|hold-scarred} heritage."
+								"Namathkars often have the {@ancestry Örkki|apg|badlands|badlands} or {@ancestry Örkki|apg|Kestävä|Kestävä} heritage."
 							]
 						},
 						{
@@ -258,8 +258,8 @@
 					]
 				},
 				{
-					"name": "Hold-Scarred Örkki",
-					"shortName": "Hold-Scarred",
+					"name": "Kestävä Örkki",
+					"shortName": "Kestävä",
 					"source": "APG",
 					"page": 18,
 					"entries": [
