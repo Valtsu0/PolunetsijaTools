@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Kineticist",
+			"name": "Taitaja",
 			"source": "RoE",
 			"page": 13,
 			"keyAbility": "Constitution",
@@ -35,7 +35,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in kineticist class DC"
+					"entry": "Trained in Taitaja class DC"
 				}
 			},
 			"advancement": {
@@ -95,57 +95,57 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Kineticist|RoE|1",
-				"Initial Proficiencies|Kineticist|RoE|1",
-				"Attribute Boosts|Kineticist|RoE|1",
+				"Ancestry and Background|Taitaja|RoE|1",
+				"Initial Proficiencies|Taitaja|RoE|1",
+				"Attribute Boosts|Taitaja|RoE|1",
 				{
-					"classFeature": "Kinetic Gate|Kineticist|RoE|1",
+					"classFeature": "Kinetic Portti|Taitaja|RoE|1",
 					"gainSubclassFeature": true
 				},
-				"Kinetic Aura|Kineticist|RoE|1",
-				"Impulses|Kineticist|RoE|1",
-				"Kineticist Feats|Kineticist|RoE|1",
-				"Skill Feats|Kineticist|RoE|2",
-				"Extract Element|Kineticist|RoE|3",
-				"General Feats|Kineticist|RoE|3",
-				"Skill Increases|Kineticist|RoE|3",
-				"Will Expertise|Kineticist|RoE|3",
-				"Ancestry Feats|Kineticist|RoE|5",
-				"Gate's Threshold|Kineticist|RoE|5",
-				"Kinetic Durability|Kineticist|RoE|7",
-				"Kinetic Expertise|Kineticist|RoE|7",
-				"Perception Expertise|Kineticist|RoE|9",
-				"Kinetic Quickness|Kineticist|RoE|11",
-				"Reflow Elements|Kineticist|RoE|11",
-				"Weapon Expertise|Kineticist|RoE|11",
-				"Light Armor Expertise|Kineticist|RoE|13",
-				"Weapon Specialization|Kineticist|RoE|13",
-				"Greater Kinetic Durability|Kineticist|RoE|15",
-				"Kinetic Mastery|Kineticist|RoE|15",
-				"Double Reflow|Kineticist|RoE|17",
-				"Final Gate|Kineticist|RoE|19",
-				"Kinetic Legend|Kineticist|RoE|19",
-				"Light Armor Mastery|Kineticist|RoE|19"
+				"Kinetic Aura|Taitaja|RoE|1",
+				"Impulses|Taitaja|RoE|1",
+				"Taitaja Feats|Taitaja|RoE|1",
+				"Skill Feats|Taitaja|RoE|2",
+				"Extract Element|Taitaja|RoE|3",
+				"General Feats|Taitaja|RoE|3",
+				"Skill Increases|Taitaja|RoE|3",
+				"Will Expertise|Taitaja|RoE|3",
+				"Ancestry Feats|Taitaja|RoE|5",
+				"Portti's Threshold|Taitaja|RoE|5",
+				"Kinetic Durability|Taitaja|RoE|7",
+				"Kinetic Expertise|Taitaja|RoE|7",
+				"Perception Expertise|Taitaja|RoE|9",
+				"Kinetic Quickness|Taitaja|RoE|11",
+				"Reflow Elements|Taitaja|RoE|11",
+				"Weapon Expertise|Taitaja|RoE|11",
+				"Light Armor Expertise|Taitaja|RoE|13",
+				"Weapon Specialization|Taitaja|RoE|13",
+				"Greater Kinetic Durability|Taitaja|RoE|15",
+				"Kinetic Mastery|Taitaja|RoE|15",
+				"Double Reflow|Taitaja|RoE|17",
+				"Final Portti|Taitaja|RoE|19",
+				"Kinetic Legend|Taitaja|RoE|19",
+				"Light Armor Mastery|Taitaja|RoE|19"
 			],
 			"subclasses": [
 				{
-					"name": "Single Gate",
-					"type": "Gate",
-					"shortName": "Single",
+					"name": "Yksittäinen Portti",
+					"type": "Portti",
+					"shortName": "Yksittäinen",
 					"source": "RoE",
 					"page": 14,
 					"subclassFeatures": [
-						"Kinetic Gate|Kineticist|RoE|Single|RoE|1"
+						"Kinetic Portti|Taitaja|RoE|Yksittäinen|RoE|1"
 					]
 				},
 				{
-					"name": "Dual Gate",
-					"type": "Gate",
-					"shortName": "Dual",
+					"name": "Kaksoisportti",
+					"type": "Portti",
+					"shortName": "Kaksois",
 					"source": "RoE",
 					"page": 15,
 					"subclassFeatures": [
-						"Kinetic Gate|Kineticist|RoE|Dual|RoE|1"
+						"Kinetic Portti|Taitaja|RoE|Kaksois|RoE|1"
 					]
 				}
 			],
@@ -155,12 +155,12 @@
 					"page": 14,
 					"name": "Class Features",
 					"entries": [
-						"You gain these abilities as a kineticist. Abilities gained at higher levels list the level at which you gain them next to the features' names."
+						"You gain these abilities as a Taitaja. Abilities gained at higher levels list the level at which you gain them next to the features' names."
 					]
 				}
 			],
 			"flavor": [
-				"The power of the elements flows from within you. Roaring fire, pure water, fleeting air, steadfast earth, twisting wood, slicing metal. A kinetic gate inextricably tied to your body channels power directly from the elemental planes, causing elements to leap to your hand, whirl around your body, and blast foes at your whim. As your connection to the planes grows, you attain true mastery over your chosen elements."
+				"The power of the elements flows from within you. Roaring fire, pure water, fleeting air, steadfast earth, twisting wood, slicing metal. A kinetic Portti inextricably tied to your body channels power directly from the elemental planes, causing elements to leap to your hand, whirl around your body, and blast foes at your whim. As your connection to the planes grows, you attain true mastery over your chosen elements."
 			],
 			"fluff": [
 				{
@@ -192,7 +192,7 @@
 					"page": 13,
 					"name": "In downtime...",
 					"entries": [
-						"You could commune with the elements or practice your control over your kineticist powers. Through retraining, you can realign the flow of your kinetic gate to perfect different manifestations of your element."
+						"You could commune with the elements or practice your control over your Taitaja powers. Through retraining, you can realign the flow of your kinetic Portti to perfect different manifestations of your element."
 					]
 				},
 				{
@@ -203,7 +203,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Have a conflicted relationship with the kinetic gate that fuels your kineticist magic, possibly because it manifested at a traumatic point in your past.",
+								"Have a conflicted relationship with the kinetic Portti that fuels your Taitaja magic, possibly because it manifested at a traumatic point in your past.",
 								"Struggle with controlling and understanding your elemental powers.",
 								"Form a kinship with elemental creatures or feel at home in areas strong with your element."
 							]
@@ -239,7 +239,7 @@
 			"name": "Ancestry and Background",
 			"source": "RoE",
 			"page": 14,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
@@ -250,7 +250,7 @@
 			"name": "Attribute Boosts",
 			"source": "RoE",
 			"page": 14,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
@@ -262,7 +262,7 @@
 			"name": "Initial Proficiencies",
 			"source": "RoE",
 			"page": 14,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
@@ -270,28 +270,28 @@
 			]
 		},
 		{
-			"name": "Kinetic Gate",
+			"name": "Kinetic Portti",
 			"source": "RoE",
 			"page": 14,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
-			"subclasses": "Gate",
+			"subclasses": "Portti",
 			"level": 1,
 			"entries": [
-				"As a kineticist, you've awakened or opened a kinetic gate, a supernatural conduit within your body that can channel elemental forces straight from the elemental planes. You can choose either a  {@subclassFeature Kinetic Gate|Kineticist|RoE|Single|RoE|1||single gate} (one element) or  {@subclassFeature Kinetic Gate|Kineticist|RoE|Dual|RoE|1||dual gate} (two elements) at 1st level.",
-				"When selecting an element for your kinetic gate, you can pick from six elements\u2014{@trait air}, {@trait earth}, {@trait fire}, {@trait metal}, {@trait water}, and {@trait wood}. Elements you can channel are referred to as your kinetic elements. Your kinetic elements function even in environments where they normally wouldn't. For example, you could use fire actions underwater even though that's normally not possible, and you could create air in a vacuum.",
-				"Your kinetic gate gives you impulse feats, magical actions that let you shape and control your elements in awesome ways. You can select more impulse feats using your kineticist class feats, as described under Impulses on page 15. At higher levels, the gate's threshold class feature gives you more impulse feats and lets you choose whether to improve with one element or access new kinetic elements."
+				"As a Taitaja, you've awakened or opened a kinetic Portti, a supernatural conduit within your body that can channel elemental forces straight from the elemental planes. You can choose either a  {@subclassFeature Kinetic Portti|Taitaja|RoE|Yksittäinen|RoE|1||Yksittäinen Portti} (one element) or  {@subclassFeature Kinetic Portti|Taitaja|RoE|Kaksois|RoE|1||Kaksois Portti} (two elements) at 1st level.",
+				"When selecting an element for your kinetic Portti, you can pick from six elements\u2014{@trait air}, {@trait earth}, {@trait fire}, {@trait metal}, {@trait water}, and {@trait wood}. Elements you can channel are referred to as your kinetic elements. Your kinetic elements function even in environments where they normally wouldn't. For example, you could use fire actions underwater even though that's normally not possible, and you could create air in a vacuum.",
+				"Your kinetic Portti gives you impulse feats, magical actions that let you shape and control your elements in awesome ways. You can select more impulse feats using your Taitaja class feats, as described under Impulses on page 15. At higher levels, the Portti's threshold class feature gives you more impulse feats and lets you choose whether to improve with one element or access new kinetic elements."
 			]
 		},
 		{
 			"name": "Kinetic Aura",
 			"source": "RoE",
 			"page": 15,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
-				"Through your kinetic gate, elements flow from an elemental plane to orbit your person. The form and appearance of this kinetic aura are unique to you. Examples include a chaotic wind orbiting the body, fragments of floating gravel, colorful wicks of flame, stars of raw metal always changing shape, floating snowflakes, or splinters dancing in the air. If you can channel more than one element, pieces of all your kinetic elements appear in the aura.",
+				"Through your kinetic Portti, elements flow from an elemental plane to orbit your person. The form and appearance of this kinetic aura are unique to you. Examples include a chaotic wind orbiting the body, fragments of floating gravel, colorful wicks of flame, stars of raw metal always changing shape, floating snowflakes, or splinters dancing in the air. If you can channel more than one element, pieces of all your kinetic elements appear in the aura.",
 				"You have the {@action Channel Elements|RoE} action, which lets you activate your kinetic aura.",
 				{
 					"type": "data",
@@ -305,11 +305,11 @@
 			"name": "Impulses",
 			"source": "RoE",
 			"page": 15,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
-				"An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the {@trait impulse} trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.",
+				"An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the {@trait impulse} trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic Portti selection gives you additional impulse feats. You can select more impulse feats with Taitaja class feats, and at higher levels, you'll automatically get more with the Portti's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.",
 				"Impulses are {@trait magical}, and though they aren't spells, some things that affect spells also affect impulses.",
 				"Abilities that restrict you from casting spells (such as being polymorphed into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to impulses.",
 				{
@@ -324,7 +324,7 @@
 					"type": "pf2-h4",
 					"name": "Impulse Attacks and DCs",
 					"entries": [
-						"An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an {@b impulse attack roll} to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The {@condition drained} condition can reduce your impulse attack rolls and class DCs. You can acquire a {@item gate attenuator|RoE} to gain a bonus to your impulse attack modifier."
+						"An impulse that requires a saving throw uses your Taitaja class DC. Some of your impulses require you to attempt an {@b impulse attack roll} to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your Taitaja class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The {@condition drained} condition can reduce your impulse attack rolls and class DCs. You can acquire a {@item Portti attenuator|RoE} to gain a bonus to your impulse attack modifier."
 					]
 				},
 				{
@@ -356,21 +356,21 @@
 			]
 		},
 		{
-			"name": "Kineticist Feats",
+			"name": "Taitaja Feats",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level, you gain a {@filter kineticist class feat|feats||type=class|Class=kineticist;!impulse|level=[1]}."
+				"At 1st level and every even-numbered level, you gain a {@filter Taitaja class feat|feats||type=class|Class=Taitaja;!impulse|level=[1]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 2,
 			"entries": [
@@ -381,7 +381,7 @@
 			"name": "Extract Element",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 3,
 			"entries": [
@@ -398,7 +398,7 @@
 			"name": "General Feats",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 3,
 			"entries": [
@@ -409,7 +409,7 @@
 			"name": "Skill Increases",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 3,
 			"entries": [
@@ -421,7 +421,7 @@
 			"name": "Will Expertise",
 			"source": "RoE",
 			"page": 17,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 3,
 			"entries": [
@@ -432,7 +432,7 @@
 			"name": "Ancestry Feats",
 			"source": "RoE",
 			"page": 18,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 5,
 			"entries": [
@@ -440,14 +440,14 @@
 			]
 		},
 		{
-			"name": "Gate's Threshold",
+			"name": "Portti's Threshold",
 			"source": "RoE",
 			"page": 18,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 5,
 			"entries": [
-				"You reach a new milestone in your odyssey to become in tune with your kinetic gate and must decide how to expand the gate's power. At 5th level and every 4 levels thereafter, you choose to either expand the portal or fork the path.",
+				"You reach a new milestone in your odyssey to become in tune with your kinetic Portti and must decide how to expand the Portti's power. At 5th level and every 4 levels thereafter, you choose to either expand the portal or fork the path.",
 				{
 					"type": "list",
 					"items": [
@@ -455,48 +455,48 @@
 							"type": "item",
 							"name": "Expand the Portal:",
 							"entries": [
-								"Your gate attunes more precisely to one of your elements. Gain an {@filter impulse feat|feats||type=class|Class=impulse|level=[1;5]} of your level or lower for one of your kinetic elements; if you have more than one element, you can choose a {@filter composite feat|feats||type=class|Class=impulse;composite|level=[1;5]}. You also gain a gate junction for one of your kinetic elements. If you have no valid options for the feat\u2014typically because you have one kinetic element and devoted your class feats to gaining that element's impulses\u2014you can instead select any kineticist class feat of your level or lower for which you meet the prerequisites."
+								"Your Portti attunes more precisely to one of your elements. Gain an {@filter impulse feat|feats||type=class|Class=impulse|level=[1;5]} of your level or lower for one of your kinetic elements; if you have more than one element, you can choose a {@filter composite feat|feats||type=class|Class=impulse;composite|level=[1;5]}. You also gain a Portti junction for one of your kinetic elements. If you have no valid options for the feat\u2014typically because you have one kinetic element and devoted your class feats to gaining that element's impulses\u2014you can instead select any Taitaja class feat of your level or lower for which you meet the prerequisites."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Fork the Path:",
 							"entries": [
-								"Your gate reaches to another elemental plane. Add a new element of your choice to your kinetic elements. Gain an {@filter impulse feat|feats||type=class|Class=impulse|level=[1;5]} of your level or lower with the trait of that element. You can't select a composite impulse feat with this feat selection."
+								"Your Portti reaches to another elemental plane. Add a new element of your choice to your kinetic elements. Gain an {@filter impulse feat|feats||type=class|Class=impulse|level=[1;5]} of your level or lower with the trait of that element. You can't select a composite impulse feat with this feat selection."
 							]
 						}
 					]
 				},
 				{
 					"type": "refClassFeature",
-					"classFeature": "Gate Junctions|Kineticist|RoE|5"
+					"classFeature": "Portti Junctions|Taitaja|RoE|5"
 				}
 			]
 		},
 		{
-			"name": "Gate Junctions",
+			"name": "Portti Junctions",
 			"source": "RoE",
 			"page": 18,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 5,
 			"entries": [
-				"When you gain a gate junction, you develop a specialized kinetic technique. Choose one benefit from the gate junction table for one of your kinetic elements.",
+				"When you gain a Portti junction, you develop a specialized kinetic technique. Choose one benefit from the Portti junction table for one of your kinetic elements.",
 				{
 					"type": "list",
 					"items": [
 						"A {@b critical blast} junction happens when you get a critical success with an {@action Elemental Blast|RoE} of the kinetic element.",
 						"An {@b elemental resistance} grants you resistance to damage while your kinetic aura is active. This resistance is equal to your level, and it applies to damage of any listed type or that comes from a creature or effect that has any of the listed traits. At 17th level, you gain immunity to effects with any of the listed traits. This doesn't make you immune to creatures with such a trait. You can voluntarily forgo this resistance, immunity, or both if you want an effect to work on you.",
-						"You can choose an {@b impulse junction} instead of one of the listed junctions. Impulse junctions are listed under {@subclassFeature Kinetic Gate|Kineticist|RoE|Single|RoE|1||Single Gate}.",
+						"You can choose an {@b impulse junction} instead of one of the listed junctions. Impulse junctions are listed under {@subclassFeature Kinetic Portti|Taitaja|RoE|Yksittäinen|RoE|1||Yksittäinen Portti}.",
 						"An {@b aura junction} adds an effect to your kinetic aura when you {@action Channel Elements|RoE}.",
 						"A {@b skill junction} makes you trained in the listed skill and grants you the listed skill feat. If you were already trained in the listed skill, you instead become trained in a skill of your choice. While your kinetic aura is active, you gain a +1 status bonus to the listed skill; the bonus increases to +2 at 10th level and +3 at 17th level."
 					]
 				},
-				"You can select each gate junction only once, unless noted otherwise, but you can have the same type of junction for multiple elements. You can always choose not to use a gate junction when it would normally occur. If you have multiple junctions that would apply at the same time\u2014such as kinetic aura junctions for different elements\u2014you can apply any number of them. (Though note that you can use only one impulse junction per round.)",
+				"You can select each Portti junction only once, unless noted otherwise, but you can have the same type of junction for multiple elements. You can always choose not to use a Portti junction when it would normally occur. If you have multiple junctions that would apply at the same time\u2014such as kinetic aura junctions for different elements\u2014you can apply any number of them. (Though note that you can use only one impulse junction per round.)",
 				{
 					"type": "data",
 					"tag": "table",
-					"name": "Gate Junction",
+					"name": "Portti Junction",
 					"source": "RoE"
 				}
 			]
@@ -505,29 +505,29 @@
 			"name": "Kinetic Durability",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 7,
 			"entries": [
-				"The sustenance of your inner gate counters harm that would come to your body. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead."
+				"The sustenance of your inner Portti counters harm that would come to your body. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead."
 			]
 		},
 		{
 			"name": "Kinetic Expertise",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 7,
 			"entries": [
-				"Your kinetic gate grows stronger, making your elements harder to resist. The power flowing from you is even harder to resist. Your proficiency rank for your kineticist class DC increases to expert."
+				"Your kinetic Portti grows stronger, making your elements harder to resist. The power flowing from you is even harder to resist. Your proficiency rank for your Taitaja class DC increases to expert."
 			]
 		},
 		{
 			"name": "Perception Expertise",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 9,
 			"entries": [
@@ -538,7 +538,7 @@
 			"name": "Kinetic Quickness",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 11,
 			"entries": [
@@ -549,7 +549,7 @@
 			"name": "Reflow Elements",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 11,
 			"entries": [
@@ -560,7 +560,7 @@
 			"name": "Weapon Expertise",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 11,
 			"entries": [
@@ -571,7 +571,7 @@
 			"name": "Light Armor Expertise",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 13,
 			"entries": [
@@ -582,18 +582,18 @@
 			"name": "Greater Kinetic Durability",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 15,
 			"entries": [
-				"Your gate protects you even more. Your proficiency rank for Fortitude saves increases to legendary. When you roll a critical failure on a Fortitude save, you get a failure instead. When you fail a Fortitude save against an effect that deals damage, you halve the damage you take."
+				"Your Portti protects you even more. Your proficiency rank for Fortitude saves increases to legendary. When you roll a critical failure on a Fortitude save, you get a failure instead. When you fail a Fortitude save against an effect that deals damage, you halve the damage you take."
 			]
 		},
 		{
 			"name": "Weapon Specialization",
 			"source": "RoE",
 			"page": 19,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 13,
 			"entries": [
@@ -604,51 +604,51 @@
 			"name": "Kinetic Mastery",
 			"source": "RoE",
 			"page": 20,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 15,
 			"entries": [
-				"The power flowing from you grows even difficult to resist. Your proficiency rank for your kineticist class DC increases to master."
+				"The power flowing from you grows even difficult to resist. Your proficiency rank for your Taitaja class DC increases to master."
 			]
 		},
 		{
 			"name": "Double Reflow",
 			"source": "RoE",
 			"page": 20,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 17,
 			"entries": [
-				"Your kinetic gate becomes even more adaptable. When you use {@classFeature reflow elements|kineticist|RoE|11}, you can replace two impulse feats instead of one."
+				"Your kinetic Portti becomes even more adaptable. When you use {@classFeature reflow elements|Taitaja|RoE|11}, you can replace two impulse feats instead of one."
 			]
 		},
 		{
-			"name": "Final Gate",
+			"name": "Final Portti",
 			"source": "RoE",
 			"page": 20,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 19,
 			"entries": [
-				"Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to {@action Channel Elements|RoE} as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the {@action Elemental Blast|RoE} or stance impulse you normally do from using {@action Channel Elements|RoE}."
+				"Your kinetic Portti reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to {@action Channel Elements|RoE} as a free action. You can deliberately suppress the effect. If you're unable to act, final Portti still functions, but you don't get to use the {@action Elemental Blast|RoE} or stance impulse you normally do from using {@action Channel Elements|RoE}."
 			]
 		},
 		{
 			"name": "Kinetic Legend",
 			"source": "RoE",
 			"page": 20,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 19,
 			"entries": [
-				"Your elements become almost impossible to resist. Your proficiency rank for your kineticist class DC increases to legendary."
+				"Your elements become almost impossible to resist. Your proficiency rank for your Taitaja class DC increases to legendary."
 			]
 		},
 		{
 			"name": "Light Armor Mastery",
 			"source": "RoE",
 			"page": 20,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
 			"level": 19,
 			"entries": [
@@ -658,39 +658,39 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Kinetic Gate",
+			"name": "Kinetic Portti",
 			"source": "RoE",
 			"page": 15,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
-			"subclassShortName": "Dual",
+			"subclassShortName": "Kaksois",
 			"subclassSource": "RoE",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Dual Gate",
+					"name": "Kaksois Portti",
 					"entries": [
-						"Your kinetic gate is a harmonious conduit between two planes, allowing you to combine their elements to give you a versatile set of abilities. Select two elements to be your kinetic elements. Then, select two {@filter 1st-level impulse feats|feats||type=class|Class=impulse|level=[1]}, one with the trait of the first element and one with the trait of the other."
+						"Your kinetic Portti is a harmonious conduit between two planes, allowing you to combine their elements to give you a versatile set of abilities. Select two elements to be your kinetic elements. Then, select two {@filter 1st-level impulse feats|feats||type=class|Class=impulse|level=[1]}, one with the trait of the first element and one with the trait of the other."
 					]
 				}
 			]
 		},
 		{
-			"name": "Kinetic Gate",
+			"name": "Kinetic Portti",
 			"source": "RoE",
 			"page": 14,
-			"className": "Kineticist",
+			"className": "Taitaja",
 			"classSource": "RoE",
-			"subclassShortName": "Single",
+			"subclassShortName": "Yksittäinen",
 			"subclassSource": "RoE",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Single Gate",
+					"name": "Yksittäinen Portti",
 					"entries": [
-						"Your kinetic gate links to a single elemental plane, starting you with a single element but giving you greater power with it. Choose one element to be your kinetic element, and select two {@filter 1st-level impulse feats|feats||type=class|Class=impulse|level=[1]} that have that element's trait.",
+						"Your kinetic Portti links to a Yksittäinen elemental plane, starting you with a Yksittäinen element but giving you greater power with it. Choose one element to be your kinetic element, and select two {@filter 1st-level impulse feats|feats||type=class|Class=impulse|level=[1]} that have that element's trait.",
 						"In addition, you gain an impulse junction, a benefit that occurs when you use an impulse of the chosen element that takes 2 actions or more. This happens before the other effects of the impulse, unless noted otherwise. You can gain only one impulse junction per round; they are described in full below.",
 						{
 							"type": "list",

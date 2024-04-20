@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Gunslinger",
+			"name": "Pyssysankari",
 			"source": "G&G",
 			"page": 105,
 			"keyAbility": "Dexterity",
@@ -17,7 +17,7 @@
 							"skill": [
 								"Subclass Dependant"
 							],
-							"entry": "one or more skills determined by your gunslinger's way"
+							"entry": "one or more skills determined by your Pyssysankari's Polku"
 						}
 					],
 					"add": 3
@@ -43,7 +43,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in gunslinger class DC"
+					"entry": "Trained in Pyssysankari class DC"
 				}
 			},
 			"advancement": {
@@ -104,100 +104,100 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Gunslinger|G&G|1",
-				"Initial Proficiencies|Gunslinger|G&G|1",
+				"Ancestry and Background|Pyssysankari|G&G|1",
+				"Initial Proficiencies|Pyssysankari|G&G|1",
 				{
-					"classFeature": "Gunslinger's Way|Gunslinger|G&G|1",
+					"classFeature": "Pyssysankari's Polku|Pyssysankari|G&G|1",
 					"gainSubclassFeature": true
 				},
-				"Gunslinger Feats|Gunslinger|G&G|1",
-				"Singular Expertise|Gunslinger|G&G|1",
-				"Skill Feats|Gunslinger|G&G|2",
-				"General Feats|Gunslinger|G&G|3",
-				"Skill Increases|Gunslinger|G&G|3",
-				"Stubborn|Gunslinger|G&G|3",
-				"Ability Boosts|Gunslinger|G&G|5",
-				"Ancestry Feats|Gunslinger|G&G|5",
-				"Gunslinger Weapon Mastery|Gunslinger|G&G|5",
-				"Vigilant Senses|Gunslinger|G&G|7",
-				"Weapon Specialization|Gunslinger|G&G|7",
+				"Pyssysankari Feats|Pyssysankari|G&G|1",
+				"Singular Expertise|Pyssysankari|G&G|1",
+				"Skill Feats|Pyssysankari|G&G|2",
+				"General Feats|Pyssysankari|G&G|3",
+				"Skill Increases|Pyssysankari|G&G|3",
+				"Stubborn|Pyssysankari|G&G|3",
+				"Ability Boosts|Pyssysankari|G&G|5",
+				"Ancestry Feats|Pyssysankari|G&G|5",
+				"Pyssysankari Weapon Mastery|Pyssysankari|G&G|5",
+				"Vigilant Senses|Pyssysankari|G&G|7",
+				"Weapon Specialization|Pyssysankari|G&G|7",
 				{
-					"classFeature": "Advanced Deed|Gunslinger|G&G|9",
+					"classFeature": "Advanced Deed|Pyssysankari|G&G|9",
 					"gainSubclassFeature": true
 				},
-				"Gunslinger Expertise|Gunslinger|G&G|9",
-				"Evasion|Gunslinger|G&G|11",
-				"Gunslinging Legend|Gunslinger|G&G|13",
-				"Medium Armor Expertise|Gunslinger|G&G|13",
+				"Pyssysankari Expertise|Pyssysankari|G&G|9",
+				"Evasion|Pyssysankari|G&G|11",
+				"Gunslinging Legend|Pyssysankari|G&G|13",
+				"Medium Armor Expertise|Pyssysankari|G&G|13",
 				{
-					"classFeature": "Greater Deed|Gunslinger|G&G|15",
+					"classFeature": "Greater Deed|Pyssysankari|G&G|15",
 					"gainSubclassFeature": true
 				},
-				"Greater Weapon Specialization|Gunslinger|G&G|15",
-				"Juggernaut|Gunslinger|G&G|17",
-				"Shootist's Edge|Gunslinger|G&G|17",
-				"Incredible Senses|Gunslinger|G&G|19",
-				"Medium Armor Mastery|Gunslinger|G&G|19"
+				"Greater Weapon Specialization|Pyssysankari|G&G|15",
+				"Juggernaut|Pyssysankari|G&G|17",
+				"Shootist's Edge|Pyssysankari|G&G|17",
+				"Incredible Senses|Pyssysankari|G&G|19",
+				"Medium Armor Mastery|Pyssysankari|G&G|19"
 			],
 			"subclasses": [
 				{
-					"name": "Drifter",
-					"type": "Gunslinger Way",
-					"shortName": "Drifter",
+					"name": "Harhailija",
+					"type": "Pyssysankari Polku",
+					"shortName": "Harhailija",
 					"source": "G&G",
 					"page": 108,
 					"subclassFeatures": [
-						"Gunslinger's Way|Gunslinger|G&G|Drifter|G&G|1",
-						"Advanced Deed|Gunslinger|G&G|Drifter|G&G|9",
-						"Greater Deed|Gunslinger|G&G|Drifter|G&G|15"
+						"Pyssysankari's Polku|Pyssysankari|G&G|Harhailija|G&G|1",
+						"Advanced Deed|Pyssysankari|G&G|Harhailija|G&G|9",
+						"Greater Deed|Pyssysankari|G&G|Harhailija|G&G|15"
 					]
 				},
 				{
-					"name": "Pistolero",
-					"type": "Gunslinger Way",
-					"shortName": "Pistolero",
+					"name": "Lainsuojaton",
+					"type": "Pyssysankari Polku",
+					"shortName": "Lainsuojaton",
 					"source": "G&G",
 					"page": 109,
 					"subclassFeatures": [
-						"Gunslinger's Way|Gunslinger|G&G|Pistolero|G&G|1",
-						"Advanced Deed|Gunslinger|G&G|Pistolero|G&G|9",
-						"Greater Deed|Gunslinger|G&G|Pistolero|G&G|15"
+						"Pyssysankari's Polku|Pyssysankari|G&G|Lainsuojaton|G&G|1",
+						"Advanced Deed|Pyssysankari|G&G|Lainsuojaton|G&G|9",
+						"Greater Deed|Pyssysankari|G&G|Lainsuojaton|G&G|15"
 					]
 				},
 				{
-					"name": "Sniper",
-					"type": "Gunslinger Way",
-					"shortName": "Sniper",
+					"name": "Tarkk'ampuja",
+					"type": "Pyssysankari Polku",
+					"shortName": "Tarkk'ampuja",
 					"source": "G&G",
 					"page": 109,
 					"subclassFeatures": [
-						"Gunslinger's Way|Gunslinger|G&G|Sniper|G&G|1",
-						"Advanced Deed|Gunslinger|G&G|Sniper|G&G|9",
-						"Greater Deed|Gunslinger|G&G|Sniper|G&G|15"
+						"Pyssysankari's Polku|Pyssysankari|G&G|Tarkk'ampuja|G&G|1",
+						"Advanced Deed|Pyssysankari|G&G|Tarkk'ampuja|G&G|9",
+						"Greater Deed|Pyssysankari|G&G|Tarkk'ampuja|G&G|15"
 					]
 				},
 				{
-					"name": "Vanguard",
-					"type": "Gunslinger Way",
-					"shortName": "Vanguard",
+					"name": "Suunnannäyttäjä",
+					"type": "Pyssysankari Polku",
+					"shortName": "Suunnannäyttäjä",
 					"source": "G&G",
 					"page": 110,
 					"subclassFeatures": [
-						"Gunslinger's Way|Gunslinger|G&G|Vanguard|G&G|1",
-						"Advanced Deed|Gunslinger|G&G|Vanguard|G&G|9",
-						"Greater Deed|Gunslinger|G&G|Vanguard|G&G|15"
+						"Pyssysankari's Polku|Pyssysankari|G&G|Suunnannäyttäjä|G&G|1",
+						"Advanced Deed|Pyssysankari|G&G|Suunnannäyttäjä|G&G|9",
+						"Greater Deed|Pyssysankari|G&G|Suunnannäyttäjä|G&G|15"
 					]
 				},
 				{
-					"name": "Triggerbrand",
-					"type": "Gunslinger Way",
-					"shortName": "Triggerbrand",
+					"name": "Liipaisija",
+					"type": "Pyssysankari Polku",
+					"shortName": "Liipaisija",
 					"source": "LOIL",
 					"page": 107,
 					"subclassFeatures": [
-						"Gunslinger's Way|Gunslinger|G&G|Triggerbrand|LOIL|1",
-						"Advanced Deed|Gunslinger|G&G|Triggerbrand|LOIL|9",
-						"Greater Deed|Gunslinger|G&G|Triggerbrand|LOIL|15"
+						"Pyssysankari's Polku|Pyssysankari|G&G|Liipaisija|LOIL|1",
+						"Advanced Deed|Pyssysankari|G&G|Liipaisija|LOIL|9",
+						"Greater Deed|Pyssysankari|G&G|Liipaisija|LOIL|15"
 					]
 				}
 			],
@@ -207,7 +207,7 @@
 					"page": 106,
 					"name": "Class Features",
 					"entries": [
-						"You gain these abilities as a gunslinger. Abilities gained at higher levels list the level at which you gain them next to the features' names."
+						"You gain these abilities as a Pyssysankari. Abilities gained at higher levels list the level at which you gain them next to the features' names."
 					]
 				}
 			],
@@ -289,7 +289,7 @@
 			"rarity": "Uncommon",
 			"sampleBuilds": [
 				{
-					"name": "Drifter",
+					"name": "Harhailija",
 					"source": "G&G",
 					"page": 114,
 					"entries": [
@@ -304,7 +304,7 @@
 						"Stealth",
 						"Thievery"
 					],
-					"subclass": "Drifter",
+					"subclass": "Harhailija",
 					"feats": [
 						"Sword and Pistol",
 						"Fake Out",
@@ -312,7 +312,7 @@
 					]
 				},
 				{
-					"name": "Pistolero",
+					"name": "Lainsuojaton",
 					"source": "G&G",
 					"page": 116,
 					"entries": [
@@ -327,7 +327,7 @@
 						"Intimidation",
 						"Thievery"
 					],
-					"subclass": "Pistolero",
+					"subclass": "Lainsuojaton",
 					"feats": [
 						"Dual-Weapon Reload",
 						"Pistol Twirl",
@@ -335,7 +335,7 @@
 					]
 				},
 				{
-					"name": "Sniper",
+					"name": "Tarkk'ampuja",
 					"source": "G&G",
 					"page": 118,
 					"entries": [
@@ -350,7 +350,7 @@
 						"Stealth",
 						"Survival"
 					],
-					"subclass": "Sniper",
+					"subclass": "Tarkk'ampuja",
 					"feats": [
 						"Cover Fire",
 						"Risky Reload",
@@ -366,7 +366,7 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 1,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"In addition to those from your class at 1st level, you have the benefits of your selected ancestry and background."
@@ -377,50 +377,50 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 1,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"At 1st level, you gain a number of proficiencies that represent your basic training. These proficiencies are noted at the start of this class."
 			]
 		},
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "G&G",
 			"page": 106,
-			"subclasses": "Gunslinger's Way",
-			"type": "Gunslinger's Way",
+			"subclasses": "Pyssysankari's Polku",
+			"type": "Pyssysankari's Polku",
 			"level": 1,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"All gunslingers have a particular way they follow, a combination of philosophy and combat style that defines both how they fight and the weapons they excel with. At 1st level, your way grants you an initial deed, a unique reload action called a slinger's reload, and proficiency with a particular skill. You also gain advanced and greater deeds at later levels, as well as access to way-specific feats.",
+				"All gunslingers have a particular Polku they follow, a combination of philosophy and combat style that defines both how they fight and the weapons they excel with. At 1st level, your Polku grants you an initial deed, a unique reload action called a slinger's reload, and proficiency with a particular skill. You also gain advanced and greater deeds at later levels, as well as access to Polku-specific feats.",
 				{
 					"type": "list",
 					"items": [
 						{
 							"type": "item",
-							"name": "{@class Gunslinger|G&G|Way of the Drifter|Drifter}",
+							"name": "{@class Pyssysankari|G&G|Polku of the Harhailija|Harhailija}",
 							"entries": [
 								"You wander across the battlefield, equally at home in and out of the fray."
 							]
 						},
 						{
 							"type": "item",
-							"name": "{@class Gunslinger|G&G|Way of the Pistolero|Pistolero}",
+							"name": "{@class Pyssysankari|G&G|Polku of the Lainsuojaton|Lainsuojaton}",
 							"entries": [
 								"You carefully maintain your distance at a duelist's 10 paces with pistol in hand."
 							]
 						},
 						{
 							"type": "item",
-							"name": "{@class Gunslinger|G&G|Way of the Sniper|Sniper}",
+							"name": "{@class Pyssysankari|G&G|Polku of the Tarkk'ampuja|Tarkk'ampuja}",
 							"entries": [
 								"You practice a methodical style of shooting, striking from far cover."
 							]
 						},
 						{
 							"type": "item",
-							"name": "{@class Gunslinger|G&G|Way of the Vanguard|Vanguard}",
+							"name": "{@class Pyssysankari|G&G|Polku of the Suunnannäyttäjä|Suunnannäyttäjä}",
 							"entries": [
 								"You rely on a brutal combat style that uses heavy weapons and explosive attacks."
 							]
@@ -430,14 +430,14 @@
 			]
 		},
 		{
-			"name": "Gunslinger Feats",
+			"name": "Pyssysankari Feats",
 			"source": "G&G",
 			"page": 106,
 			"level": 1,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"At 1st level and every even-numbered level, you gain a {@filter gunslinger class feat|feats||type=class|Class=gunslinger|level=[1;1]}."
+				"At 1st level and every even-numbered level, you gain a {@filter Pyssysankari class feat|feats||type=class|Class=Pyssysankari|level=[1;1]}."
 			]
 		},
 		{
@@ -445,11 +445,11 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 1,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You have particular expertise with guns and crossbows that grants you greater proficiency with them and the ability to deal more damage. You gain a +1 circumstance bonus to damage rolls with firearms and crossbows.",
-				"This intense focus on firearms and crossbows prevents you from reaching the same heights with other weapons. Your proficiency with unarmed attacks and with weapons other than firearms and crossbows can't be higher than trained, even if you gain an ability that would increase your proficiency in one or more other weapons to match your highest weapon proficiency (such as the weapon expertise feats many ancestries have). If you have gunslinger weapon mastery, the limit is expert, and if you have gunslinging legend, the limit is master."
+				"This intense focus on firearms and crossbows prevents you from reaching the same heights with other weapons. Your proficiency with unarmed attacks and with weapons other than firearms and crossbows can't be higher than trained, even if you gain an ability that would increase your proficiency in one or more other weapons to match your highest weapon proficiency (such as the weapon expertise feats many ancestries have). If you have Pyssysankari weapon mastery, the limit is expert, and if you have gunslinging legend, the limit is master."
 			]
 		},
 		{
@@ -457,7 +457,7 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 2,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"At 2nd level and every even-numbered level, you gain a {@filter skill feat|feats||type=skill;!archetype}. You must be trained or better in the corresponding skill to select a skill feat."
@@ -468,7 +468,7 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 3,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"At 3rd level and every 4 levels thereafter, you gain a {@filter general feat|feats||type=general|level=[1;3]}."
@@ -479,7 +479,7 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 3,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase either to increase your proficiency rank to trained in one skill you're untrained in, or to increase your proficiency rank in one skill in which you're already trained to expert.",
@@ -491,7 +491,7 @@
 			"source": "G&G",
 			"page": 106,
 			"level": 3,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the {@condition controlled} condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the {@condition controlled} condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn."
@@ -502,7 +502,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 5,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it's already 18 or above, or by 2 if it starts out below 18."
@@ -513,21 +513,21 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 5,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"In addition to the ancestry feat you started with, you gain an {@filter ancestry feat|feats||type=ancestry} at 5th level and every 4 levels thereafter."
 			]
 		},
 		{
-			"name": "Gunslinger Weapon Mastery",
+			"name": "Pyssysankari Weapon Mastery",
 			"source": "G&G",
 			"page": 107,
 			"level": 5,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"You fully understand the best way to utilize your unique weapons. Your proficiency rank increases to master with simple and martial firearms and crossbows. Your proficiency rank for advanced firearms and crossbows, simple weapons, martial weapons, and unarmed attacks increases to expert. You gain access to the critical specialization effects for firearms and crossbows."
+				"You fully understand the best Polku to utilize your unique weapons. Your proficiency rank increases to master with simple and martial firearms and crossbows. Your proficiency rank for advanced firearms and crossbows, simple weapons, martial weapons, and unarmed attacks increases to expert. You gain access to the critical specialization effects for firearms and crossbows."
 			]
 		},
 		{
@@ -535,7 +535,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 7,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"Through your adventures, you've developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master."
@@ -546,7 +546,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 7,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You've learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you're a master, and 4 if you're legendary."
@@ -557,21 +557,21 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 9,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"You've learned a powerful new technique of your chosen way. You gain the advanced deed ability of the way you chose at 1st level."
+				"You've learned a powerful new technique of your chosen Polku. You gain the advanced deed ability of the Polku you chose at 1st level."
 			]
 		},
 		{
-			"name": "Gunslinger Expertise",
+			"name": "Pyssysankari Expertise",
 			"source": "G&G",
 			"page": 107,
 			"level": 9,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"Your special shots become harder for opponents to predict or resist. Your proficiency rank for your gunslinger class DC increases to expert."
+				"Your special shots become harder for opponents to predict or resist. Your proficiency rank for your Pyssysankari class DC increases to expert."
 			]
 		},
 		{
@@ -579,7 +579,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 11,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You've learned to move quickly to avoid explosions, dragon's breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead."
@@ -590,7 +590,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 13,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You've learned unique techniques for wielding firearms and crossbows that give you unmatched skill in their use. Your proficiency rank increases to legendary with simple and martial firearms and crossbows and to master with advanced firearms and crossbows. Your proficiency rank for simple weapons, martial weapons, and unarmed attacks increases to expert."
@@ -601,7 +601,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 13,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You've learned to defend yourself better against attacks. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert."
@@ -612,10 +612,10 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 15,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"You've mastered the pinnacle technique of your chosen way. You gain the greater deed ability of the way you chose at 1st level."
+				"You've mastered the pinnacle technique of your chosen Polku. You gain the greater deed ability of the Polku you chose at 1st level."
 			]
 		},
 		{
@@ -623,7 +623,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 15,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary."
@@ -634,7 +634,7 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 17,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"Your body has become accustomed to physical hazards and resistant to ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead."
@@ -645,10 +645,10 @@
 			"source": "G&G",
 			"page": 107,
 			"level": 17,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
-				"You make shots others find impossible. Your proficiency rank for your gunslinger class DC increases to master. When using a ranged weapon in which you have master or greater proficiency, you ignore the penalty for attacking within the weapon's second and third range increments."
+				"You make shots others find impossible. Your proficiency rank for your Pyssysankari class DC increases to master. When using a ranged weapon in which you have master or greater proficiency, you ignore the penalty for attacking within the weapon's second and third range increments."
 			]
 		},
 		{
@@ -656,7 +656,7 @@
 			"source": "G&G",
 			"page": 108,
 			"level": 19,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"You notice things that most people can't detect. Your proficiency rank for Perception increases to legendary."
@@ -667,7 +667,7 @@
 			"source": "G&G",
 			"page": 108,
 			"level": 19,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
 			"entries": [
 				"Your skill with light and medium armor improves, increasing your ability to dodge or absorb blows. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master."
@@ -676,18 +676,18 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "G&G",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Drifter",
+			"subclassShortName": "Harhailija",
 			"subclassSource": "G&G",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Way of the Drifter",
+					"name": "Polku of the Harhailija",
 					"entries": [
 						"You're a wanderer traveling from land to land with your gun and a melee weapon as company. Maybe you learned to fight with blade and pistol as a Shackles pirate, mastered the hand cannon and katana in Minkai, or practiced with a hatchet and clan pistol in Dongun Hold. You win battles by relying on mobility and flexible use of your weapons.",
 						{
@@ -703,13 +703,13 @@
 								{
 									"type": "item",
 									"entries": [
-										"{@b Deeds} {@i Initial} {@action Into the Fray|G&G}; {@i Advanced} {@action Finish the Job|G&G}; {@i Greater} {@action Drifter's Wake|G&G}"
+										"{@b Deeds} {@i Initial} {@action Into the Fray|G&G}; {@i Advanced} {@action Finish the Job|G&G}; {@i Greater} {@action Harhailija's Wake|G&G}"
 									]
 								},
 								{
 									"type": "item",
 									"entries": [
-										"{@b Way Skill} {@skill Acrobatics}"
+										"{@b Polku Skill} {@skill Acrobatics}"
 									]
 								}
 							]
@@ -746,9 +746,9 @@
 			"name": "Advanced Deed",
 			"source": "G&G",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Drifter",
+			"subclassShortName": "Harhailija",
 			"subclassSource": "G&G",
 			"level": 9,
 			"entries": [
@@ -764,35 +764,35 @@
 			"name": "Greater Deed",
 			"source": "G&G",
 			"page": 109,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Drifter",
+			"subclassShortName": "Harhailija",
 			"subclassSource": "G&G",
 			"level": 15,
 			"entries": [
 				{
 					"type": "data",
 					"tag": "action",
-					"name": "Drifter's Wake",
+					"name": "Harhailija's Wake",
 					"source": "G&G"
 				}
 			]
 		},
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "G&G",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Pistolero",
+			"subclassShortName": "Lainsuojaton",
 			"subclassSource": "G&G",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Way of the Pistolero",
+					"name": "Polku of the Lainsuojaton",
 					"entries": [
-						"Whether you're a professional duelist or a pistol-twirling entertainer, you have quick feet and quicker hands that never seem to let you down, and an equally sharp wit and tongue that jab your foes. You might leave a hand free or cultivate the ambidexterity for twin weapons. Either way, you stay close enough to your enemies to leverage your superior reflexes while leaving enough space to safely fire.",
+						"Whether you're a professional duelist or a pistol-twirling entertainer, you have quick feet and quicker hands that never seem to let you down, and an equally sharp wit and tongue that jab your foes. You might leave a hand free or cultivate the ambidexterity for twin weapons. Either Polku, you stay close enough to your enemies to leverage your superior reflexes while leaving enough space to safely fire.",
 						{
 							"type": "pf2-options",
 							"style": "",
@@ -806,13 +806,13 @@
 								{
 									"type": "item",
 									"entries": [
-										"{@b Deeds} {@i Initial} {@action Ten Paces|G&G}; {@i Advanced} {@action Pistolero's Retort|G&G}; {@i Greater} {@action Grim Swagger|G&G}"
+										"{@b Deeds} {@i Initial} {@action Ten Paces|G&G}; {@i Advanced} {@action Lainsuojaton's Retort|G&G}; {@i Greater} {@action Grim Swagger|G&G}"
 									]
 								},
 								{
 									"type": "item",
 									"entries": [
-										"{@b Way Skill} choose {@skill Deception} or {@skill Intimidation}"
+										"{@b Polku Skill} choose {@skill Deception} or {@skill Intimidation}"
 									]
 								}
 							]
@@ -849,16 +849,16 @@
 			"name": "Advanced Deed",
 			"source": "G&G",
 			"page": 109,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Pistolero",
+			"subclassShortName": "Lainsuojaton",
 			"subclassSource": "G&G",
 			"level": 9,
 			"entries": [
 				{
 					"type": "data",
 					"tag": "action",
-					"name": "Pistolero's Retort",
+					"name": "Lainsuojaton's Retort",
 					"source": "G&G"
 				}
 			]
@@ -867,9 +867,9 @@
 			"name": "Greater Deed",
 			"source": "G&G",
 			"page": 109,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Pistolero",
+			"subclassShortName": "Lainsuojaton",
 			"subclassSource": "G&G",
 			"level": 15,
 			"entries": [
@@ -882,18 +882,18 @@
 			]
 		},
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "G&G",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Sniper",
+			"subclassShortName": "Tarkk'ampuja",
 			"subclassSource": "G&G",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Way of the Sniper",
+					"name": "Polku of the Tarkk'ampuja",
 					"entries": [
 						"You practice a style of shooting that relies on unerring accuracy and perfect placement of your first shot. You keep hidden or at a distance, staying out of the fray and bringing unseen death to your foes.",
 						{
@@ -915,7 +915,7 @@
 								{
 									"type": "item",
 									"entries": [
-										"{@b Way Skill} {@skill Stealth}"
+										"{@b Polku Skill} {@skill Stealth}"
 									]
 								}
 							]
@@ -952,9 +952,9 @@
 			"name": "Advanced Deed",
 			"source": "G&G",
 			"page": 110,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Sniper",
+			"subclassShortName": "Tarkk'ampuja",
 			"subclassSource": "G&G",
 			"level": 9,
 			"entries": [
@@ -970,9 +970,9 @@
 			"name": "Greater Deed",
 			"source": "G&G",
 			"page": 110,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Sniper",
+			"subclassShortName": "Tarkk'ampuja",
 			"subclassSource": "G&G",
 			"level": 15,
 			"entries": [
@@ -985,18 +985,18 @@
 			]
 		},
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "G&G",
 			"page": 110,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Vanguard",
+			"subclassShortName": "Suunnannäyttäjä",
 			"subclassSource": "G&G",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Way of the Vanguard",
+					"name": "Polku of the Suunnannäyttäjä",
 					"entries": [
 						"You practice a unique combat style originated by dwarven siege engineers, using heavy weapons with wide attack areas to blast holes through enemy lines, clear an opening for your allies, and defend the conquered territory.",
 						{
@@ -1018,7 +1018,7 @@
 								{
 									"type": "item",
 									"entries": [
-										"{@b Way Skill} {@skill Athletics}"
+										"{@b Polku Skill} {@skill Athletics}"
 									]
 								}
 							]
@@ -1055,9 +1055,9 @@
 			"name": "Advanced Deed",
 			"source": "G&G",
 			"page": 110,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Vanguard",
+			"subclassShortName": "Suunnannäyttäjä",
 			"subclassSource": "G&G",
 			"level": 9,
 			"entries": [
@@ -1073,9 +1073,9 @@
 			"name": "Greater Deed",
 			"source": "G&G",
 			"page": 110,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Vanguard",
+			"subclassShortName": "Suunnannäyttäjä",
 			"subclassSource": "G&G",
 			"level": 15,
 			"entries": [
@@ -1088,20 +1088,20 @@
 			]
 		},
 		{
-			"name": "Gunslinger's Way",
+			"name": "Pyssysankari's Polku",
 			"source": "LOIL",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Triggerbrand",
+			"subclassShortName": "Liipaisija",
 			"subclassSource": "LOIL",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Way of the Triggerbrand",
+					"name": "Polku of the Liipaisija",
 					"entries": [
-						"You prefer firearms that work well as weapons in both melee and ranged combat, particularly those that allow you to exercise a bit of style and flair. You might be a survivor who cobbled your weapon together from the City of Smog's street scrap or a noble wielder of a master smith's bespoke commission for duels among Alkenstar's elite. In addition to {@filter combination weapons|items||weapon=combination}, you gain access to the triggerbrand combination weapon presented below.",
+						"You prefer firearms that work well as weapons in both melee and ranged combat, particularly those that allow you to exercise a bit of style and flair. You might be a survivor who cobbled your weapon together from the City of Smog's street scrap or a noble wielder of a master smith's bespoke commission for duels among Alkenstar's elite. In addition to {@filter combination weapons|items||weapon=combination}, you gain access to the Liipaisija combination weapon presented below.",
 						{
 							"type": "pf2-options",
 							"style": "",
@@ -1121,7 +1121,7 @@
 								{
 									"type": "item",
 									"entries": [
-										"{@b Way Skill} {@skill Thievery}"
+										"{@b Polku Skill} {@skill Thievery}"
 									]
 								}
 							]
@@ -1158,9 +1158,9 @@
 			"name": "Advanced Deed",
 			"source": "LOIL",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Triggerbrand",
+			"subclassShortName": "Liipaisija",
 			"subclassSource": "LOIL",
 			"level": 9,
 			"entries": [
@@ -1176,9 +1176,9 @@
 			"name": "Greater Deed",
 			"source": "LOIL",
 			"page": 108,
-			"className": "Gunslinger",
+			"className": "Pyssysankari",
 			"classSource": "G&G",
-			"subclassShortName": "Triggerbrand",
+			"subclassShortName": "Liipaisija",
 			"subclassSource": "LOIL",
 			"level": 15,
 			"entries": [

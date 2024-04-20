@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Witch",
+			"name": "Manaaja",
 			"source": "APG",
 			"page": 94,
 			"keyAbility": "Intelligence",
@@ -38,7 +38,7 @@
 				},
 				"classDc": {
 					"prof": "t",
-					"entry": "Trained in witch class DC"
+					"entry": "Trained in Manaaja class DC"
 				},
 				"spells": {
 					"t": [
@@ -104,132 +104,132 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Witch|APG|1",
-				"Initial Proficiencies|Witch|APG|1",
+				"Ancestry and Background|Manaaja|APG|1",
+				"Initial Proficiencies|Manaaja|APG|1",
 				{
-					"classFeature": "Patron|Witch|APG|1",
+					"classFeature": "Patron|Manaaja|APG|1",
 					"gainSubclassFeature": true
 				},
-				"Familiar|Witch|APG|1",
-				"Witch Spellcasting|Witch|APG|1",
-				"Hexes|Witch|APG|1",
-				"Skill Feats|Witch|APG|2",
-				"Witch Feats|Witch|APG|2",
-				"General Feats|Witch|APG|3",
-				"Skill Increases|Witch|APG|3",
-				"Ability Boosts|Witch|APG|5",
-				"Ancestry Feats|Witch|APG|5",
-				"Magical Fortitude|Witch|APG|5",
-				"Expert Spellcaster|Witch|APG|7",
-				"Lightning Reflexes|Witch|APG|9",
-				"Alertness|Witch|APG|11",
-				"Weapon Expertise|Witch|APG|11",
-				"Defensive Robes|Witch|APG|13",
-				"Weapon Specialization|Witch|APG|13",
-				"Master Spellcaster|Witch|APG|15",
-				"Resolve|Witch|APG|17",
-				"Legendary Spellcaster|Witch|APG|19",
-				"Patron's Gift|Witch|APG|19"
+				"Familiar|Manaaja|APG|1",
+				"Manaaja Spellcasting|Manaaja|APG|1",
+				"Hexes|Manaaja|APG|1",
+				"Skill Feats|Manaaja|APG|2",
+				"Manaaja Feats|Manaaja|APG|2",
+				"General Feats|Manaaja|APG|3",
+				"Skill Increases|Manaaja|APG|3",
+				"Ability Boosts|Manaaja|APG|5",
+				"Ancestry Feats|Manaaja|APG|5",
+				"Magical Fortitude|Manaaja|APG|5",
+				"Expert Spellcaster|Manaaja|APG|7",
+				"Lightning Reflexes|Manaaja|APG|9",
+				"Alertness|Manaaja|APG|11",
+				"Weapon Expertise|Manaaja|APG|11",
+				"Defensive Robes|Manaaja|APG|13",
+				"Weapon Specialization|Manaaja|APG|13",
+				"Master Spellcaster|Manaaja|APG|15",
+				"Resolve|Manaaja|APG|17",
+				"Legendary Spellcaster|Manaaja|APG|19",
+				"Patron's Gift|Manaaja|APG|19"
 			],
 			"subclasses": [
 				{
-					"name": "Mosquito Witch",
-					"type": "Patron Theme",
-					"shortName": "Mosquito Witch",
+					"name": "Sääski Manaaja",
+					"type": "Tukijan aihe",
+					"shortName": "Sääski Manaaja",
 					"source": "LOMM",
 					"page": 75,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Mosquito Witch|LOMM|1"
+						"Patron|Manaaja|APG|Sääski Manaaja|LOMM|1"
 					]
 				},
 				{
-					"name": "Pacts",
-					"type": "Patron Theme",
-					"shortName": "Pacts",
+					"name": "Sopimus",
+					"type": "Tukijan aihe",
+					"shortName": "Sopimus",
 					"source": "DA",
 					"page": 159,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Pacts|DA|1"
+						"Patron|Manaaja|APG|Sopimus|DA|1"
 					]
 				},
 				{
-					"name": "Baba Yaga",
-					"type": "Patron Theme",
-					"shortName": "Baba Yaga",
+					"name": "Baba Jaga",
+					"type": "Tukijan aihe",
+					"shortName": "Baba Jaga",
 					"source": "LOL",
 					"page": 32,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Baba Yaga|LOL|1"
+						"Patron|Manaaja|APG|Baba Jaga|LOL|1"
 					]
 				},
 				{
-					"name": "Curse",
-					"type": "Patron Theme",
-					"shortName": "Curse",
+					"name": "Kirous",
+					"type": "Tukijan aihe",
+					"shortName": "Kirous",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Curse|APG|1"
+						"Patron|Manaaja|APG|Kirous|APG|1"
 					]
 				},
 				{
-					"name": "Fate",
-					"type": "Patron Theme",
-					"shortName": "Fate",
+					"name": "Kohtalo",
+					"type": "Tukijan aihe",
+					"shortName": "Kohtalo",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Fate|APG|1"
+						"Patron|Manaaja|APG|Kohtalo|APG|1"
 					]
 				},
 				{
-					"name": "Fervor",
-					"type": "Patron Theme",
-					"shortName": "Fervor",
+					"name": "Intohimo",
+					"type": "Tukijan aihe",
+					"shortName": "Intohimo",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Fervor|APG|1"
+						"Patron|Manaaja|APG|Intohimo|APG|1"
 					]
 				},
 				{
-					"name": "Night",
-					"type": "Patron Theme",
-					"shortName": "Night",
+					"name": "Yö",
+					"type": "Tukijan aihe",
+					"shortName": "Yö",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Night|APG|1"
+						"Patron|Manaaja|APG|Yö|APG|1"
 					]
 				},
 				{
-					"name": "Rune",
-					"type": "Patron Theme",
-					"shortName": "Rune",
+					"name": "Riimu",
+					"type": "Tukijan aihe",
+					"shortName": "Riimu",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Rune|APG|1"
+						"Patron|Manaaja|APG|Riimu|APG|1"
 					]
 				},
 				{
-					"name": "Wild",
-					"type": "Patron Theme",
-					"shortName": "Wild",
+					"name": "Villi",
+					"type": "Tukijan aihe",
+					"shortName": "Villi",
 					"source": "APG",
 					"page": 99,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Wild|APG|1"
+						"Patron|Manaaja|APG|Villi|APG|1"
 					]
 				},
 				{
-					"name": "Winter",
-					"type": "Patron Theme",
-					"shortName": "Winter",
+					"name": "Talvi",
+					"type": "Tukijan aihe",
+					"shortName": "Talvi",
 					"source": "APG",
 					"page": 208,
 					"subclassFeatures": [
-						"Patron|Witch|APG|Winter|APG|1"
+						"Patron|Manaaja|APG|Talvi|APG|1"
 					]
 				}
 			],
@@ -301,7 +301,7 @@
 				}
 			],
 			"summary": {
-				"text": "The witch casts spells and hexes learned through a powerful familiar from a mysterious patron.",
+				"text": "The Manaaja casts spells and hexes learned through a powerful familiar from a mysterious patron.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Feiya.png"
 				],
@@ -315,7 +315,7 @@
 			"name": "Ancestry and Background",
 			"source": "APG",
 			"page": 96,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
@@ -326,7 +326,7 @@
 			"name": "Initial Proficiencies",
 			"source": "APG",
 			"page": 96,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
@@ -334,23 +334,23 @@
 			]
 		},
 		{
-			"name": "Witch Feats",
+			"name": "Manaaja Feats",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 2,
 			"entries": [
-				"At 2nd level and every 2 levels thereafter, you gain a {@filter witch class feat|feats||type=class|Class=witch|level=[1;2]}."
+				"At 2nd level and every 2 levels thereafter, you gain a {@filter Manaaja class feat|feats||type=class|Class=Manaaja|level=[1;2]}."
 			]
 		},
 		{
 			"name": "Patron",
 			"source": "APG",
 			"page": 96,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclasses": "Patron Theme",
+			"subclasses": "Tukijan aihe",
 			"level": 1,
 			"type": "Patron",
 			"entries": [
@@ -363,10 +363,10 @@
 					"page": 101,
 					"source": "APG",
 					"entries": [
-						"A witch's patron is a mysterious entity, rarely known or understood even by the witch in that patron's service. The nature of the relationship between a witch and their patron can serve as details for character development and storytelling. When playing a witch, work with your GM to determine the nature of your patron and how much of that nature you know, both as a player and a character. There are countless ways to handle a witch's patron; the following are just a few approaches you might take.",
-						"For a character who truly doesn't know their patron, you might have your GM choose your patron's theme and which lessons your witch learns, as the patron determines what powers to bestow upon you as their emissary\u2014and these can provide clues to your patron's nature. You could instead give your GM a list of lessons you'd like for your character and let the GM choose between them, representing a negotiation between your witch and the patron. In this case, you might choose your patron's theme to indicate which aspect of the patron relates to your character, or let your GM choose the theme. If you want to be fully in control of your abilities, you can choose the lessons you most prefer and let the GM tailor the identity of your patron accordingly.",
-						"Another approach is for you to craft the details of your witch's patron yourself. You can then provide those details to the GM to incorporate into a larger narrative or to provide additional flavor and roleplaying context for your character. Your character might still remain ignorant of that patron's identity, even if you as a player know it. Perhaps your character knows the nature of their patron but is cursed to never reveal it to others. You might have willingly sworn a pact to your patron but fear the repercussions should others learn of that pact. Or perhaps you and your patron are entirely forthcoming about your relationship.",
-						"Every witch is different, and no story is wrong so long as it's fun and engaging for everyone involved!"
+						"A Manaaja's patron is a mysterious entity, rarely known or understood even by the Manaaja in that patron's service. The nature of the relationship between a Manaaja and their patron can serve as details for character development and storytelling. When playing a Manaaja, work with your GM to determine the nature of your patron and how much of that nature you know, both as a player and a character. There are countless ways to handle a Manaaja's patron; the following are just a few approaches you might take.",
+						"For a character who truly doesn't know their patron, you might have your GM choose your patron's theme and which lessons your Manaaja learns, as the patron determines what powers to bestow upon you as their emissary\u2014and these can provide clues to your patron's nature. You could instead give your GM a list of lessons you'd like for your character and let the GM choose between them, representing a negotiation between your Manaaja and the patron. In this case, you might choose your patron's theme to indicate which aspect of the patron relates to your character, or let your GM choose the theme. If you want to be fully in control of your abilities, you can choose the lessons you most prefer and let the GM tailor the identity of your patron accordingly.",
+						"Another approach is for you to craft the details of your Manaaja's patron yourself. You can then provide those details to the GM to incorporate into a larger narrative or to provide additional flavor and roleplaying context for your character. Your character might still remain ignorant of that patron's identity, even if you as a player know it. Perhaps your character knows the nature of their patron but is cursed to never reveal it to others. You might have willingly sworn a pact to your patron but fear the repercussions should others learn of that pact. Or perhaps you and your patron are entirely forthcoming about your relationship.",
+						"Every Manaaja is different, and no story is wrong so long as it's fun and engaging for everyone involved!"
 					]
 				}
 			]
@@ -375,28 +375,28 @@
 			"name": "Familiar",
 			"source": "APG",
 			"page": 96,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
 				"Your patron has sent you a familiar, a mystical creature that teaches you and facilitates your spells. This familiar follows the rules beggining on page 217 of the core rulebook, though as it's a direct conduit between you and your patron, it's more powerful than other familiars. Your familiar gains an extra familiar ability, and gains another extra ability at 6th, 12th, and 18th levels.",
-				"Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 {@filter cantrips|spells||spell type=cantrip|rarity=common}, five {@filter 1st-level spells|spells||spell type=spell|level=1|rarity=common}, and one additional spell determined by your patron's theme. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.",
+				"Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your Manaaja spellcasting. Your familiar starts off knowing 10 {@filter cantrips|spells||spell type=cantrip|rarity=common}, five {@filter 1st-level spells|spells||spell type=spell|level=1|rarity=common}, and one additional spell determined by your patron's theme. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.",
 				"Each time you gain a level, your patron teaches your familiar two new spells of any level you can cast, chosen from common spells of your tradition or others you gain access to. Feats can also grant your familiar additional spells.",
-				"Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition's spell list by physically consuming a scroll of that spell in a process that takes 1 hour. You can use the {@action Learn a Spell} exploration activity to prepare a special written version of a spell, which your familiar can consume as if it were a scroll. You and your familiar can use the {@action Learn a Spell} activity to teach your familiar a spell from another witch's familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition's spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar's patron. You can't prepare spells from another witch's familiar.",
+				"Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition's spell list by physically consuming a scroll of that spell in a process that takes 1 hour. You can use the {@action Learn a Spell} exploration activity to prepare a special written version of a spell, which your familiar can consume as if it were a scroll. You and your familiar can use the {@action Learn a Spell} activity to teach your familiar a spell from another Manaaja's familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition's spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar's patron. You can't prepare spells from another Manaaja's familiar.",
 				"If your familiar dies, your patron replaces it during your next daily preparations. The new familiar might be a duplicate or reincarnation of your former familiar or a new entity altogether, but it knows the same spells your former familiar knew regardless. Your familiar's death doesn't affect any spells you have already prepared."
 			]
 		},
 		{
-			"name": "Witch Spellcasting",
+			"name": "Manaaja Spellcasting",
 			"source": "APG",
 			"page": 96,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
 				"Using your familiar as a conduit, your patron provides you the power to cast spells. You can cast spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells.",
 				"At 1st level, you can prepare up to two 1st-level spells and five cantrips each morning from the spells your familiar knows. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.",
-				"As you increase in level as a witch, your number of spell slots and the highest level of spells you can cast from spell slots increase, as shown in Table 2\u20137: Witch Spells per Day.",
+				"As you increase in level as a Manaaja, your number of spell slots and the highest level of spells you can cast from spell slots increase, as shown in Table 2\u20137: Manaaja Spells per Day.",
 				"Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Intelligence, your spell attack rolls and spell DCs use your Intelligence modifier.",
 				{
 					"type": "pf2-h4",
@@ -411,7 +411,7 @@
 					"page": 97,
 					"name": "Cantrips",
 					"entries": [
-						"Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of witch spell slot you have. For example, as a 1st-level witch, your cantrips are 1st-level spells, and as a 5th-level witch, your cantrips are 3rd-level spells."
+						"Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of Manaaja spell slot you have. For example, as a 1st-level Manaaja, your cantrips are 1st-level spells, and as a 5th-level Manaaja, your cantrips are 3rd-level spells."
 					]
 				},
 				{
@@ -420,7 +420,7 @@
 						0,
 						1
 					],
-					"name": "Witch Spells per Day",
+					"name": "Manaaja Spells per Day",
 					"id": "2-7",
 					"spans": [
 						[
@@ -769,19 +769,19 @@
 			"name": "Hexes",
 			"source": "APG",
 			"page": 97,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
 				"Hexes are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the {@action Refocus} activity to commune with your familiar. Focus spells are automatically heightened to half your level rounded up.",
 				"Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear on page 300 of the Core Rulebook.",
-				"You learn the {@spell phase familiar|APG} hex, which you can cast as a reaction to protect your familiar from harm. You learn most other hexes from witch lessons.",
+				"You learn the {@spell phase familiar|APG} hex, which you can cast as a reaction to protect your familiar from harm. You learn most other hexes from Manaaja lessons.",
 				{
 					"type": "pf2-h4",
 					"page": 98,
 					"name": "Hex Cantrips",
 					"entries": [
-						"Hex cantrips are special hexes that don't cost Focus Points, so you can cast them as often as you like, though you can still cast only one hex each round. Hex cantrips are in addition to the cantrips you choose with your witch spellcasting and aren't counted toward your prepared cantrips. Your hex cantrips are determined by your patron theme."
+						"Hex cantrips are special hexes that don't cost Focus Points, so you can cast them as often as you like, though you can still cast only one hex each round. Hex cantrips are in addition to the cantrips you choose with your Manaaja spellcasting and aren't counted toward your prepared cantrips. Your hex cantrips are determined by your Tukijan aihe."
 					]
 				}
 			]
@@ -790,7 +790,7 @@
 			"name": "Skill Feats",
 			"page": 98,
 			"source": "APG",
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 2,
 			"entries": [
@@ -801,7 +801,7 @@
 			"name": "General Feats",
 			"page": 98,
 			"source": "APG",
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 3,
 			"entries": [
@@ -812,7 +812,7 @@
 			"name": "Skill Increases",
 			"page": 98,
 			"source": "APG",
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 3,
 			"entries": [
@@ -824,7 +824,7 @@
 			"name": "Ability Boosts",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -835,7 +835,7 @@
 			"name": "Ancestry Feats",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -847,7 +847,7 @@
 			"name": "Magical Fortitude",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -858,7 +858,7 @@
 			"name": "Expert Spellcaster",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 7,
 			"entries": [
@@ -869,7 +869,7 @@
 			"name": "Lightning Reflexes",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 9,
 			"entries": [
@@ -880,7 +880,7 @@
 			"name": "Alertness",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 11,
 			"entries": [
@@ -891,7 +891,7 @@
 			"name": "Weapon Expertise",
 			"source": "APG",
 			"page": 98,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 11,
 			"entries": [
@@ -902,7 +902,7 @@
 			"name": "Defensive Robes",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 13,
 			"entries": [
@@ -913,7 +913,7 @@
 			"name": "Weapon Specialization",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 13,
 			"entries": [
@@ -924,18 +924,18 @@
 			"name": "Master Spellcaster",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 15,
 			"entries": [
-				"You've achieved mastery over your patron's magic. Your proficiency ranks for spell attacks and spell DCs for your witch spellcasting increase to master."
+				"You've achieved mastery over your patron's magic. Your proficiency ranks for spell attacks and spell DCs for your Manaaja spellcasting increase to master."
 			]
 		},
 		{
 			"name": "Resolve",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 17,
 			"entries": [
@@ -946,22 +946,22 @@
 			"name": "Legendary Spellcaster",
 			"page": 99,
 			"source": "APG",
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 19,
 			"entries": [
-				"You've perfected your command of the magic your patron provides. Your proficiency ranks for spell attacks and spell DCs for your witch spellcasting increase to legendary."
+				"You've perfected your command of the magic your patron provides. Your proficiency ranks for spell attacks and spell DCs for your Manaaja spellcasting increase to legendary."
 			]
 		},
 		{
 			"name": "Patron's Gift",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
 			"level": 19,
 			"entries": [
-				"Your patron grants you the power to command incredible works of magic. You gain a single 10th-level spell slot and can prepare a spell in that slot using witch spellcasting. Unlike with other spell slots, these spell slots can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the {@feat Patron's Truth|APG} feat to gain a second slot."
+				"Your patron grants you the power to command incredible works of magic. You gain a single 10th-level spell slot and can prepare a spell in that slot using Manaaja spellcasting. Unlike with other spell slots, these spell slots can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the {@feat Patron's Truth|APG} feat to gain a second slot."
 			]
 		}
 	],
@@ -970,9 +970,9 @@
 			"name": "Patron",
 			"page": 32,
 			"source": "LOL",
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Baba Yaga",
+			"subclassShortName": "Baba Jaga",
 			"subclassSource": "LOL",
 			"level": 1,
 			"entries": [
@@ -980,19 +980,19 @@
 					"type": "pf2-h2",
 					"page": 32,
 					"source": "LOL",
-					"name": "Baba Yaga As A Witch's Patron",
+					"name": "Baba Jaga As A Manaaja's Patron",
 					"entries": [
-						"While witches' patrons are typically mysterious, and many of the witch patrons presented in the Advanced Player's Guide are great fits for Baba Yaga as a patron, some witches have a more direct connection to the ancient witch herself. For instance, Baba Yaga might appear before someone and demand they sweep the floor of her workshop with a tiny brush. If they don't comply, Baba Yaga might eat them; if they do, they might discover that they've become a witch, with Baba Yaga as their patron.",
-						"Baba Yaga acts via strange items as often as living creatures. A witch with Baba Yaga as their patron can choose an inanimate object as a familiar. If they do, they still can gain master abilities and some familiar abilities that don't require movement. The object familiar has no Speeds and must select a Speed familiar ability before it can move, coming to life in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day."
+						"While witches' patrons are typically mysterious, and many of the Manaaja patrons presented in the Advanced Player's Guide are great fits for Baba Jaga as a patron, some witches have a more direct connection to the ancient Manaaja herself. For instance, Baba Jaga might appear before someone and demand they sweep the floor of her workshop with a tiny brush. If they don't comply, Baba Jaga might eat them; if they do, they might discover that they've become a Manaaja, with Baba Jaga as their patron.",
+						"Baba Jaga acts via strange items as often as living creatures. A Manaaja with Baba Jaga as their patron can choose an inanimate object as a familiar. If they do, they still can gain master abilities and some familiar abilities that don't require movement. The object familiar has no Speeds and must select a Speed familiar ability before it can move, coming to life in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day."
 					]
 				},
 				{
-					"name": "Baba Yaga ({@trait Rare})",
+					"name": "Baba Jaga ({@trait Rare})",
 					"page": 32,
 					"source": "LOL",
 					"type": "pf2-h4",
 					"entries": [
-						"Baba Yaga teaches you how to transfer spirits into objects and freeze your foes.",
+						"Baba Jaga teaches you how to transfer spirits into objects and freeze your foes.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1027,19 +1027,19 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 99,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Curse",
+			"subclassShortName": "Kirous",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Curse",
+					"name": "Kirous",
 					"source": "APG",
 					"page": 99,
 					"entries": [
-						"Foiling foes and undermining those who stand in your way are the tools of the curse patrons.",
+						"Foiling foes and undermining those who stand in your way are the tools of the Kirous patrons.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1074,15 +1074,15 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Fate",
+			"subclassShortName": "Kohtalo",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Fate",
+					"name": "Kohtalo",
 					"source": "APG",
 					"page": 208,
 					"entries": [
@@ -1104,7 +1104,7 @@
 								{
 									"type": "item",
 									"name": "Hex Cantrip",
-									"entry": "{@spell nudge fate|APG}"
+									"entry": "{@spell nudge Kohtalo|APG}"
 								},
 								{
 									"type": "item",
@@ -1121,15 +1121,15 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Fervor",
+			"subclassShortName": "Intohimo",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Fervor",
+					"name": "Intohimo",
 					"source": "APG",
 					"page": 208,
 					"entries": [
@@ -1168,15 +1168,15 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Night",
+			"subclassShortName": "Yö",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Night",
+					"name": "Yö",
 					"source": "APG",
 					"page": 208,
 					"entries": [
@@ -1198,7 +1198,7 @@
 								{
 									"type": "item",
 									"name": "Hex Cantrip",
-									"entry": "{@spell shroud of night|APG}"
+									"entry": "{@spell shroud of Yö|APG}"
 								},
 								{
 									"type": "item",
@@ -1215,15 +1215,15 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Rune",
+			"subclassShortName": "Riimu",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Rune",
+					"name": "Riimu",
 					"source": "APG",
 					"page": 208,
 					"entries": [
@@ -1262,19 +1262,19 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Wild",
+			"subclassShortName": "Villi",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Wild",
+					"name": "Villi",
 					"source": "APG",
 					"page": 208,
 					"entries": [
-						"The wild places of the world feel the touch of your patron.",
+						"The Villi places of the world feel the touch of your patron.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1309,15 +1309,15 @@
 			"name": "Patron",
 			"source": "APG",
 			"page": 208,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Winter",
+			"subclassShortName": "Talvi",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Winter",
+					"name": "Talvi",
 					"source": "APG",
 					"page": 208,
 					"entries": [
@@ -1356,15 +1356,15 @@
 			"name": "Patron",
 			"source": "DA",
 			"page": 159,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Pacts",
+			"subclassShortName": "Sopimus",
 			"subclassSource": "DA",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Pacts ({@trait Rare})",
+					"name": "Sopimus ({@trait Rare})",
 					"source": "DA",
 					"page": 159,
 					"entries": [
@@ -1403,19 +1403,19 @@
 			"name": "Patron",
 			"source": "LOMM",
 			"page": 75,
-			"className": "Witch",
+			"className": "Manaaja",
 			"classSource": "APG",
-			"subclassShortName": "Mosquito Witch",
+			"subclassShortName": "Sääski Manaaja",
 			"subclassSource": "LOMM",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Mosquito Witch ({@trait Rare})",
+					"name": "Sääski Manaaja ({@trait Rare})",
 					"source": "LOMM",
 					"page": 75,
 					"entries": [
-						"Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the {@creature Mosquito Witch|LOMM}'s attention, but whether you're one of those foolish few or simply someone who attracted the Mosquito Witch's attention unwittingly or unwillingly, she grants you powers over insects and other arthropods.",
+						"Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the {@creature Sääski Manaaja|LOMM}'s attention, but whether you're one of those foolish few or simply someone who attracted the Sääski Manaaja's attention unwittingly or unwillingly, she grants you powers over insects and other arthropods.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",

@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Fighter",
+			"name": "Taistelija",
 			"source": "CRB",
 			"page": 140,
 			"keyAbility": "Strength or Dexterity",
@@ -40,7 +40,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in fighter class DC"
+					"entry": "Trained in Taistelija class DC"
 				}
 			},
 			"advancement": {
@@ -101,30 +101,30 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Fighter|CRB|1",
-				"Initial Proficiencies|Fighter|CRB|1",
-				"Attack of Opportunity|Fighter|CRB|1",
-				"Fighter Feats|Fighter|CRB|1",
-				"Shield Block|Fighter|CRB|1",
-				"Skill Feats|Fighter|CRB|2",
-				"Bravery|Fighter|CRB|3",
-				"General Feats|Fighter|CRB|3",
-				"Skill Increases|Fighter|CRB|3",
-				"Ability Boosts|Fighter|CRB|5",
-				"Ancestry Feats|Fighter|CRB|5",
-				"Fighter Weapon Mastery|Fighter|CRB|5",
-				"Battlefield Surveyor|Fighter|CRB|7",
-				"Weapon Specialization|Fighter|CRB|7",
-				"Combat Flexibility|Fighter|CRB|9",
-				"Juggernaut|Fighter|CRB|9",
-				"Armor Expertise|Fighter|CRB|11",
-				"Fighter Expertise|Fighter|CRB|11",
-				"Weapon Legend|Fighter|CRB|13",
-				"Evasion|Fighter|CRB|15",
-				"Greater Weapon Specialization|Fighter|CRB|15",
-				"Improved Flexibility|Fighter|CRB|15",
-				"Armor Mastery|Fighter|CRB|17",
-				"Versatile Legend|Fighter|CRB|19"
+				"Ancestry and Background|Taistelija|CRB|1",
+				"Initial Proficiencies|Taistelija|CRB|1",
+				"Attack of Opportunity|Taistelija|CRB|1",
+				"Taistelija Feats|Taistelija|CRB|1",
+				"Shield Block|Taistelija|CRB|1",
+				"Skill Feats|Taistelija|CRB|2",
+				"Bravery|Taistelija|CRB|3",
+				"General Feats|Taistelija|CRB|3",
+				"Skill Increases|Taistelija|CRB|3",
+				"Ability Boosts|Taistelija|CRB|5",
+				"Ancestry Feats|Taistelija|CRB|5",
+				"Taistelija Weapon Mastery|Taistelija|CRB|5",
+				"Battlefield Surveyor|Taistelija|CRB|7",
+				"Weapon Specialization|Taistelija|CRB|7",
+				"Combat Flexibility|Taistelija|CRB|9",
+				"Juggernaut|Taistelija|CRB|9",
+				"Armor Expertise|Taistelija|CRB|11",
+				"Taistelija Expertise|Taistelija|CRB|11",
+				"Weapon Legend|Taistelija|CRB|13",
+				"Evasion|Taistelija|CRB|15",
+				"Greater Weapon Specialization|Taistelija|CRB|15",
+				"Improved Flexibility|Taistelija|CRB|15",
+				"Armor Mastery|Taistelija|CRB|17",
+				"Versatile Legend|Taistelija|CRB|19"
 			],
 			"subclasses": [],
 			"flavor": [
@@ -136,7 +136,7 @@
 					"page": 140,
 					"name": "During Combat Encounters...",
 					"entries": [
-						"You strike with unmatched accuracy and use specialized combat techniques. A melee fighter stands between allies and enemies, attacking foes who try to get past. A ranged fighter delivers precise shots from a distance."
+						"You strike with unmatched accuracy and use specialized combat techniques. A melee Taistelija stands between allies and enemies, attacking foes who try to get past. A ranged Taistelija delivers precise shots from a distance."
 					]
 				},
 				{
@@ -195,7 +195,7 @@
 				}
 			],
 			"summary": {
-				"text": "The fighter is a master of weapons, martial techniques, and powerful attack combinations.",
+				"text": "The Taistelija is a master of weapons, martial techniques, and powerful attack combinations.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Valeros.png"
 				],
@@ -209,7 +209,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -220,7 +220,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -231,7 +231,7 @@
 			"name": "Attack of Opportunity",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -245,21 +245,21 @@
 			]
 		},
 		{
-			"name": "Fighter Feats",
+			"name": "Taistelija Feats",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level thereafter, you gain a {@filter fighter class feat|feats||type=class|Class=fighter|level=[1;1]}."
+				"At 1st level and every even-numbered level thereafter, you gain a {@filter Taistelija class feat|feats||type=class|Class=Taistelija|level=[1;1]}."
 			]
 		},
 		{
 			"name": "Shield Block",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -270,7 +270,7 @@
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -281,7 +281,7 @@
 			"name": "Bravery",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -292,7 +292,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -303,7 +303,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -315,7 +315,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -326,7 +326,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 141,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -334,10 +334,10 @@
 			]
 		},
 		{
-			"name": "Fighter Weapon Mastery",
+			"name": "Taistelija Weapon Mastery",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -348,7 +348,7 @@
 			"name": "Battlefield Surveyor",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -359,7 +359,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -370,18 +370,18 @@
 			"name": "Combat Flexibility",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
-				"Through your experience in battle, you can prepare your tactics to suit different situations. When you make your daily preparations, you gain one fighter feat of 8th level or lower that you don't already have. You can use that feat until your next daily preparations. You must meet all of the feat's other prerequisites."
+				"Through your experience in battle, you can prepare your tactics to suit different situations. When you make your daily preparations, you gain one Taistelija feat of 8th level or lower that you don't already have. You can use that feat until your next daily preparations. You must meet all of the feat's other prerequisites."
 			]
 		},
 		{
 			"name": "Juggernaut",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -392,7 +392,7 @@
 			"name": "Armor Expertise",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -400,21 +400,21 @@
 			]
 		},
 		{
-			"name": "Fighter Expertise",
+			"name": "Taistelija Expertise",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
-				"You've practiced your techniques to make them harder to resist. Your proficiency rank for your fighter class DC increases to expert."
+				"You've practiced your techniques to make them harder to resist. Your proficiency rank for your Taistelija class DC increases to expert."
 			]
 		},
 		{
 			"name": "Weapon Legend",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -426,7 +426,7 @@
 			"name": "Evasion",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -437,7 +437,7 @@
 			"name": "Greater Weapon Specialization",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -448,18 +448,18 @@
 			"name": "Improved Flexibility",
 			"source": "CRB",
 			"page": 142,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
-				"Your extensive experience gives you even greater ability to adapt to each day's challenges. When you use combat flexibility, you can gain two fighter feats instead of one. While the first feat must still be 8th level or lower, the second feat can be up to 14th level, and you can use the first feat to meet the prerequisites of the second feat. You must meet all of the feats' prerequisites."
+				"Your extensive experience gives you even greater ability to adapt to each day's challenges. When you use combat flexibility, you can gain two Taistelija feats instead of one. While the first feat must still be 8th level or lower, the second feat can be up to 14th level, and you can use the first feat to meet the prerequisites of the second feat. You must meet all of the feats' prerequisites."
 			]
 		},
 		{
 			"name": "Armor Mastery",
 			"source": "CRB",
 			"page": 143,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -470,11 +470,11 @@
 			"name": "Versatile Legend",
 			"source": "CRB",
 			"page": 143,
-			"className": "Fighter",
+			"className": "Taistelija",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"You are nigh-unmatched with any weapon. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to legendary, and your proficiency rank for advanced weapons increases to master. Your proficiency rank for your fighter class DC increases to master."
+				"You are nigh-unmatched with any weapon. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to legendary, and your proficiency rank for advanced weapons increases to master. Your proficiency rank for your Taistelija class DC increases to master."
 			]
 		}
 	],

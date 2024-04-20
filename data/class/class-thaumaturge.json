@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Thaumaturge",
+			"name": "Ihmeidentekijä",
 			"source": "DA",
 			"page": 31,
 			"keyAbility": "Charisma",
@@ -41,7 +41,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in thaumaturge class DC"
+					"entry": "Trained in Ihmeidentekijä class DC"
 				}
 			},
 			"advancement": {
@@ -103,125 +103,125 @@
 			},
 			"subclasses": [
 				{
-					"name": "Amulet",
-					"type": "Implement",
-					"shortName": "Amulet",
+					"name": "Suojaesine",
+					"type": "Työväline",
+					"shortName": "Suojaesine",
 					"source": "DA",
 					"page": 36,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Amulet|DA|1",
-						"Implement Adept|Thaumaturge|DA|Amulet|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Amulet|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Amulet|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Suojaesine|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Suojaesine|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Suojaesine|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Suojaesine|DA|17"
 					]
 				},
 				{
-					"name": "Bell",
-					"type": "Implement",
-					"shortName": "Bell",
+					"name": "Kello",
+					"type": "Työväline",
+					"shortName": "Kello",
 					"source": "DA",
 					"page": 37,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Bell|DA|1",
-						"Implement Adept|Thaumaturge|DA|Bell|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Bell|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Bell|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Kello|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Kello|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Kello|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Kello|DA|17"
 					]
 				},
 				{
-					"name": "Chalice",
-					"type": "Implement",
-					"shortName": "Chalice",
+					"name": "Malja",
+					"type": "Työväline",
+					"shortName": "Malja",
 					"source": "DA",
 					"page": 37,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Chalice|DA|1",
-						"Implement Adept|Thaumaturge|DA|Chalice|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Chalice|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Chalice|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Malja|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Malja|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Malja|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Malja|DA|17"
 					]
 				},
 				{
-					"name": "Lantern",
-					"type": "Implement",
-					"shortName": "Lantern",
+					"name": "Lyhty",
+					"type": "Työväline",
+					"shortName": "Lyhty",
 					"source": "DA",
 					"page": 38,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Lantern|DA|1",
-						"Implement Adept|Thaumaturge|DA|Lantern|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Lantern|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Lantern|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Lyhty|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Lyhty|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Lyhty|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Lyhty|DA|17"
 					]
 				},
 				{
-					"name": "Mirror",
-					"type": "Implement",
-					"shortName": "Mirror",
+					"name": "Peili",
+					"type": "Työväline",
+					"shortName": "Peili",
 					"source": "DA",
 					"page": 38,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Mirror|DA|1",
-						"Implement Adept|Thaumaturge|DA|Mirror|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Mirror|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Mirror|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Peili|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Peili|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Peili|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Peili|DA|17"
 					]
 				},
 				{
-					"name": "Regalia",
-					"type": "Implement",
-					"shortName": "Regalia",
+					"name": "Arvonmerkki",
+					"type": "Työväline",
+					"shortName": "Arvonmerkki",
 					"source": "DA",
 					"page": 39,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Regalia|DA|1",
-						"Implement Adept|Thaumaturge|DA|Regalia|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Regalia|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Regalia|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Arvonmerkki|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Arvonmerkki|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Arvonmerkki|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Arvonmerkki|DA|17"
 					]
 				},
 				{
-					"name": "Tome",
-					"type": "Implement",
-					"shortName": "Tome",
+					"name": "Opus",
+					"type": "Työväline",
+					"shortName": "Opus",
 					"source": "DA",
 					"page": 40,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Tome|DA|1",
-						"Implement Adept|Thaumaturge|DA|Tome|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Tome|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Tome|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Opus|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Opus|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Opus|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Opus|DA|17"
 					]
 				},
 				{
-					"name": "Wand",
-					"type": "Implement",
-					"shortName": "Wand",
+					"name": "Sauva",
+					"type": "Työväline",
+					"shortName": "Sauva",
 					"source": "DA",
 					"page": 41,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Wand|DA|1",
-						"Implement Adept|Thaumaturge|DA|Wand|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Wand|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Wand|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Sauva|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Sauva|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Sauva|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Sauva|DA|17"
 					]
 				},
 				{
-					"name": "Weapon",
-					"type": "Implement",
-					"shortName": "Weapon",
+					"name": "Ase",
+					"type": "Työväline",
+					"shortName": "Ase",
 					"source": "DA",
 					"page": 41,
 					"subclassFeatures": [
-						"First Implement And Esoterica|Thaumaturge|DA|Weapon|DA|1",
-						"Implement Adept|Thaumaturge|DA|Weapon|DA|7",
-						"Intensify Vulnerability|Thaumaturge|DA|Weapon|DA|9",
-						"Implement Paragon|Thaumaturge|DA|Weapon|DA|17"
+						"First Työväline And Esoterica|Ihmeidentekijä|DA|Ase|DA|1",
+						"Työväline Adept|Ihmeidentekijä|DA|Ase|DA|7",
+						"Intensify Vulnerability|Ihmeidentekijä|DA|Ase|DA|9",
+						"Työväline Paragon|Ihmeidentekijä|DA|Ase|DA|17"
 					]
 				}
 			],
 			"flavor": [
-				"The world is full of the unexplainable: ancient magic, dead gods, and even stranger things. In response, you've scavenged the best parts of every magical tradition and built up a collection of esoterica\u2014a broken holy relic here, a sprig of mistletoe there\u2014that you can use to best any creature by exploiting their weaknesses and vulnerabilities. The mystic implement you carry is both badge and weapon, its symbolic weight helping you bargain with and subdue the supernatural. Every path to power has its restrictions and costs, but you turn them all to your advantage. You're a thaumaturge, and you work wonders."
+				"The world is full of the unexplainable: ancient magic, dead gods, and even stranger things. In response, you've scavenged the best parts of every magical tradition and built up a collection of esoterica\u2014a broken holy relic here, a sprig of mistletoe there\u2014that you can use to best any creature by exploiting their weaknesses and vulnerabilities. The mystic Työväline you carry is both badge and Ase, its symbolic weight helping you bargain with and subdue the supernatural. Every path to power has its restrictions and costs, but you turn them all to your advantage. You're a Ihmeidentekijä, and you work wonders."
 			],
 			"fluff": [
 				{
@@ -288,56 +288,56 @@
 				}
 			],
 			"summary": {
-				"text": "The thaumaturge has seen every monster and knows every secret. Supplementing their skill at arms and ability to strike a monster's weakness with myriad supernatural trinkets and mystic implements that can fill a wide range of roles, the thaumaturge is a versatile agent who can contribute to any team facing the unknown.",
+				"text": "The Ihmeidentekijä has seen every monster and knows every secret. Supplementing their skill at arms and ability to strike a monster's weakness with myriad supernatural trinkets and mystic implements that can fill a wide range of roles, the Ihmeidentekijä is a versatile agent who can contribute to any team facing the unknown.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Mios.png"
 				],
 				"keyAbility": "Charisma"
 			},
 			"classFeatures": [
-				"Ancestry and Background|Thaumaturge|DA|1",
-				"Initial Proficiencies|Thaumaturge|DA|1",
-				"Esoteric Lore|Thaumaturge|DA|1",
+				"Ancestry and Background|Ihmeidentekijä|DA|1",
+				"Initial Proficiencies|Ihmeidentekijä|DA|1",
+				"Esoteric Lore|Ihmeidentekijä|DA|1",
 				{
-					"classFeature": "First Implement And Esoterica|Thaumaturge|DA|1",
+					"classFeature": "First Työväline And Esoterica|Ihmeidentekijä|DA|1",
 					"gainSubclassFeature": true
 				},
-				"Implement's Empowerment|Thaumaturge|DA|1",
-				"Thaumaturge Feats|Thaumaturge|DA|1",
-				"Skill Feats|Thaumaturge|DA|2",
-				"General Feats|Thaumaturge|DA|3",
-				"Lightning Reflexes|Thaumaturge|DA|3",
-				"Skill Increases|Thaumaturge|DA|3",
-				"Ability Boosts|Thaumaturge|DA|5",
-				"Ancestry Feats|Thaumaturge|DA|5",
-				"Second Implement|Thaumaturge|DA|5",
-				"Thaumaturge Weapon Expertise|Thaumaturge|DA|5",
+				"Työväline's Empowerment|Ihmeidentekijä|DA|1",
+				"Ihmeidentekijä Feats|Ihmeidentekijä|DA|1",
+				"Skill Feats|Ihmeidentekijä|DA|2",
+				"General Feats|Ihmeidentekijä|DA|3",
+				"Lightning Reflexes|Ihmeidentekijä|DA|3",
+				"Skill Increases|Ihmeidentekijä|DA|3",
+				"Ability Boosts|Ihmeidentekijä|DA|5",
+				"Ancestry Feats|Ihmeidentekijä|DA|5",
+				"Second Työväline|Ihmeidentekijä|DA|5",
+				"Ihmeidentekijä Ase Expertise|Ihmeidentekijä|DA|5",
 				{
-					"classFeature": "Implement Adept|Thaumaturge|DA|7",
+					"classFeature": "Työväline Adept|Ihmeidentekijä|DA|7",
 					"gainSubclassFeature": true
 				},
-				"Resolve|Thaumaturge|DA|7",
-				"Weapon Specialization|Thaumaturge|DA|7",
+				"Resolve|Ihmeidentekijä|DA|7",
+				"Ase Specialization|Ihmeidentekijä|DA|7",
 				{
-					"classFeature": "Intensify Vulnerability|Thaumaturge|DA|9",
+					"classFeature": "Intensify Vulnerability|Ihmeidentekijä|DA|9",
 					"gainSubclassFeature": true
 				},
-				"Thaumaturgic Expertise|Thaumaturge|DA|9",
-				"Vigilant Senses|Thaumaturge|DA|9",
-				"Medium Armor Expertise|Thaumaturge|DA|11",
-				"Second Adept|Thaumaturge|DA|11",
-				"Greater Resolve|Thaumaturge|DA|13",
-				"Weapon Mastery|Thaumaturge|DA|13",
-				"Greater Weapon Specialization|Thaumaturge|DA|15",
-				"Juggernaut|Thaumaturge|DA|15",
-				"Third Implement|Thaumaturge|DA|15",
+				"Thaumaturgic Expertise|Ihmeidentekijä|DA|9",
+				"Vigilant Senses|Ihmeidentekijä|DA|9",
+				"Medium Armor Expertise|Ihmeidentekijä|DA|11",
+				"Second Adept|Ihmeidentekijä|DA|11",
+				"Greater Resolve|Ihmeidentekijä|DA|13",
+				"Ase Mastery|Ihmeidentekijä|DA|13",
+				"Greater Ase Specialization|Ihmeidentekijä|DA|15",
+				"Juggernaut|Ihmeidentekijä|DA|15",
+				"Third Työväline|Ihmeidentekijä|DA|15",
 				{
-					"classFeature": "Implement Paragon|Thaumaturge|DA|17",
+					"classFeature": "Työväline Paragon|Ihmeidentekijä|DA|17",
 					"gainSubclassFeature": true
 				},
-				"Thaumaturgic Mastery|Thaumaturge|DA|17",
-				"Medium Armor Mastery|Thaumaturge|DA|19",
-				"Unlimited Esoterica|Thaumaturge|DA|19"
+				"Thaumaturgic Mastery|Ihmeidentekijä|DA|17",
+				"Medium Armor Mastery|Ihmeidentekijä|DA|19",
+				"Unlimited Esoterica|Ihmeidentekijä|DA|19"
 			]
 		}
 	],
@@ -346,7 +346,7 @@
 			"name": "Ancestry and Background",
 			"source": "DA",
 			"page": 32,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
@@ -357,7 +357,7 @@
 			"name": "Initial Proficiencies",
 			"source": "DA",
 			"page": 32,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
@@ -368,7 +368,7 @@
 			"name": "Esoteric Lore",
 			"source": "DA",
 			"page": 32,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
@@ -377,15 +377,15 @@
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 32,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
-				"Your implement is a special object of symbolic importance: your badge as you treat with the supernatural and a powerful tool if things turn violent. Choose an implement. You begin play with a mundane item of that type, and you gain the initiate benefit for that implement. While an implement is useful to you, it typically has no value if sold. If you acquire a new object of the same general implement type, you can switch your implement to the new object by spending 1 day of downtime with the new item. As you advance as a thaumaturge, you will collect up to three implements and unlock the hidden potential stored within each, so you can mix and match their benefits to suit your situation.",
-				"While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include cold-iron nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your implement and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an implement.",
+				"Your Työväline is a special object of symbolic importance: your badge as you treat with the supernatural and a powerful tool if things turn violent. Choose an Työväline. You begin play with a mundane item of that type, and you gain the initiate benefit for that Työväline. While an Työväline is useful to you, it typically has no value if sold. If you acquire a new object of the same general Työväline type, you can switch your Työväline to the new object by spending 1 day of downtime with the new item. As you advance as a Ihmeidentekijä, you will collect up to three implements and unlock the hidden potential stored within each, so you can mix and match their benefits to suit your situation.",
+				"While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include cold-iron nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your Työväline and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an Työväline.",
 				{
 					"type": "pf2-h4",
 					"page": 32,
@@ -409,7 +409,7 @@
 									"page": 33,
 									"source": "DA",
 									"entries": [
-										"After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and weapon {@action Strike||Strikes} activate the highest weakness you discovered with {@action Exploit Vulnerability|DA}, even though the damage type your weapon deals doesn't change. This damage affects the target of your {@action Exploit Vulnerability|DA}, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of werewolves, you might use silver shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver."
+										"After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and Ase {@action Strike||Strikes} activate the highest weakness you discovered with {@action Exploit Vulnerability|DA}, even though the damage type your Ase deals doesn't change. This damage affects the target of your {@action Exploit Vulnerability|DA}, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of werewolves, you might use silver shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver."
 									]
 								},
 								{
@@ -417,7 +417,7 @@
 									"page": 33,
 									"source": "DA",
 									"entries": [
-										"You improvise a custom weakness on a creature by forcefully presenting and empowering a piece of esoterica that repels it on an individual level; for instance, against a tyrant, you might procure a broken chain that once held a captive. This causes the target creature, and only the target creature, to gain a weakness against your unarmed and weapon {@action Strike||Strikes} equal to 2 + half your level."
+										"You improvise a custom weakness on a creature by forcefully presenting and empowering a piece of esoterica that repels it on an individual level; for instance, against a tyrant, you might procure a broken chain that once held a captive. This causes the target creature, and only the target creature, to gain a weakness against your unarmed and Ase {@action Strike||Strikes} equal to 2 + half your level."
 									]
 								}
 							]
@@ -427,32 +427,32 @@
 			]
 		},
 		{
-			"name": "Implement's Empowerment",
+			"name": "Työväline's Empowerment",
 			"source": "DA",
 			"page": 33,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
-				"The power of your implement can also be turned to the more common task of combat, its power adding to and amplifying the effects of runes and other magical empowerments. When you Strike, you can trace mystic patterns with an implement you're holding to empower the Strike, causing it to deal 2 additional damage per weapon damage die. Channeling the power requires full use of your hands. You don't gain the benefit of implement's empowerment if you are holding anything in either hand other than a single one-handed weapon, other implements, or esoterica, and you must be holding at least one implement to gain the benefit."
+				"The power of your Työväline can also be turned to the more common task of combat, its power adding to and amplifying the effects of runes and other magical empowerments. When you Strike, you can trace mystic patterns with an Työväline you're holding to empower the Strike, causing it to deal 2 additional damage per Ase damage die. Channeling the power requires full use of your hands. You don't gain the benefit of Työväline's empowerment if you are holding anything in either hand other than a single one-handed Ase, other implements, or esoterica, and you must be holding at least one Työväline to gain the benefit."
 			]
 		},
 		{
-			"name": "Thaumaturge Feats",
+			"name": "Ihmeidentekijä Feats",
 			"source": "DA",
 			"page": 33,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level, you gain a {@filter thaumaturge class feat|feats||type=class|Class=thaumaturge|level=[1;2]}."
+				"At 1st level and every even-numbered level, you gain a {@filter Ihmeidentekijä class feat|feats||type=class|Class=Ihmeidentekijä|level=[1;2]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "DA",
 			"page": 33,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 2,
 			"entries": [
@@ -463,7 +463,7 @@
 			"name": "General Feats",
 			"source": "DA",
 			"page": 33,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 3,
 			"entries": [
@@ -474,7 +474,7 @@
 			"name": "Lightning Reflexes",
 			"source": "DA",
 			"page": 33,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 3,
 			"entries": [
@@ -485,7 +485,7 @@
 			"name": "Skill Increases",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 3,
 			"entries": [
@@ -497,7 +497,7 @@
 			"name": "Ability Boosts",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 5,
 			"entries": [
@@ -508,7 +508,7 @@
 			"name": "Ancestry Feats",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 5,
 			"entries": [
@@ -516,22 +516,22 @@
 			]
 		},
 		{
-			"name": "Second Implement",
+			"name": "Second Työväline",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 5,
 			"entries": [
-				"You've added another implement of power to your toolkit. You choose a second implement, which must be a different type of implement than your first. You gain the initiate benefit of your new implement.",
-				"While you're holding an implement in one hand, you can quickly switch it with another implement you're wearing to use an action from the implement you're switching to. To do so, you can Interact as a free action immediately before executing the implement's action. This allows you to meet requirements of having an implement in hand to use its action. For example, if you had your lantern implement in one hand, a weapon in the other, and a chalice implement you were wearing, you could swap your lantern for your chalice to use its reaction."
+				"You've added another Työväline of power to your toolkit. You choose a second Työväline, which must be a different type of Työväline than your first. You gain the initiate benefit of your new Työväline.",
+				"While you're holding an Työväline in one hand, you can quickly switch it with another Työväline you're wearing to use an action from the Työväline you're switching to. To do so, you can Interact as a free action immediately before executing the Työväline's action. This allows you to meet requirements of having an Työväline in hand to use its action. For example, if you had your Lyhty Työväline in one hand, a Ase in the other, and a Malja Työväline you were wearing, you could swap your Lyhty for your Malja to use its reaction."
 			]
 		},
 		{
-			"name": "Thaumaturge Weapon Expertise",
+			"name": "Ihmeidentekijä Ase Expertise",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 5,
 			"entries": [
@@ -539,21 +539,21 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
 			"entries": [
-				"You have deepened your connection to one of your implements, unlocking its adept power. Choose one of your implements and gain the adept benefit for that implement."
+				"You have deepened your connection to one of your implements, unlocking its adept power. Choose one of your implements and gain the adept benefit for that Työväline."
 			]
 		},
 		{
 			"name": "Resolve",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
 			"entries": [
@@ -561,10 +561,10 @@
 			]
 		},
 		{
-			"name": "Weapon Specialization",
+			"name": "Ase Specialization",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
 			"entries": [
@@ -575,11 +575,11 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 34,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
 			"entries": [
-				"You've learned to use your implement to further assault a creature whose vulnerabilities you're exploiting. You gain the intensify vulnerability benefit of all of your implements, as well as the following action.",
+				"You've learned to use your Työväline to further assault a creature whose vulnerabilities you're exploiting. You gain the intensify vulnerability benefit of all of your implements, as well as the following action.",
 				{
 					"type": "data",
 					"tag": "action",
@@ -592,11 +592,11 @@
 			"name": "Thaumaturgic Expertise",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
 			"entries": [
-				"You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your thaumaturge class DC increases to expert.",
+				"You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your Ihmeidentekijä class DC increases to expert.",
 				"You also gain an additional skill increase, which you can apply only to Arcana, Nature, Occultism, or Religion."
 			]
 		},
@@ -604,7 +604,7 @@
 			"name": "Vigilant Senses",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
 			"entries": [
@@ -615,7 +615,7 @@
 			"name": "Medium Armor Expertise",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 11,
 			"entries": [
@@ -626,18 +626,18 @@
 			"name": "Second Adept",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 11,
 			"entries": [
-				"You've improved your link to your second implement. You gain the adept benefit of your second implement."
+				"You've improved your link to your second Työväline. You gain the adept benefit of your second Työväline."
 			]
 		},
 		{
 			"name": "Greater Resolve",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 13,
 			"entries": [
@@ -645,10 +645,10 @@
 			]
 		},
 		{
-			"name": "Weapon Mastery",
+			"name": "Ase Mastery",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 13,
 			"entries": [
@@ -656,21 +656,21 @@
 			]
 		},
 		{
-			"name": "Greater Weapon Specialization",
+			"name": "Greater Ase Specialization",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 15,
 			"entries": [
-				"Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary."
+				"Your damage from Ase specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary."
 			]
 		},
 		{
 			"name": "Juggernaut",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 15,
 			"entries": [
@@ -678,36 +678,36 @@
 			]
 		},
 		{
-			"name": "Third Implement",
+			"name": "Third Työväline",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 15,
 			"entries": [
-				"As you come closer to the culmination of your journey, you gain your final implement, completing your set of three. It must be a different type of implement than your first and second implements. You gain the initiate benefit and intensify vulnerability benefit of your new implement."
+				"As you come closer to the culmination of your journey, you gain your final Työväline, completing your set of three. It must be a different type of Työväline than your first and second implements. You gain the initiate benefit and intensify vulnerability benefit of your new Työväline."
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
 			"entries": [
-				"You have unlocked the last secrets of an implement. Choose one of your implements that already gained the adept benefit; you gain the paragon benefit for that implement."
+				"You have unlocked the last secrets of an Työväline. Choose one of your implements that already gained the adept benefit; you gain the paragon benefit for that Työväline."
 			]
 		},
 		{
 			"name": "Thaumaturgic Mastery",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
 			"entries": [
-				"You've become a master in paranormal phenomena, and your esoterica grow in power. Your proficiency rank for your thaumaturge class DC increases to master.",
+				"You've become a master in paranormal phenomena, and your esoterica grow in power. Your proficiency rank for your Ihmeidentekijä class DC increases to master.",
 				"You also gain an additional skill increase, which you can apply only to Arcana, Nature, Occultism, or Religion."
 			]
 		},
@@ -715,7 +715,7 @@
 			"name": "Medium Armor Mastery",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 19,
 			"entries": [
@@ -726,7 +726,7 @@
 			"name": "Unlimited Esoterica",
 			"source": "DA",
 			"page": 35,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 19,
 			"entries": [
@@ -736,32 +736,32 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 36,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Amulet",
+			"subclassShortName": "Suojaesine",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Amulet",
+					"name": "Suojaesine",
 					"source": "DA",
 					"page": 36,
 					"entries": [
-						"Amulets are items carried for good luck and protection. Your amulet might be a magical diagram, a religious symbol, a preserved body part such as a rabbit's foot, or a lucky coin. Amulet implements are associated with the harrow suit of shields and the astrological signs of the bridge and the ogre.",
+						"Amulets are items carried for good luck and protection. Your Suojaesine might be a magical diagram, a religious symbol, a preserved body part such as a rabbit's foot, or a lucky coin. Suojaesine implements are associated with the harrow suit of shields and the astrological signs of the bridge and the ogre.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 36,
 							"entries": [
-								"The protective aspects of your amulet can shield you and your allies from harm. You gain the {@action Amulet's Abeyance|DA} reaction.",
+								"The protective aspects of your Suojaesine can shield you and your allies from harm. You gain the {@action Suojaesine's Abeyance|DA} reaction.",
 								{
 									"type": "data",
-									"name": "Amulet'S Abeyance",
+									"name": "Suojaesine'S Abeyance",
 									"source": "DA",
 									"tag": "action"
 								}
@@ -772,13 +772,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 36,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Amulet",
+			"subclassShortName": "Suojaesine",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -788,7 +788,7 @@
 					"source": "DA",
 					"page": 36,
 					"entries": [
-						"Your amulet offers continued protection. When you use Amulet's Abeyance, you or your ally chooses one type of damage dealt by the triggering attack and gains resistance 5 against that damage type until the start of your next turn. At 15th level, this lingering resistance increases from 5 to 10."
+						"Your Suojaesine offers continued protection. When you use Suojaesine's Abeyance, you or your ally chooses one type of damage dealt by the triggering attack and gains resistance 5 against that damage type until the start of your next turn. At 15th level, this lingering resistance increases from 5 to 10."
 					]
 				}
 			]
@@ -797,10 +797,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 36,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Amulet",
+			"subclassShortName": "Suojaesine",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -810,19 +810,19 @@
 					"source": "DA",
 					"page": 36,
 					"entries": [
-						"Your amulet repels the creature's attempts to harm you. You gain a +2 status bonus to AC and saves against the target of your {@action Exploit Vulnerability|DA}."
+						"Your Suojaesine repels the creature's attempts to harm you. You gain a +2 status bonus to AC and saves against the target of your {@action Exploit Vulnerability|DA}."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 36,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Amulet",
+			"subclassShortName": "Suojaesine",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -832,38 +832,38 @@
 					"source": "DA",
 					"page": 36,
 					"entries": [
-						"Your amulet provides sanctuary even against wide-scale attacks. When you use Amulet's Abeyance, you target yourself and all allies within 15 feet. Each target gains both the initial resistance against the triggering damage and the lingering resistance from your amulet's adept benefit; the allies gain the lingering resistance even if they would not have taken any of the initial triggering damage. If the foe's attack deals multiple damage types, each target can separately choose the damage type to gain lingering resistance against."
+						"Your Suojaesine provides sanctuary even against wide-scale attacks. When you use Suojaesine's Abeyance, you target yourself and all allies within 15 feet. Each target gains both the initial resistance against the triggering damage and the lingering resistance from your Suojaesine's adept benefit; the allies gain the lingering resistance even if they would not have taken any of the initial triggering damage. If the foe's attack deals multiple damage types, each target can separately choose the damage type to gain lingering resistance against."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Bell",
+			"subclassShortName": "Kello",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Bell",
+					"name": "Kello",
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"Bells symbolize the power that sounds and emotions hold over others, soothing with one tone and startling with another. Bells, drums, finger cymbals, and other percussion instruments are most typical, but these implements can be any type of portable musical instrument that is played with one hand. Bell implements are associated with the astrological signs of the daughter and the blossom.",
+						"Bells symbolize the power that sounds and emotions hold over others, soothing with one tone and startling with another. Bells, drums, finger cymbals, and other percussion instruments are most typical, but these implements can be any type of portable musical instrument that is played with one hand. Kello implements are associated with the astrological signs of the daughter and the blossom.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 37,
 							"entries": [
-								"You can use your bell implement to create three different kinds of music, each of which weakens a foe in a different way. You gain the {@action Ring Bell|DA} activity.",
+								"You can use your Kello Työväline to create three different kinds of music, each of which weakens a foe in a different way. You gain the {@action Ring Kello|DA} activity.",
 								{
 									"type": "data",
-									"name": "Ring Bell",
+									"name": "Ring Kello",
 									"source": "DA",
 									"tag": "action"
 								}
@@ -874,13 +874,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Bell",
+			"subclassShortName": "Kello",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -890,7 +890,7 @@
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"Your bell resonates powerfully, causing the effect to last longer. The conditions from Ring Bell last 3 rounds instead of 1 round."
+						"Your Kello resonates powerfully, causing the effect to last longer. The conditions from Ring Kello last 3 rounds instead of 1 round."
 					]
 				}
 			]
@@ -899,10 +899,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Bell",
+			"subclassShortName": "Kello",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -912,19 +912,19 @@
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"Your reinforced bell can reach into the most basal part of the target's mind, priming it to be vulnerable to the bell's effects. When you successfully {@action Strike} the target of your {@action Exploit Vulnerability|DA}, your bell implement plays a haunting tone and the creature takes a \u20132 status penalty on saves against your Ring Bell for 1 round, or a \u20133 status penalty on a critical hit. This effect has the auditory, emotion, and mental traits."
+						"Your reinforced Kello can reach into the most basal part of the target's mind, priming it to be vulnerable to the Kello's effects. When you successfully {@action Strike} the target of your {@action Exploit Vulnerability|DA}, your Kello Työväline plays a haunting tone and the creature takes a \u20132 status penalty on saves against your Ring Kello for 1 round, or a \u20133 status penalty on a critical hit. This effect has the auditory, emotion, and mental traits."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Bell",
+			"subclassShortName": "Kello",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -934,38 +934,38 @@
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"With your mastery of your bell, you can affect many foes with ease. All the condition values from Ring Bell increase to 2 (or 3 on a critical failure). Ring Bell can trigger off the {@action Strike} or spell of any enemy, not just the target of your Exploit Vulnerability; however, in that case, the condition lasts only until the start of your next turn."
+						"With your mastery of your Kello, you can affect many foes with ease. All the condition values from Ring Kello increase to 2 (or 3 on a critical failure). Ring Kello can trigger off the {@action Strike} or spell of any enemy, not just the target of your Exploit Vulnerability; however, in that case, the condition lasts only until the start of your next turn."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Chalice",
+			"subclassShortName": "Malja",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Chalice",
+					"name": "Malja",
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"Chalice implements are vessels that fill with liquid, associating them with healing, nourishment, and life. Your chalice might be a traditional cup or goblet, but it could also be a small amphora, a polished gourd, or even a hollowed-out skull. Chalice implements are associated with the astrological signs of the mother and the newlyweds, as well as the sea dragon.",
+						"Malja implements are vessels that fill with liquid, associating them with healing, nourishment, and life. Your Malja might be a traditional cup or goblet, but it could also be a small amphora, a polished gourd, or even a hollowed-out skull. Malja implements are associated with the astrological signs of the mother and the newlyweds, as well as the sea dragon.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 37,
 							"entries": [
-								"While holding your chalice, you can drink from it or feed its liquid to an ally to improve their health. You gain the {@action Drink from the Chalice|DA} action.",
+								"While holding your Malja, you can drink from it or feed its liquid to an ally to improve their health. You gain the {@action Drink from the Malja|DA} action.",
 								{
 									"type": "data",
-									"name": "Drink from the Chalice",
+									"name": "Drink from the Malja",
 									"source": "DA",
 									"tag": "action"
 								}
@@ -976,13 +976,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 37,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Chalice",
+			"subclassShortName": "Malja",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -992,7 +992,7 @@
 					"source": "DA",
 					"page": 37,
 					"entries": [
-						"The life essence shed from blood empowers your chalice. If you or an ally within 30 feet takes piercing or slashing damage from a foe's critical hit or takes {@condition persistent damage||persistent bleed damage}, Drinking from the Chalice before the end of your next turn grants that injured creature greater restoration to make up for its lost vitality. On a sip, the temporary Hit Points granted to the creature increase to 2 + your Charisma modifier + your level. When drained, the chalice heals the creature 5 Hit Points for each level you have."
+						"The life essence shed from blood empowers your Malja. If you or an ally within 30 feet takes piercing or slashing damage from a foe's critical hit or takes {@condition persistent damage||persistent bleed damage}, Drinking from the Malja before the end of your next turn grants that injured creature greater restoration to make up for its lost vitality. On a sip, the temporary Hit Points granted to the creature increase to 2 + your Charisma modifier + your level. When drained, the Malja heals the creature 5 Hit Points for each level you have."
 					]
 				}
 			]
@@ -1001,10 +1001,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Chalice",
+			"subclassShortName": "Malja",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1014,19 +1014,19 @@
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"Your reinforced chalice can collect a creature's life force to become empowered. If you succeed at a {@action Strike} against the target of your {@action Exploit Vulnerability|DA}, you increase the effect if someone Drinks from the Chalice before the end of that turn. Add an additional half your level to the temporary HP if the drinker sips, or add your level to the HP regained if the drinker drains the chalice. This effect isn't cumulative if you hit with more than one Strike."
+						"Your reinforced Malja can collect a creature's life force to become empowered. If you succeed at a {@action Strike} against the target of your {@action Exploit Vulnerability|DA}, you increase the effect if someone Drinks from the Malja before the end of that turn. Add an additional half your level to the temporary HP if the drinker sips, or add your level to the HP regained if the drinker drains the Malja. This effect isn't cumulative if you hit with more than one Strike."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Chalice",
+			"subclassShortName": "Malja",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1036,37 +1036,37 @@
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"When you or an ally drain the chalice, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's clumsy, enfeebled, frightened, stupefied, and stunned values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its drained value by 1, but it can reduce its drained condition by Drinking from the Chalice only once per day.",
-						"In addition, the chalice attempts to counteract all poisons, diseases, and curses afflicting the drinker, using half your level rounded up as the counteract level and your class DC \u2013 10 as the counteract modifier. If the chalice fails to counteract a given affliction for a drinker, it can't attempt to counteract that affliction again until midnight."
+						"When you or an ally drain the Malja, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's clumsy, enfeebled, frightened, stupefied, and stunned values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its drained value by 1, but it can reduce its drained condition by Drinking from the Malja only once per day.",
+						"In addition, the Malja attempts to counteract all poisons, diseases, and curses afflicting the drinker, using half your level rounded up as the counteract level and your class DC \u2013 10 as the counteract modifier. If the Malja fails to counteract a given affliction for a drinker, it can't attempt to counteract that affliction again until midnight."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Lantern",
+			"subclassShortName": "Lyhty",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Lantern",
+					"name": "Lyhty",
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"Lantern implements shine the light of revelation to part shadows and expose truth. You might use a common glass lantern, torch, paper lantern, or other similar light source. Lantern implements are associated with the harrow suit of stars and the astrological signs of the lantern bearer and the archer.",
+						"Lyhty implements shine the light of revelation to part shadows and expose truth. You might use a common glass Lyhty, torch, paper Lyhty, or other similar light source. Lyhty implements are associated with the harrow suit of stars and the astrological signs of the Lyhty bearer and the archer.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 37,
 							"entries": [
-								"While you hold your lantern, its burning light leaves secrets no place to hide. You can light or extinguish your lantern as a free action once each turn with nothing but a thought, which has the concentrate trait. The lantern shines bright light out to 20 feet and dim light out 20 feet further; this has the evocation, light, and magical traits (the counteract level against magical darkness is equal to half your level rounded up).",
-								"The lantern's magical light attempts to reveal the unseen. You and your allies in the lantern's area of bright light gain a +1 status bonus to visual Perception checks to notice anything that is also within the bright light, and a +1 status bonus to checks to {@action Recall Knowledge} against creatures within the bright light, as the light exposes their true natures. During exploration, even if you aren't Searching, the GM rolls a secret check for you to find traps, environmental hazards, haunts, and secrets (such as secret doors). The GM rolls each time a given hazard or secret comes within 20 feet of you and within the lantern's bright light. These effects have the divination, magical, and revelation traits."
+								"While you hold your Lyhty, its burning light leaves secrets no place to hide. You can light or extinguish your Lyhty as a free action once each turn with nothing but a thought, which has the concentrate trait. The Lyhty shines bright light out to 20 feet and dim light out 20 feet further; this has the evocation, light, and magical traits (the counteract level against magical darkness is equal to half your level rounded up).",
+								"The Lyhty's magical light attempts to reveal the unseen. You and your allies in the Lyhty's area of bright light gain a +1 status bonus to visual Perception checks to notice anything that is also within the bright light, and a +1 status bonus to checks to {@action Recall Knowledge} against creatures within the bright light, as the light exposes their true natures. During exploration, even if you aren't Searching, the GM rolls a secret check for you to find traps, environmental hazards, haunts, and secrets (such as secret doors). The GM rolls each time a given hazard or secret comes within 20 feet of you and within the Lyhty's bright light. These effects have the divination, magical, and revelation traits."
 							]
 						}
 					]
@@ -1074,13 +1074,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Lantern",
+			"subclassShortName": "Lyhty",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1090,7 +1090,7 @@
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"In addition to the initiate benefits, when you hold your lantern, its light reveals the invisible and the ethereal. The bright light increases to 30 feet, with dim light out 30 feet further. While you're holding your lantern, invisible and ethereal creatures within the bright light become visible as rippling distortions, though they're still concealed. This doesn't give you any special ability to affect a creature on the Ethereal Plane, but it ensures you're aware of the creatures' presence."
+						"In addition to the initiate benefits, when you hold your Lyhty, its light reveals the invisible and the ethereal. The bright light increases to 30 feet, with dim light out 30 feet further. While you're holding your Lyhty, invisible and ethereal creatures within the bright light become visible as rippling distortions, though they're still concealed. This doesn't give you any special ability to affect a creature on the Ethereal Plane, but it ensures you're aware of the creatures' presence."
 					]
 				}
 			]
@@ -1099,10 +1099,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Lantern",
+			"subclassShortName": "Lyhty",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1112,19 +1112,19 @@
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"Your lantern's light flares and burns bright, leaving no shadows in which secrets and enemies can hide. Against the target of your {@action Exploit Vulnerability|DA}, the status bonuses from the lantern's initiate benefit increase to +2. The creature takes a \u20132 status penalty to Deception checks and Stealth checks as long as it's within the lantern's light. The creature can't be concealed while it's in the lantern's light, though it still can potentially become hidden or undetected using cover or means other than the concealed condition."
+						"Your Lyhty's light flares and burns bright, leaving no shadows in which secrets and enemies can hide. Against the target of your {@action Exploit Vulnerability|DA}, the status bonuses from the Lyhty's initiate benefit increase to +2. The creature takes a \u20132 status penalty to Deception checks and Stealth checks as long as it's within the Lyhty's light. The creature can't be concealed while it's in the Lyhty's light, though it still can potentially become hidden or undetected using cover or means other than the concealed condition."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Lantern",
+			"subclassShortName": "Lyhty",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1134,38 +1134,38 @@
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"In addition to the other benefits, your lantern reveals all things as they truly are. The bright light increases to 40 feet, with dim light out 40 feet further. While you're holding your lantern, the GM rolls a secret counteract check against any illusion or transmutation that comes within the lantern's bright light, but only for the purpose of determining whether you and others can see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the spell). Use half your level rounded up as the counteract level and your class DC \u2013 10 as the counteract modifier. On a failed counteract check, the lantern can't attempt to counteract that illusion or polymorph effect again until midnight. You can choose to leave any illusion or transmutation you discover intact, instead of counteracting it."
+						"In addition to the other benefits, your Lyhty reveals all things as they truly are. The bright light increases to 40 feet, with dim light out 40 feet further. While you're holding your Lyhty, the GM rolls a secret counteract check against any illusion or transmutation that comes within the Lyhty's bright light, but only for the purpose of determining whether you and others can see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the spell). Use half your level rounded up as the counteract level and your class DC \u2013 10 as the counteract modifier. On a failed counteract check, the Lyhty can't attempt to counteract that illusion or polymorph effect again until midnight. You can choose to leave any illusion or transmutation you discover intact, instead of counteracting it."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Mirror",
+			"subclassShortName": "Peili",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Mirror",
+					"name": "Peili",
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"Mirror implements represent misdirection, illusion, and sleight of hand, bending and shifting a perspective and the way you look at things. While larger mirrors hold the same mystic connotations, thaumaturges always choose small, portable, handheld mirrors as implements so they can use them easily while adventuring. Mirror implements are associated with the harrow suit of keys, and the astrological signs of the stranger and the swallow.",
+						"Peili implements represent misdirection, illusion, and sleight of hand, bending and shifting a perspective and the way you look at things. While larger mirrors hold the same mystic connotations, thaumaturges always choose small, portable, handheld mirrors as implements so they can use them easily while adventuring. Peili implements are associated with the harrow suit of keys, and the astrological signs of the stranger and the swallow.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 38,
 							"entries": [
-								"You learn how to use your mirror to project another version of yourself whose realness is a matter of perspective. You gain the {@action Mirror's Reflection|DA} action.",
+								"You learn how to use your Peili to project another version of yourself whose realness is a matter of perspective. You gain the {@action Peili's Reflection|DA} action.",
 								{
 									"type": "data",
-									"name": "Mirror's Reflection",
+									"name": "Peili's Reflection",
 									"source": "DA",
 									"tag": "action"
 								}
@@ -1176,13 +1176,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Mirror",
+			"subclassShortName": "Peili",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1192,7 +1192,7 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Your mirror self shatters into punishing shards when damaged. While Mirror's Reflection is in effect, when an enemy adjacent to one of your spaces damages you, that version of you explodes into mirror shards. This ends Mirror's Reflection (establishing the remaining version of you as the real one) and deals slashing damage to all creatures in a 5-foot emanation around where your mirror self was. The damage is equal to 2 + half your level or the damage of the triggering attack, whichever is lower. You're immune to this damage."
+						"Your Peili self shatters into punishing shards when damaged. While Peili's Reflection is in effect, when an enemy adjacent to one of your spaces damages you, that version of you explodes into Peili shards. This ends Peili's Reflection (establishing the remaining version of you as the real one) and deals slashing damage to all creatures in a 5-foot emanation around where your Peili self was. The damage is equal to 2 + half your level or the damage of the triggering attack, whichever is lower. You're immune to this damage."
 					]
 				}
 			]
@@ -1201,10 +1201,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Mirror",
+			"subclassShortName": "Peili",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1214,19 +1214,19 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Reinforcing your mirror lets it play tricks on your enemy's senses as it bends light this way or that. You become concealed to the target of your {@action Exploit Vulnerability|DA} as your mirror warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to Hide or Sneak."
+						"Reinforcing your Peili lets it play tricks on your enemy's senses as it bends light this way or that. You become concealed to the target of your {@action Exploit Vulnerability|DA} as your Peili warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to Hide or Sneak."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Mirror",
+			"subclassShortName": "Peili",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1236,36 +1236,36 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"You've become so skilled at reflecting yourself that you can combine making a reflection with your other movements to act right away. When you use Mirror's Reflection, you can have one of your selves immediately Interact, Seek, or Strike."
+						"You've become so skilled at reflecting yourself that you can combine making a reflection with your other movements to act right away. When you use Peili's Reflection, you can have one of your selves immediately Interact, Seek, or Strike."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 38,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Regalia",
+			"subclassShortName": "Arvonmerkki",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Regalia",
+					"name": "Arvonmerkki",
 					"source": "DA",
 					"page": 38,
 					"entries": [
-						"Regalia implements represent rulership, leadership, and social connections. While they differ in shape depending on regional customs and markers used to signify authority, common regalia implements are scepters, jeweled orbs, and heraldic banners. Regalia implements are associated with the harrow suit of crowns and the astrological signs of the patriarch and the sovereign dragon.",
+						"Arvonmerkki implements represent rulership, leadership, and social connections. While they differ in shape depending on regional customs and markers used to signify authority, common Arvonmerkki implements are scepters, jeweled orbs, and heraldic banners. Arvonmerkki implements are associated with the harrow suit of crowns and the astrological signs of the patriarch and the sovereign dragon.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 38,
 							"entries": [
-								"While you hold your regalia, you gain an air of authority and bolster the courage of allies who believe in you. Your regalia aids you when you attempt to convince others. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks. Allies who can see you can use Follow the Expert to follow you even if you're only trained in a skill and not an expert, due to the competence you clearly exude. When they do, the circumstance bonus they gain from Following the Expert is +1.",
-								"When you are holding your regalia, you gain an inspiring aura that stokes the courage of you and all allies in a 15-foot emanation who can see you, granting them a +1 status bonus to saving throws against fear. At the end of your turn, at the same time you would reduce your frightened value by 1, you reduce the frightened value of all allies within your inspiring aura by 1. Your aura has the emotion, mental, and visual traits."
+								"While you hold your Arvonmerkki, you gain an air of authority and bolster the courage of allies who believe in you. Your Arvonmerkki aids you when you attempt to convince others. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks. Allies who can see you can use Follow the Expert to follow you even if you're only trained in a skill and not an expert, due to the competence you clearly exude. When they do, the circumstance bonus they gain from Following the Expert is +1.",
+								"When you are holding your Arvonmerkki, you gain an inspiring aura that stokes the courage of you and all allies in a 15-foot emanation who can see you, granting them a +1 status bonus to saving throws against fear. At the end of your turn, at the same time you would reduce your frightened value by 1, you reduce the frightened value of all allies within your inspiring aura by 1. Your aura has the emotion, mental, and visual traits."
 							]
 						}
 					]
@@ -1273,13 +1273,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Regalia",
+			"subclassShortName": "Arvonmerkki",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1289,7 +1289,7 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Your regalia's power increases, and so do the abilities it grants. The circumstance bonus you gain to Deception, Diplomacy, and Intimidation increases to +2, as long as you have master proficiency in each skill. When others use Follow the Expert to follow you, you grant them a +2 circumstance bonus if you are trained, +3 if you have expert proficiency, or +4 if you have master or legendary proficiency.",
+						"Your Arvonmerkki's power increases, and so do the abilities it grants. The circumstance bonus you gain to Deception, Diplomacy, and Intimidation increases to +2, as long as you have master proficiency in each skill. When others use Follow the Expert to follow you, you grant them a +2 circumstance bonus if you are trained, +3 if you have expert proficiency, or +4 if you have master or legendary proficiency.",
 						"The courage your aura instills grows stronger. The +1 status bonus now applies to all saving throws against mental effects, rather than only against fear, and you and allies in your aura gain a +2 status bonus to damage rolls. At 11th level, this increases to a +3 status bonus to damage rolls, and at 17th level, this increases to a +4 status bonus to damage rolls."
 					]
 				}
@@ -1299,10 +1299,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Regalia",
+			"subclassShortName": "Arvonmerkki",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1312,19 +1312,19 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Your regalia implement makes you seem more confident and inspiring with each success. Whenever you successfully {@action Strike} the target of your {@action Exploit Vulnerability|DA}, choose an ally that you can see. That ally gains a +1 circumstance bonus to its attack rolls against the creature until the beginning of your next turn. If the attack roll was a critical hit, the circumstance bonus increases to +2."
+						"Your Arvonmerkki Työväline makes you seem more confident and inspiring with each success. Whenever you successfully {@action Strike} the target of your {@action Exploit Vulnerability|DA}, choose an ally that you can see. That ally gains a +1 circumstance bonus to its attack rolls against the creature until the beginning of your next turn. If the attack roll was a critical hit, the circumstance bonus increases to +2."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 40,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Regalia",
+			"subclassShortName": "Arvonmerkki",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1334,37 +1334,37 @@
 					"source": "DA",
 					"page": 40,
 					"entries": [
-						"Your regalia grants you the true gravitas of rulership, tying together the hearts and minds of your allies and making it impossible for you to leave a bad impression. If you roll a critical failure on a check to Coerce, Make an Impression, or Request, you get a failure instead. When others use Follow the Expert to follow you, you grant them a +3 circumstance bonus if you are trained or +4 if you are an expert or above.",
+						"Your Arvonmerkki grants you the true gravitas of rulership, tying together the hearts and minds of your allies and making it impossible for you to leave a bad impression. If you roll a critical failure on a check to Coerce, Make an Impression, or Request, you get a failure instead. When others use Follow the Expert to follow you, you grant them a +3 circumstance bonus if you are trained or +4 if you are an expert or above.",
 						"Allies in your inspiring aura aren't flat-footed from being flanked unless you too are flanked. If one of your allies in the aura is clumsy, enfeebled, frightened, sickened, or stupefied, the status penalty your ally takes from the condition is 1 lower than the condition's value as long as the ally remains in the aura, unless you too are affected by the same condition."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Tome",
+			"subclassShortName": "Opus",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Tome",
+					"name": "Opus",
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Tome implements embody lost knowledge and otherworldly insights. While a weathered book is most common, tome implements can have as many different form factors as there are ways to store knowledge, from carved clay tablets to bundles of knotted cords. Tome implements are associated with the harrow suit of books and the astrological signs of the stargazer and the underworld dragon.",
+						"Opus implements embody lost knowledge and otherworldly insights. While a weathered book is most common, Opus implements can have as many different form factors as there are ways to store knowledge, from carved clay tablets to bundles of knotted cords. Opus implements are associated with the harrow suit of books and the astrological signs of the stargazer and the underworld dragon.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 39,
 							"entries": [
-								"While you hold your tome, lines of text appear on the open pages, revealing useful information. While you hold your tome, you gain a +1 circumstance bonus to all skill checks to {@action Recall Knowledge}.",
-								"During your daily preparations, you can gain the trained proficiency rank in two skills of your choice until you prepare again. You retain the benefit as long as the tome is on your person, even if you aren't holding it. At 3rd level, you're an expert in one of the skills and trained in the other, and at 5th level, you're an expert in both skills. Since these proficiencies are temporary, you can't use them as a prerequisite for a skill increase or a permanent character option like a feat."
+								"While you hold your Opus, lines of text appear on the open pages, revealing useful information. While you hold your Opus, you gain a +1 circumstance bonus to all skill checks to {@action Recall Knowledge}.",
+								"During your daily preparations, you can gain the trained proficiency rank in two skills of your choice until you prepare again. You retain the benefit as long as the Opus is on your person, even if you aren't holding it. At 3rd level, you're an expert in one of the skills and trained in the other, and at 5th level, you're an expert in both skills. Since these proficiencies are temporary, you can't use them as a prerequisite for a skill increase or a permanent character option like a feat."
 							]
 						}
 					]
@@ -1372,13 +1372,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Tome",
+			"subclassShortName": "Opus",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1388,7 +1388,7 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"In addition to the initiate benefits, your tome inscribes insights into creatures that you can use to strike them down. While holding your tome, at the start of your turn each round, attempt a check to {@action Recall Knowledge} about a creature of your choice that you're observing. If this check succeeds, you gain a +1 circumstance bonus to your next attack roll against that creature before the start of your next turn.",
+						"In addition to the initiate benefits, your Opus inscribes insights into creatures that you can use to strike them down. While holding your Opus, at the start of your turn each round, attempt a check to {@action Recall Knowledge} about a creature of your choice that you're observing. If this check succeeds, you gain a +1 circumstance bonus to your next attack roll against that creature before the start of your next turn.",
 						"When you gain temporary skill proficiencies during your daily preparations, one is at expert proficiency and the other at master proficiency. At 9th level, you have master proficiency in both."
 					]
 				}
@@ -1398,10 +1398,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 39,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Tome",
+			"subclassShortName": "Opus",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1411,19 +1411,19 @@
 					"source": "DA",
 					"page": 39,
 					"entries": [
-						"Your tome's power not only reads a creature's present but even records its future actions. When you use {@action Intensify Vulnerability|DA}, roll a d20 and set the result aside. At any time until the start of your next turn, you can use the d20 result you set aside for an attack roll to {@action Strike} the target of your {@action Exploit Vulnerability|DA}, instead of rolling a new d20; this is a fortune effect."
+						"Your Opus's power not only reads a creature's present but even records its future actions. When you use {@action Intensify Vulnerability|DA}, roll a d20 and set the result aside. At any time until the start of your next turn, you can use the d20 result you set aside for an attack roll to {@action Strike} the target of your {@action Exploit Vulnerability|DA}, instead of rolling a new d20; this is a fortune effect."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 40,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Tome",
+			"subclassShortName": "Opus",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1433,36 +1433,36 @@
 					"source": "DA",
 					"page": 40,
 					"entries": [
-						"In addition to the other benefits, your tome's information alerts you to ambushes and attacks from your foes. While holding your tome, you can always roll a skill check for initiative against creatures or haunts using Esoteric Lore. If you do, you gain a +3 circumstance bonus to your initiative roll.",
-						"The initiate benefit's circumstance bonus to {@action Recall Knowledge} from holding your tome increases from +1 to +2. When you succeed at the {@action Recall Knowledge} check granted by the tome's adept benefit, the bonus applies to all attack rolls you make before the start of your next turn, not just your next one. Lastly, when you gain temporary skill proficiencies, both are legendary."
+						"In addition to the other benefits, your Opus's information alerts you to ambushes and attacks from your foes. While holding your Opus, you can always roll a skill check for initiative against creatures or haunts using Esoteric Lore. If you do, you gain a +3 circumstance bonus to your initiative roll.",
+						"The initiate benefit's circumstance bonus to {@action Recall Knowledge} from holding your Opus increases from +1 to +2. When you succeed at the {@action Recall Knowledge} check granted by the Opus's adept benefit, the bonus applies to all attack rolls you make before the start of your next turn, not just your next one. Lastly, when you gain temporary skill proficiencies, both are legendary."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Wand",
+			"subclassShortName": "Sauva",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Wand",
+					"name": "Sauva",
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"Wand implements are short, lightweight batons, usually made of wood but often incorporating other materials. Due to their association with spellcasters, wand implements are connected to magic and its practice, as well as the direction and manipulation of energy. Wand implements are associated with the astrological signs of the thrush and the sky dragon.",
+						"Sauva implements are short, lightweight batons, usually made of wood but often incorporating other materials. Due to their association with spellcasters, Sauva implements are connected to magic and its practice, as well as the direction and manipulation of energy. Sauva implements are associated with the astrological signs of the thrush and the sky dragon.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 41,
 							"entries": [
-								"Your wand slowly collects ambient magic, which you can project at a foe in a barely controlled display of charged energy. When you gain this implement, choose whether your wand is attuned to cold, electricity, or fire. You gain the Fling Magic activity.",
+								"Your Sauva slowly collects ambient magic, which you can project at a foe in a barely controlled display of charged energy. When you gain this Työväline, choose whether your Sauva is attuned to cold, electricity, or fire. You gain the Fling Magic activity.",
 								{
 									"type": "data",
 									"name": "Fling Magic",
@@ -1476,13 +1476,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Wand",
+			"subclassShortName": "Sauva",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1492,7 +1492,7 @@
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"You gain versatility and additional benefits when you fire your wand. The range of Fling Magic increases to 120 feet. Choose a second damage type from the list; whenever you Fling Magic, you can select between either of the two damage types you have chosen. Fling Magic has an additional effect if the target fails its save and takes damage, depending on the type.",
+						"You gain versatility and additional benefits when you fire your Sauva. The range of Fling Magic increases to 120 feet. Choose a second damage type from the list; whenever you Fling Magic, you can select between either of the two damage types you have chosen. Fling Magic has an additional effect if the target fails its save and takes damage, depending on the type.",
 						{
 							"type": "pf2-options",
 							"items": [
@@ -1511,7 +1511,7 @@
 								{
 									"name": "Fire",
 									"entries": [
-										"The target catches flame, taking 1d10 {@condition persistent damage||persistent fire damage} (or 2d10 on a critical failure). If you have the wand paragon benefit, this increases to 2d10 {@condition persistent damage||persistent fire damage} (or 4d10 on a critical failure)."
+										"The target catches flame, taking 1d10 {@condition persistent damage||persistent fire damage} (or 2d10 on a critical failure). If you have the Sauva paragon benefit, this increases to 2d10 {@condition persistent damage||persistent fire damage} (or 4d10 on a critical failure)."
 									]
 								}
 							]
@@ -1524,10 +1524,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Wand",
+			"subclassShortName": "Sauva",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1537,19 +1537,19 @@
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"Your empowered wand surges with ever-more-powerful magic. When you Fling Magic to damage the target of your {@action Exploit Vulnerability|DA}, you deal additional damage to the creature equal to 1 + the number of damage dice."
+						"Your empowered Sauva surges with ever-more-powerful magic. When you Fling Magic to damage the target of your {@action Exploit Vulnerability|DA}, you deal additional damage to the creature equal to 1 + the number of damage dice."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Wand",
+			"subclassShortName": "Sauva",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1559,39 +1559,39 @@
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"Your mastery of your wand grants you increased versatility, range, and area. The range of Fling Magic increases to 180 feet. You gain the ability to choose between all three damage types (cold, electricity, and fire) each time you use Fling Magic. When you Fling Magic, you can choose to target a single creature or to affect all creatures in a 20-foot burst."
+						"Your mastery of your Sauva grants you increased versatility, range, and area. The range of Fling Magic increases to 180 feet. You gain the ability to choose between all three damage types (cold, electricity, and fire) each time you use Fling Magic. When you Fling Magic, you can choose to target a single creature or to affect all creatures in a 20-foot burst."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Implement And Esoterica",
+			"name": "First Työväline And Esoterica",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 1,
-			"subclassShortName": "Weapon",
+			"subclassShortName": "Ase",
 			"subclassSource": "DA",
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Weapon",
+					"name": "Ase",
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"Weapon implements are the most direct and confrontational, representing battle, struggle, and potentially violence. You can choose only a one-handed weapon as an implement, which allows you to channel energies into your weapon as well as hold your other implements once you gain them. Weapon implements are associated with the harrow suit of hammers and the astrological signs of the rider and the swordswoman.",
+						"Ase implements are the most direct and confrontational, representing battle, struggle, and potentially violence. You can choose only a one-handed Ase as an Työväline, which allows you to channel energies into your Ase as well as hold your other implements once you gain them. Ase implements are associated with the harrow suit of hammers and the astrological signs of the rider and the swordswoman.",
 						{
 							"type": "pf2-h4",
 							"name": "Initiate Benefit",
 							"source": "DA",
 							"page": 37,
 							"entries": [
-								"Your weapon trembles slightly in your hand, seeking out your foe's weakness to it and interrupting their actions. You gain the {@action Implement's Interruption|DA} reaction.",
-								"At 5th level, when you gain thaumaturgic weapon expertise, your instinctive knowledge of your weapon implement also grants you the weapon's critical specialization effect.",
+								"Your Ase trembles slightly in your hand, seeking out your foe's weakness to it and interrupting their actions. You gain the {@action Työväline's Interruption|DA} reaction.",
+								"At 5th level, when you gain thaumaturgic Ase expertise, your instinctive knowledge of your Ase Työväline also grants you the Ase's critical specialization effect.",
 								{
 									"type": "data",
-									"name": "Implement's Interruption",
+									"name": "Työväline's Interruption",
 									"source": "DA",
 									"tag": "action"
 								}
@@ -1602,13 +1602,13 @@
 			]
 		},
 		{
-			"name": "Implement Adept",
+			"name": "Työväline Adept",
 			"source": "DA",
 			"page": 41,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 7,
-			"subclassShortName": "Weapon",
+			"subclassShortName": "Ase",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1618,7 +1618,7 @@
 					"source": "DA",
 					"page": 41,
 					"entries": [
-						"When your implement lashes out at your foe, even a close miss brings the weapon close enough to do harm. When you use Implement's Interruption and fail (but don't critically fail) the Strike, you deal 1 damage of the weapon's normal type, possibly applying any bonus damage due to the target's weakness."
+						"When your Työväline lashes out at your foe, even a close miss brings the Ase close enough to do harm. When you use Työväline's Interruption and fail (but don't critically fail) the Strike, you deal 1 damage of the Ase's normal type, possibly applying any bonus damage due to the target's weakness."
 					]
 				}
 			]
@@ -1627,10 +1627,10 @@
 			"name": "Intensify Vulnerability",
 			"source": "DA",
 			"page": 42,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 9,
-			"subclassShortName": "Weapon",
+			"subclassShortName": "Ase",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1640,19 +1640,19 @@
 					"source": "DA",
 					"page": 42,
 					"entries": [
-						"Your weapon is drawn to your enemy's vital spots, almost of its own accord. You gain a +2 status bonus to attack rolls against the target of your {@action Exploit Vulnerability|DA}."
+						"Your Ase is drawn to your enemy's vital spots, almost of its own accord. You gain a +2 status bonus to attack rolls against the target of your {@action Exploit Vulnerability|DA}."
 					]
 				}
 			]
 		},
 		{
-			"name": "Implement Paragon",
+			"name": "Työväline Paragon",
 			"source": "DA",
 			"page": 42,
-			"className": "Thaumaturge",
+			"className": "Ihmeidentekijä",
 			"classSource": "DA",
 			"level": 17,
-			"subclassShortName": "Weapon",
+			"subclassShortName": "Ase",
 			"subclassSource": "DA",
 			"entries": [
 				{
@@ -1662,7 +1662,7 @@
 					"source": "DA",
 					"page": 42,
 					"entries": [
-						"The way your implement connects to your foe makes its interruptions incredibly disruptive. You now disrupt the triggering action on a hit with Implement's Interruption, rather than needing a critical hit."
+						"The way your Työväline connects to your foe makes its interruptions incredibly disruptive. You now disrupt the triggering action on a hit with Työväline's Interruption, rather than needing a critical hit."
 					]
 				}
 			]

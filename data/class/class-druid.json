@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Druid",
+			"name": "Metsänkävijä",
 			"source": "CRB",
 			"page": 129,
 			"keyAbility": "Wisdom",
@@ -22,7 +22,7 @@
 							"skill": [
 								"Subclass Dependant"
 							],
-							"entry": "one skill determined by your druidic order"
+							"entry": "one skill determined by your Metsänkävijä lahko"
 						}
 					],
 					"add": 2
@@ -105,104 +105,104 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Druid|CRB|1",
-				"Initial Proficiencies|Druid|CRB|1",
-				"Primal Spellcasting|Druid|CRB|1",
-				"Anathema|Druid|CRB|1",
-				"Druidic Language|Druid|CRB|1",
+				"Ancestry and Background|Metsänkävijä|CRB|1",
+				"Initial Proficiencies|Metsänkävijä|CRB|1",
+				"Primal Spellcasting|Metsänkävijä|CRB|1",
+				"Anathema|Metsänkävijä|CRB|1",
+				"Druidic Language|Metsänkävijä|CRB|1",
 				{
-					"classFeature": "Druidic Order|Druid|CRB|1",
+					"classFeature": "Metsänkävijä lahko|Metsänkävijä|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Shield Block|Druid|CRB|1",
-				"Wild Empathy|Druid|CRB|1",
-				"Druid Feats|Druid|CRB|2",
-				"Skill Feats|Druid|CRB|2",
-				"Alertness|Druid|CRB|3",
-				"General Feats|Druid|CRB|3",
-				"Great Fortitude|Druid|CRB|3",
-				"Skill Increases|Druid|CRB|3",
-				"Ability Boosts|Druid|CRB|5",
-				"Ancestry Feats|Druid|CRB|5",
-				"Lightning Reflexes|Druid|CRB|5",
-				"Expert Spellcaster|Druid|CRB|7",
-				"Druid Weapon Expertise|Druid|CRB|11",
-				"Resolve|Druid|CRB|11",
-				"Medium Armor Expertise|Druid|CRB|13",
-				"Weapon Specialization|Druid|CRB|13",
-				"Master Spellcaster|Druid|CRB|15",
-				"Legendary Spellcaster|Druid|CRB|19",
-				"Primal Hierophant|Druid|CRB|19"
+				"Shield Block|Metsänkävijä|CRB|1",
+				"Villi Empathy|Metsänkävijä|CRB|1",
+				"Metsänkävijä Feats|Metsänkävijä|CRB|2",
+				"Skill Feats|Metsänkävijä|CRB|2",
+				"Alertness|Metsänkävijä|CRB|3",
+				"General Feats|Metsänkävijä|CRB|3",
+				"Great Fortitude|Metsänkävijä|CRB|3",
+				"Skill Increases|Metsänkävijä|CRB|3",
+				"Ability Boosts|Metsänkävijä|CRB|5",
+				"Ancestry Feats|Metsänkävijä|CRB|5",
+				"Lightning Reflexes|Metsänkävijä|CRB|5",
+				"Expert Spellcaster|Metsänkävijä|CRB|7",
+				"Metsänkävijä Weapon Expertise|Metsänkävijä|CRB|11",
+				"Resolve|Metsänkävijä|CRB|11",
+				"Medium Armor Expertise|Metsänkävijä|CRB|13",
+				"Weapon Specialization|Metsänkävijä|CRB|13",
+				"Master Spellcaster|Metsänkävijä|CRB|15",
+				"Legendary Spellcaster|Metsänkävijä|CRB|19",
+				"Primal Hierophant|Metsänkävijä|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Animal",
-					"type": "Druidic Order",
-					"shortName": "Animal",
+					"name": "Eläin",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Eläin",
 					"source": "CRB",
 					"page": 131,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Animal|CRB|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Eläin|CRB|1"
 					]
 				},
 				{
-					"name": "Leaf",
-					"type": "Druidic Order",
-					"shortName": "Leaf",
+					"name": "Lehti",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Lehti",
 					"source": "CRB",
 					"page": 131,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Leaf|CRB|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Lehti|CRB|1"
 					]
 				},
 				{
-					"name": "Storm",
-					"type": "Druidic Order",
-					"shortName": "Storm",
+					"name": "Myrsky",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Myrsky",
 					"source": "CRB",
 					"page": 132,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Storm|CRB|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Myrsky|CRB|1"
 					]
 				},
 				{
-					"name": "Wild",
-					"type": "Druidic Order",
-					"shortName": "Wild",
+					"name": "Villi",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Villi",
 					"source": "CRB",
 					"page": 132,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Wild|CRB|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Villi|CRB|1"
 					]
 				},
 				{
-					"name": "Flame",
-					"type": "Druidic Order",
-					"shortName": "Flame",
+					"name": "Liekki",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Liekki",
 					"source": "SoM",
 					"page": 198,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Flame|SoM|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Liekki|SoM|1"
 					]
 				},
 				{
-					"name": "Stone",
-					"type": "Druidic Order",
-					"shortName": "Stone",
+					"name": "Kivi",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Kivi",
 					"source": "SoM",
 					"page": 198,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Stone|SoM|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Kivi|SoM|1"
 					]
 				},
 				{
-					"name": "Wave",
-					"type": "Druidic Order",
-					"shortName": "Wave",
+					"name": "Aalto",
+					"type": "Metsänkävijä lahko",
+					"shortName": "Aalto",
 					"source": "SoM",
 					"page": 198,
 					"subclassFeatures": [
-						"Druidic Order|Druid|CRB|Wave|SoM|1"
+						"Metsänkävijä lahko|Metsänkävijä|CRB|Aalto|SoM|1"
 					]
 				}
 			],
@@ -230,7 +230,7 @@
 					"page": 129,
 					"name": "While exploring...",
 					"entries": [
-						"Your nature skills are invaluable. You track down enemies, navigate the wilderness, and use spells to detect magical auras around you. You might even ask wild animals to lend their extraordinary senses and scouting abilities to your group."
+						"Your nature skills are invaluable. You track down enemies, navigate the wilderness, and use spells to detect magical auras around you. You might even ask Villi animals to lend their extraordinary senses and scouting abilities to your group."
 					]
 				},
 				{
@@ -238,7 +238,7 @@
 					"page": 129,
 					"name": "In downtime...",
 					"entries": [
-						"You might craft magic items or potions. Alternatively, your tie to nature might lead you to tend a wilderness area, befriending beasts and healing the wounds caused by civilization. You might even teach sustainable farming and animal husbandry techniques that allow others to subsist off the land without harming the natural balance."
+						"You might craft magic items or potions. Alternatively, your tie to nature might lead you to tend a wilderness area, befriending beasts and healing the wounds caused by civilization. You might even teach sustainable farming and Eläin husbandry techniques that allow others to subsist off the land without harming the natural balance."
 					]
 				},
 				{
@@ -265,7 +265,7 @@
 							"type": "list",
 							"items": [
 								"View you as a representative of nature, and are sure you can control it.",
-								"Assume you're a recluse who avoids society and cities and prefers to live in the wild.",
+								"Assume you're a recluse who avoids society and cities and prefers to live in the Villi.",
 								"Consider you a mystic, similar to a priest, but answering only to the forces of nature."
 							]
 						}
@@ -273,7 +273,7 @@
 				}
 			],
 			"summary": {
-				"text": "The druid uses the magic of the natural world to bolster allies and strike down enemies.",
+				"text": "The Metsänkävijä uses the magic of the natural world to bolster allies and strike down enemies.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Lini.png"
 				],
@@ -287,7 +287,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 130,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -298,7 +298,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 130,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -309,13 +309,13 @@
 			"name": "Primal Spellcasting",
 			"source": "CRB",
 			"page": 130,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"The power of the wild world flows through you. You can cast primal spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a druid, you can usually hold a primal focus (such as {@item holly and mistletoe}) for spells requiring material components instead of needing to use a material component pouch.",
+				"The power of the Villi world flows through you. You can cast primal spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a Metsänkävijä, you can usually hold a primal focus (such as {@item holly and mistletoe}) for spells requiring material components instead of needing to use a material component pouch.",
 				"At 1st level, you can prepare two {@filter 1st-level spells|spells||spell type=spell|tradition & spell list=primal|rarity=common|level=1} and five {@filter cantrips|spells||spell type=cantrip|tradition & spell list=primal|rarity=common|level=0} each morning from the common spells on the primal spell list, or from other primal spells to which you gain access via {@action Learn a Spell}. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.",
-				"As you increase in level as a druid, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3\u201311: Druid Spells per Day.",
+				"As you increase in level as a Metsänkävijä, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3\u201311: Metsänkävijä Spells per Day.",
 				"Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Wisdom, your spell attack rolls and spell DCs use your Wisdom modifier. Details on calculating these statistics appear in Spell Attack Rolls.",
 				{
 					"type": "pf2-h4",
@@ -330,7 +330,7 @@
 					"page": 130,
 					"name": "Cantrips",
 					"entries": [
-						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of druid spell slot you have. For example, as a 1st-level druid, your cantrips are 1st-level spells, and as a 5th-level druid, your cantrips are 3rd-level spells."
+						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of Metsänkävijä spell slot you have. For example, as a 1st-level Metsänkävijä, your cantrips are 1st-level spells, and as a 5th-level Metsänkävijä, your cantrips are 3rd-level spells."
 					]
 				},
 				{
@@ -339,7 +339,7 @@
 						0,
 						1
 					],
-					"name": "Druid Spells per Day",
+					"name": "Metsänkävijä Spells per Day",
 					"id": "3-11",
 					"spans": [
 						[
@@ -688,11 +688,11 @@
 			"name": "Anathema",
 			"source": "CRB",
 			"page": 130,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"As stewards of the natural order, druids find affronts to nature anathema. If you perform enough acts that are anathema to nature, you lose your magical abilities that come from the druid class, including your primal spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance by conducting an {@ritual atone} ritual.",
+				"As stewards of the natural order, druids find affronts to nature anathema. If you perform enough acts that are anathema to nature, you lose your magical abilities that come from the Metsänkävijä class, including your primal spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance by conducting an {@ritual atone} ritual.",
 				"The following acts are anathema to all druids",
 				{
 					"type": "list",
@@ -702,14 +702,14 @@
 						"Teaching the {@language Druidic} langauge to non-druids."
 					]
 				},
-				"Each druidic order also has additional anathema acts, detailed in the order's entry."
+				"Each Metsänkävijä lahko also has additional anathema acts, detailed in the order's entry."
 			]
 		},
 		{
 			"name": "Druidic Language",
 			"source": "CRB",
 			"page": 130,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -717,24 +717,24 @@
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "CRB",
-			"subclasses": "Druidic Order",
+			"subclasses": "Metsänkävijä lahko",
 			"page": 131,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Upon becoming a druid, you align yourself with a druidic order, which grants you a class feat, an order spell (see below), and an additional trained skill tied to your order. While you'll always be a member of your initial order, it's not unheard of for a druid to request to study with other orders in search of greater understanding of the natural world, and PC druids are among the most likely to blend the powers of different orders.",
+				"Upon becoming a Metsänkävijä, you align yourself with a Metsänkävijä lahko, which grants you a class feat, an order spell (see below), and an additional trained skill tied to your order. While you'll always be a member of your initial order, it's not unheard of for a Metsänkävijä to request to study with other orders in search of greater understanding of the natural world, and PC druids are among the most likely to blend the powers of different orders.",
 				"Order spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the {@action Refocus} activity to commune with local nature spirits or otherwise tend to the wilderness in a way befitting your order.",
-				"Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots to cast, and you can't cast them using spell slots. Selecting druid feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points. The full rules for focus spells are found here."
+				"Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots to cast, and you can't cast them using spell slots. Selecting Metsänkävijä feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points. The full rules for focus spells are found here."
 			]
 		},
 		{
 			"name": "Shield Block",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -742,32 +742,32 @@
 			]
 		},
 		{
-			"name": "Wild Empathy",
+			"name": "Villi Empathy",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use {@skill Diplomacy} to {@action Make an Impression} on animals and to make very simple Requests of them. In most cases, wild animals will give you time to make your case."
+				"You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use {@skill Diplomacy} to {@action Make an Impression} on animals and to make very simple Requests of them. In most cases, Villi animals will give you time to make your case."
 			]
 		},
 		{
-			"name": "Druid Feats",
+			"name": "Metsänkävijä Feats",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
-				"At 2nd level and every 2 levels thereafter, you gain a {@filter druid class feat|feats||type=class|Class=druid|level=[1;2]}."
+				"At 2nd level and every 2 levels thereafter, you gain a {@filter Metsänkävijä class feat|feats||type=class|Class=Metsänkävijä|level=[1;2]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -778,7 +778,7 @@
 			"name": "Alertness",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -789,7 +789,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -800,7 +800,7 @@
 			"name": "Great Fortitude",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -811,7 +811,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -823,7 +823,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -834,7 +834,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -845,7 +845,7 @@
 			"name": "Lightning Reflexes",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -856,7 +856,7 @@
 			"name": "Expert Spellcaster",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -864,10 +864,10 @@
 			]
 		},
 		{
-			"name": "Druid Weapon Expertise",
+			"name": "Metsänkävijä Weapon Expertise",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -878,7 +878,7 @@
 			"name": "Resolve",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -889,7 +889,7 @@
 			"name": "Medium Armor Expertise",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -900,7 +900,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -911,7 +911,7 @@
 			"name": "Master Spellcaster",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -922,7 +922,7 @@
 			"name": "Legendary Spellcaster",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
@@ -933,7 +933,7 @@
 			"name": "Primal Hierophant",
 			"source": "CRB",
 			"page": 133,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
@@ -943,141 +943,141 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "CRB",
 			"page": 131,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Animal",
+			"subclassShortName": "Eläin",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 131,
-					"name": "Animal",
+					"name": "Eläin",
 					"entries": [
-						"You have a strong connection to beasts, and you are allied with a beast companion. You are trained in {@skill Athletics}. You also gain the {@feat Animal Companion} druid feat. You gain the {@spell heal animal} order spell. Committing wanton cruelty to animals or killing animals unnecessarily is anathema to your order. (This doesn't prevent you from defending yourself against animals or killing them cleanly for food."
+						"You have a strong connection to beasts, and you are allied with a beast companion. You are trained in {@skill Athletics}. You also gain the {@feat Eläin Companion} Metsänkävijä feat. You gain the {@spell heal Eläin} order spell. Committing wanton cruelty to animals or killing animals unnecessarily is anathema to your order. (This doesn't prevent you from defending yourself against animals or killing them cleanly for food."
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "CRB",
 			"page": 131,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Leaf",
+			"subclassShortName": "Lehti",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 131,
-					"name": "Leaf",
+					"name": "Lehti",
 					"entries": [
-						"You revere plants and fungus and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, and helping areas regrow after disasters or negligent humanoid expansion. You are trained in {@skill Diplomacy}. You also gain the {@feat Leshy Familiar} druid feat. You gain the {@spell goodberry} order spell, and you increase the number of Focus Points in your focus pool by 1. Committing wanton cruelty to plants and fungus or killing plants and fungus unnecessarily is anathema to your order. (This doesn't prevent you from defending yourself against plants and fungus or harvesting them when necessary for survival.)"
+						"You revere plants and fungus and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, and helping areas regrow after disasters or negligent humanoid expansion. You are trained in {@skill Diplomacy}. You also gain the {@feat Leshy Familiar} Metsänkävijä feat. You gain the {@spell goodberry} order spell, and you increase the number of Focus Points in your focus pool by 1. Committing wanton cruelty to plants and fungus or killing plants and fungus unnecessarily is anathema to your order. (This doesn't prevent you from defending yourself against plants and fungus or harvesting them when necessary for survival.)"
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Storm",
+			"subclassShortName": "Myrsky",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 132,
-					"name": "Storm",
+					"name": "Myrsky",
 					"entries": [
-						"You carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in {@skill Acrobatics}. You also gain the {@feat Storm Born} druid feat. You gain the {@spell tempest surge} order spell, and you increase the number of Focus Points in your focus pool by 1. Polluting the air or allowing those who cause major air pollution or climate shifts to go unpunished is anathema to your order. (This doesn't force you to take action against merely potential harm to the environment or to sacrifice yourself against an obviously superior foe.)"
+						"You carry the fury of the Myrsky within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in {@skill Acrobatics}. You also gain the {@feat Myrsky Born} Metsänkävijä feat. You gain the {@spell tempest surge} order spell, and you increase the number of Focus Points in your focus pool by 1. Polluting the air or allowing those who cause major air pollution or climate shifts to go unpunished is anathema to your order. (This doesn't force you to take action against merely potential harm to the environment or to sacrifice yourself against an obviously superior foe.)"
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "CRB",
 			"page": 132,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Wild",
+			"subclassShortName": "Villi",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 132,
-					"name": "Wild",
+					"name": "Villi",
 					"entries": [
-						"The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a wild creature. You are trained in {@skill Intimidation}. You also gain the {@feat Wild Shape} druid feat. You gain the {@spell wild morph} order spell. Becoming fully domesticated by the temptations of civilization is anathema to your order. (This doesn't prevent you from buying and using processed goods or staying in a city for an adventure, but you can never come to rely on these conveniences or truly call such a place your permanent home.)"
+						"The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a Villi creature. You are trained in {@skill Intimidation}. You also gain the {@feat Villi Shape} Metsänkävijä feat. You gain the {@spell Villi morph} order spell. Becoming fully domesticated by the temptations of civilization is anathema to your order. (This doesn't prevent you from buying and using processed goods or staying in a city for an adventure, but you can never come to rely on these conveniences or truly call such a place your permanent home.)"
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "SoM",
 			"page": 198,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Flame",
+			"subclassShortName": "Liekki",
 			"subclassSource": "SoM",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 198,
-					"name": "Flame",
+					"name": "Liekki",
 					"entries": [
-						"You feel a kinship with flames and can use them for succor and destruction. You're trained in {@skill Acrobatics}. You also gain the {@feat Fire Lung|SoM} druid feat. You gain the {@spell wildfire|SoM} order spell. Allowing unnatural fires to spread or preventing natural fires from occurring in a way that harms the environment are anathema to your order (this doesn't prevent you from using fire destructively or force you to combat a controlled or natural fire)."
+						"You feel a kinship with flames and can use them for succor and destruction. You're trained in {@skill Acrobatics}. You also gain the {@feat Fire Lung|SoM} Metsänkävijä feat. You gain the {@spell wildfire|SoM} order spell. Allowing unnatural fires to spread or preventing natural fires from occurring in a way that harms the environment are anathema to your order (this doesn't prevent you from using fire destructively or force you to combat a controlled or natural fire)."
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "SoM",
 			"page": 198,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Stone",
+			"subclassShortName": "Kivi",
 			"subclassSource": "SoM",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 198,
-					"name": "Stone",
+					"name": "Kivi",
 					"entries": [
-						"You're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in {@skill Crafting}. You also gain the {@feat Steadying Stone|SoM} druid feat. You gain the {@spell crushing ground|SoM} order spell. Poisoning or polluting the land and heedlessly carving the earth to plunder its natural resources are anathema to your order (this doesn't prevent you from responsibly digging or mining)."
+						"You're as enduring as Kivi, and you take comfort in its steadfast presence, both natural and worked. You're trained in {@skill Crafting}. You also gain the {@feat Steadying Kivi|SoM} Metsänkävijä feat. You gain the {@spell crushing ground|SoM} order spell. Poisoning or polluting the land and heedlessly carving the earth to plunder its natural resources are anathema to your order (this doesn't prevent you from responsibly digging or mining)."
 					]
 				}
 			]
 		},
 		{
-			"name": "Druidic Order",
+			"name": "Metsänkävijä lahko",
 			"source": "SoM",
 			"page": 198,
-			"className": "Druid",
+			"className": "Metsänkävijä",
 			"classSource": "CRB",
-			"subclassShortName": "Wave",
+			"subclassShortName": "Aalto",
 			"subclassSource": "SoM",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 198,
-					"name": "Wave",
+					"name": "Aalto",
 					"entries": [
-						"Water is the source of life, and you've learned to shape how it flows. You're trained in {@skill Medicine}. You also gain the {@feat Shore Step|SoM} druid feat. You gain the {@spell rising surf|SoM} order spell. Polluting water or allowing those who pollute water sources to go unpunished is anathema to your order (this doesn't force you to take action against potential water pollution or to sacrifice yourself against an obviously superior foe)."
+						"Water is the source of life, and you've learned to shape how it flows. You're trained in {@skill Medicine}. You also gain the {@feat Shore Step|SoM} Metsänkävijä feat. You gain the {@spell rising surf|SoM} order spell. Polluting water or allowing those who pollute water sources to go unpunished is anathema to your order (this doesn't force you to take action against potential water pollution or to sacrifice yourself against an obviously superior foe)."
 					]
 				}
 			]

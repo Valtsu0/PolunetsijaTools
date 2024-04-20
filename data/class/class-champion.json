@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Champion",
+			"name": "Mestari",
 			"source": "CRB",
 			"page": 105,
 			"keyAbility": "Strength or Dexterity",
@@ -42,7 +42,7 @@
 				},
 				"classDc": {
 					"prof": "t",
-					"entry": "Trained in champion class DC"
+					"entry": "Trained in Mestari class DC"
 				},
 				"spells": {
 					"t": [
@@ -109,132 +109,132 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Champion|CRB|1",
-				"Initial Proficiencies|Champion|CRB|1",
-				"Champion's Code|Champion|CRB|1",
+				"Ancestry and Background|Mestari|CRB|1",
+				"Initial Proficiencies|Mestari|CRB|1",
+				"Mestari's Code|Mestari|CRB|1",
 				{
-					"classFeature": "Deity and Cause|Champion|CRB|1",
+					"classFeature": "Jumala ja aate|Mestari|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Deific Weapon|Champion|CRB|1",
+				"Deific Weapon|Mestari|CRB|1",
 				{
-					"classFeature": "Champion's Reaction|Champion|CRB|1",
+					"classFeature": "Mestari's Reaction|Mestari|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Devotion Spells|Champion|CRB|1",
-				"Champion Feats|Champion|CRB|1",
-				"Shield Block|Champion|CRB|1",
-				"Skill Feats|Champion|CRB|2",
-				"Divine Ally|Champion|CRB|3",
-				"General Feats|Champion|CRB|3",
-				"Skill Increases|Champion|CRB|3",
-				"Ability Boosts|Champion|CRB|5",
-				"Ancestry Feats|Champion|CRB|5",
-				"Weapon Expertise|Champion|CRB|5",
-				"Armor Expertise|Champion|CRB|7",
-				"Weapon Specialization|Champion|CRB|7",
-				"Champion Expertise|Champion|CRB|9",
+				"Devotion Spells|Mestari|CRB|1",
+				"Mestari Feats|Mestari|CRB|1",
+				"Shield Block|Mestari|CRB|1",
+				"Skill Feats|Mestari|CRB|2",
+				"Divine Ally|Mestari|CRB|3",
+				"General Feats|Mestari|CRB|3",
+				"Skill Increases|Mestari|CRB|3",
+				"Ability Boosts|Mestari|CRB|5",
+				"Ancestry Feats|Mestari|CRB|5",
+				"Weapon Expertise|Mestari|CRB|5",
+				"Armor Expertise|Mestari|CRB|7",
+				"Weapon Specialization|Mestari|CRB|7",
+				"Mestari Expertise|Mestari|CRB|9",
 				{
-					"classFeature": "Divine Smite|Champion|CRB|9",
+					"classFeature": "Divine Smite|Mestari|CRB|9",
 					"gainSubclassFeature": true
 				},
-				"Juggernaut|Champion|CRB|9",
+				"Juggernaut|Mestari|CRB|9",
 				"Lightning Reflexes|CRB|9",
-				"Alertness|Champion|CRB|11",
-				"Divine Will|Champion|CRB|11",
+				"Alertness|Mestari|CRB|11",
+				"Divine Will|Mestari|CRB|11",
 				{
-					"classFeature": "Exalt|Champion|CRB|11",
+					"classFeature": "Exalt|Mestari|CRB|11",
 					"gainSubclassFeature": true
 				},
-				"Armor Mastery|Champion|CRB|13",
-				"Weapon Mastery|Champion|CRB|13",
-				"Greater Weapon Specialization|Champion|CRB|15",
-				"Champion Mastery|Champion|CRB|17",
-				"Legendary Armor|Champion|CRB|17",
-				"Hero's Defiance|Champion|CRB|19"
+				"Armor Mastery|Mestari|CRB|13",
+				"Weapon Mastery|Mestari|CRB|13",
+				"Greater Weapon Specialization|Mestari|CRB|15",
+				"Mestari Mastery|Mestari|CRB|17",
+				"Legendary Armor|Mestari|CRB|17",
+				"Hero's Defiance|Mestari|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Paladin",
-					"type": "Deity and Cause",
-					"shortName": "Paladin",
+					"name": "Temppeliritari",
+					"type": "Jumala ja aate",
+					"shortName": "Temppeliritari",
 					"source": "CRB",
 					"page": 106,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Paladin|CRB|1",
-						"Champion's Reaction|Champion|CRB|Paladin|CRB|1",
-						"Divine Smite|Champion|CRB|Paladin|CRB|9",
-						"Exalt|Champion|CRB|Paladin|CRB|11"
+						"Jumala ja aate|Mestari|CRB|Temppeliritari|CRB|1",
+						"Mestari's Reaction|Mestari|CRB|Temppeliritari|CRB|1",
+						"Divine Smite|Mestari|CRB|Temppeliritari|CRB|9",
+						"Exalt|Mestari|CRB|Temppeliritari|CRB|11"
 					]
 				},
 				{
-					"name": "Redeemer",
-					"type": "Deity and Cause",
-					"shortName": "Redeemer",
+					"name": "Armahtaja",
+					"type": "Jumala ja aate",
+					"shortName": "Armahtaja",
 					"source": "CRB",
 					"page": 106,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Redeemer|CRB|1",
-						"Champion's Reaction|Champion|CRB|Redeemer|CRB|1",
-						"Divine Smite|Champion|CRB|Redeemer|CRB|9",
-						"Exalt|Champion|CRB|Redeemer|CRB|11"
+						"Jumala ja aate|Mestari|CRB|Armahtaja|CRB|1",
+						"Mestari's Reaction|Mestari|CRB|Armahtaja|CRB|1",
+						"Divine Smite|Mestari|CRB|Armahtaja|CRB|9",
+						"Exalt|Mestari|CRB|Armahtaja|CRB|11"
 					]
 				},
 				{
-					"name": "Liberator",
-					"type": "Deity and Cause",
-					"shortName": "Liberator",
+					"name": "Vapauttaja",
+					"type": "Jumala ja aate",
+					"shortName": "Vapauttaja",
 					"source": "CRB",
 					"page": 106,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Liberator|CRB|1",
-						"Champion's Reaction|Champion|CRB|Liberator|CRB|1",
-						"Divine Smite|Champion|CRB|Liberator|CRB|9",
-						"Exalt|Champion|CRB|Liberator|CRB|11"
+						"Jumala ja aate|Mestari|CRB|Vapauttaja|CRB|1",
+						"Mestari's Reaction|Mestari|CRB|Vapauttaja|CRB|1",
+						"Divine Smite|Mestari|CRB|Vapauttaja|CRB|9",
+						"Exalt|Mestari|CRB|Vapauttaja|CRB|11"
 					]
 				},
 				{
-					"name": "Tyrant",
-					"type": "Deity and Cause",
-					"shortName": "Tyrant",
+					"name": "Tyranni",
+					"type": "Jumala ja aate",
+					"shortName": "Tyranni",
 					"source": "APG",
 					"page": 116,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Tyrant|APG|1",
-						"Champion's Reaction|Champion|CRB|Tyrant|APG|1",
-						"Divine Smite|Champion|CRB|Tyrant|APG|9",
-						"Exalt|Champion|CRB|Tyrant|APG|11"
+						"Jumala ja aate|Mestari|CRB|Tyranni|APG|1",
+						"Mestari's Reaction|Mestari|CRB|Tyranni|APG|1",
+						"Divine Smite|Mestari|CRB|Tyranni|APG|9",
+						"Exalt|Mestari|CRB|Tyranni|APG|11"
 					]
 				},
 				{
-					"name": "Desecrator",
-					"type": "Deity and Cause",
-					"shortName": "Desecrator",
+					"name": "Häpäisijä",
+					"type": "Jumala ja aate",
+					"shortName": "Häpäisijä",
 					"source": "APG",
 					"page": 116,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Desecrator|APG|1",
-						"Champion's Reaction|Champion|CRB|Desecrator|APG|1",
-						"Divine Smite|Champion|CRB|Desecrator|APG|9",
-						"Exalt|Champion|CRB|Desecrator|APG|11"
+						"Jumala ja aate|Mestari|CRB|Häpäisijä|APG|1",
+						"Mestari's Reaction|Mestari|CRB|Häpäisijä|APG|1",
+						"Divine Smite|Mestari|CRB|Häpäisijä|APG|9",
+						"Exalt|Mestari|CRB|Häpäisijä|APG|11"
 					]
 				},
 				{
-					"name": "Antipaladin",
-					"type": "Deity and Cause",
-					"shortName": "Antipaladin",
+					"name": "Epätemppeliritari",
+					"type": "Jumala ja aate",
+					"shortName": "Epätemppeliritari",
 					"source": "APG",
 					"page": 116,
 					"subclassFeatures": [
-						"Deity and Cause|Champion|CRB|Antipaladin|APG|1",
-						"Champion's Reaction|Champion|CRB|Antipaladin|APG|1",
-						"Divine Smite|Champion|CRB|Antipaladin|APG|9",
-						"Exalt|Champion|CRB|Antipaladin|APG|11"
+						"Jumala ja aate|Mestari|CRB|Epätemppeliritari|APG|1",
+						"Mestari's Reaction|Mestari|CRB|Epätemppeliritari|APG|1",
+						"Divine Smite|Mestari|CRB|Epätemppeliritari|APG|9",
+						"Exalt|Mestari|CRB|Epätemppeliritari|APG|11"
 					]
 				}
 			],
 			"flavor": [
-				"You are an emissary of a deity, a devoted servant who has taken up a weighty mantle, and you adhere to a code that holds you apart from those around you. While champions exist for every alignment, as a champion of good, you provide certainty and hope to the innocent. You have powerful defenses that you share freely with your allies and innocent bystanders, as well as holy power you use to end the threat of evil. Your devotion even attracts the attention of holy spirits who aid you on your journey."
+				"You are an emissary of a deity, a devoted servant who has taken up a weighty mantle, and you adhere to a code that holds you apart from those around you. While champions exist for every alignment, as a Mestari of good, you provide certainty and hope to the innocent. You have powerful defenses that you share freely with your allies and innocent bystanders, as well as holy power you use to end the threat of evil. Your devotion even attracts the attention of holy spirits who aid you on your journey."
 			],
 			"fluff": [
 				{
@@ -301,7 +301,7 @@
 				}
 			],
 			"summary": {
-				"text": "A warrior dedicated to a deity, the champion uses divine power to enhance their abilities and protect allies.",
+				"text": "A warrior dedicated to a deity, the Mestari uses divine power to enhance their abilities and protect allies.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Seelah.png"
 				],
@@ -315,7 +315,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -326,7 +326,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -334,15 +334,15 @@
 			]
 		},
 		{
-			"name": "Champion's Code",
+			"name": "Mestari's Code",
 			"source": "CRB",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"You follow a code of conduct, beginning with tenets shared by all champions of an alignment (such as good), and continuing with tenets of your cause. Deities often add additional strictures (for instance, {@deity Torag}'s champions can't show mercy to enemies of their people, making it almost impossible for them to follow the redeemer cause). Only rules for good champions appear in this book. Tenets are listed in order of importance, starting with the most important. If a situation places two tenets in conflict, you aren't in a no-win situation; instead, follow the more important tenet. For instance, as a paladin, if an evil king asked you if you're hiding refugees so he could execute them, you could lie to him, since the tenet against lying is less important than preventing harm to innocents. Trying to subvert your code by creating a situation that forces a higher tenet to override a lower tenet (for example, promising not to respect authorities and then, to keep your word, disrespecting authorities) is a violation of the champion code.",
-				"If you stray from your alignment or violate your code of conduct, you lose your focus pool and divine ally until you demonstrate your repentance by conducting an atone ritual, but you keep any other champion abilities that don't require those class features. If your alignment shifts but is still one allowed by your deity, your GM might let you retrain your cause while still following the same deity.",
+				"You follow a code of conduct, beginning with tenets shared by all champions of an alignment (such as good), and continuing with tenets of your cause. Deities often add additional strictures (for instance, {@deity Torag}'s champions can't show mercy to enemies of their people, making it almost impossible for them to follow the Armahtaja cause). Only rules for good champions appear in this book. Tenets are listed in order of importance, starting with the most important. If a situation places two tenets in conflict, you aren't in a no-win situation; instead, follow the more important tenet. For instance, as a Temppeliritari, if an evil king asked you if you're hiding refugees so he could execute them, you could lie to him, since the tenet against lying is less important than preventing harm to innocents. Trying to subvert your code by creating a situation that forces a higher tenet to override a lower tenet (for example, promising not to respect authorities and then, to keep your word, disrespecting authorities) is a violation of the Mestari code.",
+				"If you stray from your alignment or violate your code of conduct, you lose your focus pool and divine ally until you demonstrate your repentance by conducting an atone ritual, but you keep any other Mestari abilities that don't require those class features. If your alignment shifts but is still one allowed by your deity, your GM might let you retrain your cause while still following the same deity.",
 				{
 					"type": "pf2-h4",
 					"page": 106,
@@ -376,23 +376,23 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "CRB",
-			"subclasses": "Deity and Cause",
+			"subclasses": "Jumala ja aate",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
 				"Champions are divine servants of a deity. Choose a {@filter deity|deities} to follow; your alignment must be one allowed for followers of your deity. Actions fundamentally opposed to your deity's ideals or alignment are anathema to your faith. A few examples of acts that would be considered anathema appear in each deity's entry. You and your GM determine whether other acts are anathema.",
-				"You have one of the following causes. Your cause must match your alignment exactly. Your cause determines your champion's reaction, grants you a devotion spell, and defines part of your champion's code."
+				"You have one of the following causes. Your cause must match your alignment exactly. Your cause determines your Mestari's reaction, grants you a devotion spell, and defines part of your Mestari's code."
 			]
 		},
 		{
 			"name": "Deific Weapon",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -400,11 +400,11 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "CRB",
-			"subclasses": "Champion's Reaction",
+			"subclasses": "Mestari's Reaction",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -415,7 +415,7 @@
 			"name": "Devotion Spells",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -424,21 +424,21 @@
 			]
 		},
 		{
-			"name": "Champion Feats",
+			"name": "Mestari Feats",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level thereafter, you gain a {@filter champion class feat||feats|type=class|Class=champion|level=[1;1]}."
+				"At 1st level and every even-numbered level thereafter, you gain a {@filter Mestari class feat||feats|type=class|Class=Mestari|level=[1;1]}."
 			]
 		},
 		{
 			"name": "Shield Block",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -449,7 +449,7 @@
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -460,7 +460,7 @@
 			"name": "Divine Ally",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -476,7 +476,7 @@
 							"type": "item",
 							"name": "Blade Ally",
 							"entries": [
-								"A spirit of battle dwells within your armaments. Select one weapon or {@item handwraps of mighty blows (generic)|CRB|handwraps of mighty blows} when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a champion following the tenets of good, choose {@item disrupting}, {@item ghost touch}, {@item returning}, or {@item shifting}. For a champion following the tenets of evil, choose {@item fearsome|APG}, {@item returning}, or {@item shifting}."
+								"A spirit of battle dwells within your armaments. Select one weapon or {@item handwraps of mighty blows (generic)|CRB|handwraps of mighty blows} when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a Mestari following the tenets of good, choose {@item disrupting}, {@item ghost touch}, {@item returning}, or {@item shifting}. For a Mestari following the tenets of evil, choose {@item fearsome|APG}, {@item returning}, or {@item shifting}."
 							]
 						},
 						{
@@ -501,7 +501,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -512,7 +512,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -524,7 +524,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -535,7 +535,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -546,7 +546,7 @@
 			"name": "Weapon Expertise",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -557,7 +557,7 @@
 			"name": "Armor Expertise",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -568,7 +568,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -576,14 +576,14 @@
 			]
 		},
 		{
-			"name": "Champion Expertise",
+			"name": "Mestari Expertise",
 			"source": "CRB",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
-				"Prayers strengthen your divine power. Your proficiency ranks for your champion class DC and divine spell attack rolls and DCs increase to expert."
+				"Prayers strengthen your divine power. Your proficiency ranks for your Mestari class DC and divine spell attack rolls and DCs increase to expert."
 			]
 		},
 		{
@@ -591,18 +591,18 @@
 			"source": "CRB",
 			"subclasses": "Divine Smite",
 			"page": 108,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
-				"Your champion's reaction improves."
+				"Your Mestari's reaction improves."
 			]
 		},
 		{
 			"name": "Juggernaut",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -613,7 +613,7 @@
 			"name": "Lightning Reflexes",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -624,7 +624,7 @@
 			"name": "Alertness",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -635,7 +635,7 @@
 			"name": "Divine Will",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -646,18 +646,18 @@
 			"name": "Exalt",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
-				"Your champion's reaction exalts nearby allies, allowing them to benefit as well."
+				"Your Mestari's reaction exalts nearby allies, allowing them to benefit as well."
 			]
 		},
 		{
 			"name": "Armor Mastery",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -668,7 +668,7 @@
 			"name": "Weapon Mastery",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -679,7 +679,7 @@
 			"name": "Greater Weapon Specialization",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -687,21 +687,21 @@
 			]
 		},
 		{
-			"name": "Champion Mastery",
+			"name": "Mestari Mastery",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
-				"You've mastered your arsenal of champion techniques and divine spells. Your proficiency ranks for your champion class DC and for divine spell attack rolls and spell DCs increase to master."
+				"You've mastered your arsenal of Mestari techniques and divine spells. Your proficiency ranks for your Mestari class DC and for divine spell attack rolls and spell DCs increase to master."
 			]
 		},
 		{
 			"name": "Legendary Armor",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -712,7 +712,7 @@
 			"name": "Hero's Defiance",
 			"source": "CRB",
 			"page": 109,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
@@ -722,12 +722,12 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "CRB",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Paladin",
+			"subclassShortName": "Temppeliritari",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -735,9 +735,9 @@
 					"type": "pf2-h4",
 					"page": 106,
 					"source": "CRB",
-					"name": "Paladin ({@filter Lawful Good|deities||Follower Alignment=LG})",
+					"name": "Temppeliritari ({@filter Lawful Good|deities||Follower Alignment=LG})",
 					"entries": [
-						"You're honorable, forthright, and committed to pushing back the forces of cruelty. You gain the {@action Retributive Strike} champion's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these tenets",
+						"You're honorable, forthright, and committed to pushing back the forces of cruelty. You gain the {@action Retributive Strike} Mestari's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these tenets",
 						{
 							"type": "list",
 							"items": [
@@ -750,12 +750,12 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "CRB",
 			"page": 106,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Redeemer",
+			"subclassShortName": "Armahtaja",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -763,9 +763,9 @@
 					"type": "pf2-h4",
 					"page": 106,
 					"source": "CRB",
-					"name": "Redeemer ({@filter Neutral Good|deities||Follower Alignment=NG})",
+					"name": "Armahtaja ({@filter Neutral Good|deities||Follower Alignment=NG})",
 					"entries": [
-						"You're full of kindness and forgiveness. You gain the {@action Glimpse of Redemption} champion's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these",
+						"You're full of kindness and forgiveness. You gain the {@action Glimpse of Redemption} Mestari's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these",
 						{
 							"type": "list",
 							"items": [
@@ -778,12 +778,12 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Liberator",
+			"subclassShortName": "Vapauttaja",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -791,9 +791,9 @@
 					"type": "pf2-h4",
 					"page": 107,
 					"source": "CRB",
-					"name": "Liberator ({@filter Chaotic Good|deities||Follower Alignment=CG})",
+					"name": "Vapauttaja ({@filter Chaotic Good|deities||Follower Alignment=CG})",
 					"entries": [
-						"You're committed to defending the freedom of others. You gain the {@action Liberating Step} champion's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these tenets",
+						"You're committed to defending the freedom of others. You gain the {@action Liberating Step} Mestari's reaction and the {@spell lay on hands} devotion spell. After the tenets of good, add these tenets",
 						{
 							"type": "list",
 							"items": [
@@ -806,12 +806,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Paladin",
+			"subclassShortName": "Temppeliritari",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -824,12 +824,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Redeemer",
+			"subclassShortName": "Armahtaja",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -842,12 +842,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Liberator",
+			"subclassShortName": "Vapauttaja",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -863,9 +863,9 @@
 			"name": "Divine Smite",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Paladin",
+			"subclassShortName": "Temppeliritari",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -876,7 +876,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Paladin",
+							"name": "Temppeliritari",
 							"entries": [
 								"You surround evil targets in a punishing halo. If you hit with your {@action Retributive Strike}, the target takes {@condition persistent damage||persistent good damage} equal to your Charisma modifier."
 							]
@@ -889,9 +889,9 @@
 			"name": "Divine Smite",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Redeemer",
+			"subclassShortName": "Armahtaja",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -902,7 +902,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Redeemer",
+							"name": "Armahtaja",
 							"entries": [
 								"A guilty conscience assails foes who spurn your {@action Glimpse of Redemption}. A foe that responds to your {@action Glimpse of Redemption} by dealing damage takes {@condition persistent damage||persistent good damage} equal to your Charisma modifier."
 							]
@@ -915,9 +915,9 @@
 			"name": "Divine Smite",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Liberator",
+			"subclassShortName": "Vapauttaja",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -928,7 +928,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Liberator",
+							"name": "Vapauttaja",
 							"entries": [
 								"You punish those who ensnare your allies in bondage. If the triggering enemy was using any effects to make your ally {@condition grabbed}, {@condition restrained}, {@condition immobilized}, or paralyzed when you used {@action Liberating Step}, that enemy takes {@condition persistent damage||persistent good damage} equal to your Charisma modifier."
 							]
@@ -941,9 +941,9 @@
 			"name": "Exalt",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Liberator",
+			"subclassShortName": "Vapauttaja",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -954,7 +954,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Liberator",
+							"name": "Vapauttaja",
 							"entries": [
 								"You can help your whole group get into position. When you use {@action Liberating Step}, if your ally doesn't attempt to break free of an effect, you and all allies within 15 feet can Step, in addition to the triggering ally."
 							]
@@ -967,9 +967,9 @@
 			"name": "Exalt",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Redeemer",
+			"subclassShortName": "Armahtaja",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -980,7 +980,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Redeemer",
+							"name": "Armahtaja",
 							"entries": [
 								"You protect multiple allies. You can apply the resistance granted by {@action Glimpse of Redemption} to yourself and all allies within 15 feet of you, including the triggering ally, except the resistance is reduced by 2 for all."
 							]
@@ -993,9 +993,9 @@
 			"name": "Exalt",
 			"source": "CRB",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Paladin",
+			"subclassShortName": "Temppeliritari",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -1006,7 +1006,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Paladin",
+							"name": "Temppeliritari",
 							"entries": [
 								"When you use {@action Retributive Strike}, each ally within 15 feet of you with the target in their melee reach can spend a reaction to Strike the target with a \u20135 penalty."
 							]
@@ -1016,12 +1016,12 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Tyrant",
+			"subclassShortName": "Tyranni",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1029,9 +1029,9 @@
 					"type": "pf2-h4",
 					"page": 116,
 					"source": "APG",
-					"name": "Tyrant ({@filter Lawful Evil|deities||Follower Alignment=LE})",
+					"name": "Tyranni ({@filter Lawful Evil|deities||Follower Alignment=LE})",
 					"entries": [
-						"Might makes right, and you subjugate the weak to keep them in their proper place. You gain the {@action Iron Command|APG} champion's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add these tenets.",
+						"Might makes right, and you subjugate the weak to keep them in their proper place. You gain the {@action Iron Command|APG} Mestari's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add these tenets.",
 						{
 							"type": "list",
 							"items": [
@@ -1045,12 +1045,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Tyrant",
+			"subclassShortName": "Tyranni",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1066,9 +1066,9 @@
 			"name": "Divine Smite",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Tyrant",
+			"subclassShortName": "Tyranni",
 			"subclassSource": "APG",
 			"level": 9,
 			"entries": [
@@ -1079,7 +1079,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Tyrant",
+							"name": "Tyranni",
 							"entries": [
 								"The regrets of disobedience linger. If an enemy refuses your {@action Iron Command|APG}, it takes {@condition persistent damage||persistent evil damage} equal to your Charisma modifier."
 							]
@@ -1092,9 +1092,9 @@
 			"name": "Exalt",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Tyrant",
+			"subclassShortName": "Tyranni",
 			"subclassSource": "APG",
 			"level": 11,
 			"entries": [
@@ -1105,7 +1105,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Tyrant",
+							"name": "Tyranni",
 							"entries": [
 								"When you use {@action Iron Command|APG}, each enemy within 15 feet of you other than the triggering creature must also either {@action Drop Prone} or take mental damage (the enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into {@condition persistent damage||persistent mental damage} for creatures other than the triggering creature."
 							]
@@ -1115,12 +1115,12 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Desecrator",
+			"subclassShortName": "Häpäisijä",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1128,9 +1128,9 @@
 					"type": "pf2-h4",
 					"page": 116,
 					"source": "APG",
-					"name": "Desecrator ({@filter Neutral Evil|deities||Follower Alignment=NE})",
+					"name": "Häpäisijä ({@filter Neutral Evil|deities||Follower Alignment=NE})",
 					"entries": [
-						"You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the {@action Selfish Shield|APG} champion's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add this tenet.",
+						"You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the {@action Selfish Shield|APG} Mestari's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add this tenet.",
 						{
 							"type": "list",
 							"items": [
@@ -1142,12 +1142,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Desecrator",
+			"subclassShortName": "Häpäisijä",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1163,9 +1163,9 @@
 			"name": "Divine Smite",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Desecrator",
+			"subclassShortName": "Häpäisijä",
 			"subclassSource": "APG",
 			"level": 9,
 			"entries": [
@@ -1176,7 +1176,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Desecrator",
+							"name": "Häpäisijä",
 							"entries": [
 								"If your Charisma modifier is +2 or greater, your resistance against the triggering damage equals your Charisma modifier + half your level."
 							]
@@ -1189,9 +1189,9 @@
 			"name": "Exalt",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Desecrator",
+			"subclassShortName": "Häpäisijä",
 			"subclassSource": "APG",
 			"level": 11,
 			"entries": [
@@ -1202,7 +1202,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Desecrator",
+							"name": "Häpäisijä",
 							"entries": [
 								"When you use {@action Selfish Shield|APG}, each enemy within 15 feet of you takes a \u20131 status penalty to attack rolls against you until the start of your next turn."
 							]
@@ -1212,12 +1212,12 @@
 			]
 		},
 		{
-			"name": "Deity and Cause",
+			"name": "Jumala ja aate",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Antipaladin",
+			"subclassShortName": "Epätemppeliritari",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1225,13 +1225,13 @@
 					"type": "pf2-h4",
 					"page": 116,
 					"source": "APG",
-					"name": "Antipaladin ({@filter Chaotic Evil|deities||Follower Alignment=CE})",
+					"name": "Epätemppeliritari ({@filter Chaotic Evil|deities||Follower Alignment=CE})",
 					"entries": [
-						"You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the {@action Destructive Vengeance|APG} champion's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add these tenets.",
+						"You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the {@action Destructive Vengeance|APG} Mestari's reaction and the {@spell touch of corruption|APG} devotion spell. After the tenets of evil, add these tenets.",
 						{
 							"type": "list",
 							"items": [
-								"You must not bind yourself with any law or oath beyond that of your code (though you can still select a champion feat with the oath trait). Act dishonorably, take advantage of others, lie, cheat, and steal to get what you want.",
+								"You must not bind yourself with any law or oath beyond that of your code (though you can still select a Mestari feat with the oath trait). Act dishonorably, take advantage of others, lie, cheat, and steal to get what you want.",
 								"You must destroy that which offends you and that which stands in your way, including\u2014and perhaps especially\u2014the forces of good and law that oppose you. This tenet doesn't force you to take action immediately if it could mean your destruction, nor does it require you to destroy something that might be useful if corrupted toward your ends."
 							]
 						}
@@ -1240,12 +1240,12 @@
 			]
 		},
 		{
-			"name": "Champion's Reaction",
+			"name": "Mestari's Reaction",
 			"source": "APG",
 			"page": 116,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Antipaladin",
+			"subclassShortName": "Epätemppeliritari",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
@@ -1261,9 +1261,9 @@
 			"name": "Divine Smite",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Antipaladin",
+			"subclassShortName": "Epätemppeliritari",
 			"subclassSource": "APG",
 			"level": 9,
 			"entries": [
@@ -1274,7 +1274,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Antipaladin",
+							"name": "Epätemppeliritari",
 							"entries": [
 								"An enemy damaged by the initial damage from your {@action Destructive Vengeance|APG} also takes {@condition persistent damage||persistent evil damage} equal to your Charisma modifier. This applies only to the damage the reaction itself deals to the triggering creature, not the damage you deal with subsequent {@action Strike||Strikes}."
 							]
@@ -1287,9 +1287,9 @@
 			"name": "Exalt",
 			"source": "APG",
 			"page": 107,
-			"className": "Champion",
+			"className": "Mestari",
 			"classSource": "CRB",
-			"subclassShortName": "Antipaladin",
+			"subclassShortName": "Epätemppeliritari",
 			"subclassSource": "APG",
 			"level": 11,
 			"entries": [
@@ -1300,7 +1300,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Antipaladin",
+							"name": "Epätemppeliritari",
 							"entries": [
 								"When you use {@action Destructive Vengeance|APG}, each enemy within 15 feet of you other than the triggering creature takes half the damage you deal to the triggering enemy, of the same damage type you chose."
 							]

@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Monk",
+			"name": "Munkki",
 			"source": "CRB",
 			"page": 155,
 			"keyAbility": "Strength or Dexterity",
@@ -30,7 +30,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in monk class DC"
+					"entry": "Trained in Munkki class DC"
 				}
 			},
 			"advancement": {
@@ -91,32 +91,32 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Monk|CRB|1",
-				"Initial Proficiencies|Monk|CRB|1",
-				"Flurry of Blows|Monk|CRB|1",
-				"Monk Feats|Monk|CRB|1",
-				"Powerful Fist|Monk|CRB|1",
-				"Skill Feats|Monk|CRB|2",
-				"General Feats|Monk|CRB|3",
-				"Incredible Movement|Monk|CRB|3",
-				"Mystic Strikes|Monk|CRB|3",
-				"Skill Increases|Monk|CRB|3",
-				"Ability Boosts|Monk|CRB|5",
-				"Alertness|Monk|CRB|5",
-				"Ancestry Feats|Monk|CRB|5",
-				"Expert Strikes|Monk|CRB|5",
-				"Path to Perfection|Monk|CRB|7",
-				"Weapon Specialization|Monk|CRB|7",
-				"Metal Strikes|Monk|CRB|9",
-				"Monk Expertise|Monk|CRB|9",
-				"Second Path to Perfection|Monk|CRB|11",
-				"Graceful Mastery|Monk|CRB|13",
-				"Master Strikes|Monk|CRB|13",
-				"Greater Weapon Specialization|Monk|CRB|15",
-				"Third Path to Perfection|Monk|CRB|15",
-				"Adamantine Strikes|Monk|CRB|17",
-				"Graceful Legend|Monk|CRB|17",
-				"Perfected Form|Monk|CRB|19"
+				"Ancestry and Background|Munkki|CRB|1",
+				"Initial Proficiencies|Munkki|CRB|1",
+				"Flurry of Blows|Munkki|CRB|1",
+				"Munkki Feats|Munkki|CRB|1",
+				"Powerful Fist|Munkki|CRB|1",
+				"Skill Feats|Munkki|CRB|2",
+				"General Feats|Munkki|CRB|3",
+				"Incredible Movement|Munkki|CRB|3",
+				"Mystic Strikes|Munkki|CRB|3",
+				"Skill Increases|Munkki|CRB|3",
+				"Ability Boosts|Munkki|CRB|5",
+				"Alertness|Munkki|CRB|5",
+				"Ancestry Feats|Munkki|CRB|5",
+				"Expert Strikes|Munkki|CRB|5",
+				"Path to Perfection|Munkki|CRB|7",
+				"Weapon Specialization|Munkki|CRB|7",
+				"Metal Strikes|Munkki|CRB|9",
+				"Munkki Expertise|Munkki|CRB|9",
+				"Second Path to Perfection|Munkki|CRB|11",
+				"Graceful Mastery|Munkki|CRB|13",
+				"Master Strikes|Munkki|CRB|13",
+				"Greater Weapon Specialization|Munkki|CRB|15",
+				"Third Path to Perfection|Munkki|CRB|15",
+				"Adamantine Strikes|Munkki|CRB|17",
+				"Graceful Legend|Munkki|CRB|17",
+				"Perfected Form|Munkki|CRB|19"
 			],
 			"subclasses": [],
 			"flavor": [
@@ -187,7 +187,7 @@
 				}
 			],
 			"summary": {
-				"text": "The monk wields the secrets of martial arts in dazzling displays of battlefield prowess.",
+				"text": "The Munkki wields the secrets of martial arts in dazzling displays of battlefield prowess.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Sajan.png"
 				],
@@ -201,7 +201,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -212,7 +212,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -223,7 +223,7 @@
 			"name": "Flurry of Blows",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -237,21 +237,21 @@
 			]
 		},
 		{
-			"name": "Monk Feats",
+			"name": "Munkki Feats",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level thereafter, you gain a {@filter monk class feat|feats||type=class|Class=monk|level=[1;1]}."
+				"At 1st level and every even-numbered level thereafter, you gain a {@filter Munkki class feat|feats||type=class|Class=Munkki|level=[1;1]}."
 			]
 		},
 		{
 			"name": "Powerful Fist",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -262,7 +262,7 @@
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -273,7 +273,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -284,7 +284,7 @@
 			"name": "Incredible Movement",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -295,7 +295,7 @@
 			"name": "Mystic Strikes",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -306,7 +306,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -318,7 +318,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 156,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -329,7 +329,7 @@
 			"name": "Alertness",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -340,7 +340,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -351,7 +351,7 @@
 			"name": "Expert Strikes",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -362,7 +362,7 @@
 			"name": "Path to Perfection",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -373,7 +373,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -384,7 +384,7 @@
 			"name": "Metal Strikes",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -392,21 +392,21 @@
 			]
 		},
 		{
-			"name": "Monk Expertise",
+			"name": "Munkki Expertise",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
-				"Your proficiency rank for your monk class DC increases to expert. If you have ki spells, your proficiency rank for spell attacks and spell DCs with the tradition of magic you use for your ki spells increases to expert."
+				"Your proficiency rank for your Munkki class DC increases to expert. If you have ki spells, your proficiency rank for spell attacks and spell DCs with the tradition of magic you use for your ki spells increases to expert."
 			]
 		},
 		{
 			"name": "Second Path to Perfection",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -417,7 +417,7 @@
 			"name": "Graceful Mastery",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -428,7 +428,7 @@
 			"name": "Master Strikes",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -439,7 +439,7 @@
 			"name": "Greater Weapon Specialization",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -450,7 +450,7 @@
 			"name": "Third Path to Perfection",
 			"source": "CRB",
 			"page": 157,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -461,7 +461,7 @@
 			"name": "Adamantine Strikes",
 			"source": "CRB",
 			"page": 158,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -472,18 +472,18 @@
 			"name": "Graceful Legend",
 			"source": "CRB",
 			"page": 158,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
-				"Your sublime movement grants you unparalleled protection and offense. Your proficiency rank for unarmored defense increases to legendary, and your proficiency rank for your monk class DC increases to master. If you have ki spells, your proficiency rank for spell attack rolls and spell DCs with the tradition of magic you use for your ki spells increases to master."
+				"Your sublime movement grants you unparalleled protection and offense. Your proficiency rank for unarmored defense increases to legendary, and your proficiency rank for your Munkki class DC increases to master. If you have ki spells, your proficiency rank for spell attack rolls and spell DCs with the tradition of magic you use for your ki spells increases to master."
 			]
 		},
 		{
 			"name": "Perfected Form",
 			"source": "CRB",
 			"page": 158,
-			"className": "Monk",
+			"className": "Munkki",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [

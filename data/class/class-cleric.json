@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Cleric",
+			"name": "Pappi",
 			"source": "CRB",
 			"page": 117,
 			"keyAbility": "Wisdom",
@@ -36,7 +36,7 @@
 				},
 				"defenses": {
 					"u": [
-						"all armor, though your doctrine might alter this"
+						"all armor, though your Oppi might alter this"
 					],
 					"t": [
 						"unarmored defense"
@@ -107,83 +107,83 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Cleric|CRB|1",
-				"Initial Proficiencies|Cleric|CRB|1",
-				"Deity|Cleric|CRB|1",
-				"Divine Spellcasting|Cleric|CRB|1",
-				"Divine Font|Cleric|CRB|1",
+				"Ancestry and Background|Pappi|CRB|1",
+				"Initial Proficiencies|Pappi|CRB|1",
+				"Deity|Pappi|CRB|1",
+				"Divine Spellcasting|Pappi|CRB|1",
+				"Divine Font|Pappi|CRB|1",
 				{
-					"classFeature": "Doctrine|Cleric|CRB|1",
+					"classFeature": "Oppi|Pappi|CRB|1",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "First Doctrine|Cleric|CRB|1",
+					"classFeature": "First Oppi|Pappi|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Cleric Feats|Cleric|CRB|2",
-				"Skill Feats|Cleric|CRB|2",
+				"Pappi Feats|Pappi|CRB|2",
+				"Skill Feats|Pappi|CRB|2",
 				{
-					"classFeature": "Second Doctrine|Cleric|CRB|3",
+					"classFeature": "Second Oppi|Pappi|CRB|3",
 					"gainSubclassFeature": true
 				},
-				"General Feats|Cleric|CRB|3",
-				"Skill Increases|Cleric|CRB|3",
-				"Ability Boosts|Cleric|CRB|5",
-				"Alertness|Cleric|CRB|5",
-				"Ancestry Feats|Cleric|CRB|5",
+				"General Feats|Pappi|CRB|3",
+				"Skill Increases|Pappi|CRB|3",
+				"Ability Boosts|Pappi|CRB|5",
+				"Alertness|Pappi|CRB|5",
+				"Ancestry Feats|Pappi|CRB|5",
 				{
-					"classFeature": "Third Doctrine|Cleric|CRB|7",
+					"classFeature": "Third Oppi|Pappi|CRB|7",
 					"gainSubclassFeature": true
 				},
-				"Resolve|Cleric|CRB|9",
+				"Resolve|Pappi|CRB|9",
 				{
-					"classFeature": "Fourth Doctrine|Cleric|CRB|11",
+					"classFeature": "Fourth Oppi|Pappi|CRB|11",
 					"gainSubclassFeature": true
 				},
-				"Lightning Reflexes|Cleric|CRB|11",
-				"Divine Defense|Cleric|CRB|13",
-				"Weapon Specialization|Cleric|CRB|13",
+				"Lightning Reflexes|Pappi|CRB|11",
+				"Divine Defense|Pappi|CRB|13",
+				"Weapon Specialization|Pappi|CRB|13",
 				{
-					"classFeature": "Fifth Doctrine|Cleric|CRB|15",
+					"classFeature": "Fifth Oppi|Pappi|CRB|15",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Final Doctrine|Cleric|CRB|19",
+					"classFeature": "Final Oppi|Pappi|CRB|19",
 					"gainSubclassFeature": true
 				},
-				"Miraculous Spell|Cleric|CRB|19"
+				"Miraculous Spell|Pappi|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Cloistered Cleric",
-					"type": "Doctrine",
-					"shortName": "Cloistered",
+					"name": "Eristäytynyt Pappi",
+					"type": "Oppi",
+					"shortName": "Eristäytynyt",
 					"source": "CRB",
 					"page": 119,
 					"subclassFeatures": [
-						"Doctrine|Cleric|CRB|Cloistered|CRB|1",
-						"First Doctrine|Cleric|CRB|Cloistered|CRB|1",
-						"Second Doctrine|Cleric|CRB|Cloistered|CRB|3",
-						"Third Doctrine|Cleric|CRB|Cloistered|CRB|7",
-						"Fourth Doctrine|Cleric|CRB|Cloistered|CRB|11",
-						"Fifth Doctrine|Cleric|CRB|Cloistered|CRB|15",
-						"Final Doctrine|Cleric|CRB|Cloistered|CRB|19"
+						"Oppi|Pappi|CRB|Eristäytynyt|CRB|1",
+						"First Oppi|Pappi|CRB|Eristäytynyt|CRB|1",
+						"Second Oppi|Pappi|CRB|Eristäytynyt|CRB|3",
+						"Third Oppi|Pappi|CRB|Eristäytynyt|CRB|7",
+						"Fourth Oppi|Pappi|CRB|Eristäytynyt|CRB|11",
+						"Fifth Oppi|Pappi|CRB|Eristäytynyt|CRB|15",
+						"Final Oppi|Pappi|CRB|Eristäytynyt|CRB|19"
 					]
 				},
 				{
-					"name": "Warpriest",
-					"type": "Doctrine",
-					"shortName": "Warpriest",
+					"name": "Kenttäpappi",
+					"type": "Oppi",
+					"shortName": "Kenttäpappi",
 					"source": "CRB",
 					"page": 120,
 					"subclassFeatures": [
-						"Doctrine|Cleric|CRB|Warpriest|CRB|1",
-						"First Doctrine|Cleric|CRB|Warpriest|CRB|1",
-						"Second Doctrine|Cleric|CRB|Warpriest|CRB|3",
-						"Third Doctrine|Cleric|CRB|Warpriest|CRB|7",
-						"Fourth Doctrine|Cleric|CRB|Warpriest|CRB|11",
-						"Fifth Doctrine|Cleric|CRB|Warpriest|CRB|15",
-						"Final Doctrine|Cleric|CRB|Warpriest|CRB|19"
+						"Oppi|Pappi|CRB|Kenttäpappi|CRB|1",
+						"First Oppi|Pappi|CRB|Kenttäpappi|CRB|1",
+						"Second Oppi|Pappi|CRB|Kenttäpappi|CRB|3",
+						"Third Oppi|Pappi|CRB|Kenttäpappi|CRB|7",
+						"Fourth Oppi|Pappi|CRB|Kenttäpappi|CRB|11",
+						"Fifth Oppi|Pappi|CRB|Kenttäpappi|CRB|15",
+						"Final Oppi|Pappi|CRB|Kenttäpappi|CRB|19"
 					]
 				}
 			],
@@ -195,7 +195,7 @@
 					"type": "pf2-h3",
 					"name": "During Combat Encounters...",
 					"entries": [
-						"If you're a warpriest, you balance between casting spells and attacking with weapons\u2014typically the favored weapon of your deity. If you're a cloistered cleric, you primarily cast spells. Most of your spells can boost, protect, or heal your allies. Depending on your deity, you get extra spells to heal your allies or harm your enemies."
+						"If you're a Kenttäpappi, you balance between casting spells and attacking with weapons\u2014typically the favored weapon of your deity. If you're a Eristäytynyt Pappi, you primarily cast spells. Most of your spells can boost, protect, or heal your allies. Depending on your deity, you get extra spells to heal your allies or harm your enemies."
 					]
 				},
 				{
@@ -254,7 +254,7 @@
 				}
 			],
 			"summary": {
-				"text": "The cleric calls on the power of a deity to cast spells that can heal allies or harm foes.",
+				"text": "The Pappi calls on the power of a deity to cast spells that can heal allies or harm foes.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Kyra.png"
 				],
@@ -268,7 +268,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 118,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -279,7 +279,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 118,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -287,55 +287,55 @@
 			]
 		},
 		{
-			"name": "First Doctrine",
+			"name": "First Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": []
 		},
 		{
-			"name": "Second Doctrine",
+			"name": "Second Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": []
 		},
 		{
-			"name": "Final Doctrine",
+			"name": "Final Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": []
 		},
 		{
-			"name": "Fifth Doctrine",
+			"name": "Fifth Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": []
 		},
 		{
-			"name": "Fourth Doctrine",
+			"name": "Fourth Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": []
 		},
 		{
-			"name": "Third Doctrine",
+			"name": "Third Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": []
@@ -344,19 +344,19 @@
 			"name": "Deity",
 			"source": "CRB",
 			"page": 118,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"As a cleric, you are a mortal servitor of a {@pf2etools deity|deities.html} you revere above all others. The most common deities in Pathfinder are found here, along with their alignments, areas of concern, and the benefits you get for being a cleric of that deity. Your alignment must be one allowed by your deity, as listed in their entry. Your deity grants you the trained proficiency rank in one skill and with the deity's favored weapon. If the favored weapon is uncommon, you also get access to that weapon.",
-				"Your deity also adds spells to your spell list. You can prepare these just like you can any spell on the {@filter divine spell list|spells||tradition & spell list=divine}, once you can prepare spells of their level as a cleric. Some of these spells aren't normally on the divine list, but they're divine spells if you prepare them this way.",
+				"As a Pappi, you are a mortal servitor of a {@pf2etools deity|deities.html} you revere above all others. The most common deities in Pathfinder are found here, along with their alignments, areas of concern, and the benefits you get for being a Pappi of that deity. Your alignment must be one allowed by your deity, as listed in their entry. Your deity grants you the trained proficiency rank in one skill and with the deity's favored weapon. If the favored weapon is uncommon, you also get access to that weapon.",
+				"Your deity also adds spells to your spell list. You can prepare these just like you can any spell on the {@filter divine spell list|spells||tradition & spell list=divine}, once you can prepare spells of their level as a Pappi. Some of these spells aren't normally on the divine list, but they're divine spells if you prepare them this way.",
 				{
 					"type": "pf2-h4",
 					"page": 72,
 					"name": "Anathema",
 					"entries": [
 						"Acts fundamentally opposed to your deity's alignment or ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.",
-						"Casting spells with the evil trait is almost always anathema to good deities, and casting good spells is likewise anathema to evil deities; similarly, casting chaotic spells is anathema to lawful deities, and casting lawful spells is anathema to chaotic deities. A neutral cleric who worships a neutral deity isn't limited this way, but their alignment might change over time if they frequently cast spells or use abilities with a certain alignment. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to {@deity Pharasma}, the goddess of death. For borderline cases, you and your GM determine which acts are anathema.",
+						"Casting spells with the evil trait is almost always anathema to good deities, and casting good spells is likewise anathema to evil deities; similarly, casting chaotic spells is anathema to lawful deities, and casting lawful spells is anathema to chaotic deities. A neutral Pappi who worships a neutral deity isn't limited this way, but their alignment might change over time if they frequently cast spells or use abilities with a certain alignment. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to {@deity Pharasma}, the goddess of death. For borderline cases, you and your GM determine which acts are anathema.",
 						"If you perform enough acts that are anathema to your deity, or if your alignment changes to one not allowed by your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all divine spellcasting. These abilities can be regained only if you demonstrate your repentance by conducting an atone ritual."
 					]
 				}
@@ -366,13 +366,13 @@
 			"name": "Divine Spellcasting",
 			"source": "CRB",
 			"page": 118,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Your deity bestows on you the power to cast divine spells. You can cast divine spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a cleric, you can usually hold a divine focus (such as a {@item religious symbol (generic)||religious symbol}) for spells requiring material components instead of needing to use a {@item material component pouch}.",
+				"Your deity bestows on you the power to cast divine spells. You can cast divine spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a Pappi, you can usually hold a divine focus (such as a {@item religious symbol (generic)||religious symbol}) for spells requiring material components instead of needing to use a {@item material component pouch}.",
 				"At 1st level, you can prepare two {@filter 1st-level spells|spells||spell type=spell|tradition & spell list=divine|rarity=common|level=1} and five {@filter cantrips|spells||spell type=cantrip|tradition & spell list=divine|rarity=common} each morning from the common spells on the {@filter divine spell list|spells||tradition & spell list=divine|rarity=common} or from other divine spells to which you gain access via {@action Learn a Spell}. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.",
-				"As you increase in level as a cleric, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3\u20139: Cleric Spells per Day on page 120.",
+				"As you increase in level as a Pappi, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3\u20139: Pappi Spells per Day on page 120.",
 				"Some of your spells require you to attempt a spell attack roll to see how effective they are, or your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key ability is Wisdom, your spell attack rolls and spell DCs use your Wisdom modifier. Details on calculating these statistics appear in Spell Attack Rolls.",
 				{
 					"type": "pf2-h4",
@@ -387,7 +387,7 @@
 					"page": 119,
 					"name": "Cantrips",
 					"entries": [
-						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of cleric spell slot you have. For example, as a 1st-level cleric, your cantrips are 1st-level spells, and as a 5th-level cleric, your cantrips are 3rd-level spells."
+						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of Pappi spell slot you have. For example, as a 1st-level Pappi, your cantrips are 1st-level spells, and as a 5th-level Pappi, your cantrips are 3rd-level spells."
 					]
 				},
 				{
@@ -396,7 +396,7 @@
 						0,
 						1
 					],
-					"name": "Cleric Spells per Day",
+					"name": "Pappi Spells per Day",
 					"id": "3-9",
 					"spans": [
 						[
@@ -746,7 +746,7 @@
 			"name": "Divine Font",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -760,14 +760,14 @@
 							"type": "item",
 							"name": "Healing Font",
 							"entries": [
-								"You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only {@spell heal} spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier."
+								"You gain additional spell slots each day at your highest level of Pappi spell slots. You can prepare only {@spell heal} spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Harmful Font",
 							"entries": [
-								"You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only {@spell harm} spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier."
+								"You gain additional spell slots each day at your highest level of Pappi spell slots. You can prepare only {@spell harm} spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier."
 							]
 						}
 					]
@@ -775,33 +775,33 @@
 			]
 		},
 		{
-			"name": "Doctrine",
+			"name": "Oppi",
 			"source": "CRB",
-			"subclasses": "Doctrine",
+			"subclasses": "Oppi",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Even among followers of the same deity, there are numerous doctrines and beliefs, which sometimes vary wildly between clerics. At 1st level, you select a doctrine and gain the benefits of its first doctrine. The doctrines presented in this book are {@class cleric||cloistered cleric|cloistered} and {@class cleric||warpriest|warpriest}. Each doctrine grants you initial benefits at 1st level. At 3rd, 7th, 11th, 15th, and 19th levels, you gain the benefits granted by your doctrine's second, third, fourth, fifth, and final doctrines respectively."
+				"Even among followers of the same deity, there are numerous doctrines and beliefs, which sometimes vary wildly between clerics. At 1st level, you select a Oppi and gain the benefits of its first Oppi. The doctrines presented in this book are {@class Pappi||Eristäytynyt Pappi|Eristäytynyt} and {@class Pappi||Kenttäpappi|Kenttäpappi}. Each Oppi grants you initial benefits at 1st level. At 3rd, 7th, 11th, 15th, and 19th levels, you gain the benefits granted by your Oppi's second, third, fourth, fifth, and final doctrines respectively."
 			]
 		},
 		{
-			"name": "Cleric Feats",
+			"name": "Pappi Feats",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
-				"At 2nd level and every 2 levels thereafter, you gain a {@filter cleric class feat|feats||type=class|Class=cleric|level=[1;2]}."
+				"At 2nd level and every 2 levels thereafter, you gain a {@filter Pappi class feat|feats||type=class|Class=Pappi|level=[1;2]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -812,7 +812,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -823,7 +823,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -835,7 +835,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -846,7 +846,7 @@
 			"name": "Alertness",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -857,7 +857,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -868,7 +868,7 @@
 			"name": "Resolve",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -879,7 +879,7 @@
 			"name": "Lightning Reflexes",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -890,7 +890,7 @@
 			"name": "Divine Defense",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -901,7 +901,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -912,7 +912,7 @@
 			"name": "Miraculous Spell",
 			"source": "CRB",
 			"page": 121,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
@@ -922,59 +922,59 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Doctrine",
+			"name": "Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
-						"You are a cleric of the cloth, focusing on divine magic and your connection to your deity's domains."
+						"You are a Pappi of the cloth, focusing on divine magic and your connection to your deity's domains."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Doctrine",
+			"name": "First Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
-						"You gain the {@feat Domain Initiate} cleric feat."
+						"You gain the {@feat Domain Initiate} Pappi feat."
 					]
 				}
 			]
 		},
 		{
-			"name": "Second Doctrine",
+			"name": "Second Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 3,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
 						"Your proficiency rank for Fortitude saves increases to expert."
 					]
@@ -982,19 +982,19 @@
 			]
 		},
 		{
-			"name": "Third Doctrine",
+			"name": "Third Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
 						"Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert."
 					]
@@ -1002,19 +1002,19 @@
 			]
 		},
 		{
-			"name": "Fourth Doctrine",
+			"name": "Fourth Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
 						"You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary."
 					]
@@ -1022,19 +1022,19 @@
 			]
 		},
 		{
-			"name": "Fifth Doctrine",
+			"name": "Fifth Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 15,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
 						"Your proficiency ranks for divine spell attack rolls and spell DCs increase to master."
 					]
@@ -1042,19 +1042,19 @@
 			]
 		},
 		{
-			"name": "Final Doctrine",
+			"name": "Final Oppi",
 			"source": "CRB",
 			"page": 119,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Cloistered",
+			"subclassShortName": "Eristäytynyt",
 			"subclassSource": "CRB",
 			"level": 19,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 119,
-					"name": "Cloistered Cleric",
+					"name": "Eristäytynyt Pappi",
 					"entries": [
 						"Your proficiency ranks for divine spell attack rolls and spell DCs increase to legendary."
 					]
@@ -1062,59 +1062,59 @@
 			]
 		},
 		{
-			"name": "Doctrine",
+			"name": "Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
-						"You have trained in the more militant doctrine of your church, focusing on both spells and battle."
+						"You have trained in the more militant Oppi of your church, focusing on both spells and battle."
 					]
 				}
 			]
 		},
 		{
-			"name": "First Doctrine",
+			"name": "First Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
-						"You're trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the {@feat Shield Block} general feat, a reaction to reduce damage with a shield. If your deity's weapon is simple or an unarmed attack, you gain the {@feat Deadly Simplicity} cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor."
+						"You're trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the {@feat Shield Block} general feat, a reaction to reduce damage with a shield. If your deity's weapon is simple or an unarmed attack, you gain the {@feat Deadly Simplicity} Pappi feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor."
 					]
 				}
 			]
 		},
 		{
-			"name": "Second Doctrine",
+			"name": "Second Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 3,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
 						"You're trained in martial weapons."
 					]
@@ -1122,19 +1122,19 @@
 			]
 		},
 		{
-			"name": "Third Doctrine",
+			"name": "Third Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
 						"You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary."
 					]
@@ -1142,19 +1142,19 @@
 			]
 		},
 		{
-			"name": "Fourth Doctrine",
+			"name": "Fourth Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
 						"Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert."
 					]
@@ -1162,19 +1162,19 @@
 			]
 		},
 		{
-			"name": "Fifth Doctrine",
+			"name": "Fifth Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 15,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
 						"Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead."
 					]
@@ -1182,19 +1182,19 @@
 			]
 		},
 		{
-			"name": "Final Doctrine",
+			"name": "Final Oppi",
 			"source": "CRB",
 			"page": 120,
-			"className": "Cleric",
+			"className": "Pappi",
 			"classSource": "CRB",
-			"subclassShortName": "Warpriest",
+			"subclassShortName": "Kenttäpappi",
 			"subclassSource": "CRB",
 			"level": 19,
 			"entries": [
 				{
 					"type": "pf2-h4",
 					"page": 120,
-					"name": "Warpriest",
+					"name": "Kenttäpappi",
 					"entries": [
 						"Your proficiency ranks for divine spell attack rolls and spell DCs increase to master."
 					]

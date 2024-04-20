@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Bard",
+			"name": "Leikari",
 			"source": "CRB",
 			"page": 95,
 			"keyAbility": "Charisma",
@@ -104,74 +104,74 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Bard|CRB|1",
-				"Initial Proficiencies|Bard|CRB|1",
-				"Occult Spellcasting|Bard|CRB|1",
-				"Spell Repertoire|Bard|CRB|1",
-				"Composition Spells|Bard|CRB|1",
+				"Ancestry and Background|Leikari|CRB|1",
+				"Initial Proficiencies|Leikari|CRB|1",
+				"Occult Spellcasting|Leikari|CRB|1",
+				"Spell Repertoire|Leikari|CRB|1",
+				"Composition Spells|Leikari|CRB|1",
 				{
-					"classFeature": "Muses|Bard|CRB|1",
+					"classFeature": "Muses|Leikari|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Bard Feats|Bard|CRB|2",
-				"Skill Feats|Bard|CRB|2",
-				"General Feats|Bard|CRB|3",
-				"Lightning Reflexes|Bard|CRB|3",
-				"Signature Spells|Bard|CRB|3",
-				"Skill Increases|Bard|CRB|3",
-				"Ability Boosts|Bard|CRB|5",
-				"Ancestry Feats|Bard|CRB|5",
-				"Expert Spellcaster|Bard|CRB|7",
-				"Great Fortitude|Bard|CRB|9",
-				"Resolve|Bard|CRB|9",
-				"Bard Weapon Expertise|Bard|CRB|11",
-				"Vigilant Senses|Bard|CRB|11",
-				"Light Armor Expertise|Bard|CRB|13",
-				"Weapon Specialization|Bard|CRB|13",
-				"Master Spellcaster|Bard|CRB|15",
-				"Greater Resolve|Bard|CRB|17",
-				"Magnum Opus|Bard|CRB|19",
-				"Legendary Spellcaster|Bard|CRB|19"
+				"Leikari Feats|Leikari|CRB|2",
+				"Skill Feats|Leikari|CRB|2",
+				"General Feats|Leikari|CRB|3",
+				"Lightning Reflexes|Leikari|CRB|3",
+				"Signature Spells|Leikari|CRB|3",
+				"Skill Increases|Leikari|CRB|3",
+				"Ability Boosts|Leikari|CRB|5",
+				"Ancestry Feats|Leikari|CRB|5",
+				"Expert Spellcaster|Leikari|CRB|7",
+				"Great Fortitude|Leikari|CRB|9",
+				"Resolve|Leikari|CRB|9",
+				"Leikari Weapon Expertise|Leikari|CRB|11",
+				"Vigilant Senses|Leikari|CRB|11",
+				"Light Armor Expertise|Leikari|CRB|13",
+				"Weapon Specialization|Leikari|CRB|13",
+				"Master Spellcaster|Leikari|CRB|15",
+				"Greater Resolve|Leikari|CRB|17",
+				"Magnum Opus|Leikari|CRB|19",
+				"Legendary Spellcaster|Leikari|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Enigma",
+					"name": "Arvuuttelija",
 					"type": "Muse",
-					"shortName": "Enigma",
+					"shortName": "Arvuuttelija",
 					"source": "CRB",
 					"page": 97,
 					"subclassFeatures": [
-						"Muses|Bard|CRB|Enigma|CRB|1"
+						"Muses|Leikari|CRB|Arvuuttelija|CRB|1"
 					]
 				},
 				{
-					"name": "Maestro",
+					"name": "Virtuoso",
 					"type": "Muse",
-					"shortName": "Maestro",
+					"shortName": "Virtuoso",
 					"source": "CRB",
 					"page": 97,
 					"subclassFeatures": [
-						"Muses|Bard|CRB|Maestro|CRB|1"
+						"Muses|Leikari|CRB|Virtuoso|CRB|1"
 					]
 				},
 				{
-					"name": "Polymath",
+					"name": "Monitietäjä",
 					"type": "Muse",
-					"shortName": "Polymath",
+					"shortName": "Monitietäjä",
 					"source": "CRB",
 					"page": 97,
 					"subclassFeatures": [
-						"Muses|Bard|CRB|Polymath|CRB|1"
+						"Muses|Leikari|CRB|Monitietäjä|CRB|1"
 					]
 				},
 				{
-					"name": "Warrior",
+					"name": "Soturi",
 					"type": "Muse",
-					"shortName": "Warrior",
+					"shortName": "Soturi",
 					"source": "APG",
 					"page": 112,
 					"subclassFeatures": [
-						"Muses|Bard|CRB|Warrior|APG|1"
+						"Muses|Leikari|CRB|Soturi|APG|1"
 					]
 				}
 			],
@@ -242,7 +242,7 @@
 				}
 			],
 			"summary": {
-				"text": "Skilled performances and secrets of the occult enable the bard to distract foes and inspire allies.",
+				"text": "Skilled performances and secrets of the occult enable the Leikari to distract foes and inspire allies.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Lem.png"
 				],
@@ -256,7 +256,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 96,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -267,7 +267,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 96,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -278,13 +278,13 @@
 			"name": "Occult Spellcasting",
 			"source": "CRB",
 			"page": 96,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"You draw upon magic from esoteric knowledge. You can cast occult spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a bard, you can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.",
+				"You draw upon magic from esoteric knowledge. You can cast occult spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a Leikari, you can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.",
 				"Each day, you can cast up to two 1st-level spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.",
-				"As you increase in level as a bard, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3\u20136: Bard Spells per Day on page 98.",
+				"As you increase in level as a Leikari, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3\u20136: Leikari Spells per Day on page 98.",
 				"Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier.",
 				"Details on calculating these statistics appear on page 447.",
 				{
@@ -300,7 +300,7 @@
 					"page": 96,
 					"name": "Cantrips",
 					"entries": [
-						"Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of bard spell slot you have. For example, as a 1st-level bard, your cantrips are 1st-level spells, and as a 5th-level bard, your cantrips are 3rd-level spells."
+						"Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of Leikari spell slot you have. For example, as a 1st-level Leikari, your cantrips are 1st-level spells, and as a 5th-level Leikari, your cantrips are 3rd-level spells."
 					]
 				},
 				{
@@ -309,7 +309,7 @@
 						0,
 						1
 					],
-					"name": "Bard Spells per Day",
+					"name": "Leikari Spells per Day",
 					"id": "3-6",
 					"spans": [
 						[
@@ -658,7 +658,7 @@
 			"name": "Spell Repertoire",
 			"source": "CRB",
 			"page": 96,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -679,7 +679,7 @@
 			"name": "Composition Spells",
 			"source": "CRB",
 			"page": 97,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -691,7 +691,7 @@
 					"page": 97,
 					"name": "Composition Cantrips",
 					"entries": [
-						"Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose from the occult list. Generally, only feats can give you more composition cantrips. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via {@action Retraining|CRB|retraining}.",
+						"Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose from the occult list. Generally, only feats can give you more composition cantrips. Unlike other cantrips, you can't swap out composition cantrips gained from Leikari feats at a later level, unless you swap out the specific feat via {@action Retraining|CRB|retraining}.",
 						"You learn the {@spell inspire courage} composition cantrip, which boosts your allies' attacks, damage, and defense against fear."
 					]
 				}
@@ -702,29 +702,29 @@
 			"source": "CRB",
 			"subclasses": "Muse",
 			"page": 97,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"As a bard, you select one muse at 1st level. This muse leads you to great things, and might be a physical creature, a deity, a philosophy, or a captivating mystery."
+				"As a Leikari, you select one muse at 1st level. This muse leads you to great things, and might be a physical creature, a deity, a philosophy, or a captivating mystery."
 			]
 		},
 		{
-			"name": "Bard Feats",
+			"name": "Leikari Feats",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
-				"At 2nd level and every 2 levels thereafter, you gain a {@filter bard class feat|feats||type=class|Class=bard|level=[1;2]}."
+				"At 2nd level and every 2 levels thereafter, you gain a {@filter Leikari class feat|feats||type=class|Class=Leikari|level=[1;2]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -735,7 +735,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -746,7 +746,7 @@
 			"name": "Lightning Reflexes",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -757,7 +757,7 @@
 			"name": "Signature Spells",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -768,7 +768,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -780,7 +780,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -791,7 +791,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -802,7 +802,7 @@
 			"name": "Expert Spellcaster",
 			"source": "CRB",
 			"page": 98,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -813,7 +813,7 @@
 			"name": "Great Fortitude",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -824,7 +824,7 @@
 			"name": "Resolve",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -832,10 +832,10 @@
 			]
 		},
 		{
-			"name": "Bard Weapon Expertise",
+			"name": "Leikari Weapon Expertise",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -846,7 +846,7 @@
 			"name": "Vigilant Senses",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -857,7 +857,7 @@
 			"name": "Light Armor Expertise",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -868,7 +868,7 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -879,7 +879,7 @@
 			"name": "Master Spellcaster",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
@@ -890,7 +890,7 @@
 			"name": "Greater Resolve",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -901,18 +901,18 @@
 			"name": "Magnum Opus",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"You have tuned your spellcasting to the highest caliber. Add two {@filter common 10th-level occult spells|spells||tradition & spell list=occult|rarity=common|level=10} to your repertoire. You gain a single 10th-level spell slot you can use to cast one of those two spells using bard spellcasting. You don't gain more 10th-level spells as you level up, unlike other spell slots, and you can't use 10th-level slots with abilities that give you more spell slots or that let you cast spells without expending spell slots."
+				"You have tuned your spellcasting to the highest caliber. Add two {@filter common 10th-level occult spells|spells||tradition & spell list=occult|rarity=common|level=10} to your repertoire. You gain a single 10th-level spell slot you can use to cast one of those two spells using Leikari spellcasting. You don't gain more 10th-level spells as you level up, unlike other spell slots, and you can't use 10th-level slots with abilities that give you more spell slots or that let you cast spells without expending spell slots."
 			]
 		},
 		{
 			"name": "Legendary Spellcaster",
 			"source": "CRB",
 			"page": 99,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
@@ -925,17 +925,17 @@
 			"name": "Muses",
 			"source": "CRB",
 			"page": 97,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
-			"subclassShortName": "Polymath",
+			"subclassShortName": "Monitietäjä",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Polymath",
+					"name": "Monitietäjä",
 					"entries": [
-						"Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a fey; if a deity, it might be {@deity Desna} or {@deity Calistria}. As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind\u2014you want to try everything. You gain the {@feat Versatile Performance} feat and add {@spell unseen servant} to your spell repertoire."
+						"Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a fey; if a deity, it might be {@deity Desna} or {@deity Calistria}. As a Leikari with a Monitietäjä muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind\u2014you want to try everything. You gain the {@feat Versatile Performance} feat and add {@spell unseen servant} to your spell repertoire."
 					]
 				}
 			]
@@ -944,15 +944,15 @@
 			"name": "Muses",
 			"source": "CRB",
 			"page": 97,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
-			"subclassShortName": "Enigma",
+			"subclassShortName": "Arvuuttelija",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Enigma",
+					"name": "Arvuuttelija",
 					"entries": [
 						"Your muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a dragon or otherworldly being; if a deity, it might be {@deity Irori} or {@deity Nethys}. You gain the {@feat Bardic Lore} feat and add {@spell true strike} to your spell repertoire."
 					]
@@ -963,17 +963,17 @@
 			"name": "Muses",
 			"source": "CRB",
 			"page": 97,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
-			"subclassShortName": "Maestro",
+			"subclassShortName": "Virtuoso",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Maestro",
+					"name": "Virtuoso",
 					"entries": [
-						"Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a choral angel or lillend azata; if a deity, it might be {@deity Shelyn}. As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. You gain the {@feat Lingering Composition} feat and add {@spell soothe} to your spell repertoire."
+						"Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a choral angel or lillend azata; if a deity, it might be {@deity Shelyn}. As a Leikari with a Virtuoso muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. You gain the {@feat Lingering Composition} feat and add {@spell soothe} to your spell repertoire."
 					]
 				}
 			]
@@ -982,17 +982,17 @@
 			"name": "Muses",
 			"source": "APG",
 			"page": 112,
-			"className": "Bard",
+			"className": "Leikari",
 			"classSource": "CRB",
-			"subclassShortName": "Warrior",
+			"subclassShortName": "Soturi",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Warrior",
+					"name": "Soturi",
 					"entries": [
-						"The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its necessity. If your muse is a creature, it might be an otherworldly soldier, such as a planetar, archon, cornugon, or purrodaemon. If it's a deity, it might be {@deity Gorum}. As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of battle. You might even wade into the thick of things with them. You gain the {@feat Martial Performance|APG} feat and add {@spell fear} to your spell repertoire."
+						"The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its necessity. If your muse is a creature, it might be an otherworldly soldier, such as a planetar, archon, cornugon, or purrodaemon. If it's a deity, it might be {@deity Gorum}. As a Leikari with a Soturi muse, you train for battle in addition to performance, and you prepare your allies for the dangers of battle. You might even wade into the thick of things with them. You gain the {@feat Martial Performance|APG} feat and add {@spell fear} to your spell repertoire."
 					]
 				}
 			]

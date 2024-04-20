@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Barbarian",
+			"name": "Barbaari",
 			"source": "CRB",
 			"page": 83,
 			"keyAbility": "Strength",
@@ -37,7 +37,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in barbarian class DC"
+					"entry": "Trained in Barbaari class DC"
 				}
 			},
 			"advancement": {
@@ -98,137 +98,137 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Barbarian|CRB|1",
-				"Initial Proficiencies|Barbarian|CRB|1",
-				"Rage|Barbarian|CRB|1",
+				"Ancestry and Background|Barbaari|CRB|1",
+				"Initial Proficiencies|Barbaari|CRB|1",
+				"Raivo|Barbaari|CRB|1",
 				{
-					"classFeature": "Instinct|Barbarian|CRB|1",
+					"classFeature": "Vaisto|Barbaari|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Barbarian Feats|Barbarian|CRB|1",
-				"Skill Feats|Barbarian|CRB|2",
-				"Deny Advantage|Barbarian|CRB|3",
-				"General Feats|Barbarian|CRB|3",
-				"Skill Increases|Barbarian|CRB|3",
-				"Ability Boosts|Barbarian|CRB|5",
-				"Ancestry Feats|Barbarian|CRB|5",
-				"Brutality|Barbarian|CRB|5",
-				"Juggernaut|Barbarian|CRB|7",
+				"Barbaari Feats|Barbaari|CRB|1",
+				"Skill Feats|Barbaari|CRB|2",
+				"Deny Advantage|Barbaari|CRB|3",
+				"General Feats|Barbaari|CRB|3",
+				"Skill Increases|Barbaari|CRB|3",
+				"Ability Boosts|Barbaari|CRB|5",
+				"Ancestry Feats|Barbaari|CRB|5",
+				"Brutality|Barbaari|CRB|5",
+				"Juggernaut|Barbaari|CRB|7",
 				{
-					"classFeature": "Weapon Specialization|Barbarian|CRB|7",
+					"classFeature": "Weapon Specialization|Barbaari|CRB|7",
 					"gainSubclassFeature": true
 				},
-				"Lightning Reflexes|Barbarian|CRB|9",
+				"Lightning Reflexes|Barbaari|CRB|9",
 				{
-					"classFeature": "Raging Resistance|Barbarian|CRB|9",
+					"classFeature": "Raging Resistance|Barbaari|CRB|9",
 					"gainSubclassFeature": true
 				},
-				"Mighty Rage|Barbarian|CRB|11",
-				"Greater Juggernaut|Barbarian|CRB|13",
-				"Medium Armor Expertise|Barbarian|CRB|13",
-				"Weapon Fury|Barbarian|CRB|13",
-				"Greater Weapon Specialization|Barbarian|CRB|15",
-				"Indomitable Will|Barbarian|CRB|15",
-				"Heightened Senses|Barbarian|CRB|17",
-				"Quick Rage|Barbarian|CRB|17",
-				"Armor of Fury|Barbarian|CRB|19",
-				"Devastator|Barbarian|CRB|19"
+				"Mighty Raivo|Barbaari|CRB|11",
+				"Greater Juggernaut|Barbaari|CRB|13",
+				"Medium Armor Expertise|Barbaari|CRB|13",
+				"Weapon Kiihko|Barbaari|CRB|13",
+				"Greater Weapon Specialization|Barbaari|CRB|15",
+				"Indomitable Will|Barbaari|CRB|15",
+				"Heightened Senses|Barbaari|CRB|17",
+				"Quick Raivo|Barbaari|CRB|17",
+				"Armor of Kiihko|Barbaari|CRB|19",
+				"Devastator|Barbaari|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Animal",
-					"shortName": "Animal",
-					"type": "Instinct",
+					"name": "Eläin",
+					"shortName": "Eläin",
+					"type": "Vaisto",
 					"source": "CRB",
 					"page": 86,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Animal|CRB|1",
-						"Weapon Specialization|Barbarian|CRB|Animal|CRB|7",
-						"Raging Resistance|Barbarian|CRB|Animal|CRB|9"
+						"Vaisto|Barbaari|CRB|Eläin|CRB|1",
+						"Weapon Specialization|Barbaari|CRB|Eläin|CRB|7",
+						"Raging Resistance|Barbaari|CRB|Eläin|CRB|9"
 					]
 				},
 				{
-					"name": "Dragon",
-					"shortName": "Dragon",
-					"type": "Instinct",
+					"name": "Lohikäärme",
+					"shortName": "Lohikäärme",
+					"type": "Vaisto",
 					"source": "CRB",
 					"page": 86,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Dragon|CRB|1",
-						"Weapon Specialization|Barbarian|CRB|Dragon|CRB|7",
-						"Raging Resistance|Barbarian|CRB|Dragon|CRB|9"
+						"Vaisto|Barbaari|CRB|Lohikäärme|CRB|1",
+						"Weapon Specialization|Barbaari|CRB|Lohikäärme|CRB|7",
+						"Raging Resistance|Barbaari|CRB|Lohikäärme|CRB|9"
 					]
 				},
 				{
-					"name": "Elemental",
-					"shortName": "Elemental",
-					"type": "Instinct",
+					"name": "Luonnonvoima",
+					"shortName": "Luonnonvoima",
+					"type": "Vaisto",
 					"source": "RoE",
 					"page": 54,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Elemental|RoE|1",
-						"Weapon Specialization|Barbarian|CRB|Elemental|RoE|7",
-						"Raging Resistance|Barbarian|CRB|Elemental|RoE|9"
+						"Vaisto|Barbaari|CRB|Luonnonvoima|RoE|1",
+						"Weapon Specialization|Barbaari|CRB|Luonnonvoima|RoE|7",
+						"Raging Resistance|Barbaari|CRB|Luonnonvoima|RoE|9"
 					]
 				},
 				{
-					"name": "Fury",
-					"shortName": "Fury",
-					"type": "Instinct",
+					"name": "Kiihko",
+					"shortName": "Kiihko",
+					"type": "Vaisto",
 					"source": "CRB",
 					"page": 87,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Fury|CRB|1",
-						"Weapon Specialization|Barbarian|CRB|Fury|CRB|7",
-						"Raging Resistance|Barbarian|CRB|Fury|CRB|9"
+						"Vaisto|Barbaari|CRB|Kiihko|CRB|1",
+						"Weapon Specialization|Barbaari|CRB|Kiihko|CRB|7",
+						"Raging Resistance|Barbaari|CRB|Kiihko|CRB|9"
 					]
 				},
 				{
-					"name": "Giant",
-					"shortName": "Giant",
-					"type": "Instinct",
+					"name": "Jätti",
+					"shortName": "Jätti",
+					"type": "Vaisto",
 					"source": "CRB",
 					"page": 87,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Giant|CRB|1",
-						"Weapon Specialization|Barbarian|CRB|Giant|CRB|7",
-						"Raging Resistance|Barbarian|CRB|Giant|CRB|9"
+						"Vaisto|Barbaari|CRB|Jätti|CRB|1",
+						"Weapon Specialization|Barbaari|CRB|Jätti|CRB|7",
+						"Raging Resistance|Barbaari|CRB|Jätti|CRB|9"
 					]
 				},
 				{
-					"name": "Spirit",
-					"shortName": "Spirit",
-					"type": "Instinct",
+					"name": "Henki",
+					"shortName": "Henki",
+					"type": "Vaisto",
 					"source": "CRB",
 					"page": 87,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Spirit|CRB|1",
-						"Weapon Specialization|Barbarian|CRB|Spirit|CRB|7",
-						"Raging Resistance|Barbarian|CRB|Spirit|CRB|9"
+						"Vaisto|Barbaari|CRB|Henki|CRB|1",
+						"Weapon Specialization|Barbaari|CRB|Henki|CRB|7",
+						"Raging Resistance|Barbaari|CRB|Henki|CRB|9"
 					]
 				},
 				{
-					"name": "Superstition",
-					"shortName": "Superstition",
-					"type": "Instinct",
+					"name": "Taikausko",
+					"shortName": "Taikausko",
+					"type": "Vaisto",
 					"source": "APG",
 					"page": 108,
 					"subclassFeatures": [
-						"Instinct|Barbarian|CRB|Superstition|APG|1",
-						"Weapon Specialization|Barbarian|CRB|Superstition|APG|7",
-						"Raging Resistance|Barbarian|CRB|Superstition|APG|9"
+						"Vaisto|Barbaari|CRB|Taikausko|APG|1",
+						"Weapon Specialization|Barbaari|CRB|Taikausko|APG|7",
+						"Raging Resistance|Barbaari|CRB|Taikausko|APG|9"
 					]
 				}
 			],
 			"flavor": [
-				"Rage consumes you in battle. You delight in wreaking havoc and using powerful weapons to carve through your enemies, relying on astonishing durability without needing complicated techniques or rigid training. Your rages draw upon a vicious instinct, which you might associate with an animal, a spirit, or some part of yourself. To many barbarians, brute force is a hammer and every problem looks like a nail, whereas others try to hold back the storm of emotions inside them and release their rage only when it matters most."
+				"Raivo consumes you in battle. You delight in wreaking havoc and using powerful weapons to carve through your enemies, relying on astonishing durability without needing complicated techniques or rigid training. Your rages draw upon a vicious Vaisto, which you might associate with an Eläin, a Henki, or some part of yourself. To many barbarians, brute force is a hammer and every problem looks like a nail, whereas others try to hold back the storm of emotions inside them and release their Raivo only when it matters most."
 			],
 			"fluff": [
 				{
 					"type": "pf2-h3",
 					"name": "During Combat Encounters...",
 					"entries": [
-						"You summon your rage and rush to the front lines to smash your way through. Offense is your best defense\u2014you'll need to drop foes before they can exploit your relatively low defenses."
+						"You summon your Raivo and rush to the front lines to smash your way through. Offense is your best defense\u2014you'll need to drop foes before they can exploit your relatively low defenses."
 					]
 				},
 				{
@@ -287,7 +287,7 @@
 				}
 			],
 			"summary": {
-				"text": "The barbarian flies into a rage on the battlefield, smashing foes with abandon.",
+				"text": "The Barbaari flies into a Raivo on the battlefield, smashing foes with abandon.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Amiri.png"
 				],
@@ -301,7 +301,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -312,7 +312,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -320,49 +320,49 @@
 			]
 		},
 		{
-			"name": "Rage",
+			"name": "Raivo",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"You gain the {@action Rage} action, which lets you fly into a frenzy.",
+				"You gain the {@action Raivo} action, which lets you fly into a frenzy.",
 				{
 					"type": "data",
 					"tag": "action",
-					"name": "Rage",
+					"name": "Raivo",
 					"source": "CRB"
 				}
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Your rage wells up from a dominant instinct\u2014one you learned from a tradition or that comes naturally to you. Your instinct gives you an ability, requires you to avoid certain behaviors, grants you increased damage and resistances at higher levels, and allows you to select feats tied to your instinct."
+				"Your Raivo wells up from a dominant Vaisto\u2014one you learned from a tradition or that comes naturally to you. Your Vaisto gives you an ability, requires you to avoid certain behaviors, grants you increased damage and resistances at higher levels, and allows you to select feats tied to your Vaisto."
 			]
 		},
 		{
-			"name": "Barbarian Feats",
+			"name": "Barbaari Feats",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level thereafter, you gain an {@filter barbarian class feat|feats||type=class|Class=barbarian|level=[1;1]}."
+				"At 1st level and every even-numbered level thereafter, you gain an {@filter Barbaari class feat|feats||type=class|Class=Barbaari|level=[1;1]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -373,7 +373,7 @@
 			"name": "Deny Advantage",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -384,7 +384,7 @@
 			"name": "General Feats",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -395,7 +395,7 @@
 			"name": "Skill Increases",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -407,7 +407,7 @@
 			"name": "Ability Boosts",
 			"source": "CRB",
 			"page": 84,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -418,7 +418,7 @@
 			"name": "Ancestry Feats",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -430,18 +430,18 @@
 			"source": "CRB",
 			"subclasses": "Research Field",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
-				"Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While raging, you gain access to the critical specialization effects for melee weapons and unarmed attacks."
+				"Your Kiihko makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While raging, you gain access to the critical specialization effects for melee weapons and unarmed attacks."
 			]
 		},
 		{
 			"name": "Juggernaut",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -452,18 +452,18 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
-				"Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you're a master, and 4 if you're legendary. You gain your instinct's specialization ability."
+				"Your Raivo helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you're a master, and 4 if you're legendary. You gain your Vaisto's specialization ability."
 			]
 		},
 		{
 			"name": "Lightning Reflexes",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -474,26 +474,26 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
-				"Repeated exposure and toughened skin allow you to fend off harm. While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your instinct."
+				"Repeated exposure and toughened skin allow you to fend off harm. While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your Vaisto."
 			]
 		},
 		{
-			"name": "Mighty Rage",
+			"name": "Mighty Raivo",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
-				"Your rage intensifies and lets you burst into action. Your proficiency rank for your barbarian class DC increases to expert. You gain the {@action Mighty Rage} free action.",
+				"Your Raivo intensifies and lets you burst into action. Your proficiency rank for your Barbaari class DC increases to expert. You gain the {@action Mighty Raivo} free action.",
 				{
 					"type": "data",
 					"tag": "action",
-					"name": "Mighty Rage",
+					"name": "Mighty Raivo",
 					"source": "CRB"
 				}
 			]
@@ -502,7 +502,7 @@
 			"name": "Greater Juggernaut",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -513,7 +513,7 @@
 			"name": "Medium Armor Expertise",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -521,102 +521,102 @@
 			]
 		},
 		{
-			"name": "Weapon Fury",
+			"name": "Weapon Kiihko",
 			"source": "CRB",
 			"page": 85,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
-				"Your rage makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master."
+				"Your Raivo makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master."
 			]
 		},
 		{
 			"name": "Greater Weapon Specialization",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
-				"The weapons you've mastered become truly fearsome in your hands. Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary. You gain a greater benefit from your instinct's specialization ability."
+				"The weapons you've mastered become truly fearsome in your hands. Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary. You gain a greater benefit from your Vaisto's specialization ability."
 			]
 		},
 		{
 			"name": "Indomitable Will",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
-				"Your rage makes it difficult to control you. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead."
+				"Your Raivo makes it difficult to control you. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead."
 			]
 		},
 		{
 			"name": "Heightened Senses",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
-				"Your instinct heightens each of your senses further. Your proficiency rank for {@skill Perception} increases to master"
+				"Your Vaisto heightens each of your senses further. Your proficiency rank for {@skill Perception} increases to master"
 			]
 		},
 		{
-			"name": "Quick Rage",
+			"name": "Quick Raivo",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
-				"You recover from your {@action Rage} quickly, and are soon ready to begin anew. After you spend a full turn without raging, you can {@action Rage} again without needing to wait 1 minute."
+				"You recover from your {@action Raivo} quickly, and are soon ready to begin anew. After you spend a full turn without raging, you can {@action Raivo} again without needing to wait 1 minute."
 			]
 		},
 		{
-			"name": "Armor of Fury",
+			"name": "Armor of Kiihko",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"Your training and rage deepen your connection to your armor. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master."
+				"Your training and Raivo deepen your connection to your armor. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master."
 			]
 		},
 		{
 			"name": "Devastator",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"Your {@action Strike||Strikes} are so devastating that you hardly care about resistance, and your barbarian abilities are unparalleled. Your proficiency rank for your barbarian class DC increases to master. Your melee {@action Strike||Strikes} ignore 10 points of a creature's resistance to their physical damage."
+				"Your {@action Strike||Strikes} are so devastating that you hardly care about resistance, and your Barbaari abilities are unparalleled. Your proficiency rank for your Barbaari class DC increases to master. Your melee {@action Strike||Strikes} ignore 10 points of a creature's resistance to their physical damage."
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Animal",
+			"subclassShortName": "Eläin",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Animal Instinct",
+					"name": "Eläin Vaisto",
 					"entries": [
-						"The fury of a wild predator fills you when you {@action Rage}, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from {@table Animal Instincts|CRB|Table 3\u20133: Animal Instincts} that best matches your chosen animal.",
+						"The Kiihko of a wild predator fills you when you {@action Raivo}, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this Vaisto. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an Eläin from {@table Eläin Instincts|CRB|Table 3\u20133: Eläin Instincts} that best matches your chosen Eläin.",
 						{
 							"type": "table",
-							"name": "Animal Instincts",
+							"name": "Eläin Instincts",
 							"id": "3-3",
 							"source": "CRB",
 							"page": 86,
@@ -628,7 +628,7 @@
 							],
 							"rows": [
 								[
-									"Animal",
+									"Eläin",
 									"Attack",
 									"Damage",
 									"Traits"
@@ -728,14 +728,14 @@
 					"type": "pf2-h4",
 					"name": "Anathema",
 					"entries": [
-						"Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging."
+						"Flagrantly disrespecting an Eläin of your chosen kind is anathema to your Vaisto, as is using weapons while raging."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Bestial Rage (Instinct Ability)",
+					"name": "Bestial Raivo (Vaisto Ability)",
 					"entries": [
-						"When you {@action Rage}, you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on {@table Animal Instincts|CRB|Table 3\u20133: Animal Instincts}. These attacks are in the {@group brawling} group. Your {@action Rage} action gains the {@trait morph}, {@trait primal}, and {@trait transmutation} traits."
+						"When you {@action Raivo}, you gain your chosen Eläin's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on {@table Eläin Instincts|CRB|Table 3\u20133: Eläin Instincts}. These attacks are in the {@group brawling} group. Your {@action Raivo} action gains the {@trait morph}, {@trait primal}, and {@trait transmutation} traits."
 					]
 				}
 			]
@@ -744,9 +744,9 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Animal",
+			"subclassShortName": "Eläin",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -754,7 +754,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from {@action Rage} from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain {@trait reach} 10 feet. If you have greater weapon specialization, increase the damage from {@action Rage} from 5 to 12 for your chosen animal's unarmed attacks."
+						"Increase the damage die size for the unarmed attacks granted by your chosen Eläin by one step, and increase the additional damage from {@action Raivo} from 2 to 5 for your chosen Eläin's unarmed attacks. The frog's tongue attack and deer's antler attack gain {@trait reach} 10 feet. If you have greater weapon specialization, increase the damage from {@action Raivo} from 5 to 12 for your chosen Eläin's unarmed attacks."
 					]
 				}
 			]
@@ -763,9 +763,9 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Animal",
+			"subclassShortName": "Eläin",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -779,23 +779,23 @@
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 86,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Dragon",
+			"subclassShortName": "Lohikäärme",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Dragon Instinct",
+					"name": "Lohikäärme Vaisto",
 					"entries": [
-						"You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in dragon's blood or after watching a marauding wyrm burn your village. Select a type of dragon from {@table Dragon Instincts|CRB|Table 3\u20134: Dragon Instincts} to be your instinct's dragon type. Chromatic dragons tend to be evil, and metallic dragons tend to be good.",
+						"You summon the Kiihko of a mighty Lohikäärme and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in Lohikäärme's blood or after watching a marauding wyrm burn your village. Select a type of Lohikäärme from {@table Lohikäärme Instincts|CRB|Table 3\u20134: Lohikäärme Instincts} to be your Vaisto's Lohikäärme type. Chromatic dragons tend to be evil, and metallic dragons tend to be good.",
 						{
 							"type": "table",
-							"name": "Dragon Instincts",
+							"name": "Lohikäärme Instincts",
 							"id": "3-4",
 							"source": "CRB",
 							"page": 86,
@@ -806,7 +806,7 @@
 							],
 							"rows": [
 								[
-									"Dragon Type",
+									"Lohikäärme Type",
 									"Category",
 									"Breath Weapon"
 								],
@@ -868,14 +868,14 @@
 					"type": "pf2-h4",
 					"name": "Anathema",
 					"entries": [
-						"Letting a personal insult against you slide is anathema to your instinct. Choose whether your character respects or abhors your dragon type. If you respect it, defying such a dragon is anathema, and if you abhor it, failing to defeat such a dragon you come across is anathema."
+						"Letting a personal insult against you slide is anathema to your Vaisto. Choose whether your character respects or abhors your Lohikäärme type. If you respect it, defying such a Lohikäärme is anathema, and if you abhor it, failing to defeat such a Lohikäärme you come across is anathema."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Draconic Rage (Instinct Ability)",
+					"name": "Draconic Raivo (Vaisto Ability)",
 					"entries": [
-						"While raging, you can increase the additional damage from {@action Rage} from 2 to 4 and change its damage type to match that of your dragon's breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your {@action Rage} action gains the {@trait arcane} and {@trait evocation} traits, as well as the trait matching the damage type."
+						"While raging, you can increase the additional damage from {@action Raivo} from 2 to 4 and change its damage type to match that of your Lohikäärme's breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your {@action Raivo} action gains the {@trait arcane} and {@trait evocation} traits, as well as the trait matching the damage type."
 					]
 				}
 			]
@@ -884,9 +884,9 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Dragon",
+			"subclassShortName": "Lohikäärme",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -894,7 +894,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"When you use draconic rage, you increase the additional damage from {@action Rage} from 4 to 8. If you have greater weapon specialization, instead increase the damage from {@action Rage} when using draconic rage from 8 to 16."
+						"When you use draconic Raivo, you increase the additional damage from {@action Raivo} from 4 to 8. If you have greater weapon specialization, instead increase the damage from {@action Raivo} when using draconic Raivo from 8 to 16."
 					]
 				}
 			]
@@ -903,9 +903,9 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Dragon",
+			"subclassShortName": "Lohikäärme",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -913,30 +913,30 @@
 					"type": "pf2-h4",
 					"name": "Raging Resistance",
 					"entries": [
-						"You resist piercing damage and the damage type of your dragon's breath weapon."
+						"You resist piercing damage and the damage type of your Lohikäärme's breath weapon."
 					]
 				}
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "RoE",
 			"page": 54,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Elemental",
+			"subclassShortName": "Luonnonvoima",
 			"subclassSource": "RoE",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Elemental Instinct",
+					"name": "Luonnonvoima Vaisto",
 					"entries": [
-						"This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your ancestors were elemental conjurers or blessed by an elemental lord. Select an element from the {@table Elemental Instincts|RoE|Elemental Instincts} table to be your instinct's element. If your element offers multiple damage types, choose one of those type when you select your element.",
+						"This Vaisto option for barbarians allows you to channel Luonnonvoima forces, bonding with a single element and its associated plane. Perhaps your ancestors were Luonnonvoima conjurers or blessed by an Luonnonvoima lord. Select an element from the {@table Luonnonvoima Instincts|RoE|Luonnonvoima Instincts} table to be your Vaisto's element. If your element offers multiple damage types, choose one of those type when you select your element.",
 						{
 							"type": "data",
 							"tag": "table",
-							"name": "Elemental Instincts",
+							"name": "Luonnonvoima Instincts",
 							"source": "RoE"
 						}
 					]
@@ -945,15 +945,15 @@
 					"type": "pf2-h4",
 					"name": "Anathema",
 					"entries": [
-						"Disrespecting an elemental creature is anathema to your instinct; defending yourself against one is not. Purposefully despoiling the elemental plane associated with your element is anathema to your instinct, though this doesn't prevent you from responsibly altering that plane."
+						"Disrespecting an Luonnonvoima creature is anathema to your Vaisto; defending yourself against one is not. Purposefully despoiling the Luonnonvoima plane associated with your element is anathema to your Vaisto, though this doesn't prevent you from responsibly altering that plane."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Elemental Rage (Instinct Ability)",
+					"name": "Luonnonvoima Raivo (Vaisto Ability)",
 					"entries": [
-						"While raging, you're cloaked in a vortex of elemental matter; you become {@condition concealed} against ranged attacks. You can't use this concealment to {@action Hide} or {@action Sneak}. While raging, you increase the additional damage from {@action Rage} from 2 to 4 and change its damage type to the one you selected for your element.",
-						"If you have any {@class Kineticist|RoE} {@trait Impulse} with the same element type as the one you chose for your instinct, such as ones gained by taking the {@feat Kineticist Dedication|RoE} multiclass feat, they gain the {@trait rage} trait."
+						"While raging, you're cloaked in a vortex of Luonnonvoima matter; you become {@condition concealed} against ranged attacks. You can't use this concealment to {@action Hide} or {@action Sneak}. While raging, you increase the additional damage from {@action Raivo} from 2 to 4 and change its damage type to the one you selected for your element.",
+						"If you have any {@class Kineticist|RoE} {@trait Impulse} with the same element type as the one you chose for your Vaisto, such as ones gained by taking the {@feat Kineticist Dedication|RoE} multiclass feat, they gain the {@trait Raivo} trait."
 					]
 				}
 			]
@@ -962,9 +962,9 @@
 			"name": "Weapon Specialization",
 			"source": "RoE",
 			"page": 54,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Elemental",
+			"subclassShortName": "Luonnonvoima",
 			"subclassSource": "RoE",
 			"level": 7,
 			"entries": [
@@ -972,7 +972,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"When you use elemental rage, you increase the damage from {@action Rage} from 4 to 6. If you have greater weapon specialization, instead increase the damage from {@action Rage} when using elemental rage from 6 to 12."
+						"When you use Luonnonvoima Raivo, you increase the damage from {@action Raivo} from 4 to 6. If you have greater weapon specialization, instead increase the damage from {@action Raivo} when using Luonnonvoima Raivo from 6 to 12."
 					]
 				}
 			]
@@ -981,9 +981,9 @@
 			"name": "Raging Resistance",
 			"source": "RoE",
 			"page": 54,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Elemental",
+			"subclassShortName": "Luonnonvoima",
 			"subclassSource": "RoE",
 			"level": 9,
 			"entries": [
@@ -991,33 +991,33 @@
 					"type": "pf2-h4",
 					"name": "Raging Resistance",
 					"entries": [
-						"You resist the damage dealt by attacks and abilities of elemental creatures of your chosen element, as well as creatures made of your element, regardless of the damage type. You also resist damage dealt by attacks, spells, and abilities with your elemental trait."
+						"You resist the damage dealt by attacks and abilities of Luonnonvoima creatures of your chosen element, as well as creatures made of your element, regardless of the damage type. You also resist damage dealt by attacks, spells, and abilities with your Luonnonvoima trait."
 					]
 				}
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Fury",
+			"subclassShortName": "Kiihko",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Fury Instinct",
+					"name": "Kiihko Vaisto",
 					"entries": [
-						"Your rage comes from a deep and purely personal well within you. You use your rage as you choose."
+						"Your Raivo comes from a deep and purely personal well within you. You use your Raivo as you choose."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Anathema and Instinct Ability",
+					"name": "Anathema and Vaisto Ability",
 					"entries": [
-						"You don't have an anathema or an instinct ability. Instead, you gain an additional {@filter 1st-level barbarian feat|feats||Class=barbarian|level=[1;1]|type=class}."
+						"You don't have an anathema or an Vaisto ability. Instead, you gain an additional {@filter 1st-level Barbaari feat|feats||Class=Barbaari|level=[1;1]|type=class}."
 					]
 				}
 			]
@@ -1026,9 +1026,9 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Fury",
+			"subclassShortName": "Kiihko",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -1036,7 +1036,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"Increase the additional damage from {@action Rage} from 2 to 6. If you have greater weapon specialization, instead increase the additional damage from {@action Rage} to 12."
+						"Increase the additional damage from {@action Raivo} from 2 to 6. If you have greater weapon specialization, instead increase the additional damage from {@action Raivo} to 12."
 					]
 				}
 			]
@@ -1045,9 +1045,9 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Fury",
+			"subclassShortName": "Kiihko",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -1061,20 +1061,20 @@
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Giant",
+			"subclassShortName": "Jätti",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Giant Instinct",
+					"name": "Jätti Vaisto",
 					"entries": [
-						"Your rage gives you the raw power and size of a giant. This doesn't necessarily mean you revere giants\u2014you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego."
+						"Your Raivo gives you the raw power and size of a Jätti. This doesn't necessarily mean you revere giants\u2014you might scoff at them or even aspire to slay them! You could instead seem like a Jätti to other people due to your exceptional strength or larger-than-life emotions and ego."
 					]
 				},
 				{
@@ -1086,9 +1086,9 @@
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Titan Mauler (Instinct Ability)",
+					"name": "Titan Mauler (Vaisto Ability)",
 					"entries": [
-						"You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you're not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to this larger weapon, which can be of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a weapon of its size. When wielding such a weapon in combat, increase your additional damage from {@action Rage} from 2 to 6, but you have the {@condition clumsy 1} condition because of the weapon's unwieldy size. You can't remove this {@condition clumsy} condition or ignore its penalties by any means while wielding the weapon."
+						"You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you're not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to this larger weapon, which can be of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a weapon of its size. When wielding such a weapon in combat, increase your additional damage from {@action Raivo} from 2 to 6, but you have the {@condition clumsy 1} condition because of the weapon's unwieldy size. You can't remove this {@condition clumsy} condition or ignore its penalties by any means while wielding the weapon."
 					]
 				}
 			]
@@ -1097,9 +1097,9 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Giant",
+			"subclassShortName": "Jätti",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -1107,7 +1107,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"Increase the damage from {@action Rage} when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18."
+						"Increase the damage from {@action Raivo} when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18."
 					]
 				}
 			]
@@ -1116,9 +1116,9 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Giant",
+			"subclassShortName": "Jätti",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -1132,34 +1132,34 @@
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Spirit",
+			"subclassShortName": "Henki",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Spirit Instinct",
+					"name": "Henki Vaisto",
 					"entries": [
-						"Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession."
+						"Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your Raivo takes the form of a spiritual possession."
 					]
 				},
 				{
 					"type": "pf2-h4",
 					"name": "Anathema",
 					"entries": [
-						"Disrespecting corpses or spirits is anathema to your instinct; defending yourself against undead creatures is not."
+						"Disrespecting corpses or spirits is anathema to your Vaisto; defending yourself against undead creatures is not."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Spirit Rage (Instinct Ability)",
+					"name": "Henki Raivo (Vaisto Ability)",
 					"entries": [
-						"While raging, you can increase the additional damage from {@action Rage} from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the {@item ghost touch} property rune, which makes it more effective against incorporeal creatures, and your {@action Rage} action gains the divine and necromancy traits, plus negative or positive, as appropriate."
+						"While raging, you can increase the additional damage from {@action Raivo} from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Raivo). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the {@item ghost touch} property rune, which makes it more effective against incorporeal creatures, and your {@action Raivo} action gains the divine and necromancy traits, plus negative or positive, as appropriate."
 					]
 				}
 			]
@@ -1168,9 +1168,9 @@
 			"name": "Weapon Specialization",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Spirit",
+			"subclassShortName": "Henki",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -1178,7 +1178,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"When using spirit rage, increase the damage from {@action Rage} from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13."
+						"When using Henki Raivo, increase the damage from {@action Raivo} from 3 to 7. If you have greater weapon specialization, instead increase the damage when using Henki Raivo to 13."
 					]
 				}
 			]
@@ -1187,9 +1187,9 @@
 			"name": "Raging Resistance",
 			"source": "CRB",
 			"page": 87,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Spirit",
+			"subclassShortName": "Henki",
 			"subclassSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -1203,34 +1203,34 @@
 			]
 		},
 		{
-			"name": "Instinct",
+			"name": "Vaisto",
 			"source": "APG",
 			"page": 108,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Superstition",
+			"subclassShortName": "Taikausko",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h3",
-					"name": "Superstition Instinct",
+					"name": "Taikausko Vaisto",
 					"entries": [
-						"A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts."
+						"A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your Raivo is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts."
 					]
 				},
 				{
 					"type": "pf2-h4",
 					"name": "Anathema",
 					"entries": [
-						"Willingly accepting the effects of magic spells (including from scrolls, wands, and the like), even from your allies, is anathema to your instinct. You can still drink potions and invest and activate most magic items you find, though items that cast spells are subject to the same restrictions as all other spells. If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your instinct."
+						"Willingly accepting the effects of magic spells (including from scrolls, wands, and the like), even from your allies, is anathema to your Vaisto. You can still drink potions and invest and activate most magic items you find, though items that cast spells are subject to the same restrictions as all other spells. If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your Vaisto."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Superstitious Resilience (Instinct Ability)",
+					"name": "Superstitious Resilience (Vaisto Ability)",
 					"entries": [
-						"While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from {@action Rage} from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you {@action Rage}, you regain Hit Points equal to the temporary Hit Points you gain from that {@action Rage} action."
+						"While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from {@action Raivo} from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you {@action Raivo}, you regain Hit Points equal to the temporary Hit Points you gain from that {@action Raivo} action."
 					]
 				}
 			]
@@ -1239,9 +1239,9 @@
 			"name": "Weapon Specialization",
 			"source": "APG",
 			"page": 108,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Superstition",
+			"subclassShortName": "Taikausko",
 			"subclassSource": "APG",
 			"level": 7,
 			"entries": [
@@ -1249,7 +1249,7 @@
 					"type": "pf2-h4",
 					"name": "Specialization Ability",
 					"entries": [
-						"Increase the damage from {@action Rage} from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from {@action Rage} to 12 against creatures with spells and 8 against other creatures."
+						"Increase the damage from {@action Raivo} from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from {@action Raivo} to 12 against creatures with spells and 8 against other creatures."
 					]
 				}
 			]
@@ -1258,9 +1258,9 @@
 			"name": "Raging Resistance",
 			"source": "APG",
 			"page": 108,
-			"className": "Barbarian",
+			"className": "Barbaari",
 			"classSource": "CRB",
-			"subclassShortName": "Superstition",
+			"subclassShortName": "Taikausko",
 			"subclassSource": "APG",
 			"level": 9,
 			"entries": [

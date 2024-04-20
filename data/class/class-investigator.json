@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Investigator",
+			"name": "Etsivä",
 			"source": "APG",
 			"page": 55,
 			"keyAbility": "Intelligence",
@@ -22,7 +22,7 @@
 							"skill": [
 								"Subclass Dependant"
 							],
-							"entry": "one or more skills determined by your methodology"
+							"entry": "one or more skills determined by your Menetelmä"
 						}
 					],
 					"add": 4
@@ -41,7 +41,7 @@
 				},
 				"classDc": {
 					"prof": "T",
-					"entry": "Trained in investigator class DC"
+					"entry": "Trained in Etsivä class DC"
 				}
 			},
 			"advancement": {
@@ -126,78 +126,78 @@
 				}
 			},
 			"classFeatures": [
-				"Ancestry and Background|Investigator|APG|1",
-				"Initial Proficiencies|Investigator|APG|1",
-				"On the Case|Investigator|APG|1",
-				"Devise a Stratagem|Investigator|APG|1",
+				"Ancestry and Background|Etsivä|APG|1",
+				"Initial Proficiencies|Etsivä|APG|1",
+				"On the Case|Etsivä|APG|1",
+				"Devise a Stratagem|Etsivä|APG|1",
 				{
-					"classFeature": "Methodology|Investigator|APG|1",
+					"classFeature": "Menetelmä|Etsivä|APG|1",
 					"gainSubclassFeature": true
 				},
-				"Investigator Feats|Investigator|APG|1",
-				"Strategic Strike|Investigator|APG|1",
-				"Skill Feats|Investigator|APG|2",
-				"Skill Increases|Investigator|APG|2",
-				"General Feats|Investigator|APG|3",
-				"Keen Recollection|Investigator|APG|3",
-				"Skillful Lessons|Investigator|APG|3",
-				"Ability Boosts|Investigator|APG|5",
-				"Ancestry Feats|Investigator|APG|5",
-				"Weapon Expertise|Investigator|APG|5",
-				"Vigilant Senses|Investigator|APG|7",
-				"Weapon Specialization|Investigator|APG|7",
-				"Great Fortitude|Investigator|APG|9",
-				"Investigator Expertise|Investigator|APG|9",
-				"Deductive Improvisation|Investigator|APG|11",
-				"Resolve|Investigator|APG|11",
-				"Incredible Senses|Investigator|APG|13",
-				"Light Armor Expertise|Investigator|APG|13",
-				"Weapon Mastery|Investigator|APG|13",
-				"Evasion|Investigator|APG|15",
-				"Greater Weapon Specialization|Investigator|APG|15",
-				"Greater Resolve|Investigator|APG|17",
-				"Light Armor Mastery|Investigator|APG|19",
-				"Master Detective|Investigator|APG|19"
+				"Etsivä Feats|Etsivä|APG|1",
+				"Strategic Strike|Etsivä|APG|1",
+				"Skill Feats|Etsivä|APG|2",
+				"Skill Increases|Etsivä|APG|2",
+				"General Feats|Etsivä|APG|3",
+				"Keen Recollection|Etsivä|APG|3",
+				"Skillful Lessons|Etsivä|APG|3",
+				"Ability Boosts|Etsivä|APG|5",
+				"Ancestry Feats|Etsivä|APG|5",
+				"Weapon Expertise|Etsivä|APG|5",
+				"Vigilant Senses|Etsivä|APG|7",
+				"Weapon Specialization|Etsivä|APG|7",
+				"Great Fortitude|Etsivä|APG|9",
+				"Etsivä Expertise|Etsivä|APG|9",
+				"Deductive Improvisation|Etsivä|APG|11",
+				"Resolve|Etsivä|APG|11",
+				"Incredible Senses|Etsivä|APG|13",
+				"Light Armor Expertise|Etsivä|APG|13",
+				"Weapon Mastery|Etsivä|APG|13",
+				"Evasion|Etsivä|APG|15",
+				"Greater Weapon Specialization|Etsivä|APG|15",
+				"Greater Resolve|Etsivä|APG|17",
+				"Light Armor Mastery|Etsivä|APG|19",
+				"Master Detective|Etsivä|APG|19"
 			],
 			"subclasses": [
 				{
-					"name": "Alchemical Sciences",
-					"shortName": "Alchemical Sciences",
-					"type": "Methodology",
+					"name": "Alkemia",
+					"shortName": "Alkemia",
+					"type": "Menetelmä",
 					"source": "APG",
 					"page": 57,
 					"subclassFeatures": [
-						"Methodology|Investigator|APG|Alchemical Sciences|APG|1"
+						"Menetelmä|Etsivä|APG|Alkemia|APG|1"
 					]
 				},
 				{
-					"name": "Empiricism",
-					"shortName": "Empiricism",
-					"type": "Methodology",
+					"name": "Empirismi",
+					"shortName": "Empirismi",
+					"type": "Menetelmä",
 					"source": "APG",
 					"page": 57,
 					"subclassFeatures": [
-						"Methodology|Investigator|APG|Empiricism|APG|1"
+						"Menetelmä|Etsivä|APG|Empirismi|APG|1"
 					]
 				},
 				{
-					"name": "Forensic Medicine",
-					"shortName": "Forensic Medicine",
-					"type": "Methodology",
+					"name": "Tutkiva lääketiede",
+					"shortName": "Tutkiva lääketiede",
+					"type": "Menetelmä",
 					"source": "APG",
 					"page": 58,
 					"subclassFeatures": [
-						"Methodology|Investigator|APG|Forensic Medicine|APG|1"
+						"Menetelmä|Etsivä|APG|Tutkiva lääketiede|APG|1"
 					]
 				},
 				{
-					"name": "Interrogation",
-					"shortName": "Interrogation",
-					"type": "Methodology",
+					"name": "Kuulustelu",
+					"shortName": "Kuulustelu",
+					"type": "Menetelmä",
 					"source": "APG",
 					"page": 58,
 					"subclassFeatures": [
-						"Methodology|Investigator|APG|Interrogation|APG|1"
+						"Menetelmä|Etsivä|APG|Kuulustelu|APG|1"
 					]
 				}
 			],
@@ -269,7 +269,7 @@
 				}
 			],
 			"summary": {
-				"text": "The investigator uses knowledge to uncover mysteries and best their foes.",
+				"text": "The Etsivä uses knowledge to uncover mysteries and best their foes.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Quinn.png"
 				],
@@ -283,7 +283,7 @@
 			"name": "Ancestry and Background",
 			"source": "APG",
 			"page": 56,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
@@ -294,19 +294,19 @@
 			"name": "Strategic Strike",
 			"source": "APG",
 			"page": 56,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
 				"When you strike carefully and with forethought, you deal a telling blow. When making a {@action Strike} that adds your Intelligence modifier on your attack roll due to {@action Devise a Stratagem|APG|Devising a Stratagem}, you deal an additional {@dice 1d6} precision damage.",
-				"As your investigator level increases, so too does the deadliness of your strategic strike. Increase the number of dice by one at 5th, 9th, 13th, and 17th levels."
+				"As your Etsivä level increases, so too does the deadliness of your strategic strike. Increase the number of dice by one at 5th, 9th, 13th, and 17th levels."
 			]
 		},
 		{
 			"name": "Initial Proficiencies",
 			"source": "APG",
 			"page": 56,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
@@ -317,11 +317,11 @@
 			"name": "On the Case",
 			"source": "APG",
 			"page": 56,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
-				"As an investigator, you think of your adventures as cases waiting to be solved. You gain one activity and one reaction you can use to investigate cases: {@action Pursue a Lead|APG} and {@action Clue In|APG}.",
+				"As an Etsivä, you think of your adventures as cases waiting to be solved. You gain one activity and one reaction you can use to investigate cases: {@action Pursue a Lead|APG} and {@action Clue In|APG}.",
 				{
 					"type": "data",
 					"tag": "action",
@@ -340,7 +340,7 @@
 			"name": "Devise a Stratagem",
 			"source": "APG",
 			"page": 56,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
@@ -354,32 +354,32 @@
 			]
 		},
 		{
-			"name": "Methodology",
+			"name": "Menetelmä",
 			"source": "APG",
 			"page": 57,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
-				"Your studies have made you savvy in many areas, but one in particular drew your intense interest. Choose a methodology. The methodologies presented in this book are as follows."
+				"Your studies have made you savvy in many areas, but one in particular drew your intense interest. Choose a Menetelmä. The methodologies presented in this book are as follows."
 			]
 		},
 		{
-			"name": "Investigator Feats",
+			"name": "Etsivä Feats",
 			"source": "APG",
 			"page": 58,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 1,
 			"entries": [
-				"At 1st level and every even-numbered level, you gain an {@filter investigator class feat|feats||type=class|Class=investigator|level=[1;1]}."
+				"At 1st level and every even-numbered level, you gain an {@filter Etsivä class feat|feats||type=class|Class=Etsivä|level=[1;1]}."
 			]
 		},
 		{
 			"name": "Skill Feats",
 			"source": "APG",
 			"page": 58,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 2,
 			"entries": [
@@ -390,7 +390,7 @@
 			"name": "Skill Increases",
 			"source": "APG",
 			"page": 58,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 2,
 			"entries": [
@@ -402,7 +402,7 @@
 			"name": "General Feats",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 3,
 			"entries": [
@@ -413,7 +413,7 @@
 			"name": "Keen Recollection",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 3,
 			"entries": [
@@ -424,18 +424,18 @@
 			"name": "Skillful Lessons",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 3,
 			"entries": [
-				"At 3rd level and every odd-numbered level thereafter, you gain a {@filter skill feat|feats||type=skill;!archetype|Skill={@skill Arcana};Medicine;{@skill Crafting};{@skill Deception};{@skill Diplomacy};{@skill Intimidation};Lore;Nature;Occultism;Performance;Religion;Society;Survival}. This feat must be for an Intelligence-, Wisdom-, or Charisma-based skill, or for the skill you gained from your methodology."
+				"At 3rd level and every odd-numbered level thereafter, you gain a {@filter skill feat|feats||type=skill;!archetype|Skill={@skill Arcana};Medicine;{@skill Crafting};{@skill Deception};{@skill Diplomacy};{@skill Intimidation};Lore;Nature;Occultism;Performance;Religion;Society;Survival}. This feat must be for an Intelligence-, Wisdom-, or Charisma-based skill, or for the skill you gained from your Menetelmä."
 			]
 		},
 		{
 			"name": "Ability Boosts",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -446,7 +446,7 @@
 			"name": "Ancestry Feats",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -457,7 +457,7 @@
 			"name": "Weapon Expertise",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 5,
 			"entries": [
@@ -468,7 +468,7 @@
 			"name": "Vigilant Senses",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 7,
 			"entries": [
@@ -479,7 +479,7 @@
 			"name": "Weapon Specialization",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 7,
 			"entries": [
@@ -490,7 +490,7 @@
 			"name": "Great Fortitude",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 9,
 			"entries": [
@@ -498,21 +498,21 @@
 			]
 		},
 		{
-			"name": "Investigator Expertise",
+			"name": "Etsivä Expertise",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 9,
 			"entries": [
-				"You've refined your investigative techniques to an exceptional degree. Your circumstance bonus from Pursue a Lead increases to +2. Your proficiency rank for your investigator class DC increases to expert."
+				"You've refined your investigative techniques to an exceptional degree. Your circumstance bonus from Pursue a Lead increases to +2. Your proficiency rank for your Etsivä class DC increases to expert."
 			]
 		},
 		{
 			"name": "Deductive Improvisation",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 11,
 			"entries": [
@@ -523,7 +523,7 @@
 			"name": "Resolve",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 11,
 			"entries": [
@@ -534,7 +534,7 @@
 			"name": "Incredible Senses",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 13,
 			"entries": [
@@ -545,7 +545,7 @@
 			"name": "Light Armor Expertise",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 13,
 			"entries": [
@@ -556,7 +556,7 @@
 			"name": "Weapon Mastery",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 13,
 			"entries": [
@@ -567,7 +567,7 @@
 			"name": "Evasion",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 15,
 			"entries": [
@@ -578,7 +578,7 @@
 			"name": "Greater Weapon Specialization",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 15,
 			"entries": [
@@ -589,7 +589,7 @@
 			"name": "Greater Resolve",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 17,
 			"entries": [
@@ -600,7 +600,7 @@
 			"name": "Light Armor Mastery",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 19,
 			"entries": [
@@ -611,30 +611,30 @@
 			"name": "Master Detective",
 			"source": "APG",
 			"page": 59,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
 			"level": 19,
 			"entries": [
-				"As a master detective, you can solve any case and find all the clues available. If you're pursuing the subject of a lead and you enter a new location that includes another clue toward solving the mystery, the GM informs you of the existence of the clue and its type: an object, person, spell effect, or the like. When you find the clue, the GM informs you that you've done so. If there is more than one clue in the location, the GM chooses one to inform you about. When you find any of the clues in that location, the GM informs you that you've done so, even if it wasn't the clue they'd chosen or there are other clues you haven't found. Your proficiency rank for your investigator class DC increases to master."
+				"As a master detective, you can solve any case and find all the clues available. If you're pursuing the subject of a lead and you enter a new location that includes another clue toward solving the mystery, the GM informs you of the existence of the clue and its type: an object, person, spell effect, or the like. When you find the clue, the GM informs you that you've done so. If there is more than one clue in the location, the GM chooses one to inform you about. When you find any of the clues in that location, the GM informs you that you've done so, even if it wasn't the clue they'd chosen or there are other clues you haven't found. Your proficiency rank for your Etsivä class DC increases to master."
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Methodology",
+			"name": "Menetelmä",
 			"source": "APG",
 			"page": 57,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
-			"subclassShortName": "Alchemical Sciences",
+			"subclassShortName": "Alkemia",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Alchemical Sciences",
+					"name": "Alkemia",
 					"entries": [
-						"Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.",
+						"Your Menetelmä emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.",
 						"You're trained in {@skill Crafting} and gain the {@feat Alchemical Crafting} skill feat. In addition, you gain a standard {@item formula book} for free and learn the formulas for two additional {@filter common 1st-level alchemical items|items||general=alchemical|level=[1;1]|rarity=common|category=elixir; tool}, which must be elixirs or tools. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create.",
 						"During your daily preparations, you can create a number of versatile vials\u2014alchemical concoctions that can quickly be turned into elixirs and tools\u2014equal to your Intelligence modifier. You can use the {@action Quick Tincture|APG} action to turn one of these vials into an elixir or alchemical tool for which you know the formula.",
 						{
@@ -648,21 +648,21 @@
 			]
 		},
 		{
-			"name": "Methodology",
+			"name": "Menetelmä",
 			"source": "APG",
 			"page": 57,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
-			"subclassShortName": "Empiricism",
+			"subclassShortName": "Empirismi",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Empiricism",
+					"name": "Empirismi",
 					"entries": [
 						"Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.",
-						"You are trained in one Intelligence-based skill of your choice. You gain the {@feat That's Odd|APG} investigator feat, and you gain the {@action Expeditious Inspection|APG} free action.",
+						"You are trained in one Intelligence-based skill of your choice. You gain the {@feat That's Odd|APG} Etsivä feat, and you gain the {@action Expeditious Inspection|APG} free action.",
 						{
 							"type": "data",
 							"tag": "action",
@@ -674,18 +674,18 @@
 			]
 		},
 		{
-			"name": "Methodology",
+			"name": "Menetelmä",
 			"source": "APG",
 			"page": 58,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
-			"subclassShortName": "Forensic Medicine",
+			"subclassShortName": "Tutkiva lääketiede",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Forensic Medicine",
+					"name": "Tutkiva lääketiede",
 					"entries": [
 						"You've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.",
 						"You're trained in {@skill Medicine} and gain the {@feat Forensic Acumen|APG} and {@feat Battle Medicine} skill feats. When you use {@feat Battle Medicine}, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day."
@@ -694,18 +694,18 @@
 			]
 		},
 		{
-			"name": "Methodology",
+			"name": "Menetelmä",
 			"source": "APG",
 			"page": 58,
-			"className": "Investigator",
+			"className": "Etsivä",
 			"classSource": "APG",
-			"subclassShortName": "Interrogation",
+			"subclassShortName": "Kuulustelu",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Interrogation",
+					"name": "Kuulustelu",
 					"entries": [
 						"People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you've developed interrogative techniques to help you get to the truth of your investigations.",
 						"You are trained in {@skill Diplomacy}. You gain the {@feat No Cause for Alarm} skill feat. You can also {@action Pursue a Lead|APG} over the course of a conversation rather than spending dedicated time looking into the lead, provided the conversation lasts 1 minute or longer. For example, while trying to {@action Make an Impression}, you could pursue the creature you're conversing with as a lead, and you could {@action Pursue a Lead|APG} about an object while someone is telling you information about that object. You also gain the {@action Pointed Question} action.",

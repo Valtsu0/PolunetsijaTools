@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Sorcerer",
+			"name": "Loitsija",
 			"source": "CRB",
 			"page": 191,
 			"keyAbility": "Charisma",
@@ -17,7 +17,7 @@
 							"skill": [
 								"Subclass Dependant"
 							],
-							"entry": "one or more skills determined by your bloodline"
+							"entry": "one or more skills determined by your Sukupuu"
 						}
 					],
 					"add": 2
@@ -38,8 +38,8 @@
 				},
 				"spells": {
 					"t": [
-						"spell attack rolls of your spellcasting tradition, as indicated by your bloodline",
-						"spell DCs of your spellcasting tradition, as indicated by your bloodline"
+						"spell attack rolls of your spellcasting tradition, as indicated by your Sukupuu",
+						"spell DCs of your spellcasting tradition, as indicated by your Sukupuu"
 					]
 				}
 			},
@@ -100,191 +100,191 @@
 				]
 			},
 			"classFeatures": [
-				"Ancestry and Background|Sorcerer|CRB|1",
-				"Initial Proficiencies|Sorcerer|CRB|1",
+				"Ancestry and Background|Loitsija|CRB|1",
+				"Initial Proficiencies|Loitsija|CRB|1",
 				{
-					"classFeature": "Bloodline|Sorcerer|CRB|1",
+					"classFeature": "Sukupuu|Loitsija|CRB|1",
 					"gainSubclassFeature": true
 				},
-				"Sorcerer Spellcasting|Sorcerer|CRB|1",
-				"Spell Repertoire|Sorcerer|CRB|1",
-				"Skill Feats|Sorcerer|CRB|2",
-				"Sorcerer Feats|Sorcerer|CRB|2",
-				"General Feats|Sorcerer|CRB|3",
-				"Signature Spells|Sorcerer|CRB|3",
-				"Skill Increases|Sorcerer|CRB|3",
-				"Ability Boosts|Sorcerer|CRB|5",
-				"Ancestry Feats|Sorcerer|CRB|5",
-				"Magical Fortitude|Sorcerer|CRB|5",
-				"Expert Spellcaster|Sorcerer|CRB|7",
-				"Lightning Reflexes|Sorcerer|CRB|9",
-				"Alertness|Sorcerer|CRB|11",
-				"Simple Weapon Expertise|Sorcerer|CRB|11",
-				"Defensive Robes|Sorcerer|CRB|13",
-				"Weapon Specialization|Sorcerer|CRB|13",
-				"Master Spellcaster|Sorcerer|CRB|15",
-				"Bloodline Paragon|Sorcerer|CRB|19",
-				"Legendary Spellcaster|Sorcerer|CRB|19"
+				"Loitsija Spellcasting|Loitsija|CRB|1",
+				"Spell Repertoire|Loitsija|CRB|1",
+				"Skill Feats|Loitsija|CRB|2",
+				"Loitsija Feats|Loitsija|CRB|2",
+				"General Feats|Loitsija|CRB|3",
+				"Signature Spells|Loitsija|CRB|3",
+				"Skill Increases|Loitsija|CRB|3",
+				"Ability Boosts|Loitsija|CRB|5",
+				"Ancestry Feats|Loitsija|CRB|5",
+				"Magical Fortitude|Loitsija|CRB|5",
+				"Expert Spellcaster|Loitsija|CRB|7",
+				"Lightning Reflexes|Loitsija|CRB|9",
+				"Alertness|Loitsija|CRB|11",
+				"Simple Weapon Expertise|Loitsija|CRB|11",
+				"Defensive Robes|Loitsija|CRB|13",
+				"Weapon Specialization|Loitsija|CRB|13",
+				"Master Spellcaster|Loitsija|CRB|15",
+				"Sukupuu Paragon|Loitsija|CRB|19",
+				"Legendary Spellcaster|Loitsija|CRB|19"
 			],
 			"subclasses": [
 				{
-					"name": "Aberrant",
-					"shortName": "Aberrant",
-					"type": "Bloodline",
+					"name": "Poikkeava",
+					"shortName": "Poikkeava",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 195,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Aberrant|CRB|1"
+						"Sukupuu|Loitsija|CRB|Poikkeava|CRB|1"
 					]
 				},
 				{
-					"name": "Angelic",
-					"shortName": "Angelic",
-					"type": "Bloodline",
+					"name": "Taivaallinen",
+					"shortName": "Taivaallinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 195,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Angelic|CRB|1"
+						"Sukupuu|Loitsija|CRB|Taivaallinen|CRB|1"
 					]
 				},
 				{
-					"name": "Demonic",
-					"shortName": "Demonic",
-					"type": "Bloodline",
+					"name": "Helvetillinen",
+					"shortName": "Helvetillinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 195,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Demonic|CRB|1"
+						"Sukupuu|Loitsija|CRB|Helvetillinen|CRB|1"
 					]
 				},
 				{
-					"name": "Diabolic",
-					"shortName": "Diabolic",
-					"type": "Bloodline",
+					"name": "Pirullinen",
+					"shortName": "Pirullinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 196,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Diabolic|CRB|1"
+						"Sukupuu|Loitsija|CRB|Pirullinen|CRB|1"
 					]
 				},
 				{
-					"name": "Wyrmblessed",
-					"shortName": "Wyrmblessed",
-					"type": "Bloodline",
+					"name": "Lentokäärmeen siunaama",
+					"shortName": "Lentokäärmeen siunaama",
+					"type": "Sukupuu",
 					"source": "LOME",
 					"page": 75,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Wyrmblessed|LOME|1"
+						"Sukupuu|Loitsija|CRB|Lentokäärmeen siunaama|LOME|1"
 					]
 				},
 				{
-					"name": "Draconic",
-					"shortName": "Draconic",
-					"type": "Bloodline",
+					"name": "Lohikäärmeellinen",
+					"shortName": "Lohikäärmeellinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 196,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Draconic|CRB|1"
+						"Sukupuu|Loitsija|CRB|Lohikäärmeellinen|CRB|1"
 					]
 				},
 				{
-					"name": "Elemental",
-					"shortName": "Elemental",
-					"type": "Bloodline",
+					"name": "Luonnonvoimaallinen",
+					"shortName": "Luonnonvoimaallinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 196,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Elemental|CRB|1"
+						"Sukupuu|Loitsija|CRB|Luonnonvoimaallinen|CRB|1"
 					]
 				},
 				{
-					"name": "Fey",
-					"shortName": "Fey",
-					"type": "Bloodline",
+					"name": "Keijukainen",
+					"shortName": "Keijukainen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 197,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Fey|CRB|1"
+						"Sukupuu|Loitsija|CRB|Keijukainen|CRB|1"
 					]
 				},
 				{
-					"name": "Hag",
-					"shortName": "Hag",
-					"type": "Bloodline",
+					"name": "Akka",
+					"shortName": "Akka",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 197,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Hag|CRB|1"
+						"Sukupuu|Loitsija|CRB|Akka|CRB|1"
 					]
 				},
 				{
-					"name": "Imperial",
-					"shortName": "Imperial",
-					"type": "Bloodline",
+					"name": "Keisarillinen",
+					"shortName": "Keisarillinen",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 198,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Imperial|CRB|1"
+						"Sukupuu|Loitsija|CRB|Keisarillinen|CRB|1"
 					]
 				},
 				{
-					"name": "Undead",
-					"shortName": "Undead",
-					"type": "Bloodline",
+					"name": "Epäkuollut",
+					"shortName": "Epäkuollut",
+					"type": "Sukupuu",
 					"source": "CRB",
 					"page": 198,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Undead|CRB|1"
+						"Sukupuu|Loitsija|CRB|Epäkuollut|CRB|1"
 					]
 				},
 				{
-					"name": "Genie",
-					"shortName": "Genie",
-					"type": "Bloodline",
+					"name": "Henki",
+					"shortName": "Henki",
+					"type": "Sukupuu",
 					"source": "APG",
 					"page": 138,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Genie|APG|1"
+						"Sukupuu|Loitsija|CRB|Henki|APG|1"
 					]
 				},
 				{
-					"name": "Nymph",
-					"shortName": "Nymph",
-					"type": "Bloodline",
+					"name": "Luonnonhengetär",
+					"shortName": "Luonnonhengetär",
+					"type": "Sukupuu",
 					"source": "APG",
 					"page": 138,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Nymph|APG|1"
+						"Sukupuu|Loitsija|CRB|Luonnonhengetär|APG|1"
 					]
 				},
 				{
-					"name": "Psychopomp",
-					"shortName": "Psychopomp",
-					"type": "Bloodline",
+					"name": "Saattaja",
+					"shortName": "Saattaja",
+					"type": "Sukupuu",
 					"source": "APG",
 					"page": 138,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Psychopomp|APG|1"
+						"Sukupuu|Loitsija|CRB|Saattaja|APG|1"
 					]
 				},
 				{
-					"name": "Shadow",
-					"shortName": "Shadow",
-					"type": "Bloodline",
+					"name": "Varjo",
+					"shortName": "Varjo",
+					"type": "Sukupuu",
 					"source": "APG",
 					"page": 138,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Shadow|APG|1"
+						"Sukupuu|Loitsija|CRB|Varjo|APG|1"
 					]
 				},
 				{
-					"name": "Phoenix",
-					"shortName": "Phoenix",
-					"type": "Bloodline",
+					"name": "Feeniks",
+					"shortName": "Feeniks",
+					"type": "Sukupuu",
 					"source": "FRP3",
 					"page": 74,
 					"subclassFeatures": [
-						"Bloodline|Sorcerer|CRB|Phoenix|FRP3|1"
+						"Sukupuu|Loitsija|CRB|Feeniks|FRP3|1"
 					]
 				}
 			],
@@ -297,7 +297,7 @@
 					"page": 191,
 					"name": "During Combat Encounters...",
 					"entries": [
-						"You use spells to injure your enemies, influence their minds, and hamper their movements. You might be too vulnerable to get into melee combat, or your bloodline might give you abilities that help you hold your own in a brawl. While your magic is powerful, to conserve your best spells\u2014or when you've used them all up\u2014you also rely on cantrips."
+						"You use spells to injure your enemies, influence their minds, and hamper their movements. You might be too vulnerable to get into melee combat, or your Sukupuu might give you abilities that help you hold your own in a brawl. While your magic is powerful, to conserve your best spells\u2014or when you've used them all up\u2014you also rely on cantrips."
 					]
 				},
 				{
@@ -313,7 +313,7 @@
 					"page": 191,
 					"name": "While exploring...",
 					"entries": [
-						"You detect the magic around you, finding treasures and warning your adventuring group of magical traps. When the group encounters mysteries or problems related to your bloodline, you try to solve them."
+						"You detect the magic around you, finding treasures and warning your adventuring group of magical traps. When the group encounters mysteries or problems related to your Sukupuu, you try to solve them."
 					]
 				},
 				{
@@ -321,7 +321,7 @@
 					"page": 191,
 					"name": "In downtime...",
 					"entries": [
-						"You craft magic items or scribe scrolls. Your bloodline might drive you to research your ancestry or associate with affiliated people or creatures."
+						"You craft magic items or scribe scrolls. Your Sukupuu might drive you to research your ancestry or associate with affiliated people or creatures."
 					]
 				},
 				{
@@ -356,7 +356,7 @@
 				}
 			],
 			"summary": {
-				"text": "The sorcerer's magical might flows from their blood and manifests as fantastic spells and abilities.",
+				"text": "The Loitsija's magical might flows from their blood and manifests as fantastic spells and abilities.",
 				"images": [
 					"https://2e.aonprd.com/Images/Classes/Iconic_Seoni.png"
 				],
@@ -370,7 +370,7 @@
 			"name": "Ancestry and Background",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -378,27 +378,27 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Choose a bloodline that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, additional spells you learn, and additional trained skills. You also gain Focus Points and special focus spells based on your bloodline.",
+				"Choose a Sukupuu that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, additional spells you learn, and additional trained skills. You also gain Focus Points and special focus spells based on your Sukupuu.",
 				{
 					"type": "pf2-h4",
-					"name": "Bloodline Spells",
+					"name": "Sukupuu Spells",
 					"entries": [
-						"Your bloodline grants you bloodline spells, special spells unique to your lineage. Bloodline spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the {@action Refocus} activity. Unlike other characters, you don't need to do anything specific to {@action Refocus}, as the power flowing through your veins naturally replenishes your focus pool.",
+						"Your Sukupuu grants you Sukupuu spells, special spells unique to your lineage. Sukupuu spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the {@action Refocus} activity. Unlike other characters, you don't need to do anything specific to {@action Refocus}, as the power flowing through your veins naturally replenishes your focus pool.",
 						"Focus spells are automatically heightened to half your level rounded up. Focus spells don't require spell slots, nor can you cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points. The full rules can be found {@quickref here|CRB|2|focus spells|0}."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Reading a Bloodline Entry",
+					"name": "Reading a Sukupuu Entry",
 					"entries": [
-						"A bloodline entry contains the following information.",
+						"A Sukupuu entry contains the following information.",
 						{
 							"type": "pf2-options",
 							"skipSort": true,
@@ -412,7 +412,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"You become trained in the listed skills."
 									]
@@ -421,21 +421,21 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"You automatically add the spells listed here to your spell repertoire, as described in {@classFeature Spell Repertoire|Sorcerer||1}. At 1st level, you gain a cantrip and a 1st-level spell. You learn the other spells on the list as soon as you gain the ability to cast sorcerer spells of that level."
+										"You automatically add the spells listed here to your spell repertoire, as described in {@classFeature Spell Repertoire|Loitsija||1}. At 1st level, you gain a cantrip and a 1st-level spell. You learn the other spells on the list as soon as you gain the ability to cast Loitsija spells of that level."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"You automatically gain the initial bloodline spell at 1st level and can gain more by selecting the {@feat Advanced Bloodline} and {@feat Greater Bloodline} feats."
+										"You automatically gain the initial Sukupuu spell at 1st level and can gain more by selecting the {@feat Advanced Sukupuu} and {@feat Greater Sukupuu} feats."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Whenever you cast a bloodline spell using Focus Points or a granted spell from your bloodline using a spell slot, you gain a blood magic effect. If the blood magic offers a choice, make it before resolving the spell. The blood magic effect occurs after resolving any checks for the spell's initial effects and, against a foe, applies only if the spell is a successful attack or the foe fails its saving throw. If the spell has an area, you must designate yourself or one target in the area when you cast the spell to be the target of the blood magic effect. All references to spell level refer to the level of the spell you cast."
+										"Whenever you cast a Sukupuu spell using Focus Points or a granted spell from your Sukupuu using a spell slot, you gain a blood magic effect. If the blood magic offers a choice, make it before resolving the spell. The blood magic effect occurs after resolving any checks for the spell's initial effects and, against a foe, applies only if the spell is a successful attack or the foe fails its saving throw. If the spell has an area, you must designate yourself or one target in the area when you cast the spell to be the target of the blood magic effect. All references to spell level refer to the level of the spell you cast."
 									]
 								}
 							]
@@ -446,7 +446,7 @@
 					"type": "pf2-brown-box",
 					"name": "THE BLESSED AND THE DAMNED",
 					"entries": [
-						"Many bloodlines are tied to certain types of creatures, and the reputations of those creatures might color how people see you. If you have the blood of demons, people might fear you; conversely, people of good faiths might assume angelic blood puts you on their side. These preconceptions aren't necessarily true. Having a bloodline of creatures of a certain alignment doesn't have any effect on your own alignment unless you want it to; your magic is disconnected from its source."
+						"Many bloodlines are tied to certain types of creatures, and the reputations of those creatures might color how people see you. If you have the blood of demons, people might fear you; conversely, people of good faiths might assume Taivaallinen blood puts you on their side. These preconceptions aren't necessarily true. Having a Sukupuu of creatures of a certain alignment doesn't have any effect on your own alignment unless you want it to; your magic is disconnected from its source."
 					]
 				}
 			]
@@ -455,7 +455,7 @@
 			"name": "Initial Proficiencies",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
@@ -463,16 +463,16 @@
 			]
 		},
 		{
-			"name": "Sorcerer Spellcasting",
+			"name": "Loitsija Spellcasting",
 			"source": "CRB",
 			"page": 192,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"Your bloodline provides you with incredible magical power. You can cast spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a sorcerer, you can usually replace material components with somatic components, so you don't need to use a material component pouch.",
+				"Your Sukupuu provides you with incredible magical power. You can cast spells using the {@action Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a Loitsija, you can usually replace material components with somatic components, so you don't need to use a material component pouch.",
 				"Each day, you can cast up to three 1st-level spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.",
-				"As you increase in level as a sorcerer, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3\u201317: Sorcerer Spells per Day.",
+				"As you increase in level as a Loitsija, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3\u201317: Loitsija Spells per Day.",
 				"Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier. Details on calculating these statistics appear in Spell Attack Rolls.",
 				{
 					"type": "pf2-h4",
@@ -487,7 +487,7 @@
 					"page": 192,
 					"name": "Cantrips",
 					"entries": [
-						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of sorcerer spell slot you have. For example, as a 1st-level sorcerer, your cantrips are 1st-level spells, and as a 5th-level sorcerer, your cantrips are 3rd-level spells."
+						"A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up\u2014this is usually equal to the highest level of Loitsija spell slot you have. For example, as a 1st-level Loitsija, your cantrips are 1st-level spells, and as a 5th-level Loitsija, your cantrips are 3rd-level spells."
 					]
 				},
 				{
@@ -496,7 +496,7 @@
 						0,
 						1
 					],
-					"name": "Sorcerer Spells per Day",
+					"name": "Loitsija Spells per Day",
 					"id": "3-17",
 					"spans": [
 						[
@@ -536,7 +536,7 @@
 						"text-center"
 					],
 					"footnotes": [
-						"* The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots."
+						"* The Sukupuu paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots."
 					],
 					"rows": [
 						[
@@ -845,19 +845,19 @@
 			"name": "Spell Repertoire",
 			"source": "CRB",
 			"page": 193,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two {@filter 1st-level spells|spells||spell type=spell|rarity=common|level=1} of your choice and four {@filter cantrips|spells||rarity=common|level=0} of your choice, as well as an additional spell and cantrip from your bloodline. You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level.",
-				"You add to this spell repertoire as you increase in level. Each time you get a spell slot (see Table 3\u201317), you add a spell of the same level to your spell repertoire. When you gain access to a new level of spells, your first new spell is always the spell granted by your bloodline, but you can choose the other spells. At 2nd level, you select another 1st-level spell; at 3rd level, you gain a new spell from your bloodline and two other 2nd-level spells, and so on. When you add spells, you might select a higher-level version of a spell you already know so that you can cast a heightened version of that spell.",
+				"The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two {@filter 1st-level spells|spells||spell type=spell|rarity=common|level=1} of your choice and four {@filter cantrips|spells||rarity=common|level=0} of your choice, as well as an additional spell and cantrip from your Sukupuu. You choose these from the common spells from the tradition corresponding to your Sukupuu, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level.",
+				"You add to this spell repertoire as you increase in level. Each time you get a spell slot (see Table 3\u201317), you add a spell of the same level to your spell repertoire. When you gain access to a new level of spells, your first new spell is always the spell granted by your Sukupuu, but you can choose the other spells. At 2nd level, you select another 1st-level spell; at 3rd level, you gain a new spell from your Sukupuu and two other 2nd-level spells, and so on. When you add spells, you might select a higher-level version of a spell you already know so that you can cast a heightened version of that spell.",
 				"Though you gain them at the same rate, your spell slots and the spells in your spell repertoire are separate. If a feat or other ability adds a spell to your spell repertoire, it wouldn't give you another spell slot, and vice versa.",
 				{
 					"type": "pf2-h4",
 					"page": 193,
 					"name": "Swapping Spells In Your Repertoire",
 					"entries": [
-						"As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same level. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by {@action retraining} during downtime."
+						"As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same level. This spell can be a cantrip, but you can't swap out Sukupuu spells. You can also swap out spells by {@action retraining} during downtime."
 					]
 				}
 			]
@@ -866,7 +866,7 @@
 			"name": "Skill Feats",
 			"page": 193,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
@@ -874,21 +874,21 @@
 			]
 		},
 		{
-			"name": "Sorcerer Feats",
+			"name": "Loitsija Feats",
 			"page": 193,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 2,
 			"entries": [
-				"At 2nd level and every even-numbered level, you gain a {@filter sorcerer class feat|feats||type=class|Class=sorcerer|level=[1;2]}."
+				"At 2nd level and every even-numbered level, you gain a {@filter Loitsija class feat|feats||type=class|Class=Loitsija|level=[1;2]}."
 			]
 		},
 		{
 			"name": "General Feats",
 			"page": 193,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -899,7 +899,7 @@
 			"name": "Signature Spells",
 			"page": 193,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -910,7 +910,7 @@
 			"name": "Skill Increases",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 3,
 			"entries": [
@@ -922,7 +922,7 @@
 			"name": "Ability Boosts",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -933,7 +933,7 @@
 			"name": "Ancestry Feats",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -944,7 +944,7 @@
 			"name": "Magical Fortitude",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -955,18 +955,18 @@
 			"name": "Expert Spellcaster",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
-				"Your inherent magic responds easily and powerfully to your command. Your proficiency ranks for spell attack rolls and spell DCs for spells of your bloodline's tradition increase to expert."
+				"Your inherent magic responds easily and powerfully to your command. Your proficiency ranks for spell attack rolls and spell DCs for spells of your Sukupuu's tradition increase to expert."
 			]
 		},
 		{
 			"name": "Lightning Reflexes",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 9,
 			"entries": [
@@ -977,7 +977,7 @@
 			"name": "Alertness",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -988,7 +988,7 @@
 			"name": "Simple Weapon Expertise",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -999,7 +999,7 @@
 			"name": "Defensive Robes",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -1010,7 +1010,7 @@
 			"name": "Weapon Specialization",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -1021,18 +1021,18 @@
 			"name": "Master Spellcaster",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 15,
 			"entries": [
-				"You have achieved mastery over the magic in your blood. Your proficiency ranks for spell attack rolls and spell DCs for spells of your bloodline's tradition increase to master."
+				"You have achieved mastery over the magic in your blood. Your proficiency ranks for spell attack rolls and spell DCs for spells of your Sukupuu's tradition increase to master."
 			]
 		},
 		{
 			"name": "Resolve",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -1040,42 +1040,42 @@
 			]
 		},
 		{
-			"name": "Bloodline Paragon",
+			"name": "Sukupuu Paragon",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"You have perfected the magic in your bloodline. Add two {@filter common 10th-level spells|spells||rarity=common|level=10} of your tradition to your repertoire. You gain a single 10th-level spell slot you can use to cast these spells, using sorcerer spellcasting. Unlike other spell slots, you don't gain more 10th-level spells as you level up, and they can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You can take the {@feat Bloodline Perfection} sorcerer feat to gain a second slot."
+				"You have perfected the magic in your Sukupuu. Add two {@filter common 10th-level spells|spells||rarity=common|level=10} of your tradition to your repertoire. You gain a single 10th-level spell slot you can use to cast these spells, using Loitsija spellcasting. Unlike other spell slots, you don't gain more 10th-level spells as you level up, and they can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You can take the {@feat Sukupuu Perfection} Loitsija feat to gain a second slot."
 			]
 		},
 		{
 			"name": "Legendary Spellcaster",
 			"page": 194,
 			"source": "CRB",
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
 			"level": 19,
 			"entries": [
-				"You demonstrate prodigious talent for spellcasting. Your proficiency ranks for spell attack rolls and spell DCs for spells of your bloodline's tradition increase to legendary."
+				"You demonstrate prodigious talent for spellcasting. Your proficiency ranks for spell attack rolls and spell DCs for spells of your Sukupuu's tradition increase to legendary."
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 195,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Poikkeava",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Aberrant",
+					"name": "Poikkeava",
 					"entries": [
 						"Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.",
 						{
@@ -1092,7 +1092,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Occultism}"
 									]
@@ -1106,16 +1106,16 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell tentacular limbs}}; advanced: {@i {@spell aberrant whispers}}; greater: {@i {@spell unusual anatomy}}"
+										"initial: {@i {@spell tentacular limbs}}; advanced: {@i {@spell Poikkeava whispers}}; greater: {@i {@spell unusual anatomy}}"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Aberrant whispers shield one target's mind or your own, granting a +2 status bonus to Will saving throws for 1 round."
+										"Poikkeava whispers shield one target's mind or your own, granting a +2 status bonus to Will saving throws for 1 round."
 									]
 								}
 							]
@@ -1125,18 +1125,18 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 195,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Angelic",
+			"subclassShortName": "Taivaallinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Angelic",
+					"name": "Taivaallinen",
 					"entries": [
 						"One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.",
 						{
@@ -1153,7 +1153,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Diplomacy}, {@skill Religion}"
 									]
@@ -1167,16 +1167,16 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell angelic halo}}; advanced: {@i {@spell angelic wings}}; greater: {@i {@spell celestial brand}}"
+										"initial: {@i {@spell Taivaallinen halo}}; advanced: {@i {@spell Taivaallinen wings}}; greater: {@i {@spell celestial brand}}"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"An angelic aura protects you or one target, granting a +1 status bonus to saving throws for 1 round."
+										"An Taivaallinen aura protects you or one target, granting a +1 status bonus to saving throws for 1 round."
 									]
 								}
 							]
@@ -1186,18 +1186,18 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 195,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Demonic",
+			"subclassShortName": "Helvetillinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Demonic",
+					"name": "Helvetillinen",
 					"entries": [
 						"Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.",
 						{
@@ -1214,7 +1214,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Religion}"
 									]
@@ -1228,7 +1228,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell glutton's jaws}}; advanced: {@i {@spell swamp of sloth}}; greater: {@i {@spell abyssal wrath}}"
 									]
@@ -1247,18 +1247,18 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Diabolic",
+			"subclassShortName": "Pirullinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Diabolic",
+					"name": "Pirullinen",
 					"entries": [
 						"Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.",
 						{
@@ -1275,7 +1275,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Deception}, {@skill Religion}"
 									]
@@ -1289,9 +1289,9 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell diabolic edict}}; advanced: {@i {@spell embrace the pit}}; greater: {@i {@spell hellfire plume}}"
+										"initial: {@i {@spell Pirullinen edict}}; advanced: {@i {@spell embrace the pit}}; greater: {@i {@spell hellfire plume}}"
 									]
 								},
 								{
@@ -1308,20 +1308,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "LOME",
 			"page": 75,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Wyrmblessed",
+			"subclassShortName": "Lentokäärmeen siunaama",
 			"subclassSource": "LOME",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Wyrmblessed",
+					"name": "Lentokäärmeen siunaama",
 					"entries": [
-						"You lay claim to the might of dragons, but your powers are sacred instead of arcane\u2014born from a worship of draconic might so powerful it infused your blood or, perhaps, from a celestial or draconic power blessing one of your ancestors received.",
+						"You lay claim to the might of dragons, but your powers are sacred instead of arcane\u2014born from a worship of Lohikäärmeellinen might so powerful it infused your blood or, perhaps, from a celestial or Lohikäärmeellinen power blessing one of your ancestors received.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1336,7 +1336,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Religion}"
 									]
@@ -1350,7 +1350,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell dragon claws}}; advanced: {@i {@spell dragon breath}}; greater: {@i {@spell dragon wings}}"
 									]
@@ -1359,7 +1359,7 @@
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Draconic might carries in your voice. Either you gain a +1 status bonus to {@skill Intimidation} checks for 1 round, or a target takes a \u20131 status penalty to Will saves for 1 round."
+										"Lohikäärmeellinen might carries in your voice. Either you gain a +1 status bonus to {@skill Intimidation} checks for 1 round, or a target takes a \u20131 status penalty to Will saves for 1 round."
 									]
 								}
 							]
@@ -1370,31 +1370,31 @@
 					"type": "pf2-h4",
 					"name": "Dragon Type",
 					"entries": [
-						"At 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This choice affects how some of your bloodline spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold). The primal dragons of planar origin and their damage types are brine (acid), cloud (electricity), crystal (piercing), magma (fire), and umbral (negative). The imperial dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire). For the {@spell dragon breath} focus spell, the area is a 60-foot line for a brine dragon; a 30-foot cone for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a 10-foot burst within 30 feet for a sea, sky, or underworld dragon."
+						"At 1st level, choose the type of dragon that influenced your Sukupuu. You can't change your dragon type later. This choice affects how some of your Sukupuu spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold). The primal dragons of planar origin and their damage types are brine (acid), cloud (electricity), crystal (piercing), magma (fire), and umbral (negative). The Keisarillinen dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire). For the {@spell dragon breath} focus spell, the area is a 60-foot line for a brine dragon; a 30-foot cone for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a 10-foot burst within 30 feet for a sea, sky, or underworld dragon."
 					]
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Related Bloodline",
+					"name": "Related Sukupuu",
 					"entries": [
-						"Because the wyrmblessed and {@class sorcerer||draconic|draconic} bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements."
+						"Because the Lentokäärmeen siunaama and {@class Loitsija||Lohikäärmeellinen|Lohikäärmeellinen} bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements."
 					]
 				}
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Lohikäärmeellinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Draconic",
+					"name": "Lohikäärmeellinen",
 					"entries": [
 						"The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.",
 						{
@@ -1411,7 +1411,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Arcana}, {@skill Intimidation}"
 									]
@@ -1425,7 +1425,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell dragon claws}}; advanced: {@i {@spell dragon breath}}; greater: {@i {@spell dragon wings}}"
 									]
@@ -1434,7 +1434,7 @@
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Draconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round."
+										"Lohikäärmeellinen scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round."
 									]
 								}
 							]
@@ -1445,28 +1445,28 @@
 					"type": "pf2-h4",
 					"name": "Dragon Type",
 					"entries": [
-						"At 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This affects how some of your bloodline spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold).",
-						"{@note While not explicitly stated to be available to Draconic Sorcerers, in Lost Omens: The Mwangi Expanse and Strength of Thousands: Hurricane's Howl, the types of dragons have been expanded with the following: The primal dragons of planar origin and their damage types are brine (acid), cloud (electricity), crystal (piercing), magma (fire), and umbral (negative). The imperial dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire).}"
+						"At 1st level, choose the type of dragon that influenced your Sukupuu. You can't change your dragon type later. This affects how some of your Sukupuu spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold).",
+						"{@note While not explicitly stated to be available to Lohikäärmeellinen Sorcerers, in Lost Omens: The Mwangi Expanse and Strength of Thousands: Hurricane's Howl, the types of dragons have been expanded with the following: The primal dragons of planar origin and their damage types are brine (acid), cloud (electricity), crystal (piercing), magma (fire), and umbral (negative). The Keisarillinen dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire).}"
 					]
 				}
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "FRP3",
 			"page": 74,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Phoenix",
+			"subclassShortName": "Feeniks",
 			"subclassSource": "FRP3",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Phoenix ({@trait Uncommon})",
+					"name": "Feeniks ({@trait Uncommon})",
 					"entries": [
-						"You have been blessed by a phoenix, perhaps via some, magical interaction with a similarly blessed individual.",
-						"Grant this new sorcerer bloodline to players who finish the Fists of the Ruby Phoenix Adventure Path. Players can then choose this bloodline for any new sorcerer characters they create for future campaigns.",
+						"You have been blessed by a Feeniks, perhaps via some, magical interaction with a similarly blessed individual.",
+						"Grant this new Loitsija Sukupuu to players who finish the Fists of the Ruby Feeniks Adventure Path. Players can then choose this Sukupuu for any new Loitsija characters they create for future campaigns.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1481,7 +1481,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Diplomacy}, {@skill Nature}"
 									]
@@ -1495,7 +1495,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell rejuvenating flames|frp3}}; advanced: {@i {@spell shroud of flame|frp3}}; greater: {@i {@spell cleansing flames|frp3}}"
 									]
@@ -1514,20 +1514,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 196,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Elemental",
+			"subclassShortName": "Luonnonvoimaallinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Elemental",
+					"name": "Luonnonvoimaallinen",
 					"entries": [
-						"A genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells marked with an asterisk (*), as well as your blood magic, function.",
+						"A Henki ancestor or some other Luonnonvoimaallinen influence has imbued your blood with primal fury, affecting how the Sukupuu spells and granted spells marked with an asterisk (*), as well as your blood magic, function.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1542,7 +1542,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Nature}"
 									]
@@ -1551,21 +1551,21 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"cantrip: {@i {@spell produce flame}*}; 1st: {@i {@spell burning hands}*}; 2nd: {@i {@spell resist energy}}; 3rd: {@i {@spell fireball}*}; 4th: {@i {@spell freedom of movement}}; 5th: {@i {@spell elemental form}}; 6th: {@i {@spell repulsion}}; 7th: {@i {@spell energy aegis}}; 8th: {@i {@spell prismatic wall}}; 9th: {@i {@spell storm of vengeance}}"
+										"cantrip: {@i {@spell produce flame}*}; 1st: {@i {@spell burning hands}*}; 2nd: {@i {@spell resist energy}}; 3rd: {@i {@spell fireball}*}; 4th: {@i {@spell freedom of movement}}; 5th: {@i {@spell Luonnonvoimaallinen form}}; 6th: {@i {@spell repulsion}}; 7th: {@i {@spell energy aegis}}; 8th: {@i {@spell prismatic wall}}; 9th: {@i {@spell storm of vengeance}}"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell elemental toss}*}; advanced: {@i {@spell elemental motion}*}; greater: {@i {@spell elemental blast}*}"
+										"initial: {@i {@spell Luonnonvoimaallinen toss}*}; advanced: {@i {@spell Luonnonvoimaallinen motion}*}; greater: {@i {@spell Luonnonvoimaallinen blast}*}"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Elemental energy surrounds you or a target. Either you gain a +1 status bonus to {@skill Intimidation} checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning or fire, according to your elemental type (see below). If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances."
+										"Luonnonvoimaallinen energy surrounds you or a target. Either you gain a +1 status bonus to {@skill Intimidation} checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning or fire, according to your Luonnonvoimaallinen type (see below). If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances."
 									]
 								}
 							]
@@ -1574,28 +1574,28 @@
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Elemental Type",
+					"name": "Luonnonvoimaallinen Type",
 					"entries": [
-						"Choose the type of elemental that influenced your bloodline: air, earth, fire, or water. If your element is air, you buffet your foes with powerful winds; if it's earth, you toss huge chunks of rock; if it's fire, you incinerate your foes with flame; and if it's water, you inundate your foes with torrents of water. For fire, all marked spells deal fire damage. For other elements, they deal bludgeoning damage. Replace any existing elemental traits with the trait of the element you chose."
+						"Choose the type of Luonnonvoimaallinen that influenced your Sukupuu: air, earth, fire, or water. If your element is air, you buffet your foes with powerful winds; if it's earth, you toss huge chunks of rock; if it's fire, you incinerate your foes with flame; and if it's water, you inundate your foes with torrents of water. For fire, all marked spells deal fire damage. For other elements, they deal bludgeoning damage. Replace any existing Luonnonvoimaallinen traits with the trait of the element you chose."
 					]
 				}
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 197,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Fey",
+			"subclassShortName": "Keijukainen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Fey",
+					"name": "Keijukainen",
 					"entries": [
-						"Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.",
+						"Keijukainen whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's Sukupuu.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1610,7 +1610,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Deception}, {@skill Nature}"
 									]
@@ -1624,16 +1624,16 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell faerie dust}}; advanced: {@i {@spell fey disappearance}}; greater: {@i {@spell fey glamour}}"
+										"initial: {@i {@spell faerie dust}}; advanced: {@i {@spell Keijukainen disappearance}}; greater: {@i {@spell Keijukainen glamour}}"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Colorful fey glamours dance around you or one target, causing them to be {@condition concealed} for 1 round. Such obvious concealment can't be used to {@action Hide}."
+										"Colorful Keijukainen glamours dance around you or one target, causing them to be {@condition concealed} for 1 round. Such obvious concealment can't be used to {@action Hide}."
 									]
 								}
 							]
@@ -1643,20 +1643,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 197,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Hag",
+			"subclassShortName": "Akka",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Hag",
+					"name": "Akka",
 					"entries": [
-						"A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.",
+						"A Akka long ago cursed your family, or you are a descendant of a Akka or changeling, and their accursed corruption infests your blood and soul.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1671,7 +1671,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Deception}, {@skill Occultism}"
 									]
@@ -1685,7 +1685,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell jealous hex}}; advanced: {@i {@spell horrific visage}}; greater: {@i {@spell you're mine}}"
 									]
@@ -1704,18 +1704,18 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 198,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Imperial",
+			"subclassShortName": "Keisarillinen",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Imperial",
+					"name": "Keisarillinen",
 					"entries": [
 						"One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.",
 						{
@@ -1732,7 +1732,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Arcana}, {@skill Society}"
 									]
@@ -1746,7 +1746,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell ancestral memories}}; advanced: {@i {@spell extend spell}}; greater: {@i {@spell arcane countermeasure}}"
 									]
@@ -1765,20 +1765,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "CRB",
 			"page": 198,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Undead",
+			"subclassShortName": "Epäkuollut",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Undead",
+					"name": "Epäkuollut",
 					"entries": [
-						"The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit different.",
+						"The touch of undeath runs through your blood. Your family tree might contain powerful Epäkuollut, like a vampire, or perhaps you died and returned a bit different.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1793,7 +1793,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Religion}"
 									]
@@ -1802,12 +1802,12 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"cantrip: {@i {@spell chill touch}}; 1st: {@i {@spell harm}}; 2nd: {@i {@spell false life}}; 3rd: {@i {@spell haste}}; 4th: {@i {@spell bind undead}}; 5th: {@i {@spell cloudkill}}; 6th: {@i {@spell vampiric exsanguination}}; 7th: {@i {@spell finger of death}}; 8th: {@i {@spell horrid wilting}}; 9th: {@i {@spell wail of the banshee}}"
+										"cantrip: {@i {@spell chill touch}}; 1st: {@i {@spell harm}}; 2nd: {@i {@spell false life}}; 3rd: {@i {@spell haste}}; 4th: {@i {@spell bind Epäkuollut}}; 5th: {@i {@spell cloudkill}}; 6th: {@i {@spell vampiric exsanguination}}; 7th: {@i {@spell finger of death}}; 8th: {@i {@spell horrid wilting}}; 9th: {@i {@spell wail of the banshee}}"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell undeath's blessing}}; advanced: {@i {@spell drain life}}; greater: {@i {@spell grasping grave}}"
 									]
@@ -1826,20 +1826,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "APG",
 			"page": 138,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Genie",
+			"subclassShortName": "Henki",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Genie",
+					"name": "Henki",
 					"entries": [
-						"Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.",
+						"Through lineage, magic, or wishes made real, the blood of a noble Henki flows through your veins.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1854,7 +1854,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Arcana}, {@skill Deception}"
 									]
@@ -1863,14 +1863,14 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"cantrip: {@i {@spell detect magic}}; 1st: {@i {@spell illusory disguise}}; 2nd: variable (see Genie Type below); 3rd: {@i {@spell enthrall}}; 4th: {@i {@spell creation}}; 5th: variable (see Genie Type below); 6th: {@i {@spell true seeing}}; 7th: {@i {@spell energy aegis}}; 8th: variable (see Genie Type below); 9th: {@i {@spell resplendent mansion}}"
+										"cantrip: {@i {@spell detect magic}}; 1st: {@i {@spell illusory disguise}}; 2nd: variable (see Henki Type below); 3rd: {@i {@spell enthrall}}; 4th: {@i {@spell creation}}; 5th: variable (see Henki Type below); 6th: {@i {@spell true seeing}}; 7th: {@i {@spell energy aegis}}; 8th: variable (see Henki Type below); 9th: {@i {@spell resplendent mansion}}"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell genie's veil|APG}}; advanced: {@i {@spell heart's desire|APG}}; greater: {@i {@spell wish-twisted form|APG}}"
+										"initial: {@i {@spell Henki's veil|APG}}; advanced: {@i {@spell heart's desire|APG}}; greater: {@i {@spell wish-twisted form|APG}}"
 									]
 								},
 								{
@@ -1886,9 +1886,9 @@
 				},
 				{
 					"type": "pf2-h4",
-					"name": "Genie Type",
+					"name": "Henki Type",
 					"entries": [
-						"At 1st level, choose the type of genie that influenced your bloodline: janni, djinni, efreeti, marid, or shaitan. You can't change your genie type later. This determines what granted spells you receive at 2nd, 5th, and 8th level.",
+						"At 1st level, choose the type of Henki that influenced your Sukupuu: janni, djinni, efreeti, marid, or shaitan. You can't change your Henki type later. This determines what granted spells you receive at 2nd, 5th, and 8th level.",
 						{
 							"type": "list",
 							"items": [
@@ -1910,7 +1910,7 @@
 									"type": "item",
 									"name": "Efreeti",
 									"entries": [
-										"2nd: {@i {@spell enlarge}}; 5th: {@i {@spell elemental form}} (fire only); 8th: {@i {@spell maze}}"
+										"2nd: {@i {@spell enlarge}}; 5th: {@i {@spell Luonnonvoimaallinen form}} (fire only); 8th: {@i {@spell maze}}"
 									]
 								},
 								{
@@ -1934,20 +1934,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "APG",
 			"page": 138,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Nymph",
+			"subclassShortName": "Luonnonhengetär",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Nymph",
+					"name": "Luonnonhengetär",
 					"entries": [
-						"One of your ancestors was inspired by a nymph, or perhaps was a nymph themself, and now the beauty of nature lives in you.",
+						"One of your ancestors was inspired by a Luonnonhengetär, or perhaps was a Luonnonhengetär themself, and now the beauty of nature lives in you.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -1962,7 +1962,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Diplomacy}, {@skill Nature}"
 									]
@@ -1976,16 +1976,16 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell nymph's token|APG}}; advanced: {@i {@spell blinding beauty|APG}}; greater: {@i {@spell establish ward|APG}}"
+										"initial: {@i {@spell Luonnonhengetär's token|APG}}; advanced: {@i {@spell blinding beauty|APG}}; greater: {@i {@spell establish ward|APG}}"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"Nymph grace accentuates your movements and distracts your foes, either granting you a +1 status bonus to {@skill Diplomacy} checks for 1 round or imposing a \u20131 status penalty on one target's Will saves for 1 round."
+										"Luonnonhengetär grace accentuates your movements and distracts your foes, either granting you a +1 status bonus to {@skill Diplomacy} checks for 1 round or imposing a \u20131 status penalty on one target's Will saves for 1 round."
 									]
 								}
 							]
@@ -1995,18 +1995,18 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "APG",
 			"page": 138,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Psychopomp",
+			"subclassShortName": "Saattaja",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Psychopomp",
+					"name": "Saattaja",
 					"entries": [
 						"For good or ill, your ancestors' deeds drew the attention of psychopomps, or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.",
 						{
@@ -2023,7 +2023,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Intimidation}, {@skill Religion}"
 									]
@@ -2032,12 +2032,12 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"cantrip: {@i {@spell disrupt undead}}; 1st: {@i {@spell heal}}; 2nd: {@i {@spell calm emotions}}; 3rd: {@i {@spell searing light}}; 4th: {@i {@spell dimensional anchor}}; 5th: {@i {@spell death ward}}; 6th: {@i {@spell spirit blast}}; 7th: {@i {@spell finger of death}}; 8th: {@i {@spell spirit song}}; 9th: {@i {@spell massacre}}"
+										"cantrip: {@i {@spell disrupt Epäkuollut}}; 1st: {@i {@spell heal}}; 2nd: {@i {@spell calm emotions}}; 3rd: {@i {@spell searing light}}; 4th: {@i {@spell dimensional anchor}}; 5th: {@i {@spell death ward}}; 6th: {@i {@spell spirit blast}}; 7th: {@i {@spell finger of death}}; 8th: {@i {@spell spirit song}}; 9th: {@i {@spell massacre}}"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
 										"initial: {@i {@spell sepulchral mask|APG}}; advanced: {@i {@spell spirit veil|APG}}; greater: {@i {@spell shepherd of souls|APG}}"
 									]
@@ -2046,7 +2046,7 @@
 									"type": "item",
 									"name": "Blood Magic",
 									"entries": [
-										"The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is undead. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances."
+										"The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is Epäkuollut. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances."
 									]
 								}
 							]
@@ -2056,20 +2056,20 @@
 			]
 		},
 		{
-			"name": "Bloodline",
+			"name": "Sukupuu",
 			"source": "APG",
 			"page": 138,
-			"className": "Sorcerer",
+			"className": "Loitsija",
 			"classSource": "CRB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Varjo",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Shadow",
+					"name": "Varjo",
 					"entries": [
-						"Whether due to a velstrac's manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.",
+						"Whether due to a velstrac's manipulations or a planar jaunt gone horribly wrong, your Sukupuu was infused with a vein of Varjo.",
 						{
 							"type": "pf2-options",
 							"style": "pf2-p",
@@ -2084,7 +2084,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Skills",
+									"name": "Sukupuu Skills",
 									"entries": [
 										"{@skill Occultism}, {@skill Stealth}"
 									]
@@ -2093,14 +2093,14 @@
 									"type": "item",
 									"name": "Granted Spells",
 									"entries": [
-										"cantrip: {@i {@spell chill touch}}; 1st: {@i {@spell grim tendrils}}; 2nd: {@i {@spell darkness}}; 3rd: {@i {@spell chilling darkness}}; 4th: {@i {@spell phantasmal killer}}; 5th: {@i {@spell shadow siphon}}; 6th: {@i {@spell collective transposition}}; 7th: {@i {@spell duplicate foe}}; 8th: {@i {@spell disappearance}}; 9th: {@i {@spell weird}}"
+										"cantrip: {@i {@spell chill touch}}; 1st: {@i {@spell grim tendrils}}; 2nd: {@i {@spell darkness}}; 3rd: {@i {@spell chilling darkness}}; 4th: {@i {@spell phantasmal killer}}; 5th: {@i {@spell Varjo siphon}}; 6th: {@i {@spell collective transposition}}; 7th: {@i {@spell duplicate foe}}; 8th: {@i {@spell disappearance}}; 9th: {@i {@spell weird}}"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Bloodline Spells",
+									"name": "Sukupuu Spells",
 									"entries": [
-										"initial: {@i {@spell dim the light|APG}}; advanced: {@i {@spell steal shadow|APG}}; greater: {@i {@spell consuming darkness|APG}}"
+										"initial: {@i {@spell dim the light|APG}}; advanced: {@i {@spell steal Varjo|APG}}; greater: {@i {@spell consuming darkness|APG}}"
 									]
 								},
 								{
