@@ -1,7 +1,7 @@
 {
 	"spell": [
 		{
-			"name": "Access Lore",
+			"name": "Älynväläys",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -32,11 +32,11 @@
 				"unit": "minute"
 			},
 			"entries": [
-				"You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one {@skill Lore} skill. You temporarily gain the same proficiency rank in that {@skill Lore} skill as your proficiency rank for your oracle spellcasting."
+				"You sift through the multiverse's pyhä knowledge, seeking out tidbits related to a particular subject. Choose one {@skill Lore} skill. You temporarily gain the same proficiency rank in that {@skill Lore} skill as your proficiency rank for your oracle spellcasting."
 			]
 		},
 		{
-			"name": "Agonizing Despair",
+			"name": "Tuskallinen Toivottomuus",
 			"source": "APG",
 			"page": 214,
 			"level": 3,
@@ -47,9 +47,9 @@
 				"mental"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -92,7 +92,7 @@
 			}
 		},
 		{
-			"name": "Ancestral Defense",
+			"name": "Esi-isien suoja",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -125,7 +125,7 @@
 			]
 		},
 		{
-			"name": "Ancestral Form",
+			"name": "Esi-isien muoto",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -168,7 +168,7 @@
 			}
 		},
 		{
-			"name": "Ancestral Touch",
+			"name": "Esi-isien kosketus",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -227,7 +227,7 @@
 			}
 		},
 		{
-			"name": "Animal Feature",
+			"name": "Eläimellinen piirre",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -280,7 +280,7 @@
 			}
 		},
 		{
-			"name": "Animate Dead",
+			"name": "Elävöitä kuollut",
 			"source": "APG",
 			"page": 214,
 			"level": 1,
@@ -288,9 +288,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 3,
@@ -351,7 +351,7 @@
 			]
 		},
 		{
-			"name": "Animate Rope",
+			"name": "Elävöitä köysi",
 			"source": "APG",
 			"page": 214,
 			"level": 1,
@@ -359,8 +359,8 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -406,7 +406,7 @@
 			}
 		},
 		{
-			"name": "Animated Assault",
+			"name": "Elävöitynyt rynnäkkö",
 			"source": "APG",
 			"page": 214,
 			"level": 2,
@@ -414,8 +414,8 @@
 				"evocation"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -460,7 +460,7 @@
 			}
 		},
 		{
-			"name": "Aqueous Orb",
+			"name": "Vesi sfääri",
 			"source": "APG",
 			"page": 214,
 			"level": 3,
@@ -469,8 +469,8 @@
 				"water"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -502,7 +502,7 @@
 			]
 		},
 		{
-			"name": "Armor Of Bones",
+			"name": "Luinen haarniska",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -543,7 +543,7 @@
 			}
 		},
 		{
-			"name": "Battlefield Persistence",
+			"name": "Taistelun sinnikkyys",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -552,7 +552,7 @@
 				"uncommon",
 				"cursebound",
 				"divination",
-				"divine",
+				"pyhä",
 				"oracle"
 			],
 			"subclass": {
@@ -575,7 +575,7 @@
 			]
 		},
 		{
-			"name": "Beastmaster Trance",
+			"name": "Pedon aisti",
 			"source": "APG",
 			"page": 161,
 			"focus": true,
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "Bestial Curse",
+			"name": "Petomainen kirous",
 			"source": "APG",
 			"page": 215,
 			"level": 4,
@@ -633,9 +633,9 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"occult",
-				"primal"
+				"salatiede",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -675,7 +675,7 @@
 			]
 		},
 		{
-			"name": "Blanket Of Stars",
+			"name": "Taivaanpeitto",
 			"source": "APG",
 			"page": 215,
 			"level": 6,
@@ -683,8 +683,8 @@
 				"illusion"
 			],
 			"traditions": [
-				"occult",
-				"primal"
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -719,7 +719,7 @@
 			]
 		},
 		{
-			"name": "Blinding Beauty",
+			"name": "Sokaiseva kauneus",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -771,7 +771,7 @@
 			]
 		},
 		{
-			"name": "Blinding Fury",
+			"name": "Sokaiseva kiihko",
 			"source": "APG",
 			"page": 216,
 			"level": 6,
@@ -783,9 +783,9 @@
 				"mental"
 			],
 			"traditions": [
-				"divine",
-				"occult",
-				"primal"
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 1,
@@ -825,7 +825,7 @@
 			]
 		},
 		{
-			"name": "Blister",
+			"name": "Rakkula",
 			"source": "APG",
 			"page": 216,
 			"level": 5,
@@ -833,9 +833,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"arcane",
-				"occult",
-				"primal"
+				"salatiede",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -894,7 +894,7 @@
 				"mental"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"spellLists": [
 				"Elemental"
@@ -949,9 +949,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 1,
@@ -1181,7 +1181,7 @@
 				"illusion"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 3,
@@ -1228,9 +1228,9 @@
 				"mental"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -1278,7 +1278,7 @@
 				"necromancy"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -1538,9 +1538,9 @@
 				"divination"
 			],
 			"traditions": [
-				"arcane",
-				"occult",
-				"primal"
+				"salatiede",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -1574,8 +1574,8 @@
 				"conjuration"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 1,
@@ -1612,8 +1612,8 @@
 				"water"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -1750,9 +1750,9 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"occult",
-				"primal"
+				"salatiede",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -1878,7 +1878,7 @@
 				]
 			},
 			"entries": [
-				"You reveal a glimpse of the impossible conflicts between the divine anathema behind your curse, forcing you to reckon with another's conflicts as well. You and the target each take {@damage 9d6} mental damage with a basic Will save, and the target is {@condition stunned 1} if it critically fails its save. You get a degree of success one better than you rolled for your saving throw."
+				"You reveal a glimpse of the impossible conflicts between the pyhä anathema behind your curse, forcing you to reckon with another's conflicts as well. You and the target each take {@damage 9d6} mental damage with a basic Will save, and the target is {@condition stunned 1} if it critically fails its save. You get a degree of success one better than you rolled for your saving throw."
 			],
 			"heightened": {
 				"plusX": {
@@ -2060,8 +2060,8 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -2168,9 +2168,9 @@
 				"misfortune"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -2220,8 +2220,8 @@
 				"mental"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -2307,9 +2307,9 @@
 				"negative"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -2533,10 +2533,10 @@
 				"scrying"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult",
-				"primal"
+				"salatiede",
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -2572,10 +2572,10 @@
 				"fire"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult",
-				"primal"
+				"salatiede",
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -2660,8 +2660,8 @@
 				"force"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 3,
@@ -2709,7 +2709,7 @@
 				"conjuration"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -2801,8 +2801,8 @@
 				"divination"
 			],
 			"traditions": [
-				"divine",
-				"occult"
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 1,
@@ -2869,8 +2869,8 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -3032,8 +3032,8 @@
 				"fire"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -3200,7 +3200,7 @@
 				"sustained": true
 			},
 			"entries": [
-				"Your divine singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you {@action Cast a Spell||Cast the Spell} and the first time each round you {@action Sustain a Spell||Sustain the Spell}, the target gains 2 temporary Hit Points, which last for 1 round."
+				"Your pyhä singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you {@action Cast a Spell||Cast the Spell} and the first time each round you {@action Sustain a Spell||Sustain the Spell}, the target gains 2 temporary Hit Points, which last for 1 round."
 			],
 			"heightened": {
 				"plusX": {
@@ -3223,8 +3223,8 @@
 				"evocation"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 3,
@@ -3278,8 +3278,8 @@
 				"conjuration"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -3339,7 +3339,7 @@
 				"divination"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -3419,10 +3419,10 @@
 				"abjuration"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult",
-				"primal"
+				"salatiede",
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -3511,8 +3511,8 @@
 				"illusion"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -3726,7 +3726,7 @@
 				"evocation"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 3,
@@ -3877,7 +3877,7 @@
 				"conjuration"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -3968,8 +3968,8 @@
 				"positive"
 			],
 			"traditions": [
-				"divine",
-				"primal"
+				"pyhä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -4186,8 +4186,8 @@
 				"poison"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -4329,7 +4329,7 @@
 				"divination"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -4466,10 +4466,10 @@
 				"extradimensional"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult",
-				"primal"
+				"salatiede",
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -4509,8 +4509,8 @@
 				"mental"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -4651,8 +4651,8 @@
 				"evocation"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -4708,7 +4708,7 @@
 				"water"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -4809,9 +4809,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"divine",
-				"occult",
-				"primal"
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -4883,7 +4883,7 @@
 				"transmutation"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -4930,9 +4930,9 @@
 				"abjuration"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"primal"
+				"salatiede",
+				"pyhä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -4988,9 +4988,9 @@
 				"abjuration"
 			],
 			"traditions": [
-				"divine",
-				"occult",
-				"primal"
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -5030,7 +5030,7 @@
 				"illusion"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -5083,9 +5083,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -5136,8 +5136,8 @@
 				"conjuration"
 			],
 			"traditions": [
-				"arcane",
-				"occult"
+				"salatiede",
+				"piilevä"
 			],
 			"cast": {
 				"number": 1,
@@ -5690,7 +5690,7 @@
 				"earth"
 			],
 			"traditions": [
-				"primal"
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -5743,8 +5743,8 @@
 				"mental"
 			],
 			"traditions": [
-				"divine",
-				"occult"
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -5999,7 +5999,7 @@
 				"illusion"
 			],
 			"traditions": [
-				"occult"
+				"piilevä"
 			],
 			"cast": {
 				"number": 3,
@@ -6052,8 +6052,8 @@
 				"negative"
 			],
 			"traditions": [
-				"divine",
-				"primal"
+				"pyhä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -6103,8 +6103,8 @@
 				"conjuration"
 			],
 			"traditions": [
-				"divine",
-				"occult"
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 3,
@@ -6327,9 +6327,9 @@
 				"teleportation"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 1,
@@ -6370,8 +6370,8 @@
 				"transmutation"
 			],
 			"traditions": [
-				"occult",
-				"primal"
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 1,
@@ -6507,8 +6507,8 @@
 				"transmutation"
 			],
 			"traditions": [
-				"arcane",
-				"primal"
+				"salatiede",
+				"alkukantainen"
 			],
 			"spellLists": [
 				"Elemental"
@@ -6572,9 +6572,9 @@
 				"negative"
 			],
 			"traditions": [
-				"arcane",
-				"divine",
-				"occult"
+				"salatiede",
+				"pyhä",
+				"piilevä"
 			],
 			"cast": {
 				"number": 2,
@@ -6691,7 +6691,7 @@
 			],
 			"targets": "1 creature",
 			"entries": [
-				"You focus your gaze on a creature and gain a flash of divine insight into its nature. If the creature has any weaknesses, you learn them, as well as which of its three saving throw modifiers is lowest. You also learn an inherent understanding of its movements and gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe before the end of your turn. The target is then temporarily immune to vision of weakness for 1 day."
+				"You focus your gaze on a creature and gain a flash of pyhä insight into its nature. If the creature has any weaknesses, you learn them, as well as which of its three saving throw modifiers is lowest. You also learn an inherent understanding of its movements and gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe before the end of your turn. The target is then temporarily immune to vision of weakness for 1 day."
 			]
 		},
 		{
@@ -6703,9 +6703,9 @@
 				"evocation"
 			],
 			"traditions": [
-				"arcane",
-				"occult",
-				"primal"
+				"salatiede",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
@@ -6749,9 +6749,9 @@
 				"necromancy"
 			],
 			"traditions": [
-				"divine",
-				"occult",
-				"primal"
+				"pyhä",
+				"piilevä",
+				"alkukantainen"
 			],
 			"cast": {
 				"number": 2,
