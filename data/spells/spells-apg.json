@@ -882,7 +882,7 @@
 			}
 		},
 		{
-			"name": "Blistering Invective",
+			"name": "Polttava herjaus",
 			"source": "APG",
 			"page": 216,
 			"level": 2,
@@ -940,7 +940,7 @@
 			}
 		},
 		{
-			"name": "Blood Vendetta",
+			"name": "Verikosto",
 			"source": "APG",
 			"page": 216,
 			"level": 2,
@@ -999,7 +999,7 @@
 			}
 		},
 		{
-			"name": "Blood Ward",
+			"name": "Verisuoja",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
@@ -1041,7 +1041,7 @@
 			}
 		},
 		{
-			"name": "Brain Drain",
+			"name": "Aivonielu",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -1090,7 +1090,7 @@
 			}
 		},
 		{
-			"name": "Cackle",
+			"name": "Käkätys",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
@@ -1173,7 +1173,7 @@
 			]
 		},
 		{
-			"name": "Chameleon Coat",
+			"name": "Kameleonttitakki",
 			"source": "APG",
 			"page": 216,
 			"level": 5,
@@ -1218,7 +1218,7 @@
 			}
 		},
 		{
-			"name": "Charitable Urge",
+			"name": "Hyväntekeväisyyden Hinku",
 			"source": "APG",
 			"page": 216,
 			"level": 2,
@@ -1270,7 +1270,7 @@
 			]
 		},
 		{
-			"name": "Chroma Leach",
+			"name": "Väriuute",
 			"source": "APG",
 			"page": 217,
 			"level": 4,
@@ -1315,7 +1315,7 @@
 			]
 		},
 		{
-			"name": "Claim Undead",
+			"name": "Valtaa epäkuollut",
 			"source": "APG",
 			"page": 230,
 			"focus": true,
@@ -1370,7 +1370,7 @@
 			]
 		},
 		{
-			"name": "Clinging Ice",
+			"name": "Takertuva jää",
 			"source": "APG",
 			"page": 237,
 			"level": 1,
@@ -1434,7 +1434,7 @@
 			}
 		},
 		{
-			"name": "Clinging Shadows Stance",
+			"name": "Takertuvat varjot -asento",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -1530,7 +1530,7 @@
 			}
 		},
 		{
-			"name": "Countless Eyes",
+			"name": "Lukemattomat silmät",
 			"source": "APG",
 			"page": 217,
 			"level": 4,
@@ -1566,7 +1566,7 @@
 			]
 		},
 		{
-			"name": "Cozy Cabin",
+			"name": "Mukava mökki",
 			"source": "APG",
 			"page": 217,
 			"level": 3,
@@ -1603,7 +1603,7 @@
 			]
 		},
 		{
-			"name": "Crashing Wave",
+			"name": "Törmäävä aalto",
 			"source": "APG",
 			"page": 217,
 			"level": 3,
@@ -1652,7 +1652,7 @@
 			}
 		},
 		{
-			"name": "Curse Of Death",
+			"name": "Kouleman kirous",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
@@ -1740,7 +1740,7 @@
 			}
 		},
 		{
-			"name": "Curse Of Lost Time",
+			"name": "Menetetyn ajan kirous",
 			"source": "APG",
 			"page": 217,
 			"level": 3,
@@ -1808,7 +1808,7 @@
 			}
 		},
 		{
-			"name": "Dance Of Darkness",
+			"name": "Pimeyden tanssi",
 			"source": "APG",
 			"page": 193,
 			"focus": true,
@@ -1845,7 +1845,7 @@
 			]
 		},
 		{
-			"name": "Debilitating Dichotomy",
+			"name": "Heikentävä ristiriita",
 			"source": "APG",
 			"page": 231,
 			"focus": true,
@@ -1889,7 +1889,7 @@
 			}
 		},
 		{
-			"name": "Deceiver's Cloak",
+			"name": "Kavaltajan kaapu",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -1926,7 +1926,7 @@
 			}
 		},
 		{
-			"name": "Delay Affliction",
+			"name": "Lykkää tuskaa",
 			"source": "APG",
 			"page": 231,
 			"focus": true,
@@ -1971,7 +1971,7 @@
 			}
 		},
 		{
-			"name": "Dim The Light",
+			"name": "Pimennä valo",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -2003,7 +2003,7 @@
 			]
 		},
 		{
-			"name": "Discern Secrets",
+			"name": "Tunnista valheet",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -2052,7 +2052,7 @@
 			}
 		},
 		{
-			"name": "Dismantle",
+			"name": "Pura",
 			"source": "APG",
 			"page": 218,
 			"level": 2,
@@ -2099,7 +2099,7 @@
 			}
 		},
 		{
-			"name": "Dread Secret",
+			"name": "Kauhistuttava salaisuus",
 			"source": "APG",
 			"page": 231,
 			"focus": true,
@@ -2157,7 +2157,7 @@
 			]
 		},
 		{
-			"name": "Dull Ambition",
+			"name": "Himmennä tahto",
 			"source": "APG",
 			"page": 218,
 			"level": 4,
@@ -2256,7 +2256,7 @@
 			]
 		},
 		{
-			"name": "Elemental Betrayal",
+			"name": "Luonnonvoimien petos",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -2298,7 +2298,7 @@
 			}
 		},
 		{
-			"name": "Enervation",
+			"name": "Heikennyssäde",
 			"source": "APG",
 			"page": 218,
 			"level": 4,
@@ -2353,7 +2353,7 @@
 			}
 		},
 		{
-			"name": "Enlarge Companion",
+			"name": "Suurenna toveri",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -2388,7 +2388,7 @@
 			]
 		},
 		{
-			"name": "Ephemeral Tracking",
+			"name": "Hetkellinen jäljitys",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -2417,7 +2417,7 @@
 			]
 		},
 		{
-			"name": "Establish Ward",
+			"name": "Perusta suoja",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -2465,7 +2465,7 @@
 			}
 		},
 		{
-			"name": "Evil Eye",
+			"name": "Ilkeä silmä",
 			"source": "APG",
 			"page": 238,
 			"level": 1,
@@ -2524,7 +2524,7 @@
 			]
 		},
 		{
-			"name": "Familiar's Face",
+			"name": "Toverin kasvot",
 			"source": "APG",
 			"page": 218,
 			"level": 3,
@@ -2563,7 +2563,7 @@
 			]
 		},
 		{
-			"name": "Final Sacrifice",
+			"name": "Viimeinen uhraus",
 			"source": "APG",
 			"page": 219,
 			"level": 2,
@@ -2608,7 +2608,7 @@
 			}
 		},
 		{
-			"name": "Flaming Fusillade",
+			"name": "Likehtivä ristituli",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -2651,7 +2651,7 @@
 			}
 		},
 		{
-			"name": "Force Cage",
+			"name": "Voimahäkki",
 			"source": "APG",
 			"page": 219,
 			"level": 7,
@@ -2701,7 +2701,7 @@
 			]
 		},
 		{
-			"name": "Fungal Infestation",
+			"name": "Sienitartunta",
 			"source": "APG",
 			"page": 220,
 			"level": 2,
@@ -2757,7 +2757,7 @@
 			}
 		},
 		{
-			"name": "Genie's Veil",
+			"name": "Hengen huntu",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -2792,7 +2792,7 @@
 			]
 		},
 		{
-			"name": "Ghostly Tragedy",
+			"name": "Aavellinen murhenäytelmä",
 			"source": "APG",
 			"page": 220,
 			"level": 4,
@@ -2861,7 +2861,7 @@
 			]
 		},
 		{
-			"name": "Grisly Growths",
+			"name": "Karmea kasvu",
 			"source": "APG",
 			"page": 220,
 			"level": 5,
@@ -2916,7 +2916,7 @@
 			}
 		},
 		{
-			"name": "Heal Companion",
+			"name": "Paranna toveria",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -2961,7 +2961,7 @@
 			}
 		},
 		{
-			"name": "Heart's Desire",
+			"name": "Sydämmen tahto",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -3023,7 +3023,7 @@
 			}
 		},
 		{
-			"name": "Heat Metal",
+			"name": "Kuumenna metallia",
 			"source": "APG",
 			"page": 220,
 			"level": 2,
@@ -3075,7 +3075,7 @@
 			}
 		},
 		{
-			"name": "Heroic Feat",
+			"name": "Sankarillinen taito",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -3108,7 +3108,7 @@
 			]
 		},
 		{
-			"name": "Hunter's Luck",
+			"name": "Metsästäjän mäihä",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -3134,7 +3134,7 @@
 			]
 		},
 		{
-			"name": "Hunter's Vision",
+			"name": "Metsästäjän näkö",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -3167,7 +3167,7 @@
 			]
 		},
 		{
-			"name": "Hymn of Healing",
+			"name": "Parantava virsi",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -3214,7 +3214,7 @@
 			]
 		},
 		{
-			"name": "Ice Storm",
+			"name": "Jäämyrsky",
 			"source": "APG",
 			"page": 220,
 			"level": 4,
@@ -3270,7 +3270,7 @@
 			}
 		},
 		{
-			"name": "Impaling Spike",
+			"name": "Seivästävä piikki",
 			"source": "APG",
 			"page": 221,
 			"level": 5,
@@ -3326,7 +3326,7 @@
 			}
 		},
 		{
-			"name": "Imprint Message",
+			"name": "Painautuva viesti",
 			"source": "APG",
 			"page": 221,
 			"otherSources": {
@@ -3362,7 +3362,7 @@
 			]
 		},
 		{
-			"name": "Incendiary Aura",
+			"name": "Tulenarka sumu",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -3411,7 +3411,7 @@
 			}
 		},
 		{
-			"name": "Indestructibility",
+			"name": "Koskemattomuus",
 			"source": "APG",
 			"page": 221,
 			"level": 10,
@@ -3448,7 +3448,7 @@
 			]
 		},
 		{
-			"name": "Interstellar Void",
+			"name": "Tähtienvälinen tyhjyys",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -3503,7 +3503,7 @@
 			}
 		},
 		{
-			"name": "Invisible Item",
+			"name": "Näkymätön esine",
 			"source": "APG",
 			"page": 221,
 			"level": 1,
@@ -3548,7 +3548,7 @@
 			}
 		},
 		{
-			"name": "Ki Form",
+			"name": "Ki muoto",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -3577,7 +3577,7 @@
 			]
 		},
 		{
-			"name": "Life Boost",
+			"name": "Elämänhenkäys",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -3612,7 +3612,7 @@
 			]
 		},
 		{
-			"name": "Life Link",
+			"name": "Elokytkös",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -3668,7 +3668,7 @@
 			}
 		},
 		{
-			"name": "Life-giving Form",
+			"name": "Elämämuoto",
 			"source": "APG",
 			"page": 232,
 			"focus": true,
@@ -3717,7 +3717,7 @@
 			}
 		},
 		{
-			"name": "Lightning Storm",
+			"name": "Ukkonen",
 			"source": "APG",
 			"page": 221,
 			"level": 5,
@@ -3772,7 +3772,7 @@
 			}
 		},
 		{
-			"name": "Litany Of Depravity",
+			"name": "Turemeleva litania",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -3814,7 +3814,7 @@
 			}
 		},
 		{
-			"name": "Litany Of Self-interest",
+			"name": "Itsekeskeisyyden litania",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -3869,7 +3869,7 @@
 			}
 		},
 		{
-			"name": "Mad Monkeys",
+			"name": "Hullut apinat",
 			"source": "APG",
 			"page": 222,
 			"level": 3,
@@ -3926,7 +3926,7 @@
 			]
 		},
 		{
-			"name": "Magic Hide",
+			"name": "Taikanahka",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -3959,7 +3959,7 @@
 			]
 		},
 		{
-			"name": "Magic Stone",
+			"name": "Taikakivi",
 			"source": "APG",
 			"page": 222,
 			"level": 1,
@@ -4000,7 +4000,7 @@
 			]
 		},
 		{
-			"name": "Malicious Shadow",
+			"name": "Vihamieleinen varjo",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -4046,7 +4046,7 @@
 			}
 		},
 		{
-			"name": "Medusa's Wrath",
+			"name": "Kivettävä tahto",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -4079,7 +4079,7 @@
 			]
 		},
 		{
-			"name": "Moonlight Bridge",
+			"name": "Kuutamon silta",
 			"source": "APG",
 			"page": 233,
 			"focus": true,
@@ -4128,7 +4128,7 @@
 			}
 		},
 		{
-			"name": "Needle Of Vengeance",
+			"name": "Koston neula",
 			"source": "APG",
 			"page": 238,
 			"focus": true,
@@ -4177,7 +4177,7 @@
 			}
 		},
 		{
-			"name": "Noxious Vapors",
+			"name": "Haitallinen höyry",
 			"source": "APG",
 			"page": 222,
 			"level": 1,
@@ -4227,7 +4227,7 @@
 			}
 		},
 		{
-			"name": "Nudge Fate",
+			"name": "Tuuppaa kohtaloa",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -4274,7 +4274,7 @@
 			]
 		},
 		{
-			"name": "Nymph's Token",
+			"name": "Luonnonhengettären merkki",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -4286,7 +4286,7 @@
 			],
 			"subclass": {
 				"Bloodline|Sorcerer": [
-					"Nymph|APG"
+					"Luonnonhengettären|APG"
 				]
 			},
 			"cast": {
@@ -4316,7 +4316,7 @@
 			}
 		},
 		{
-			"name": "Object Reading",
+			"name": "Esineen muisti",
 			"source": "APG",
 			"page": 222,
 			"otherSources": {
@@ -4370,7 +4370,7 @@
 			}
 		},
 		{
-			"name": "Ode To Ouroboros",
+			"name": "Oodi Ouroborokselle",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -4401,7 +4401,7 @@
 			]
 		},
 		{
-			"name": "Personal Blizzard",
+			"name": "Henkilökohtainen lumimyrsky",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -4457,7 +4457,7 @@
 			}
 		},
 		{
-			"name": "Pet Cache",
+			"name": "Toverijemma",
 			"source": "APG",
 			"page": 222,
 			"level": 1,
@@ -4499,7 +4499,7 @@
 			]
 		},
 		{
-			"name": "Phantasmal Treasure",
+			"name": "Aavemainen aarre",
 			"source": "APG",
 			"page": 223,
 			"level": 2,
@@ -4551,7 +4551,7 @@
 			]
 		},
 		{
-			"name": "Phase Familiar",
+			"name": "Hailyvä toveri",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -4589,7 +4589,7 @@
 			}
 		},
 		{
-			"name": "Pied Piping",
+			"name": "Pillipiipari",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -4642,7 +4642,7 @@
 			]
 		},
 		{
-			"name": "Pummeling Rubble",
+			"name": "Nuijiva kivimurska",
 			"source": "APG",
 			"page": 223,
 			"level": 1,
@@ -4699,7 +4699,7 @@
 			}
 		},
 		{
-			"name": "Quench",
+			"name": "Karaise",
 			"source": "APG",
 			"page": 223,
 			"level": 2,
@@ -4751,7 +4751,7 @@
 			}
 		},
 		{
-			"name": "Ranger's Bramble",
+			"name": "Konkarin piikkipensas",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -4799,7 +4799,7 @@
 			}
 		},
 		{
-			"name": "Reaper's Lantern",
+			"name": "Niittijän lyhty",
 			"source": "APG",
 			"page": 223,
 			"level": 2,
@@ -4844,7 +4844,7 @@
 			]
 		},
 		{
-			"name": "Restorative Moment",
+			"name": "Virkistävä hetki",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -4875,7 +4875,7 @@
 			]
 		},
 		{
-			"name": "Rusting Grasp",
+			"name": "Ruostuttava pursitus",
 			"source": "APG",
 			"page": 223,
 			"level": 4,
@@ -4922,7 +4922,7 @@
 			}
 		},
 		{
-			"name": "Safe Passage",
+			"name": "Turvallinen kulku",
 			"source": "APG",
 			"page": 224,
 			"level": 3,
@@ -4980,7 +4980,7 @@
 			}
 		},
 		{
-			"name": "Scintillating Safeguard",
+			"name": "Säkenöivä suojakilpi",
 			"source": "APG",
 			"page": 224,
 			"level": 6,
@@ -5022,7 +5022,7 @@
 			}
 		},
 		{
-			"name": "Sculpt Sound",
+			"name": "Veistä ääntä",
 			"source": "APG",
 			"page": 224,
 			"level": 3,
@@ -5073,7 +5073,7 @@
 			}
 		},
 		{
-			"name": "Seal Fate",
+			"name": "Sinetöi kohtalo",
 			"source": "APG",
 			"page": 224,
 			"level": 4,
@@ -5128,7 +5128,7 @@
 			}
 		},
 		{
-			"name": "Secret Chest",
+			"name": "Salainen arkku",
 			"source": "APG",
 			"page": 225,
 			"level": 5,
@@ -5165,7 +5165,7 @@
 			]
 		},
 		{
-			"name": "Sepulchral Mask",
+			"name": "Hautamainen naamio",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -5230,7 +5230,7 @@
 			}
 		},
 		{
-			"name": "Shadow Illusion",
+			"name": "Varjo harhakuva",
 			"source": "APG",
 			"page": 193,
 			"focus": true,
@@ -5269,7 +5269,7 @@
 			]
 		},
 		{
-			"name": "Shadow Jump",
+			"name": "Varjoloikka",
 			"source": "APG",
 			"page": 193,
 			"focus": true,
@@ -5308,7 +5308,7 @@
 			}
 		},
 		{
-			"name": "Shadow's Web",
+			"name": "Varjoverkko",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -5360,7 +5360,7 @@
 			}
 		},
 		{
-			"name": "Shepherd Of Souls",
+			"name": "Sielujen paimen",
 			"source": "APG",
 			"page": 236,
 			"focus": true,
@@ -5403,7 +5403,7 @@
 			}
 		},
 		{
-			"name": "Shroud Of Night",
+			"name": "Yön peite",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -5457,7 +5457,7 @@
 			]
 		},
 		{
-			"name": "Snare Hopping",
+			"name": "Ansan hypähdys",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -5495,7 +5495,7 @@
 			}
 		},
 		{
-			"name": "Song Of Marching",
+			"name": "Marssilaulu",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -5543,7 +5543,7 @@
 			}
 		},
 		{
-			"name": "Song Of Strength",
+			"name": "Vahvuuden viisu",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -5582,7 +5582,7 @@
 			]
 		},
 		{
-			"name": "Soothing Mist",
+			"name": "Helpottava sumu",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -5621,7 +5621,7 @@
 			}
 		},
 		{
-			"name": "Soul Siphon",
+			"name": "Lappaa sielua",
 			"source": "APG",
 			"page": 233,
 			"focus": true,
@@ -5681,7 +5681,7 @@
 			]
 		},
 		{
-			"name": "Spike Stones",
+			"name": "Piikkikivet",
 			"source": "APG",
 			"page": 225,
 			"level": 4,
@@ -5733,7 +5733,7 @@
 			}
 		},
 		{
-			"name": "Spirit Sense",
+			"name": "Jaloviina-aisti",
 			"source": "APG",
 			"page": 225,
 			"level": 2,
@@ -5778,7 +5778,7 @@
 			}
 		},
 		{
-			"name": "Spirit Veil",
+			"name": "Jaloviinaverho",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
@@ -5819,7 +5819,7 @@
 			}
 		},
 		{
-			"name": "Spray Of Stars",
+			"name": "Tähtiusva",
 			"source": "APG",
 			"page": 233,
 			"focus": true,
@@ -5879,7 +5879,7 @@
 			}
 		},
 		{
-			"name": "Steal Shadow",
+			"name": "Varasta varjo",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
@@ -5941,7 +5941,7 @@
 			}
 		},
 		{
-			"name": "Stoke The Heart",
+			"name": "Kohenna sydäntä",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -5991,7 +5991,7 @@
 			}
 		},
 		{
-			"name": "Strange Geometry",
+			"name": "Outo geometria",
 			"source": "APG",
 			"page": 226,
 			"level": 5,
@@ -6043,7 +6043,7 @@
 			]
 		},
 		{
-			"name": "Sudden Blight",
+			"name": "Äkillinen riesa",
 			"source": "APG",
 			"page": 226,
 			"level": 2,
@@ -6094,7 +6094,7 @@
 			}
 		},
 		{
-			"name": "Summon Instrument",
+			"name": "Kutsu soitin",
 			"source": "APG",
 			"page": 226,
 			"level": 1,
@@ -6134,7 +6134,7 @@
 			}
 		},
 		{
-			"name": "Symphony Of The Unfettered Heart",
+			"name": "Kahlitsemattoman sydämmen sinfonia",
 			"source": "APG",
 			"page": 228,
 			"focus": true,
@@ -6173,7 +6173,7 @@
 			}
 		},
 		{
-			"name": "Tempest Form",
+			"name": "Rajuilmamuoto",
 			"source": "APG",
 			"page": 233,
 			"focus": true,
@@ -6228,7 +6228,7 @@
 			}
 		},
 		{
-			"name": "Tempest Touch",
+			"name": "Rajuilmakosketus",
 			"source": "APG",
 			"page": 233,
 			"focus": true,
@@ -6286,7 +6286,7 @@
 			}
 		},
 		{
-			"name": "Terrain Transposition",
+			"name": "Maiseman vaihto",
 			"source": "APG",
 			"page": 235,
 			"focus": true,
@@ -6318,7 +6318,7 @@
 			]
 		},
 		{
-			"name": "Thoughtful Gift",
+			"name": "Huomaavainen lahja",
 			"source": "APG",
 			"page": 226,
 			"level": 1,
@@ -6361,7 +6361,7 @@
 			}
 		},
 		{
-			"name": "Threefold Aspect",
+			"name": "Kolmimuotoinen elämänkohta",
 			"source": "APG",
 			"page": 226,
 			"level": 3,
@@ -6395,7 +6395,7 @@
 			]
 		},
 		{
-			"name": "Thunderburst",
+			"name": "Ukkospurkaus",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -6460,7 +6460,7 @@
 			}
 		},
 		{
-			"name": "Touch Of Corruption",
+			"name": "Rappion kosketus",
 			"source": "APG",
 			"page": 229,
 			"focus": true,
@@ -6498,7 +6498,7 @@
 			}
 		},
 		{
-			"name": "Transmute Rock And Mud",
+			"name": "Muuta mutaa ja kiveä",
 			"source": "APG",
 			"page": 226,
 			"level": 5,
@@ -6563,7 +6563,7 @@
 			}
 		},
 		{
-			"name": "Vampiric Maiden",
+			"name": "Rautaneitsyt",
 			"source": "APG",
 			"page": 227,
 			"level": 4,
@@ -6620,7 +6620,7 @@
 			]
 		},
 		{
-			"name": "Veil Of Dreams",
+			"name": "Unien verho",
 			"source": "APG",
 			"page": 239,
 			"focus": true,
@@ -6669,7 +6669,7 @@
 			]
 		},
 		{
-			"name": "Vision Of Weakness",
+			"name": "Näky heikkoidesta",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -6695,7 +6695,7 @@
 			]
 		},
 		{
-			"name": "Vomit Swarm",
+			"name": "Parviyrjö",
 			"source": "APG",
 			"page": 227,
 			"level": 2,
@@ -6741,7 +6741,7 @@
 			}
 		},
 		{
-			"name": "Wall Of Flesh",
+			"name": "Lihaseinä",
 			"source": "APG",
 			"page": 227,
 			"level": 5,
@@ -6793,7 +6793,7 @@
 			]
 		},
 		{
-			"name": "Whirling Flames",
+			"name": "Liekkipyry",
 			"source": "APG",
 			"page": 234,
 			"focus": true,
@@ -6903,7 +6903,7 @@
 			]
 		},
 		{
-			"name": "Wish-twisted Form",
+			"name": "Heikkouden hetki",
 			"source": "APG",
 			"page": 237,
 			"focus": true,
