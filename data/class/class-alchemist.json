@@ -1,7 +1,7 @@
 {
 	"class": [
 		{
-			"name": "Alchemist",
+			"name": "Alkemisti",
 			"source": "CRB",
 			"page": 71,
 			"keyAbility": "Intelligence",
@@ -103,7 +103,7 @@
 				"Alchemy|Alchemist|CRB|1",
 				"Formula Book|Alchemist|CRB|1",
 				{
-					"classFeature": "Research Field|Alchemist|CRB|1",
+					"classFeature": "Tutkimusalue|Alchemist|CRB|1",
 					"gainSubclassFeature": true
 				},
 				"Alchemist Feats|Alchemist|CRB|1",
@@ -148,63 +148,63 @@
 			],
 			"subclasses": [
 				{
-					"name": "Bomber",
-					"type": "Research Field",
-					"shortName": "Bomber",
+					"name": "Pommittaja",
+					"type": "Tutkimusalue",
+					"shortName": "Pommittaja",
 					"source": "CRB",
 					"page": 73,
 					"subclassFeatures": [
-						"Research Field|Alchemist|CRB|Bomber|CRB|1",
-						"Field Discovery|Alchemist|CRB|Bomber|CRB|5",
-						"Perpetual Infusions|Alchemist|CRB|Bomber|CRB|7",
-						"Perpetual Potency|Alchemist|CRB|Bomber|CRB|11",
-						"Greater Field Discovery|Alchemist|CRB|Bomber|CRB|13",
-						"Perpetual Perfection|Alchemist|CRB|Bomber|CRB|17"
+						"Tutkimusalue|Alchemist|CRB|Pommittaja|CRB|1",
+						"Field Discovery|Alchemist|CRB|Pommittaja|CRB|5",
+						"Perpetual Infusions|Alchemist|CRB|Pommittaja|CRB|7",
+						"Perpetual Potency|Alchemist|CRB|Pommittaja|CRB|11",
+						"Greater Field Discovery|Alchemist|CRB|Pommittaja|CRB|13",
+						"Perpetual Perfection|Alchemist|CRB|Pommittaja|CRB|17"
 					]
 				},
 				{
-					"name": "Chirurgeon",
-					"type": "Research Field",
-					"shortName": "Chirurgeon",
+					"name": "Kirurgi",
+					"type": "Tutkimusalue",
+					"shortName": "Kirurgi",
 					"source": "CRB",
 					"page": 73,
 					"subclassFeatures": [
-						"Research Field|Alchemist|CRB|Chirurgeon|CRB|1",
-						"Field Discovery|Alchemist|CRB|Chirurgeon|CRB|5",
-						"Perpetual Infusions|Alchemist|CRB|Chirurgeon|CRB|7",
-						"Perpetual Potency|Alchemist|CRB|Chirurgeon|CRB|11",
-						"Greater Field Discovery|Alchemist|CRB|Chirurgeon|CRB|13",
-						"Perpetual Perfection|Alchemist|CRB|Chirurgeon|CRB|17"
+						"Tutkimusalue|Alchemist|CRB|Kirurgi|CRB|1",
+						"Field Discovery|Alchemist|CRB|Kirurgi|CRB|5",
+						"Perpetual Infusions|Alchemist|CRB|Kirurgi|CRB|7",
+						"Perpetual Potency|Alchemist|CRB|Kirurgi|CRB|11",
+						"Greater Field Discovery|Alchemist|CRB|Kirurgi|CRB|13",
+						"Perpetual Perfection|Alchemist|CRB|Kirurgi|CRB|17"
 					]
 				},
 				{
-					"name": "Mutagenist",
-					"type": "Research Field",
-					"shortName": "Mutagenist",
+					"name": "Mutagenoija",
+					"type": "Tutkimusalue",
+					"shortName": "Mutagenoija",
 					"source": "CRB",
 					"page": 73,
 					"subclassFeatures": [
-						"Research Field|Alchemist|CRB|Mutagenist|CRB|1",
-						"Field Discovery|Alchemist|CRB|Mutagenist|CRB|5",
-						"Perpetual Infusions|Alchemist|CRB|Mutagenist|CRB|7",
-						"Perpetual Potency|Alchemist|CRB|Mutagenist|CRB|11",
-						"Greater Field Discovery|Alchemist|CRB|Mutagenist|CRB|13",
-						"Perpetual Perfection|Alchemist|CRB|Mutagenist|CRB|17"
+						"Tutkimusalue|Alchemist|CRB|Mutagenoija|CRB|1",
+						"Field Discovery|Alchemist|CRB|Mutagenoija|CRB|5",
+						"Perpetual Infusions|Alchemist|CRB|Mutagenoija|CRB|7",
+						"Perpetual Potency|Alchemist|CRB|Mutagenoija|CRB|11",
+						"Greater Field Discovery|Alchemist|CRB|Mutagenoija|CRB|13",
+						"Perpetual Perfection|Alchemist|CRB|Mutagenoija|CRB|17"
 					]
 				},
 				{
-					"name": "Toxicologist",
-					"type": "Research Field",
-					"shortName": "Toxicologist",
+					"name": "Myrkyttäjä",
+					"type": "Tutkimusalue",
+					"shortName": "Myrkyttäjä",
 					"source": "APG",
 					"page": 106,
 					"subclassFeatures": [
-						"Research Field|Alchemist|CRB|Toxicologist|APG|1",
-						"Field Discovery|Alchemist|CRB|Toxicologist|APG|5",
-						"Perpetual Infusions|Alchemist|CRB|Toxicologist|APG|7",
-						"Perpetual Potency|Alchemist|CRB|Toxicologist|APG|11",
-						"Greater Field Discovery|Alchemist|CRB|Toxicologist|APG|13",
-						"Perpetual Perfection|Alchemist|CRB|Toxicologist|APG|17"
+						"Tutkimusalue|Alchemist|CRB|Myrkyttäjä|APG|1",
+						"Field Discovery|Alchemist|CRB|Myrkyttäjä|APG|5",
+						"Perpetual Infusions|Alchemist|CRB|Myrkyttäjä|APG|7",
+						"Perpetual Potency|Alchemist|CRB|Myrkyttäjä|APG|11",
+						"Greater Field Discovery|Alchemist|CRB|Myrkyttäjä|APG|13",
+						"Perpetual Perfection|Alchemist|CRB|Myrkyttäjä|APG|17"
 					]
 				}
 			],
@@ -284,7 +284,7 @@
 			},
 			"sampleBuilds": [
 				{
-					"name": "Chirurgeon",
+					"name": "Kirurgi",
 					"source": "CRB",
 					"page": 74,
 					"entries": [
@@ -303,7 +303,7 @@
 						"Society",
 						"Survival"
 					],
-					"subclass": "Chirurgeon",
+					"subclass": "Kirurgi",
 					"feats": [
 						"Alchemical Savant",
 						"Poison Resistance",
@@ -316,7 +316,7 @@
 					]
 				},
 				{
-					"name": "Bomber",
+					"name": "Pommittaja",
 					"source": "CRB",
 					"page": 78,
 					"entries": [
@@ -335,9 +335,9 @@
 						"Stealth",
 						"Thievery"
 					],
-					"subclass": "Bomber",
+					"subclass": "Pommittaja",
 					"feats": [
-						"Quick Bomber",
+						"Quick Pommittaja",
 						"Smoke Bomb",
 						"Calculated Splash",
 						"Directional Bombs",
@@ -347,7 +347,7 @@
 					]
 				},
 				{
-					"name": "Mutagenist",
+					"name": "Mutagenoija",
 					"source": "CRB",
 					"page": 80,
 					"entries": [
@@ -366,7 +366,7 @@
 						"Stealth",
 						"Survival"
 					],
-					"subclass": "Mutagenist",
+					"subclass": "Mutagenoija",
 					"feats": [
 						"Alchemical Familiar",
 						"Revivifying Mutagen",
@@ -495,12 +495,12 @@
 			"classSource": "CRB",
 			"level": 1,
 			"entries": [
-				"An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard {@item formula book (blank)||formula book} worth 10 sp or less for free. The formula book contains the formulas for two {@filter common 1st-level alchemical items|items||item=alchemical|level=[1;1]|rarity=common} of your choice, in addition to those you gained from {@feat Alchemical Crafting} and your research field.",
+				"An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard {@item formula book (blank)||formula book} worth 10 sp or less for free. The formula book contains the formulas for two {@filter common 1st-level alchemical items|items||item=alchemical|level=[1;1]|rarity=common} of your choice, in addition to those you gained from {@feat Alchemical Crafting} and your Tutkimusalue.",
 				"Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the {@feat Inventor} feat."
 			]
 		},
 		{
-			"name": "Research Field",
+			"name": "Tutkimusalue",
 			"source": "CRB",
 			"page": 73,
 			"className": "Alchemist",
@@ -508,7 +508,7 @@
 			"level": 1,
 			"entries": [
 				"Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. You might have a degree from an scientific institute, correspond with other researchers in your field, or work as a genius loner. Choose a field of research.",
-				"Your research field adds a number of formulas to your formula book; these are your signature items. When using a batch of infused reagents to create your signature items using advanced alchemy, you create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field's list of possible signature items."
+				"Your Tutkimusalue adds a number of formulas to your formula book; these are your signature items. When using a batch of infused reagents to create your signature items using advanced alchemy, you create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your Tutkimusalue's list of possible signature items."
 			]
 		},
 		{
@@ -630,7 +630,7 @@
 			"classSource": "CRB",
 			"level": 7,
 			"entries": [
-				"You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using {@action Quick Alchemy} without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book. Each time you gain a level, you can swap any number of your perpetual infusions with other eligible infusions."
+				"You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using {@action Quick Alchemy} without spending a batch of infused reagents. The items you can select depend on your Tutkimusalue and must be in your formula book. Each time you gain a level, you can swap any number of your perpetual infusions with other eligible infusions."
 			]
 		},
 		{
@@ -685,7 +685,7 @@
 			"classSource": "CRB",
 			"level": 11,
 			"entries": [
-				"Your perpetual infusions improve, allowing you to use {@action Quick Alchemy} to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book."
+				"Your perpetual infusions improve, allowing you to use {@action Quick Alchemy} to create more powerful items with no cost. The items you can select depend on your Tutkimusalue and must be in your formula book."
 			]
 		},
 		{
@@ -762,7 +762,7 @@
 			"classSource": "CRB",
 			"level": 17,
 			"entries": [
-				"You have perfected your perpetual infusions, allowing you to use {@action Quick Alchemy} to create even more powerful items at no cost. The items you can select depend on your research field and must be in your formula book."
+				"You have perfected your perpetual infusions, allowing you to use {@action Quick Alchemy} to create even more powerful items at no cost. The items you can select depend on your Tutkimusalue and must be in your formula book."
 			]
 		},
 		{
@@ -779,18 +779,18 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Research Field",
+			"name": "Tutkimusalue",
 			"source": "CRB",
 			"page": 73,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Bomber",
+					"name": "Pommittaja",
 					"entries": [
 						"You specialize in explosions and other violent alchemical reactions. You start with the formulas for two {@filter 1st-level alchemical bombs|items||category=bomb|level=[1;1]|type=null} in your formula book, in addition to your other formulas.",
 						"When throwing an alchemical bomb with the {@trait splash} trait, you can deal {@trait splash} damage to only your primary target instead of the usual splash area."
@@ -804,7 +804,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -815,7 +815,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Bomber",
+							"name": "Pommittaja",
 							"entries": [
 								"When using advanced alchemy to make bombs during your daily preparations, you can use a batch of reagents to create any three bombs instead of just two of the same bomb."
 							]
@@ -830,7 +830,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -841,7 +841,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Bomber",
+							"name": "Pommittaja",
 							"entries": [
 								"Choose two {@filter 1st-level bombs|items||Level=[1]|type=|category=bomb}."
 							]
@@ -856,7 +856,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -867,7 +867,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Bomber",
+							"name": "Pommittaja",
 							"entries": [
 								"Choose two {@filter 3rd-level or lower bombs|items||Level=[1;3]|type=|category=bomb}."
 							]
@@ -882,7 +882,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -893,7 +893,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Bomber",
+							"name": "Pommittaja",
 							"entries": [
 								"You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have {@feat Expanded Splash}."
 							]
@@ -908,7 +908,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Bomber",
+			"subclassShortName": "Pommittaja",
 			"subclassSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -919,7 +919,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Bomber",
+							"name": "Pommittaja",
 							"entries": [
 								"Choose two {@filter 11th-level or lower bombs|items||Level=[1;11]|type=|category=bomb}."
 							]
@@ -929,18 +929,18 @@
 			]
 		},
 		{
-			"name": "Research Field",
+			"name": "Tutkimusalue",
 			"source": "CRB",
 			"page": 73,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Chirurgeon",
+					"name": "Kirurgi",
 					"entries": [
 						"You concentrate on healing others with alchemy. You start with the formulas for two {@filter 1st-level elixirs with the healing trait|items||category=elixir|level=[1;1]|effect=healing} in your formula book, in addition to your other formulas.",
 						"You can use your proficiency rank in {@skill Crafting} for anything that requires a proficiency rank in {@skill Medicine} (such as prerequisites), and use your {@skill Crafting} modifier in place of your {@skill Medicine} modifier for all {@skill Medicine} checks."
@@ -954,7 +954,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -965,7 +965,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Chirurgeon",
+							"name": "Kirurgi",
 							"entries": [
 								"When using advanced alchemy to make {@filter any elixir with the healing trait|items||category=elixir|effect=healing} during your daily preparations, you can create three elixirs with each batch of reagents instead of two."
 							]
@@ -980,7 +980,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -991,7 +991,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Chirurgeon",
+							"name": "Kirurgi",
 							"entries": [
 								"Choose two {@filter 1st-level elixirs with the healing trait|items||Level=[1]|type=|category=elixir|effect=healing}. If a creature heals Hit Points from a perpetual infusion, that creature is temporarily immune to healing Hit Points from subsequent perpetual infusions for 10 minutes (but not immune to any other effects of those infusions)."
 							]
@@ -1006,7 +1006,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -1017,7 +1017,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Chirurgeon",
+							"name": "Kirurgi",
 							"entries": [
 								"Choose two {@filter 6th level or lower elixirs with the healing trait|items||Level=[1;6]|type=|category=elixir|effect=healing}."
 							]
@@ -1032,7 +1032,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -1043,7 +1043,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Chirurgeon",
+							"name": "Kirurgi",
 							"entries": [
 								"When you use {@action Quick Alchemy} to create any type of {@item elixir of life}, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained."
 							]
@@ -1058,7 +1058,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Chirurgeon",
+			"subclassShortName": "Kirurgi",
 			"subclassSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -1069,7 +1069,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Chirurgeon",
+							"name": "Kirurgi",
 							"entries": [
 								"Choose two {@filter 11th level or lower elixirs with the healing trait|items||Level=[1;11]|type=|category=elixir|effect=healing}."
 							]
@@ -1079,18 +1079,18 @@
 			]
 		},
 		{
-			"name": "Research Field",
+			"name": "Tutkimusalue",
 			"source": "CRB",
 			"page": 73,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Mutagenist",
+					"name": "Mutagenoija",
 					"source": "CRB",
 					"page": 73,
 					"entries": [
@@ -1111,7 +1111,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 5,
 			"entries": [
@@ -1122,7 +1122,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Mutagenist",
+							"name": "Mutagenoija",
 							"entries": [
 								"When using advanced alchemy to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen."
 							]
@@ -1137,7 +1137,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 7,
 			"entries": [
@@ -1148,7 +1148,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Mutagenist",
+							"name": "Mutagenoija",
 							"entries": [
 								"Choose two {@filter 1st-level mutagens|items||Level=[1]|type=|item=mutagen}."
 							]
@@ -1163,7 +1163,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 11,
 			"entries": [
@@ -1174,7 +1174,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Mutagenist",
+							"name": "Mutagenoija",
 							"entries": [
 								"Choose two {@filter 3rd level or lower mutagens|items||Level=[1;3]|type=|item=mutagen}."
 							]
@@ -1189,7 +1189,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 13,
 			"entries": [
@@ -1200,7 +1200,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Mutagenist",
+							"name": "Mutagenoija",
 							"entries": [
 								"If you imbibe another mutagen while you are under the effects of a mutagen that you created, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the {@trait polymorph} trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both."
 							]
@@ -1215,7 +1215,7 @@
 			"page": 74,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Mutagenist",
+			"subclassShortName": "Mutagenoija",
 			"subclassSource": "CRB",
 			"level": 17,
 			"entries": [
@@ -1226,7 +1226,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Mutagenist",
+							"name": "Mutagenoija",
 							"entries": [
 								"Choose two {@filter 11th level or lower mutagens|items||Level=[1;11]|type=|item=mutagen}."
 							]
@@ -1236,18 +1236,18 @@
 			]
 		},
 		{
-			"name": "Research Field",
+			"name": "Tutkimusalue",
 			"source": "APG",
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 1,
 			"entries": [
 				{
 					"type": "pf2-h4",
-					"name": "Toxicologist",
+					"name": "Myrkyttäjä",
 					"entries": [
 						"You specialize in toxins and venoms of all types. You start with the formulas for two {@filter common 1st-level alchemical poisons|items||category=poison|level=[1;1]|rarity=common|type=null} in your formula book, in addition to your other formulas. You can apply an injury poison you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher."
 					]
@@ -1260,7 +1260,7 @@
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 5,
 			"entries": [
@@ -1271,7 +1271,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Toxicologist",
+							"name": "Myrkyttäjä",
 							"entries": [
 								"When using advanced alchemy to make poisons during your daily preparations, you can spend one batch of reagents to create three poisons in any combination, instead of just two of the same poison."
 							]
@@ -1286,7 +1286,7 @@
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 7,
 			"entries": [
@@ -1297,7 +1297,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Toxicologist",
+							"name": "Myrkyttäjä",
 							"entries": [
 								"Choose two {@filter common 1st-level alchemical poisons|items||category=poison|level=[1;1]|rarity=common|type=null}."
 							]
@@ -1312,7 +1312,7 @@
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 11,
 			"entries": [
@@ -1323,7 +1323,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Toxicologist",
+							"name": "Myrkyttäjä",
 							"entries": [
 								"Choose two {@filter common 5th-level or lower alchemical poisons|items||rarity=common|category=poison|level=[0;5]}."
 							]
@@ -1338,7 +1338,7 @@
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 13,
 			"entries": [
@@ -1349,7 +1349,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Toxicologist",
+							"name": "Myrkyttäjä",
 							"entries": [
 								"You can apply two different injury poisons to the same weapon, though not to a piece of ammunition. The two poisons can be up to six levels lower than your level, and you can't use the poisons made without spending a batch of infused reagents via perpetual infusions. Applying the two poisons requires a separate action to apply each poison. Once completed, you combine the two poisons on the weapon into a double poison with the lower of the two poisons' DCs. This double poison is only virulent if both poisons were virulent, and if the poisons have a different number of stages, the double poison has a number of stages equal to the poison with the lower number of stages. The target takes the effects of both poisons for its current stage."
 							]
@@ -1364,7 +1364,7 @@
 			"page": 106,
 			"className": "Alchemist",
 			"classSource": "CRB",
-			"subclassShortName": "Toxicologist",
+			"subclassShortName": "Myrkyttäjä",
 			"subclassSource": "APG",
 			"level": 17,
 			"entries": [
@@ -1375,7 +1375,7 @@
 					"items": [
 						{
 							"type": "item",
-							"name": "Toxicologist",
+							"name": "Myrkyttäjä",
 							"entries": [
 								"Choose two {@filter common 11th-level or lower alchemical poisons|items||rarity=common|category=poison|level=[0;11]}."
 							]
